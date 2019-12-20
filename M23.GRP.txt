@@ -3,7 +3,7 @@ File: M23.GRP
 Messages: 6
 
 === 0 | b398 | e ===
-Zaback mine B1[END]
+Zaback Mine B1[END]
 
 === 1 | d92e | 80 ===
 [POR08]
@@ -21,11 +21,11 @@ open it![END]
 key![END]
 
 === 3 | d9f4 | 10 ===
-Zaback mine B2-b[END]
+Zaback Mine B2-B[END]
 
 === 4 | fc60 | e ===
-Zaback mine B3[END]
+Zaback Mine B3[END]
 
 === 5 | 12a60 | 10 ===
-Zaback mine B2-a[END]
+Zaback Mine B2-A[END]
 

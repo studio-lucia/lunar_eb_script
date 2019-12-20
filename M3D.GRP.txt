@@ -3,5 +3,5 @@ File: M3D.GRP
 Messages: 1
 
 === 0 | 43e6 | f ===
-Zophar's domain[END]
+Zophar's Domain[END]
 

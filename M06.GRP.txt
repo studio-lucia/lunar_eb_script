@@ -4,19 +4,19 @@ Messages: 38
 
 === 0 | 9a94 | 10c ===
 [POR04]
-...hmmm? What's wrong with
+...Hmmm? What's wrong with
 Lucia? She seems to be...
 hesitating...[BRK]
 
 Hiro, I don't think she's
-human...her magic is too
+human...Her magic is too
 strong.[BRK]
 
 Perhaps she is a destroyer,
 as Lord Leo said. But why
 would she come here?[BRK]
 
-Hrmph! Fiddle, m'boy...it 
+Hrmph! Fiddle, m'boy...It 
 makes no sense...no sense at
 all...
 
@@ -33,14 +33,14 @@ believe she's a destroyer.[END]
 
 === 2 | 9c4c | 4e ===
 [POR02]
-Hiro...where are you going?
+Hiro...Where are you going?
 You can't leave without
 Lucia and Grandpa Gwyn![END]
 
 === 3 | 9cb2 | bc ===
 [POR02]
 What was Zophar talking...
-and Lucia...ohh![BRK]
+And Lucia...Ohh![BRK]
 
 Hiro, I'm scared. This is
 too big for us. We don't
@@ -82,8 +82,8 @@ is...[END]
 
 === 6 | 9ed8 | 25b ===
 [POR02]
-Hiro...tell me I'm having a
-bad dream....wake me up...[BRK]
+Hiro...Tell me I'm having a
+bad dream....Wake me up...[BRK]
 
 Please![BRK]
 
@@ -100,7 +100,7 @@ If we don't break the spell,
 she'll most certainly die.[BRK]
 
 [POR08]
-Unghh...i...have...to...
+Unghh...I...have...to...
 ...Althena...before...
 ...unghhhh...[BRK]
 
@@ -111,7 +111,7 @@ all about it later.[BRK]
 
 [POR08]
 But...time is...I must...
-...only Althena can...
+...Only Althena can...
 ..Zophar...unnghhh...[BRK]
 
 [POR04]
@@ -151,7 +151,7 @@ Time is short. If we don't
 hurry, Zophar will return!
 We must go to Pentagulia.[BRK]
 
-The blue and Black Dragons   
+The Blue and Black Dragons   
 are waiting near there. [BRK]
 
 We have to attack while
@@ -160,24 +160,24 @@ Zophar is still weak.[BRK]
 Let's go![END]
 
 === a | a33e | 11 ===
-Blue spire garden[END]
+Blue Spire Garden[END]
 
 === b | b83c | 10c ===
 [POR04]
-...hmmm? What's wrong with
+...Hmmm? What's wrong with
 Lucia? She seems to be...
 hesitating...[BRK]
 
 Hiro, I don't think she's
-human...her magic is too
+human...Her magic is too
 strong.[BRK]
 
 Perhaps she is a destroyer,
 as Lord Leo said. But why
 would she come here?[BRK]
 
-Hrmph! Fiddle, m'boy...it 
-makes no sense...no sense at
+Hrmph! Fiddle, m'boy...It 
+makes no sense...No sense at
 all...
 
 [END]
@@ -193,14 +193,14 @@ believe she's a destroyer.[END]
 
 === d | b9f4 | 4e ===
 [POR02]
-Hiro...where are you going?
+Hiro...Where are you going?
 You can't leave without
 Lucia and Grandpa Gwyn![END]
 
 === e | ba5a | bc ===
 [POR02]
 What was Zophar talking...
-and Lucia...ohh![BRK]
+And Lucia...Ohh![BRK]
 
 Hiro, I'm scared. This is
 too big for us. We don't
@@ -242,8 +242,8 @@ is...[END]
 
 === 11 | bc80 | 25b ===
 [POR02]
-Hiro...tell me I'm having a
-bad dream...wake me up...[BRK]
+Hiro...Tell me I'm having a
+bad dream...Wake me up...[BRK]
 
 Please![BRK]
 
@@ -260,7 +260,7 @@ If we don't break the spell,
 she'll most certainly die.[BRK]
 
 [POR08]
-Unghh...i...have...to....
+Unghh...I...have...to....
 ...Althena...before...
 ...unghhhh...[BRK]
 
@@ -312,7 +312,7 @@ Time is short. If we don't
 hurry, Zophar will return!
 We must go to Pentagulia.[BRK]
 
-The blue and Black Dragons   
+The Blue and Black Dragons   
 are waiting near there. [BRK]
 
 We have to attack while
@@ -321,7 +321,7 @@ Zophar is still weak.[BRK]
 Let's go![END]
 
 === 15 | c0e6 | 11 ===
-Blue spire garden[END]
+Blue Spire Garden[END]
 
 === 16 | d5c2 | bd ===
 [POR04]
@@ -352,7 +352,7 @@ did you go?[BRK]
 ....
 .....[BRK]
 
-...oh dear! Who's this
+...Oh dear! Who's this
 you've found?[BRK]
 
 [POR02]
@@ -379,7 +379,7 @@ of here.[BRK]
 
 If Leo finds her, we're in
 big trouble, and so is she.
-We'll talk later...let's go![END]
+We'll talk later...Let's go![END]
 
 === 18 | d8e2 | 95 ===
 [POR04]
@@ -401,7 +401,7 @@ Grandpa talked about.[END]
 
 === 1a | d9ec | 5f ===
 [POR02]
-Hmmm...nothing is happening
+Hmmm...Nothing is happening
 this time. But last time,
 it...[BRK]
 
@@ -424,14 +424,14 @@ Remember, Hiro?[BRK]
 .....[END]
 
 === 1d | dac8 | d ===
-Blue spire 7F[END]
+Blue Spire 7F[END]
 
 === 1e | e6e6 | cd ===
 [POR02]
-H-hiro...I don't think
-we're in kansas anymore...[BRK]
+H-Hiro...I don't think
+we're in Kansas anymore...[BRK]
 
-I...i...think this must be
+I...I...think this must be
 the secret room Grandpa
 was talking about![BRK]
 
@@ -456,7 +456,7 @@ try![BRK]
 Who are you?[BRK]
 
 [POR01]
-Oh...sorry, I'm Hiro.
+Oh...Sorry, I'm Hiro.
 And, uh, that's Ruby.[BRK]
 
 [POR02]
@@ -476,7 +476,7 @@ in the balance.[END]
 pendant.[END]
 
 === 21 | e95a | 11 ===
-Transmission room[END]
+Transmission Room[END]
 
 === 22 | fbde | 1df ===
 [POR02]
@@ -493,7 +493,7 @@ The power it collected was
 to be used to restore the
 Blue Star someday.[BRK]
 
-...and restoring the Blue
+...And restoring the Blue
 Star is the reason for my
 being.[BRK]
 
@@ -525,8 +525,8 @@ that confine this soul!![END]
 ....
 .....[BRK]
 
-L...Lucia? Where...where
-am i? What is thi...this
+L...Lucia? Where...Where
+am I? What is thi...this
 place?[BRK]
 
 [POR08]
@@ -559,5 +559,5 @@ Zophar may already have
 the power of Althena![END]
 
 === 25 | ffd6 | 16 ===
-Blue spire energy room[END]
+Blue Spire Energy Room[END]
 

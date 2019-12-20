@@ -30,7 +30,7 @@ to be haunted by a terrible
 force![BRK]
 
 [POR02]
-Ghost?! H...Hiro...let's
+Ghost?! H...Hiro...Let's
 steer clear of that place,
 o...okay?[END]
 
@@ -104,7 +104,7 @@ better lay low...[END]
 
 === 8 | a1f8 | 71 ===
 [POR20]
-Hm hm hm...you're wasting
+Hm hm hm...You're wasting
 your time with that fool.[BRK]
 
 Come with me and I'll
@@ -127,12 +127,12 @@ manor, the pass will take
 you to Nota.[BRK]
 
 I'll be waiting outside the
-manor...don't keep me
+manor...Don't keep me
 waiting...[END]
 
 === a | a386 | 174 ===
 [POR02]
-Uh...didn't she say the
+Uh...Didn't she say the
 manor was haunted? Maybe she
 was one of the spooks![BRK]
 
@@ -174,7 +174,7 @@ monsters disappeared very
 suddenly.[BRK]
 
 Maybe they heard that Lord
-Leo was coming...ha ha ha!
+Leo was coming...Ha ha ha!
 [END]
 
 === d | a63e | 8f ===
@@ -241,7 +241,7 @@ Hey! It was not a scam![BRK]
 It was a test for applicants
 to the Magic Guild![BRK]
 
-...and the money was used to 
+...And the money was used to 
 restore the Guild![END]
 
 === 11 | aa34 | 64 ===
@@ -328,7 +328,7 @@ superior intellect?[BRK]
 Of course I'm the Premier of
 the Guild, idiot![BRK]
 
-...well, actually the Junior
+...Well, actually the Junior
 Premier...but still![END]
 
 === 1a | af68 | 78 ===
@@ -341,7 +341,7 @@ something terrible to you![END]
 
 === 1b | aff8 | bc ===
 What!? You're still hanging
-around that weird premier of
+around that weird Premier of
 the Magic Guild?[BRK]
 
 You'd better keep a close
@@ -368,7 +368,7 @@ looks.[END]
 === 1d | b198 | fb ===
 Are you sure you're the
 Premier of the Magic Guild?
-...the Vane Magic Guild?[BRK]
+...THE Vane Magic Guild?[BRK]
 
 [POR07]
 Of course I am. How many
@@ -382,7 +382,7 @@ And my impeccable social
 graces...[END]
 
 === 1e | b2a2 | 90 ===
-P-please...have mercy on me,
+P-Please...Have mercy on me,
 for I...I have no magic
 ability![BRK]
 
@@ -425,7 +425,7 @@ the first place.[BRK]
 I dunno what got into me...[END]
 
 === 23 | b4fc | 10b ===
-Oh...oh no! You're the
+Oh...Oh no! You're the
 hooded girl, aren't you![BRK]
 
 Please! Ya gotta leave me
@@ -444,12 +444,12 @@ me for some reason...
 [END]
 
 === 24 | b61a | 80 ===
-Ohhhh...oh...the trial
+Ohhhh...oh...The trial
 at the manor...it was
 terrible.[BRK]
 
 I still have nightmares
-about it...the place is
+about it...The place is
 haunted now, you know.
 
 
@@ -645,10 +645,10 @@ you stay there, too?[END]
 
 === 37 | c188 | c0 ===
 [POR05]
-Hey chief, this sounds like
+Hey Chief, this sounds like
 a pretty sweet deal![BRK]
 
-10S per night, free
+10s per night, free
 breakfast, and curvy scenery
 that's easy on the eyes![BRK]
 
@@ -659,8 +659,8 @@ work to do![END]
 
 === 38 | c25c | 70 ===
 Say, have you decided to
-stay at the bounteous babe
-hotel?[BRK]
+stay at the Bounteous Babe
+Hotel?[BRK]
 
 [POR02]
 No, we've got work to do.
@@ -692,7 +692,7 @@ your bodies are deprived of
 sleep, it's dangerous.[BRK]
 
 Why not spend the night at
-the bounteous babe? We've
+the Bounteous Babe? We've
 got free breakfast![END]
 
 === 3c | c4ea | 85 ===
@@ -706,8 +706,8 @@ the hotel! Isn't that great?[END]
 === 3d | c580 | bf ===
 [POR05]
 So does that mean there will
-be more bounteous babes to
-check out...hoouuahhh![BRK]
+be more Bounteous Babes to
+check out...Hoouuahhh![BRK]
 
 [POR09]
 Ronfar, you better cool it,
@@ -727,7 +727,7 @@ impossible! I couldn't even
 scratch them![END]
 
 === 3f | c6ec | 62 ===
-Oh no! There she is...it's
+Oh no! There she is...It's
 that girl...that terrible
 girl![BRK]
 
@@ -744,7 +744,7 @@ until you take her test at
 the Ghost Manor![BRK]
 
 It's horrible in there! Just
-a big nightmare....ouuuggh![END]
+a big nightmare....Ouuuggh![END]
 
 === 41 | c82c | 83 ===
 I've heard many rumors about
@@ -869,24 +869,24 @@ a big deal out of money.[END]
 
 === 4f | cfaa | 50 ===
 I haven't seen the Premier
-of the money grubbers guild.
+of the Money Grubbers Guild.
 I wonder where she went?[END]
 
 === 50 | d008 | 6b ===
 [POR07]
 That's the Magic Guild, not
-the money grubbers guild![BRK]
+the Money Grubbers Guild![BRK]
 
 [POR02]
-...hehe...I think he has
+...Hehe...I think he has
 you pegged, Lemina.
 
 
 [END]
 
 === 51 | d082 | 70 ===
-Hrmph! I guess the money
-grubbers premier saved the
+Hrmph! I guess the Money
+Grubbers premier saved the
 world, didn't she?[BRK]
 
 Maybe my opinion of her was
@@ -899,9 +899,9 @@ That's Magic Guild, not
 money grubbers![END]
 
 === 53 | d13a | 5a ===
-Hmmm...new travelers...[BRK]
+Hmmm...New travelers...[BRK]
 
-...you poor, poor, souls.[BRK]
+...You poor, poor, souls.[BRK]
 
 [POR02]
 Poor souls? What is he
@@ -982,7 +982,7 @@ Yep, the simple life's the
 best life...[END]
 
 === 5a | d5e2 | e ===
-Takkar village[END]
+Takkar Village[END]
 
 === 5b | ed26 | e ===
 Donated 100s.
@@ -1021,7 +1021,7 @@ you...[END]
 What? The monsters have all
 disappeared from the area?[BRK]
 
-Hmm...well then, the power
+Hmm...Well then, the power
 of Althena's Cult is greater
 than I thought![END]
 
@@ -1104,7 +1104,7 @@ Goddess Althena.[END]
 
 === 67 | f478 | 52 ===
 [POR07]
-I was thinking that an ira
+I was thinking that an IRA
 would be a more prudent
 investment.[BRK]
 
@@ -1207,7 +1207,7 @@ Who started that doctrine?
 It seems like nonsense now![END]
 
 === 74 | fad0 | d ===
-Takkar shrine[END]
+Takkar Shrine[END]
 
 === 75 | 10920 | 37f ===
 [POR20]
@@ -1238,7 +1238,7 @@ Well then, that's still okay
 since I'm not a cat.[BRK]
 
 [POR20]
-...but...you look like a cat
+...But...you look like a cat
 with...[BRK]
 
 [POR05]
@@ -1271,7 +1271,7 @@ Perhaps that plan will work,
 or maybe it won't. You can
 only try...[BRK]
 
-...in any event, I'll be
+...In any event, I'll be
 around...
 
 [END]
@@ -1298,7 +1298,7 @@ It's my job to transport
 goods from Nota to Dalton.[BRK]
 
 I always like to stop in at
-this bar for a little r&r
+this bar for a little R&R
 before I continue.[END]
 
 === 78 | 10e22 | fa ===
@@ -1319,7 +1319,7 @@ what it's like down there?[END]
 === 79 | 10f2a | c8 ===
 [POR05]
 Let me get my dice and I'll
-show ya, chief![BRK]
+show ya, Chief![BRK]
 
 [POR02]
 Whoa! Put those things away,
@@ -1339,7 +1339,7 @@ settling down here.[BRK]
 
 I mean, the location's nice,
 and whoa! Did you see the
-bounteous babe hotel?[BRK]
+Bounteous Babe Hotel?[BRK]
 
 We're talking some righteous
 bounty![BRK]
@@ -1380,7 +1380,7 @@ closed the gaate jus' for
 a...hic!...monsdter?[BRK]
 
 This iis costin' me plenty
-in loss trade...hic![END]
+in loss trade...Hic![END]
 
 === 7f | 11334 | 85 ===
 All the money I...hic!...
@@ -1396,7 +1396,7 @@ Now thad tha world iis...
 I bedder clean up my act.[BRK]
 
 Ha ha ha! Anyone wanna start
-uh lokal chabter of aa? Hic![END]
+uh lokal chabter of AA? Hic![END]
 
 === 81 | 11464 | 80 ===
 The Althena Cult is making
@@ -1423,7 +1423,7 @@ Now they say that alcohol,
 song, and dance are off-
 limits to followers![BRK]
 
-Kevin bacon, where are you
+Kevin Bacon, where are you
 when we need you?[END]
 
 === 84 | 115fe | a8 ===
@@ -1471,11 +1471,11 @@ come from the Blue Star.[BRK]
 [POR00]
 Well then, you've come
 mighty far. Perhaps you'd
-like some dutch apple pie?[END]
+like some Dutch apple pie?[END]
 
 === 89 | 118c2 | 87 ===
 [POR05]
-Hehe...the girl's just
+Hehe...The girl's just
 having some fun with you!
 Actually, we're from Larpa.[BRK]
 
@@ -1512,7 +1512,7 @@ you know that?[BRK]
 
 Oh, I get it...you're pullin'
 my leg again! Ha ha ha! Good
-one...ya got me![END]
+one...Ya got me![END]
 
 === 8c | 11b24 | fe ===
 Say there, folks...sit down
@@ -1549,7 +1549,7 @@ if you're a dreamer like
 Hiro![END]
 
 === 8e | 11d40 | a ===
-Takkar bar[END]
+Takkar Bar[END]
 
 === 8f | 12632 | 42 ===
 Welcome! Come in! Come in!
@@ -1578,7 +1578,7 @@ you today! Stop by again
 soon...[END]
 
 === 93 | 127b0 | d ===
-Takkar bazaar[END]
+Takkar Bazaar[END]
 
 === 94 | 12fee | 77 ===
 If you've come looking for
@@ -1593,7 +1593,7 @@ Thank you! Thank you! Come
 again![END]
 
 === 96 | 13094 | 10 ===
-Takkar item shop[END]
+Takkar Item Shop[END]
 
 === 97 | 13776 | 89 ===
 Say, you look like you're
@@ -1651,7 +1651,7 @@ save where I can![END]
 === 9d | 13a9e | 73 ===
 [POR07]
 I'm pretty sure Ramus and
-Ramus jr. Of Meribia are
+Ramus Jr. of Meribia are
 the most successful...[BRK]
 
 It's going to be tough to
@@ -1694,11 +1694,11 @@ service at the lowest price.
 Try us out sometime![END]
 
 === a1 | 13d4c | a ===
-Takkar inn[END]
+Takkar Inn[END]
 
 === a2 | 144ac | 47 ===
-Welcome to the bounteous
-babe inn. We're here to
+Welcome to the Bounteous
+Babe Inn. We're here to
 serve your every need.[END]
 
 === a3 | 14504 | 61 ===
@@ -1730,7 +1730,7 @@ Since most of them were
 merchants,[BRK]
 
 we knew a name like
-'bounteous babe' would get
+'Bounteous Babe' would get
 their attention.[BRK]
 
 So, what do you say? Want to
@@ -1742,7 +1742,7 @@ Well sugarplum, that's the
 closest thing to a direct
 invite I could hope for![BRK]
 
-What do you say, chief?
+What do you say, Chief?
 Let's check it out...[END]
 
 === a7 | 147a4 | 4f ===
@@ -1764,8 +1764,8 @@ thinking of expansion.[BRK]
 If the franchise deal goes
 through,[BRK]
 
-there'll be a 'bounteous
-babe inn' at every village
+there'll be a 'Bounteous
+Babe Inn' at every village
 in the world![BRK]
 
 Then, when we're stinking
@@ -1805,9 +1805,9 @@ with me tonight! Wow![BRK]
 [POR02]
 Two words:[BRK]
 
-Personal[BRK]
+personal[BRK]
 
-Hygiene...[BRK]
+hygiene...[BRK]
 
 Look it up, and maybe
 someday you'll stand a
@@ -1828,7 +1828,7 @@ She's pretty hot, huh?[BRK]
 [POR02]
 And...you're pretty cold.[BRK]
 
-...and stinky. Here's a
+...And stinky. Here's a
 dime, buy a clue.[END]
 
 === ad | 14cc0 | 80 ===
@@ -1861,7 +1861,7 @@ To love and have not is
 torturing my weary soul...[END]
 
 === b0 | 14eb0 | 12 ===
-Takkar b. Babe inn[END]
+Takkar B. Babe Inn[END]
 
 === b1 | 1567a | be ===
 Ever since the gate was
@@ -1908,7 +1908,7 @@ That's not always true! Nall
 and I fight all the time, 
 and we don't...[BRK]
 
-...uh, never mind.
+...Uh, never mind.
 
 [END]
 
@@ -1946,7 +1946,7 @@ of these trips again![BRK]
 
 Got that?[BRK]
 
-.....never!!!!!!!![END]
+.....Never!!!!!!!![END]
 
 === b7 | 15b88 | 73 ===
 I don't know why I listened
@@ -1983,7 +1983,7 @@ This time waiting out the
 monster situation has almost
 drained us.[BRK]
 
-Oohhmmm...my wife's gonna
+Oohhmmm...My wife's gonna
 kill me...[BRK]
 
 Maybe I can calm her down
@@ -1998,5 +1998,5 @@ Believe me, I've learned my
 lesson![END]
 
 === bc | 15e72 | 11 ===
-Takkar budget inn[END]
+Takkar Budget Inn[END]
 

@@ -33,7 +33,7 @@ coming to see it![END]
 
 === 3 | a34c | 4a ===
 [POR07]
-Hmmm...maybe he can give me
+Hmmm...Maybe he can give me
 a few marketing tips for the
 Magic Guild...[END]
 
@@ -89,7 +89,7 @@ a dreamboat![END]
 === 8 | a652 | 4a ===
 Boo hoo hooo! Ooohhh, where
 can that sewer entrance be?
-...booo hoo hoo!
+...Booo hoo hoo!
 
 [END]
 
@@ -105,7 +105,7 @@ the same lame answer!![END]
 === a | a758 | 91 ===
 Step right up! Step right on
 in! Check out the wonders in
-Ramus' Wonder Shop![BRK]
+Ramus' wonder shop![BRK]
 
 We have unusual items from
 the known world! Some are
@@ -142,7 +142,7 @@ shows nightly![BRK]
 
 [POR02]
 Have we stepped into some
-sort of twilight zone
+sort of Twilight Zone
 episode?[BRK]
 
 This town is just too
@@ -169,7 +169,7 @@ impressed with him?[BRK]
 
 I mean...Goddess Althena
 trusts him most among the
-four heroes.[END]
+Four Heroes.[END]
 
 === 11 | abec | 32 ===
 [POR10]
@@ -196,7 +196,7 @@ dragon helped.[BRK]
 I wish I could meet them.[BRK]
 
 [POR02]
-Hehe, uh...funny how these
+Hehe, uh...Funny how these
 rumors get started, isn't
 it?[BRK]
 
@@ -337,7 +337,7 @@ Master Lunn suddenly left
 for Pentagulia at the
 request of Althena herself![BRK]
 
-Of the four heroes, I think
+Of the Four Heroes, I think
 he is the busiest...[END]
 
 === 21 | b6c0 | 50 ===
@@ -417,7 +417,7 @@ It seems awfully quiet
 around here lately. Have all
 the bandits gone away?[BRK]
 
-...or were there ever any 
+...Or were there ever any 
 real bandits to begin with?[END]
 
 === 2a | bbe8 | 69 ===
@@ -467,11 +467,11 @@ ride Ramus ever made![BRK]
 
 Look at this![BRK]
 
-See?!...see?! That's real
-blood!...my blood![BRK]
+See?!...See?! That's real
+blood!...My blood![BRK]
 
 I barely escaped with my
-life!...what a total
+life!...What a total
 rush! Ha ha ha ha ha![BRK]
 
 Whooo hoooooo!
@@ -518,7 +518,7 @@ I think I've started
 slipping.[BRK]
 
 Yesterday, I lusted for a
-ding-dong.[BRK]
+Ding-Dong.[BRK]
 
 I'm so ashamed.[END]
 
@@ -531,12 +531,12 @@ escape? You look too wimpy
 to beat 'em in a fight..[END]
 
 === 34 | c2ca | 79 ===
-My dad just bought me a g.I.
+My dad just bought me a G.I.
 Lunn with the kung-fu grip![BRK]
 
 I'm so excited! Now I can
 practice being one of the
-four heroes![END]
+Four Heroes![END]
 
 === 35 | c352 | 67 ===
 Master Lunn said he was
@@ -558,18 +558,18 @@ Oooouuhhhhhh! Wahhhhh! Ha!
 Haiiiiiii...yaaaa![END]
 
 === 38 | c486 | 9b ===
-I'm tired of playing master
-of the four heroes. Wanna
+I'm tired of playing Master
+of the Four Heroes. Wanna
 make a new game?[BRK]
 
 My friend told me about one
-called 'doctor' that sounds
+called 'Doctor' that sounds
 fun. Do ya know how to play?[END]
 
 === 39 | c538 | 83 ===
 Hey! I know what game we can
-play! Let's play 'world
-warriors!'[BRK]
+play! Let's play 'World
+Warriors!'[BRK]
 
 We need five people. I'll
 play the drunken priest.[BRK]
@@ -596,7 +596,7 @@ Halt!
      Halt!
           Halt![BRK]
 
-...ahhhhhh! Come back here,
+...Ahhhhhh! Come back here,
 cretin! I have a warrant for
 your arrest![BRK]
 
@@ -614,7 +614,7 @@ If you don't have any new
 ideas for games to play, I
 guess I'll play Leo again![BRK]
 
-......ha! Halt there,
+......Ha! Halt there,
 stranger, or I'll crush you
 with my kung-fu grip![BRK]
 
@@ -626,7 +626,7 @@ Leo is so completely cool![END]
 === 3f | c892 | 1b ===
 [POR09]
 ....
-uh, right, kid...
+Uh, right, kid...
 
 [END]
 
@@ -697,7 +697,7 @@ and learned some respon-
 sibility...[BRK]
 
 Nah!
-......hahahahahahahahha![END]
+......Hahahahahahahahha![END]
 
 === 49 | ccdc | 7 ===
 Meribia[END]
@@ -829,8 +829,8 @@ any treasure, it's mine![END]
 === 4f | f8ae | 84 ===
 [POR27]
 I'm showing sneak previews
-of my new 'tunnels of
-carnage' attraction.[BRK]
+of my new 'Tunnels of
+Carnage' attraction.[BRK]
 
 We've converted the Meribian
 sewers...[BRK]
@@ -865,7 +865,7 @@ have to go bankrupt![BRK]
 
 Say, you don't want to make
 a small donation to the 
-guild, do you?[END]
+Guild, do you?[END]
 
 === 52 | fb4e | 4c ===
 [POR27]
@@ -888,7 +888,7 @@ can be![BRK]
 ....
 .....[BRK]
 
-...wait for me![BRK]
+...Wait for me![BRK]
 
 [POR02]
 Hiro!![END]
@@ -961,7 +961,7 @@ win overnight Lemina, but
 I do want to marry you.[BRK]
 
 It's like dad always said:
-'the best brides are bought 
+'The best brides are bought 
 brides.'[BRK]
 
 And I'm beginning to think
@@ -1027,7 +1027,7 @@ I haven't <hick> seen you
 in a long time, Lemina.[BRK]
 
 Did you sneak any wine from
-the town of wine past Ramus?[BRK]
+the town of Wine past Ramus?[BRK]
 
 [POR07]
 That's Vane, Grandpa, and
@@ -1047,7 +1047,7 @@ knew Dragonmaster Alex.
 [END]
 
 === 5b | 10538 | 97 ===
-I think junior is going
+I think Junior is going
 to kick me out of this
 place![BRK]
 
@@ -1058,7 +1058,7 @@ I though it might lead to a
 secret wine cellar...[END]
 
 === 5c | 105e6 | ea ===
-Good job, junior! This 
+Good job, Junior! This 
 business is really starting
 to take off![BRK]
 
@@ -1129,7 +1129,7 @@ will marry any man that
 buys them stuff.[BRK]
 
 [POR02]
-...they've found your weak
+...They've found your weak
 spot, Lemina! What are you
 going to do with the gifts?[BRK]
 
@@ -1214,7 +1214,7 @@ Nothing like job security![END]
 === 69 | 10f72 | 79 ===
 Whoa! Lemina, I hear that 
 you and the boss are going
-to the chapel of love.[BRK]
+to the Chapel of Love.[BRK]
 
 I hope Ramus will ask me
 to be his best man.[END]
@@ -1280,7 +1280,7 @@ you, Lemina?
 [END]
 
 === 70 | 112fe | ca ===
-So tell me: once you marry
+So tell me: Once you marry
 Ramus, will you come to work
 for us?[BRK]
 
@@ -1423,7 +1423,7 @@ with you in the dark for a
 few moments...[END]
 
 === 7d | 11b0e | 14 ===
-Meribia Ramus' store[END]
+Meribia Ramus' Store[END]
 
 === 7e | 1267e | d6 ===
 [POR27]
@@ -1555,8 +1555,8 @@ any treasure, it's mine![END]
 === 83 | 12d3c | 84 ===
 [POR27]
 I'm showing sneak previews
-of my new 'tunnels of
-carnage' attraction.[BRK]
+of my new 'Tunnels of
+Carnage' attraction.[BRK]
 
 We've converted the Meribian
 sewers...[BRK]
@@ -1614,7 +1614,7 @@ can be![BRK]
 ....
 .....[BRK]
 
-...wait for me![BRK]
+...Wait for me![BRK]
 
 [POR02]
 Hiro!![END]
@@ -1687,7 +1687,7 @@ win overnight, Lemina, but
 I do want to marry you.[BRK]
 
 It's like dad always said:
-'the best brides are bought 
+'The best brides are bought 
 brides.'[BRK]
 
 And I'm beginning to think
@@ -1754,7 +1754,7 @@ I haven't <hick> seen you
 in a long time, Lemina.[BRK]
 
 Did you sneak any wine from
-the town of wine past Ramus?[BRK]
+the town of Wine past Ramus?[BRK]
 
 [POR07]
 That's Vane, Grandpa, and
@@ -1774,7 +1774,7 @@ knew Dragonmaster Alex.
 [END]
 
 === 8f | 139c6 | 97 ===
-I think junior is going
+I think Junior is going
 to kick me out of this
 place![BRK]
 
@@ -1785,7 +1785,7 @@ I though it might lead to a
 secret wine cellar...[END]
 
 === 90 | 13a74 | ea ===
-Good job, junior! This
+Good job, Junior! This
 business is really starting
 to take off![BRK]
 
@@ -2009,7 +2009,7 @@ you, Lemina?
 [END]
 
 === a4 | 1478c | ca ===
-So tell me: once you marry
+So tell me: Once you marry
 Ramus, are you going to come
 to work for us?[BRK]
 
@@ -2148,7 +2148,7 @@ with you in the dark for a
 few moments...[END]
 
 === b1 | 14f9c | 14 ===
-Meribia Ramus' store[END]
+Meribia Ramus' Store[END]
 
 === b2 | 15b04 | 99 ===
 Bandits from Taben's Peak
@@ -2184,7 +2184,7 @@ He'll say anything for a
 buck![END]
 
 === b6 | 15d36 | 128 ===
-It...it was awful![BRK]
+It...It was awful![BRK]
 
 Those rotten bandits
 barricaded the path
@@ -2244,7 +2244,7 @@ Those bandits are nothing
 but chickens![BRK]
 
 They're afraid to take me
-on mano-a-mano...wimps![BRK]
+on mano-a-mano...Wimps![BRK]
 
 [POR02]
 Man! If Nall heard you
@@ -2265,12 +2265,12 @@ You are the biggest fibber
 I have ever met![END]
 
 === bc | 16214 | 74 ===
-<Hick> nooobudy baleeves me
+<hick> Nooobudy baleeves me
 'bout seein' tha masked man
-goooin' toward taben's peek,[BRK]
+goooin' toward Taben's Peek,[BRK]
 
 buuud thad's whut I saw!
-<Hick>[END]
+<hick>[END]
 
 === bd | 16296 | 6d ===
 [POR10]
@@ -2279,12 +2279,12 @@ important you remember![BRK]
 
 [POR00]
 Haaay laady! Thad's jus'
-what I saaw! <Hick> promiz![END]
+what I saaw! <hick> Promiz![END]
 
 === be | 1631a | 9f ===
 Wheee...<hick>! Tha masked
-man wuz goin' toward taben's
-peeeek! I <hick> promiz![BRK]
+man wuz goin' toward Taben's
+Peeeek! I <hick> promiz![BRK]
 
 [POR10]
 Oh dear! He's obviously
@@ -2293,12 +2293,12 @@ He had to be dreaming...
 [END]
 
 === bf | 163d0 | ab ===
-Haaayy! <Hick> knoow whad I
+Haaayy! <hick> Knoow whad I
 jus' saw! It was a white
 kiddy cat wi' wings![BRK]
 
 Yaaaa! It <hick> wuz flyin'
-'round <hick> taben's peek![BRK]
+'round <hick> Taben's Peek![BRK]
 
 It freeked...<hick> freeked
 me oud, man!
@@ -2366,7 +2366,7 @@ that place![END]
 === c4 | 1683e | 3b ===
 [POR08]
 But...I don't think Zophar
-is anywhere near the peak...
+is anywhere near the Peak...
 [END]
 
 === c5 | 16890 | 8f ===
@@ -2428,14 +2428,14 @@ just poor orphans![END]
 
 === cb | 16be8 | 94 ===
 [POR05]
-Poor? You mean p-o-o-r? I
+Poor? You mean P-O-O-R? I
 don't think so! Hahahaha![BRK]
 
 Those little punks are
 living like kings![BRK]
 
-Their place makes neverland
-ranch look like a dump![END]
+Their place makes Neverland
+Ranch look like a dump![END]
 
 === cc | 16c94 | 97 ===
 I've heard talk that the
@@ -2500,7 +2500,7 @@ I've heard that this
 'Dragonmaster' is a member
 of Althena's Cult![BRK]
 
-Hmm...maybe I should join...[END]
+Hmm...Maybe I should join...[END]
 
 === d2 | 170de | 74 ===
 What?! The legendary
@@ -2508,15 +2508,15 @@ masterworker of evil
 named Ghaleon has returned?[BRK]
 
 But...tell me he fights for
-good now...please?[END]
+good now...Please?[END]
 
 === d3 | 17164 | 38 ===
 [POR02]
 I'm not so sure of that...
-be afraid. Be very afraid.[END]
+Be afraid. Be very afraid.[END]
 
 === d4 | 171b0 | 6c ===
-Master Ghaleon...yes, I am
+Master Ghaleon...Yes, I am
 planning to visit his grave
 at Vane.[BRK]
 
@@ -2539,8 +2539,8 @@ such hard work,[BRK]
 but daaammn! That Lunn rode
 my butt night and day![BRK]
 
-I finally said 'forget it!'
-And dropped out![END]
+I finally said 'Forget it!'
+and dropped out![END]
 
 === d7 | 17388 | 9c ===
 I knew in my heart I wasn't
@@ -2577,11 +2577,11 @@ Everyone would just laugh
 at me again![BRK]
 
 Oh yeah...I forgot to
-mention...this has happened
+mention...This has happened
 before...[BRK]
 
 Last time, I went away to
-become a chippendale's
+become a Chippendale's
 dancer,[BRK]
 
 but they said I was too fat
@@ -2600,7 +2600,7 @@ money in the sticky rolls of
 a fatso dancer![END]
 
 === dc | 176dc | e ===
-Meribia tavern[END]
+Meribia Tavern[END]
 
 === dd | 17dfa | 2e ===
 Hello there! How can I be
@@ -2610,7 +2610,7 @@ of assistance today?[END]
 Thanks! See ya![END]
 
 === df | 17e46 | 11 ===
-Meribia item shop[END]
+Meribia Item Shop[END]
 
 === e0 | 18510 | 46 ===
 Welcome to the best weapon
@@ -2621,7 +2621,7 @@ may I serve you?[END]
 Well then, ta-ta![END]
 
 === e2 | 18576 | 13 ===
-Meribia weapon shop[END]
+Meribia Weapon Shop[END]
 
 === e3 | 18c3a | 48 ===
 So glad you decided to come
@@ -2638,14 +2638,14 @@ again...
 [END]
 
 === e5 | 18cf8 | 12 ===
-Meribia armor shop[END]
+Meribia Armor Shop[END]
 
 === e6 | 193ba | 127 ===
 Hey! What are you doing in
 here? We don't want any of
 whatever you're selling![BRK]
 
-...oh! You're not a sales-
+...Oh! You're not a sales-
 man? Well then, why didn't
 you knock first? Really!!![BRK]
 
@@ -2693,7 +2693,7 @@ My husband is so busy
 working for that bratty
 Ramus kid...[BRK]
 
-That he seems to never be
+that he seems to never be
 around the house![BRK]
 
 I wish he'd find another
@@ -2703,7 +2703,7 @@ job![END]
 I'm beginning to think that
 my husband's long nights...[BRK]
 
-Have more to do with that
+have more to do with that
 sexy new girl in his office
 than with work![BRK]
 
@@ -2712,7 +2712,7 @@ him, I'll have her lips for
 dinner!!![END]
 
 === eb | 1985e | f ===
-Meribia house 1[END]
+Meribia House 1[END]
 
 === ec | 19ee8 | 79 ===
 People are flocking to this
@@ -2759,7 +2759,7 @@ want to learn his way?[END]
 
 === f0 | 1a1e6 | 82 ===
 Lunn is one of the Four
-Heroes of Althena's cult![BRK]
+Heroes of Althena's Cult![BRK]
 
 He's now decided to take an
 active part in the Cult's
@@ -2795,7 +2795,7 @@ creeping, icky feeling I got
 when he was around...[END]
 
 === f4 | 1a44c | f ===
-Meribia house 2[END]
+Meribia House 2[END]
 
 === f5 | 1ab10 | 70 ===
 Master Lunn has made Meribia
@@ -2849,7 +2849,7 @@ And the occasional smell...[BRK]
 ....
 .....[BRK]
 
-...hmm, come to think of it,
+...Hmm, come to think of it,
 maybe it's better this way.[END]
 
 === f9 | 1ae40 | b5 ===
@@ -2896,12 +2896,12 @@ anymore![END]
 
 === fd | 1b0ee | 4d ===
 [POR10]
-Hmm...maybe I can cheer him
+Hmm...Maybe I can cheer him
 up! I'll tell him some of my
 karate stories...[END]
 
 === fe | 1b140 | f ===
-Meribia house 3[END]
+Meribia House 3[END]
 
 === ff | 1b80a | a3 ===
 Meribia has turned from a
@@ -2935,7 +2935,7 @@ different every time![END]
 
 === 103 | 1ba22 | 62 ===
 [POR07]
-Hmmm...maybe we can copy it
+Hmmm...Maybe we can copy it
 and open a mega-better one
 in Vane![BRK]
 
@@ -2948,7 +2948,7 @@ store was much larger than
 it is now.[BRK]
 
 Back then, the owner was
-a guy named grant. He ruined
+a guy named Grant. He ruined
 the place's reputation.[BRK]
 
 His son, Ramus the 6th, is
@@ -2987,14 +2987,14 @@ They've been there forever!
 What's so exciting about
 that?[BRK]
 
-Really! P.T. Barnum junior
+Really! P.T. Barnum Junior
 is what that kid is![BRK]
 
 Sheesshh...
 [END]
 
 === 108 | 1bd9a | f ===
-Meribia house 4[END]
+Meribia House 4[END]
 
 === 109 | 1c44a | cc ===
 So you've come to learn from
@@ -3009,7 +3009,7 @@ for lessons, I don't think
 he's accepting new students.[END]
 
 === 10a | 1c52a | 84 ===
-Taben's peak? Well, it's to
+Taben's Peak? Well, it's to
 the east of Meribia...[BRK]
 
 But if I were you, I'd stay
@@ -3082,7 +3082,7 @@ would cause children to
 fight in a war??[BRK]
 
 [POR02]
-Evidently, a really sick 
+Evidently, a REALLY sick 
 one![END]
 
 === 112 | 1ca2e | a6 ===
@@ -3129,7 +3129,7 @@ keeps him really busy...[END]
 === 117 | 1cd0e | 95 ===
 Many people think that Lunn
 should be given the title
-of 'holy karate master'...[BRK]
+of 'Holy Karate Master'...[BRK]
 
 I don't know if Lunn would
 accept such a self-serving
@@ -3309,7 +3309,7 @@ to get you thrown out![END]
 
 === 12e | 1d8dc | 87 ===
 Didn't you hear me the first
-time?! I said, 'don't talk
+time?! I said, 'Don't talk
 to me while I practice!'[BRK]
 
 Geez. Remember that next 
@@ -3349,11 +3349,11 @@ never be defeated.[END]
 
 === 133 | 1db74 | 6b ===
 [POR10]
-That is true. Blue dragon
-karate is also the most 
+That is true. Blue Dragon
+Karate is also the most 
 deadly...[BRK]
 
-For you can never let your
+for you can never let your
 opponent live...[END]
 
 === 134 | 1dbf6 | 87 ===
@@ -3380,7 +3380,7 @@ Master Lunn let us have
 conjugal visits![END]
 
 === 137 | 1dd68 | e ===
-Lunn's dojo 1F[END]
+Lunn's Dojo 1F[END]
 
 === 138 | 1e880 | 539 ===
 [POR10]
@@ -3396,7 +3396,7 @@ this type of karate was used
 for assassination.[BRK]
 
 [POR16]
-Black karate of death?!
+Black Karate of Death?!
 Assassination!?[BRK]
 
 I've never heard anything 
@@ -3488,7 +3488,7 @@ There is nothing wrong with
 you using karate as long as
 you use it correctly.[BRK]
 
-Jean...come--train under
+Jean...Come--train under
 my watchful eye...[BRK]
 
 [POR10]
@@ -3532,7 +3532,7 @@ I've worked so closely with
 Master Lunn during the last
 few years...[BRK]
 
-That I have devoted myself
+that I have devoted myself
 to continue in his 
 footsteps.[BRK]
 
@@ -3563,7 +3563,7 @@ From my vantage point, I
 think you should invest
 some time in that body.[BRK]
 
-Perhaps 'deal a meal'
+Perhaps 'Deal a Meal'
 can help?[END]
 
 === 140 | 1f3d8 | 84 ===
@@ -3633,9 +3633,9 @@ night shift.[END]
 
 === 149 | 1f844 | 91 ===
 I really hate studying about
-the four heroes in school...[BRK]
+the Four Heroes in school...[BRK]
 
-History-schmistery...it's
+History-schmistery...It's
 all just boring crap about
 old farts![BRK]
 
@@ -3764,7 +3764,7 @@ used to overcome almost any
 obstacle...[END]
 
 === 157 | 200da | e ===
-Lunn's dojo 2F[END]
+Lunn's Dojo 2F[END]
 
 === 158 | 20cb4 | 539 ===
 [POR10]
@@ -3780,7 +3780,7 @@ this type of karate was used
 for assassination.[BRK]
 
 [POR16]
-Black karate of death?!
+Black Karate of Death?!
 Assassination!?[BRK]
 
 I've never heard anything 
@@ -3872,7 +3872,7 @@ There is nothing wrong with
 you using karate as long as
 you use it correctly.[BRK]
 
-Jean...come--train under
+Jean...Come--train under
 my watchful eye...[BRK]
 
 [POR10]
@@ -3916,7 +3916,7 @@ I've worked so closely with
 Master Lunn during the last
 few years...[BRK]
 
-That I have devoted myself
+that I have devoted myself
 to continue in his 
 footsteps.[BRK]
 
@@ -3947,7 +3947,7 @@ From my vantage point, I
 think you should invest
 some time in that body.[BRK]
 
-Perhaps 'deal a meal'
+Perhaps 'Deal a Meal'
 can help?[END]
 
 === 160 | 2180c | 84 ===
@@ -4017,9 +4017,9 @@ night shift.[END]
 
 === 169 | 21c78 | 91 ===
 I really hate studying about
-the four heroes in school...[BRK]
+the Four Heroes in school...[BRK]
 
-History-schmistery...it's
+History-schmistery...It's
 all just boring crap about
 old farts![BRK]
 
@@ -4145,5 +4145,5 @@ used to overcome almost any
 obstacle...[END]
 
 === 177 | 2250e | e ===
-Lunn's dojo 2F[END]
+Lunn's Dojo 2F[END]
 

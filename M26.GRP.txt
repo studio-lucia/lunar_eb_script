@@ -4,12 +4,12 @@ Messages: 44
 
 === 0 | 18824 | 5d ===
 [POR02]
-...hey, Hiro!
+...Hey, Hiro!
 Look over there!![BRK]
 
 [POR09]
 Oh my god...I don't believe
-it...it's......it's Mauri!![END]
+it...It's......It's Mauri!![END]
 
 === 1 | 18884 | 3bc ===
 [POR15]
@@ -17,7 +17,7 @@ My, my! Ronfar! What an
 unexpected surprise![BRK]
 
 [POR05]
-Mauri...oh, Mauri...why?
+Mauri...Oh, Mauri...Why?
 Why have you done this?[BRK]
 
 These people were innocent
@@ -62,7 +62,7 @@ execution, and I will not
 fail her.[BRK]
 
 [POR05]
-But Mauri...you're simply
+But Mauri...You're simply
 being used...[BRK]
 
 [POR15]
@@ -71,7 +71,7 @@ or forever regret your
 actions![BRK]
 
 [POR05]
-...but...ma...Mauri!?[BRK]
+...But...Ma...Mauri!?[BRK]
 
 [POR07]
 Pooh! Enough of this talk!
@@ -134,7 +134,7 @@ As you wish, my brother.[BRK]
 But you have already proven
 your spine is as jelly.[BRK]
 
-The goddess will judge your
+The Goddess will judge your
 actions once you reach
 Pentagulia.[BRK]
 
@@ -171,13 +171,13 @@ to the bottom of this.
 
 === 5 | 19044 | 31 ===
 Lo...Lord Leo...
-i...c...couldn't
+I...c...couldn't
 stop...them...
 [END]
 
 === 6 | 1908c | be ===
-S..Si...sir...I'm s-sorry!
-I...i...could...not...stop
+S..Si...Sir...I'm s-sorry!
+I...I...could...not...stop
 ...them...[BRK]
 
 Mauri...she's...she's...
@@ -192,7 +192,7 @@ help arrives.
 [END]
 
 === 7 | 19166 | 3f ===
-L-lord...l-l-le...[BRK]
+L-Lord...L-L-Le...[BRK]
 
 [POR09]
 Rest quietly. You are
@@ -201,14 +201,14 @@ gravely injured...
 
 === 8 | 191b8 | 43 ===
 I...I've...failed...
-you...sir...pleeease...
+you...sir...Pleeease...
 for...forgive me...
 
 
 [END]
 
 === 9 | 19200 | 10 ===
-Azado tower path[END]
+Azado Tower Path[END]
 
 === a | 19b3c | 1e5 ===
 [POR05]
@@ -218,8 +218,8 @@ to Pentagulia.[BRK]
 
 [POR07]
 Strange. It looks very 
-similar to the transmission
-spring in Vane.[BRK]
+similar to the Transmission
+Spring in Vane.[BRK]
 
 [POR02]
 Well, I think that they look
@@ -261,7 +261,7 @@ I don't know what happened!
 The gateway should have just
 opened...[BRK]
 
-...but instead, we got
+...But instead, we got
 this...thing![BRK]
 
 [POR10]
@@ -273,7 +273,7 @@ were talking about?![BRK]
 I sense the vile presence of
 Zophar's black power...[BRK]
 
-...it's getting stronger![BRK]
+...It's getting stronger![BRK]
 
 [POR07]
 Oh no! Look out! It's going
@@ -337,7 +337,7 @@ But would the beads have
 made a difference?[BRK]
 
 [POR05]
-...couldn't have hurt![BRK]
+...Couldn't have hurt![BRK]
 
 I, for one am going back
 to find out what's going
@@ -352,7 +352,7 @@ Ah! Well, we meet again,
 at last![BRK]
 
 [POR05]
-Leo...what are you doing
+Leo...What are you doing
 here?[BRK]
 
 [POR09]
@@ -378,7 +378,7 @@ Leo, tell me you didn't know
 about this magical beast![BRK]
 
 [POR09]
-...beast? I've heard that
+...Beast? I've heard that
 there is a magical beast
 in this town, but...[BRK]
 
@@ -429,7 +429,7 @@ stoop this low...[BRK]
 
 === e | 1a678 | 178 ===
 [POR09]
-...wait! The boy must
+...Wait! The boy must
 stay here with me.[BRK]
 
 Take the others to the 
@@ -499,7 +499,7 @@ Her intentions are as pure
 as the driven snow.[BRK]
 
 [POR09]
-Hmmm...that's what I've
+Hmmm...That's what I've
 begun to suspect.[BRK]
 
 She does not seem to be a
@@ -549,11 +549,11 @@ Since you do not, I must
 silence you once and for
 all![BRK]
 
-Magic beast...come forth![END]
+Magic beast...Come forth![END]
 
 === 14 | 1ad18 | a1 ===
 [POR09]
-...this...this makes no
+...This...This makes no
 sense...[BRK]
 
 The members of Althena's
@@ -579,7 +579,7 @@ Goddess Althena is going on
 in this place?[BRK]
 
 [POR00]
-Ha, ha, ha...you don't need
+Ha, ha, ha...You don't need
 to trouble yourself with
 those details, dear Leo.[BRK]
 
@@ -605,7 +605,7 @@ Have you come to beg for
 your very lives?[BRK]
 
 I have no sympathy for you
-now. Go...face the fate
+now. Go...Face the fate
 you have earned.[BRK]
 
 [POR09]
@@ -643,41 +643,41 @@ Let's go...[BRK]
 Here goes nothing![END]
 
 === 19 | 1b20a | f ===
-Azado tower 12F[END]
+Azado Tower 12F[END]
 
 === 1a | 1bc1c | e ===
-Azado tower 2F[END]
+Azado Tower 2F[END]
 
 === 1b | 1c5f8 | e ===
-Azado tower 3F[END]
+Azado Tower 3F[END]
 
 === 1c | 1cfee | e ===
-Azado tower 4F[END]
+Azado Tower 4F[END]
 
 === 1d | 1d94e | e ===
-Azado tower 5F[END]
+Azado Tower 5F[END]
 
 === 1e | 1e2f8 | e ===
-Azado tower 6F[END]
+Azado Tower 6F[END]
 
 === 1f | 1ecc2 | e ===
 Donated 100s!
 [END]
 
 === 20 | 1ecf0 | e ===
-Azado tower 7F[END]
+Azado Tower 7F[END]
 
 === 21 | 1f69a | e ===
-Azado tower 8F[END]
+Azado Tower 8F[END]
 
 === 22 | 1ffc8 | e ===
-Azado tower 9F[END]
+Azado Tower 9F[END]
 
 === 23 | 20994 | f ===
-Azado tower 10F[END]
+Azado Tower 10F[END]
 
 === 24 | 21320 | f ===
-Azado tower 11F[END]
+Azado Tower 11F[END]
 
 === 25 | 21c72 | 94 ===
 [POR09]
@@ -693,7 +693,7 @@ even as good as Leo now![END]
 
 === 26 | 21d22 | 146 ===
 [POR09]
-...what...what's going on
+...What...What's going on
 here??![BRK]
 
 Soldier, what happened?![BRK]
@@ -703,10 +703,10 @@ Sir...they...they took...
 her...[BRK]
 
 ...Lucia is...is...gone!
-We...we fought.......
-...but...it...wasn't...[BRK]
+We...We fought.......
+...But...it...wasn't...[BRK]
 
-.....sir...forgive me...[BRK]
+.....Sir...forgive me...[BRK]
 
 [POR09]
 What!?[BRK]
@@ -723,7 +723,7 @@ This situation is grave
 indeed...[END]
 
 === 27 | 21e80 | 57 ===
-<Cough> <cough> save 
+<cough> <cough> Save 
 yourself, Lord Leo.[BRK]
 
 Forget about me...
@@ -752,8 +752,8 @@ My...incompetence has....
 brought shame...on our...
 ....guard.[BRK]
 
-Forgive me...lord....Leo...[END]
+Forgive me...Lord....Leo...[END]
 
 === 2b | 2205c | e ===
-Azado tower 1F[END]
+Azado Tower 1F[END]
 

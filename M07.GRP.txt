@@ -61,7 +61,7 @@ grows short.
 [END]
 
 === 4 | 10640 | d ===
-Blue spire 1F[END]
+Blue Spire 1F[END]
 
 === 5 | 116fe | 8a ===
 [POR08]
@@ -75,11 +75,11 @@ command you to scatter![END]
 
 === 6 | 1178c | 35 ===
 [POR08]
-Come...we must hurry. The
+Come...We must hurry. The
 way is now open to us...[END]
 
 === 7 | 117ca | d ===
-Blue spire 2F[END]
+Blue Spire 2F[END]
 
 === 8 | 1238a | 96 ===
 [POR08]
@@ -98,7 +98,7 @@ enough time to get where we
 need to go...[END]
 
 === a | 12472 | d ===
-Blue spire 3F[END]
+Blue Spire 3F[END]
 
 === b | 12fa0 | 9a ===
 [POR08]
@@ -117,7 +117,7 @@ enough time to get through
 here. Let's go...[END]
 
 === d | 13092 | d ===
-Blue spire 4F[END]
+Blue Spire 4F[END]
 
 === e | 13c46 | 98 ===
 [POR08]
@@ -126,17 +126,17 @@ are slowing us down too
 much. I have to stop them.[BRK]
 
 Guardians in the Spire of
-blue, hear my command and
+Blue, hear my command and
 cease your attacks![END]
 
 === f | 13ce2 | 4d ===
 [POR08]
-Quickly...let's continue
+Quickly...Let's continue
 before they resume. The
 command is not permanent![END]
 
 === 10 | 13d38 | d ===
-Blue spire 5F[END]
+Blue Spire 5F[END]
 
 === 11 | 148d4 | 92 ===
 [POR08]
@@ -155,5 +155,5 @@ quickly. The effect of my
 spell is only temporary.[END]
 
 === 13 | 149c0 | d ===
-Blue spire 6F[END]
+Blue Spire 6F[END]
 

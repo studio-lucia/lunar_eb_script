@@ -4,7 +4,7 @@ Messages: 20
 
 === 0 | 1a720 | 63 ===
 [POR02]
-Uh...h-hiro, this statue
+Uh...H-Hiro, this statue
 gives me the creeps. It's
 staring at me.[BRK]
 
@@ -32,8 +32,8 @@ Jewel.[END]
 
 === 3 | 1a89c | 80 ===
 [POR04]
-Hmmm...now if we put the
-jewel in the eye here, the
+Hmmm...Now if we put the
+Jewel in the eye here, the
 door should...[BRK]
 
 [POR00]
@@ -56,14 +56,14 @@ Very, very...strange.
 === 5 | 1a9a2 | 109 ===
 [POR04]
 I'm sure that putting the
-jewel in the left eye should
+Jewel in the left eye should
 have opened the door.[BRK]
 
 Maybe something has changed?
 I can't imagine what...[BRK]
 
 [POR02]
-Hiro...this face looks like
+Hiro...This face looks like
 the one we saw in the cave![BRK]
 
 Maybe the eye we took from
@@ -93,25 +93,25 @@ Let's get inside while the
 door beckons...[END]
 
 === 8 | 1abe4 | 13 ===
-Blue spire entrance[END]
+Blue Spire Entrance[END]
 
 === 9 | 1be32 | 11 ===
-Blue labyrinth B3[END]
+Blue Labyrinth B3[END]
 
 === a | 1f72e | 10 ===
-Blue labrynth B2[END]
+Blue Labrynth B2[END]
 
 === b | 20584 | 12 ===
-Blue lab star room[END]
+Blue Lab Star Room[END]
 
 === c | 20bfc | 11 ===
-Blue lab sun room[END]
+Blue Lab Sun Room[END]
 
 === d | 21272 | 12 ===
-Blue lab moon room[END]
+Blue Lab Moon Room[END]
 
 === e | 21904 | 12 ===
-Blue lab mystic rm[END]
+Blue Lab Mystic Rm[END]
 
 === f | 21f96 | 157 ===
 [POR04]
@@ -173,10 +173,10 @@ One hostile act on our part,
 and we'd be in a serious
 world of hurt![BRK]
 
-C'mon, kids...hurry along.
+C'mon, kids...Hurry along.
 We must keep moving!
 [END]
 
 === 13 | 2232e | 10 ===
-Blue labrynth B1[END]
+Blue Labrynth B1[END]
 

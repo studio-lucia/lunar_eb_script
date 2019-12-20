@@ -8,7 +8,7 @@ Forget it![BRK]
 
 There's no way we're gonna
 break this barrier without
-dragonpower.
+Dragonpower.
 [END]
 
 === 1 | 10226 | 3d7 ===
@@ -50,7 +50,7 @@ gulia now, Zophar will take
 control and the world will--[BRK]
 
 [POR02]
-Will what? Explode? Implode?
+will what? Explode? Implode?
 Turn into a giant tin of
 sardines?[BRK]
 
@@ -64,7 +64,7 @@ do it![BRK]
 
 [POR08]
 You don't understand...
-the danger is...[BRK]
+The danger is...[BRK]
 
 [POR02]
 ...still gonna be there when
@@ -111,7 +111,7 @@ have time, if we can find
 Althena.[BRK]
 
 But first we must summon
-the dragons to help destroy
+the Dragons to help destroy
 the barrier.[BRK]
 
 That will open the way to
@@ -120,7 +120,7 @@ the Goddess Tower...
 [END]
 
 === 3 | 10780 | 9 ===
-Minea sea[END]
+Minea Sea[END]
 
 === 4 | 1613e | 51 ===
 [POR02]
@@ -128,7 +128,7 @@ Forget it![BRK]
 
 There's no way we're gonna
 break this barrier without
-dragonpower.
+Dragonpower.
 [END]
 
 === 5 | 161fa | 3d7 ===
@@ -170,7 +170,7 @@ gulia now, Zophar will take
 control and the world will--[BRK]
 
 [POR02]
-Will what? Explode? Implode?
+will what? Explode? Implode?
 Turn into a giant tin of
 sardines?[BRK]
 
@@ -184,7 +184,7 @@ do it![BRK]
 
 [POR08]
 You don't understand...
-the danger is...[BRK]
+The danger is...[BRK]
 
 [POR02]
 ...still gonna be there when
@@ -240,7 +240,7 @@ the Goddess Tower...
 [END]
 
 === 7 | 16754 | 9 ===
-Minea sea[END]
+Minea Sea[END]
 
 === 8 | 16d2e | 51 ===
 [POR02]
@@ -248,7 +248,7 @@ Forget it![BRK]
 
 There's no way we're gonna
 break this barrier without
-dragonpower.
+Dragonpower.
 [END]
 
 === 9 | 16dea | 3d7 ===
@@ -290,7 +290,7 @@ gulia now, Zophar will take
 control and the world will--[BRK]
 
 [POR02]
-Will what? Explode? Implode?
+will what? Explode? Implode?
 Turn into a giant tin of
 sardines?[BRK]
 
@@ -304,7 +304,7 @@ do it![BRK]
 
 [POR08]
 You don't understand...
-the danger is...[BRK]
+The danger is...[BRK]
 
 [POR02]
 ...still gonna be there when
@@ -360,5 +360,5 @@ the Goddess Tower...
 [END]
 
 === b | 17344 | 9 ===
-Minea sea[END]
+Minea Sea[END]
 

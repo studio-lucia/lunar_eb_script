@@ -82,7 +82,7 @@ What do you call?[BRK]
 
 [POR00]
 Uh...uh...uh...
-...just a minute...let
+...Just a minute...let
 me think...uh...uh...uh...[BRK]
 
 [POR05]
@@ -91,7 +91,7 @@ have all day! What is it,
 odd or even?[BRK]
 
 [POR00]
-Uh...uh...uh...okay...I'll
+Uh...uh...uh...Okay...I'll
 ...I'll bet odd![END]
 
 === 5 | 19f5a | ba ===
@@ -125,7 +125,7 @@ These tunnels will lead you
 through Illusion Woods with
 a minimum of fuss.[BRK]
 
-...and when you have time,
+...And when you have time,
 remember, Ronfar...I want a
 rematch using my dice![BRK]
 
@@ -190,7 +190,7 @@ Just a misunderstanding...[BRK]
 ...
 ....[BRK]
 
-...really![END]
+...Really![END]
 
 === b | 1a518 | 6f ===
 Hmmm, where is Ronfar? Did
@@ -292,46 +292,46 @@ All right, men! Back to the
 Destiny...double-speed![END]
 
 === 14 | 1aace | 10 ===
-Illusion wood 1F[END]
+Illusion Wood 1F[END]
 
 === 15 | 1c18e | 11 ===
-Illusion woods 2F[END]
+Illusion Woods 2F[END]
 
 === 16 | 1d7f0 | 11 ===
-Illusion woods 3F[END]
+Illusion Woods 3F[END]
 
 === 17 | 1f31a | 11 ===
-Illusion woods 4F[END]
+Illusion Woods 4F[END]
 
 === 18 | 20ef8 | 11 ===
-Illusion woods 5F[END]
+Illusion Woods 5F[END]
 
 === 19 | 22990 | 11 ===
-Illusion woods 6F[END]
+Illusion Woods 6F[END]
 
 === 1a | 24602 | 11 ===
-Illusion woods 7F[END]
+Illusion Woods 7F[END]
 
 === 1b | 26198 | 11 ===
-Illusion woods 8F[END]
+Illusion Woods 8F[END]
 
 === 1c | 277f0 | 11 ===
-Illusion woods 9F[END]
+Illusion Woods 9F[END]
 
 === 1d | 28f06 | 11 ===
-Illusion woods B1[END]
+Illusion Woods B1[END]
 
 === 1e | 29990 | 11 ===
-Illusion woods B2[END]
+Illusion Woods B2[END]
 
 === 1f | 2ab3a | 11 ===
-Illusion woods B3[END]
+Illusion Woods B3[END]
 
 === 20 | 2bb82 | 11 ===
-Illusion woods B4[END]
+Illusion Woods B4[END]
 
 === 21 | 2cc1c | 11 ===
-Illusion woods B5[END]
+Illusion Woods B5[END]
 
 === 22 | 2e240 | a1 ===
 [POR02]
@@ -339,7 +339,7 @@ Whoa! Check that out! This
 hole is so big, there's no
 way around it![BRK]
 
-...at least not for you
+...At least not for you
 guys. I can cross, but
 you're stuck.[BRK]
 
@@ -352,7 +352,7 @@ far across. There's no way
 you're gonna get across.[BRK]
 
 [POR10]
-Wait a minute...maybe there
+Wait a minute...Maybe there
 is a way. Sit tight![END]
 
 === 24 | 2e384 | 4c ===
@@ -363,17 +363,17 @@ enough to act as a bridge.[BRK]
 Let's continue...[END]
 
 === 25 | 2e3da | 11 ===
-Illusion woods B6[END]
+Illusion Woods B6[END]
 
 === 26 | 2f4bc | 11 ===
-Illusion woods B7[END]
+Illusion Woods B7[END]
 
 === 27 | 30720 | 11 ===
-Illusion woods B8[END]
+Illusion Woods B8[END]
 
 === 28 | 317f2 | 11 ===
-Illusion woods B9[END]
+Illusion Woods B9[END]
 
 === 29 | 32498 | 12 ===
-Illusion woods B10[END]
+Illusion Woods B10[END]
 

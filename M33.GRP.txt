@@ -4,7 +4,7 @@ Messages: 76
 
 === 0 | 7354 | 7f ===
 Halt! You have no business
-aboard the dragon steam-
+aboard the Dragon Steam-
 ship Destiny![BRK]
 
 You'd better leave before
@@ -20,7 +20,7 @@ We'd better find out![END]
 === 2 | 743c | 8e ===
 This is the Dragonship
 Destiny, pride of the
-entire Althena guard![BRK]
+entire Althena Guard![BRK]
 
 What? Lord Leo? He's
 retired to his quarters.
@@ -52,7 +52,7 @@ given to Lord Leo by the
 Goddess Althena.[BRK]
 
 It is equipped with a mighty
-White Dragon cannon at its
+White Dragon Cannon at its
 bow.[END]
 
 === 7 | 767c | 8f ===
@@ -75,7 +75,7 @@ That milky skin, the curve
 of her hips...those smooth,
 supple br...[BRK]
 
-.............uh, never mind!
+.............Uh, never mind!
 [END]
 
 === 9 | 77fa | 7d ===
@@ -169,17 +169,17 @@ port of Pentagulia![BRK]
 [POR08]
 I'm certain that Althena's
 impostor has closed the
-transmission spring by now.[BRK]
+Transmission Spring by now.[BRK]
 
 So, the only way to get back
 to Althena's tower will be
 to break Zophar's seal.[BRK]
 
 Once we arrive, I can try to
-use dragonpower to break it.[BRK]
+use Dragonpower to break it.[BRK]
 
 Hopefully there will be
-enough power...and then...[BRK]
+enough power...And then...[BRK]
 
 ....
 .....[BRK]
@@ -282,7 +282,7 @@ Go to Pentagulia and finish
 your mission, or return to 
 the Blue Tower to save Hiro.[BRK]
 
-It's up to you...hm hm hm
+It's up to you...Hm hm hm
 hm hm hm....
 
 [END]
@@ -296,7 +296,7 @@ Hiro! Please???[BRK]
 [POR05]
 Looks like our luck's taken
 a turn for the worse...
-damn that Ghaleon![BRK]
+Damn that Ghaleon![BRK]
 
 [POR07]
 If Ghaleon can change a
@@ -305,7 +305,7 @@ stop him?[BRK]
 
 [POR10]
 Lucia has the power to save
-Hiro and stop Ghaleon...he
+Hiro and stop Ghaleon...He
 said it himself...[BRK]
 
 [POR08]
@@ -313,7 +313,7 @@ If I use the secret power of
 the Blue Tower, I can save
 Hiro...[BRK]
 
-...but that would...
+...But that would...
 [END]
 
 === 14 | 84c0 | 1c6 ===
@@ -350,7 +350,7 @@ get moving and restore Hiro![BRK]
 ....
 .....[BRK]
 
-...okay, Ruby. I'm coming.[END]
+...Okay, Ruby. I'm coming.[END]
 
 === 15 | 869e | 1cd ===
 [POR01]
@@ -364,7 +364,7 @@ continue on...[BRK]
 ....
 .....[BRK]
 
-...but..[BRK]
+...But..[BRK]
 
 [POR01]
 But what, Lucia?
@@ -386,12 +386,12 @@ Of course you'll always
 have me around![BRK]
 
 [POR08]
-Y-you're right. From now
+Y-You're right. From now
 on, no more bad thoughts![BRK]
 
 Okay. As Ruby would say,[BRK]
 
-'let's get this show on
+'Let's get this show on
 the road, Hiro!'
 
 [END]
@@ -412,7 +412,7 @@ were you thinking about?[BRK]
 [POR08]
 Oh, nothing really...[BRK]
 
-I-i was just wishing we
+I-I was just wishing we
 could continue this journey
 forever...[BRK]
 
@@ -424,7 +424,7 @@ stupid.[BRK]
 
 I've had that same thought
 myself. Ya know, after we
-visit gramps,[BRK]
+visit Gramps,[BRK]
 
 we can take the Destiny and
 start another adventure![BRK]
@@ -447,10 +447,10 @@ This'll be great![END]
 [POR01]
 It looks like we're here.
 We'd better get moving! I
-can't wait to tell grand--[BRK]
+can't wait to tell Grand--[BRK]
 
 [POR08]
-...wait! Hiro, I'd like to
+...Wait! Hiro, I'd like to
 stop at the Blue Tower,
 first.[BRK]
 
@@ -462,13 +462,13 @@ visit Grandpa Gwyn first?[BRK]
 Please, Hiro? For me?[BRK]
 
 [POR01]
-...okay, Lucia. For you.
+...Okay, Lucia. For you.
 
 [END]
 
 === 18 | 8bce | b9 ===
 [POR02]
-Remember, Leo said the cave
+Remember, Leo said the Cave
 of the White Dragon was in
 an iceberg by the North Sea.[BRK]
 
@@ -637,9 +637,9 @@ But you're doing the right
 thing by going to the Blue
 Spire first to save Hiro.[BRK]
 
-Trust me...it'll all be
+Trust me...It'll all be
 peachy keen, jelly bean.
-...you'll see....
+...You'll see....
 [END]
 
 === 21 | 9552 | 9b ===
@@ -679,7 +679,7 @@ You've got to save him,
 Lucia![BRK]
 
 [POR08]
-But Lemina...i...
+But Lemina...I...
 
 [END]
 
@@ -690,8 +690,8 @@ say: 'time is money.' And,
 time's mega-a-wastin'.[BRK]
 
 Let's make tracks for the
-Blue Spire and wake prince
-charming!
+Blue Spire and wake Prince
+Charming!
 [END]
 
 === 25 | 980a | 13 ===
@@ -700,7 +700,7 @@ Dragonship Destiny
 
 === 26 | a128 | 7f ===
 Halt! You have no business
-aboard the dragon steam-
+aboard the Dragon Steam-
 ship Destiny![BRK]
 
 You'd better leave before
@@ -748,7 +748,7 @@ given to Lord Leo by the
 Goddess Althena.[BRK]
 
 It is equipped with a mighty
-White Dragon cannon at its
+White Dragon Cannon at its
 bow.
 [END]
 
@@ -772,7 +772,7 @@ That milky skin, the curve
 of her hips...those smooth,
 supple br...[BRK]
 
-.............uh, never mind!
+.............Uh, never mind!
 [END]
 
 === 2f | a5ce | 7d ===
@@ -866,14 +866,14 @@ port of Pentagulia![BRK]
 [POR08]
 I'm certain that Althena's
 impostor has closed the
-transmission spring by now.[BRK]
+Transmission Spring by now.[BRK]
 
 So the only way to get back
 to Althena's tower will be
 to break Zophar's seal.[BRK]
 
 Once we arrive, I can try to
-use dragonpower to break it.[BRK]
+use Dragonpower to break it.[BRK]
 
 Hopefully there will be
 enough power...and then...[BRK]
@@ -980,7 +980,7 @@ Go to Pentagulia and finish
 your mission, or return to 
 the Blue Tower to save Hiro.[BRK]
 
-It's up to you...hm hm hm
+It's up to you...Hm hm hm
 hm hm hm...
 
 [END]
@@ -994,7 +994,7 @@ Hiro! Please???[BRK]
 [POR05]
 Looks like our luck's taken
 a turn for the worse...
-damn that Ghaleon![BRK]
+Damn that Ghaleon![BRK]
 
 [POR07]
 If Ghaleon can change a
@@ -1003,7 +1003,7 @@ stop him?[BRK]
 
 [POR10]
 Lucia has the power to save
-Hiro and stop Ghaleon...he
+Hiro and stop Ghaleon...He
 said it himself...[BRK]
 
 [POR08]
@@ -1011,7 +1011,7 @@ If I use the secret power of
 the Blue Tower, I can save
 Hiro...[BRK]
 
-...but that would...
+...But that would...
 [END]
 
 === 3a | b294 | 1c6 ===
@@ -1048,7 +1048,7 @@ get moving and restore Hiro![BRK]
 ....
 .....[BRK]
 
-...okay, Ruby. I'm coming.[END]
+...Okay, Ruby. I'm coming.[END]
 
 === 3b | b472 | 1cd ===
 [POR01]
@@ -1084,12 +1084,12 @@ Of course you'll always
 have me around![BRK]
 
 [POR08]
-Y-you're right. From now
+Y-You're right. From now
 on, no more bad thoughts![BRK]
 
 Okay. As Ruby would say,[BRK]
 
-'let's get this show on
+'Let's get this show on
 the road, Hiro!'
 [END]
 
@@ -1109,7 +1109,7 @@ were you thinking about?[BRK]
 [POR08]
 Oh, nothing, really...[BRK]
 
-I-i was just wishing we
+I-I was just wishing we
 could continue this journey
 forever...[BRK]
 
@@ -1121,7 +1121,7 @@ stupid.[BRK]
 
 I've had that same thought
 myself. Ya know, after we
-visit gramps,[BRK]
+visit Gramps,[BRK]
 
 we can take the Destiny and
 start another adventure![BRK]
@@ -1144,10 +1144,10 @@ This'll be great![END]
 [POR01]
 It looks like we're here.
 We'd better get moving! I
-can't wait to tell grand...[BRK]
+can't wait to tell Grand...[BRK]
 
 [POR08]
-...wait! Hiro, I'd like to
+...Wait! Hiro, I'd like to
 stop at the Blue Tower,
 first.[BRK]
 
@@ -1159,12 +1159,12 @@ visit Grandpa Gwyn first?[BRK]
 Please, Hiro? For me?[BRK]
 
 [POR01]
-...okay, Lucia. For you.
+...Okay, Lucia. For you.
 [END]
 
 === 3e | b9a2 | b9 ===
 [POR02]
-Remember, Leo said the cave
+Remember, Leo said the Cave
 of the White Dragon was in
 an iceberg by the North Sea.[BRK]
 
@@ -1335,14 +1335,14 @@ But you're doing the right
 thing by going to the Blue
 Spire first to save Hiro.[BRK]
 
-Trust me...it'll all be
+Trust me...It'll all be
 peachy keen, jelly bean.
-...you'll see....
+...You'll see....
 [END]
 
 === 47 | c326 | 9b ===
 [POR10]
-Lucia...why do you hesitate?
+Lucia...Why do you hesitate?
 You aren't thinking of
 letting Hiro die, are you?[BRK]
 
@@ -1377,7 +1377,7 @@ You've got to save him,
 Lucia![BRK]
 
 [POR08]
-But Lemina...i...
+But Lemina...I...
 
 [END]
 
@@ -1388,8 +1388,8 @@ say: 'time is money.' And,
 time's mega-a-wastin'.[BRK]
 
 Let's make tracks for the
-Blue Spire and wake prince
-charming!
+Blue Spire and wake Prince
+Charming!
 [END]
 
 === 4b | c5de | 13 ===

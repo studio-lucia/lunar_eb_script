@@ -8,7 +8,7 @@ Forget it![BRK]
 
 There's no way we're gonna
 break this barrier without
-dragonpower.
+Dragonpower.
 [END]
 
 === 1 | ed88 | 3d7 ===
@@ -50,7 +50,7 @@ gulia now, Zophar will take
 control and the world will--[BRK]
 
 [POR02]
-Will what? Explode? Implode?
+will what? Explode? Implode?
 Turn into a giant tin of
 sardines?[BRK]
 
@@ -64,7 +64,7 @@ do it![BRK]
 
 [POR08]
 You don't understand...
-the danger is...[BRK]
+The danger is...[BRK]
 
 [POR02]
 ...still gonna be there when
@@ -111,7 +111,7 @@ have time, if we can find
 Althena.[BRK]
 
 But first we must summon
-the dragons to help destroy
+the Dragons to help destroy
 the barrier.[BRK]
 
 That will open the way to
@@ -120,5 +120,5 @@ the Goddess Tower...
 [END]
 
 === 3 | f2e2 | 9 ===
-Minea sea[END]
+Minea Sea[END]
 

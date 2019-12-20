@@ -40,19 +40,19 @@ gateway![BRK]
 .....[BRK]
 
 [POR02]
-Uh...uh...uh...w-w-what was
+Uh...uh...uh...W-W-What was
 that all about?[BRK]
 
 [POR08]
-It...it can't be....[BRK]
+It...It can't be....[BRK]
 
-...we need to get moving
-again...let's continue.
+...We need to get moving
+again...Let's continue.
 
 [END]
 
 === 4 | 17aea | 11 ===
-Bandit butte peak[END]
+Bandit Butte Peak[END]
 
 === 5 | 19996 | 11 ===
 W Bandit Butte 2F[END]
@@ -61,23 +61,23 @@ W Bandit Butte 2F[END]
 W Bandit Butte 1F[END]
 
 === 7 | 1b406 | 13 ===
-E Bandit Butte 1F-a[END]
+E Bandit Butte 1F-A[END]
 
 === 8 | 1c906 | 13 ===
-E Bandit Butte 2F-a[END]
+E Bandit Butte 2F-A[END]
 
 === 9 | 1df40 | 13 ===
-E Bandit Butte 2F-b[END]
+E Bandit Butte 2F-B[END]
 
 === a | 1e9f8 | 13 ===
-W Bandit Butte 1F-a[END]
+W Bandit Butte 1F-A[END]
 
 === b | 1f5c0 | 13 ===
-W Bandit Butte 2F-a[END]
+W Bandit Butte 2F-A[END]
 
 === c | 2183c | 13 ===
-W Bandit Butte 2F-c[END]
+W Bandit Butte 2F-C[END]
 
 === d | 2244c | 13 ===
-W Bandit Butte 2F-b[END]
+W Bandit Butte 2F-B[END]
 

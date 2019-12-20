@@ -4,9 +4,9 @@ Messages: 7
 
 === 0 | 1a35a | 86 ===
 [POR02]
-Uh...oh...trouble![BRK]
+Uh...oh...Trouble![BRK]
 
-The spire guardians have
+The Spire guardians have
 come to life![BRK]
 
 What are we going to do,
@@ -48,8 +48,8 @@ come here...[BRK]
 .....[BRK]
 
 [POR04]
-N-no...it's not right...
-...it must be some sort
+N-No...It's not right...
+...It must be some sort
 of mistake...[BRK]
 
 [POR09]
@@ -92,12 +92,12 @@ Say, Hiro, who's the lady?
 
 === 4 | 1a770 | 159 ===
 [POR09]
-Hmmm...you're wearing a
+Hmmm...You're wearing a
 strange dress of red cloth.
 I've never seen its equal.[BRK]
 
 And you seem to be sick...
-...what has made you weak,
+...What has made you weak,
 girl?[BRK]
 
 [POR02]
@@ -136,5 +136,5 @@ And more importantly, how
 she expects to find her...[END]
 
 === 6 | 1a9c4 | 13 ===
-Blue spire entrance[END]
+Blue Spire Entrance[END]
 

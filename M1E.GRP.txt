@@ -47,7 +47,7 @@ Just to show you I'm not
 grumpy, you'll find the 
 entrance to the cave...[BRK]
 
-Just to the east of this
+just to the east of this
 village. Now get a move on,
 before I die waiting on ya.[END]
 
@@ -93,7 +93,7 @@ throw you out![END]
 Ronfar, wanna play a little
 game?[BRK]
 
-Hehe...why don't you pull
+Hehe...Why don't you pull
 my finger?[BRK]
 
 [POR02]
@@ -177,7 +177,7 @@ You need a good therapist
 to study your fear of
 commitment...[BRK]
 
-...at least, that's my
+...At least, that's my
 opinion...[BRK]
 
 [POR08]
@@ -342,7 +342,7 @@ You know, there's this nice
 guy named Ramus that wants
 to turn this place into...[BRK]
 
-A nice little tourist trap.[BRK]
+a nice little tourist trap.[BRK]
 
 By tripling our prices, we'll
 really rake it in.
@@ -367,15 +367,15 @@ This has got to be the worst
 job in the world! I hate
 shoveling snow![BRK]
 
-Oooughh...what I wouldn't
+Oooughh...What I wouldn't
 give for someone to do all
 this work for me![BRK]
 
 [POR07]
-No...it couldn't be that
+No...It couldn't be that
 easy....[BRK]
 
-Ha!...yes!![BRK]
+Ha!...Yes!![BRK]
 
 I've got a great idea for
 a new business.[BRK]
@@ -422,7 +422,7 @@ I'll help! But I have to
 charge you like 1,000s an
 hour...[BRK]
 
-You know...union and all
+You know...Union and all
 that...
 [END]
 
@@ -444,7 +444,7 @@ I'll be pickin'...peelin'...
 ....
 .....[BRK]
 
-...but at least there'll be
+...But at least there'll be
 no more of this damned snow!
 
 
@@ -503,8 +503,8 @@ People are trying to get out
 of this snowy country, but
 I'm going to stay here.[BRK]
 
-I'm a member of the freezing
-blathering idiot swim club.[BRK]
+I'm a member of the Freezing
+Blathering Idiot Swim Club.[BRK]
 
 Wanna join? I can get you a
 discount...[END]
@@ -532,8 +532,8 @@ When all this snow melts,
 I'm going to sell it as 
 mineral water.[BRK]
 
-I'll call it Zulan magic
-tonic.  I know it'll be
+I'll call it Zulan Magic
+Tonic.  I know it'll be
 a big hit![BRK]
 
 [POR02]
@@ -581,7 +581,7 @@ your opinion![BRK]
 Besides my business is going
 to make me filthy rich.[BRK]
 
-Just wait...you'll see...
+Just wait...You'll see...
 [END]
 
 === 2a | a486 | 6b ===
@@ -642,10 +642,10 @@ I'll be drippin'....freezin'
 ...cold, cold, cold![END]
 
 === 30 | a828 | 7e ===
-...still got to keep...
+...Still got to keep...
 ...moving...can't stop...[BRK]
 
-Oohhhh...what I wouldn't
+Oohhhh...What I wouldn't
 give to be strapped to a
 furnace right about now...[END]
 
@@ -662,7 +662,7 @@ Man, oh man...I can't wait
 'til this summer![BRK]
 
 The bods, the studs,
-the sun...wow!
+the sun...Wow!
 [END]
 
 === 33 | a98c | 26 ===
@@ -709,14 +709,14 @@ Are girls worth this much
 trouble?[END]
 
 === 3a | ac2a | fd ===
-Zzzzz...zzzzzz...please just
+Zzzzz...zzzzzz...Please just
 let me sleeeep...[BRK]
 
 Listen, stupid, if you fall
 asleep now you'll never
 wake up![BRK]
 
-<Whack> <slam> <bam!>
+<whack> <slam> <bam!>
 I won't let you die on me![BRK]
 
 Now wake up!![BRK]
@@ -724,7 +724,7 @@ Now wake up!![BRK]
 ....
 .....[BRK]
 
-Come on, talk to johnny![BRK]
+Come on, talk to Johnny![BRK]
 
 [POR05]
 Geez, the dumb games kids
@@ -780,7 +780,7 @@ fair![END]
 
 === 42 | b05e | 3b ===
 If we're going to play
-'donner party', at least
+'Donner Party', at least
 play right![END]
 
 === 43 | b0a8 | 7d ===
@@ -902,7 +902,7 @@ still alive. At least we
 could still ski![END]
 
 === 4f | b7b8 | d ===
-Zulan village[END]
+Zulan Village[END]
 
 === 50 | d2b2 | 66 ===
 The mayor is upstairs with
@@ -969,7 +969,7 @@ friend.[BRK]
 When I grow up, I want to
 be just like you...[BRK]
 
-Or eddie vedder...I haven't
+Or Eddie Vedder...I haven't
 really decided yet.[BRK]
 
 At least you're in the
@@ -1011,7 +1011,7 @@ world quite like it.[BRK]
 .....[END]
 
 === 5a | d93a | e ===
-Zulan mayor 1F[END]
+Zulan Mayor 1F[END]
 
 === 5b | e02e | 204 ===
 Oh, thank the Goddess! She
@@ -1077,7 +1077,7 @@ My mission is too important.
 I suppose this is to be
 our good-bye...[BRK]
 
-...thank you...
+...Thank you...
 
 [END]
 
@@ -1087,7 +1087,7 @@ our good-bye...[BRK]
 Lucia would turn her back
 on these people...[BRK]
 
-...how can she be so...
+...How can she be so...
 so...heartless![BRK]
 
 [POR01]
@@ -1123,7 +1123,7 @@ will continue to increase...[BRK]
 self-centered?[BRK]
 
 These people need our help!
-Come on...let's help them.[END]
+Come on...Let's help them.[END]
 
 === 61 | e6a4 | 84 ===
 We've tried everything in
@@ -1231,7 +1231,7 @@ Momma...where...are...
 you...?[BRK]
 
 [POR02]
-Poor thing...she's freezing
+Poor thing...She's freezing
 to death...[BRK]
 
 And she's got a very high
@@ -1242,7 +1242,7 @@ she's going to make it...
 [END]
 
 === 6b | ed5a | 6a ===
-P-p-p-please...you...
+P-P-P-Please...you...
 g-g-g-got...t-t-t-to...
 help...m-m-me...[BRK]
 
@@ -1254,7 +1254,7 @@ save this girl!!
 
 === 6c | eddc | 70 ===
 My head doesn't feel so
-hot anymore...thank you.[BRK]
+hot anymore...Thank you.[BRK]
 
 [POR07]
 You know, somehow that 
@@ -1465,7 +1465,7 @@ bare hands.[BRK]
 I've killed every kind of 
 beast known to man...[BRK]
 
-But this thing...be afraid.
+But this thing...Be afraid.
 Be very afraid![END]
 
 === 82 | fa38 | 66 ===
@@ -1488,7 +1488,7 @@ nick of time![END]
 
 === 84 | fb60 | 40 ===
 [POR08]
-There wasn't any 'nick'
+There wasn't any 'Nick'
 present...what are you
 talking about?[END]
 
@@ -1506,10 +1506,10 @@ If I could've killed that
 beast, I would've ripped his
 spleen out with my teeth.[BRK]
 
-...uh, if it had a spleen...[END]
+...Uh, if it had a spleen...[END]
 
 === 87 | fca8 | 6e ===
-P...please, could you go 
+P...Please, could you go 
 and fetch me a glass of
 water?[BRK]
 
@@ -1531,7 +1531,7 @@ You don't look like you got
 beaten up by the beast.[BRK]
 
 [POR00]
-Well, no...i...I didn't
+Well, no...I...I didn't
 exactly fight with the
 monster...[BRK]
 
@@ -1570,7 +1570,7 @@ here. Next time I run away
 I'm not going to get hurt.[END]
 
 === 8d | 10028 | e ===
-Zulan mayor 2F[END]
+Zulan Mayor 2F[END]
 
 === 8e | 1077a | 52 ===
 Ah! Come in! Come in! Get
@@ -1583,7 +1583,7 @@ patronage. Remember to stop
 here for all your supplies![END]
 
 === 90 | 1082c | f ===
-Zulan item shop[END]
+Zulan Item Shop[END]
 
 === 91 | 10fa6 | 45 ===
 Boy, it's cold today, isn't
@@ -1605,7 +1605,7 @@ you today! Please come
 again.[END]
 
 === 95 | 110a8 | c ===
-Zulan bazaar[END]
+Zulan Bazaar[END]
 
 === 96 | 1190e | 92 ===
 When I promised to marry my
@@ -1628,7 +1628,7 @@ this qualifies as worse...[END]
 
 === 98 | 11a54 | 46 ===
 [POR10]
-Look at it this way...at
+Look at it this way...At
 least you have someone to
 snuggle up with![END]
 
@@ -1647,7 +1647,7 @@ winter isn't close to being
 over, and our food is low![BRK]
 
 My wife doesn't know how bad
-this situation is...we're in
+this situation is...We're in
 big trouble...[END]
 
 === 9b | 11bfc | 5d ===
@@ -1655,7 +1655,7 @@ Boy! My wife is really in a
 bad mood lately! I think
 it's cabin fever...[BRK]
 
-..........or pms....[END]
+..........or PMS....[END]
 
 === 9c | 11c6c | 4c ===
 You know, I was thinking
@@ -1674,5 +1674,5 @@ last winter's tight food
 supply. No sireee...[END]
 
 === 9e | 11d66 | d ===
-Zulan house 1[END]
+Zulan House 1[END]
 

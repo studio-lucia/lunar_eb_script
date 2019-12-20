@@ -59,12 +59,12 @@ Silence! Do not speak of
 the consequences here![BRK]
 
 [POR25]
-...so you haven't told them.[BRK]
+...So you haven't told them.[BRK]
 
 That is not wise, dear
 Lucia.[BRK]
 
-It is their world...they
+It is their world...They
 must be told.[BRK]
 
 ....
@@ -133,34 +133,34 @@ thought like a dragon...[BRK]
 But now...[BRK]
 
 I think I'm starting to...
-it's weird!
+It's weird!
 
 [END]
 
 === 7 | 12770 | 10 ===
-Blue dragon lair[END]
+Blue Dragon Lair[END]
 
 === 8 | 12f42 | e ===
-Blue dragon 1F[END]
+Blue Dragon 1F[END]
 
 === 9 | 13c6c | e ===
-Blue dragon B1[END]
+Blue Dragon B1[END]
 
 === a | 15788 | e ===
-Blue dragon B2[END]
+Blue Dragon B2[END]
 
 === b | 17054 | e ===
-Blue dragon B3[END]
+Blue Dragon B3[END]
 
 === c | 19066 | 10 ===
-Blue dragon B4-b[END]
+Blue Dragon B4-B[END]
 
 === d | 1a650 | 10 ===
-Blue dragon B4-a[END]
+Blue Dragon B4-A[END]
 
 === e | 1bd1a | 10 ===
-Blue dragon B4-c[END]
+Blue Dragon B4-C[END]
 
 === f | 1c3c8 | e ===
-Blue dragon B5[END]
+Blue Dragon B5[END]
 

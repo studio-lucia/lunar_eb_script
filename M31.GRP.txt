@@ -5,14 +5,14 @@ Messages: 86
 === 0 | 853c | f7 ===
 [POR02]
 Whoa...Hiro! Look at this
-place...it's fantastic![BRK]
+place...It's fantastic![BRK]
 
 [POR08]
 Althena must be nearby, but
 I do not yet sense her
 presence...[BRK]
 
-...it's so...strange...[BRK]
+...It's so...strange...[BRK]
 
 Hopefully it is not too
 late to stop Zophar and
@@ -200,15 +200,15 @@ you're saying, she'll kill
 you![BRK]
 
 [POR02]
-Oh yeah...well I got 
+Oh yeah...Well I got 
 something to say about that![BRK]
 
-......bite me!!
+......Bite me!!
 [END]
 
 === 11 | 9046 | ae ===
 We have been selected by the 
-goddess to administer her 
+Goddess to administer her 
 teachings to this world.[BRK]
 
 Althena has chosen us from
@@ -275,13 +275,13 @@ But I think it's because
 this joint's so spooky![BRK]
 
 I mean...listen to that
-music...where the hell is
+music...Where the hell is
 that coming from?[BRK]
 
 Do they pipe it in?[BRK]
 
 I mean, I'm just waiting for
-lon chaney to pop up any
+Lon Chaney to pop up any
 minute![BRK]
 
 Creeeeeppppyyy!
@@ -375,7 +375,7 @@ behest I have been following
 Lucia's progress.[BRK]
 
 [ROR09]
-...following!?[BRK]
+...Following!?[BRK]
 
 [ROR14]
 I have noted that your
@@ -394,7 +394,7 @@ Ah, yes. Well then, I'm sure
 you'll do your best to take
 the girl to the Goddess.[BRK]
 
-...and then the real show
+...And then the real show
 will begin...hm, hm, hm.
 Hm, hm, hm, hm,...
 
@@ -413,7 +413,7 @@ wrong![END]
 
 === 1f | bedc | 5a ===
 [ROR02]
-Leo!.......wait!
+Leo!.......Wait!
 Where are you going?[BRK]
 
 How are we supposed to
@@ -442,7 +442,7 @@ How rude! Aren't you goin'
 to say good-bye to me too?[BRK]
 
 [POR05]
-Hahaha...oh yes, how could
+Hahaha...Oh yes, how could
 I forget?[BRK]
 
 Good-bye, Ruby! Make sure
@@ -484,7 +484,7 @@ It's called loneliness,
 or even sadness.[BRK]
 
 [POR08]
-...so...this hole in my
+...So...this hole in my
 heart...this empty space...
 ...is sadness?[BRK]
 
@@ -519,7 +519,7 @@ thing, come to the carnival
 and see me again![BRK]
 
 [POR02]
-...okay! I just can't wait
+...Okay! I just can't wait
 to see you dance again!![BRK]
 
 [POR10]
@@ -582,11 +582,11 @@ me luck!
 
 === 25 | c7f8 | 102 ===
 [POR05]
-Holy cow, chief! What the
+Holy cow, Chief! What the
 hell is that thing?[BRK]
 
 [POR10]
-It...it looks like some
+It...It looks like some
 sort of...[BRK]
 
 [POR07]
@@ -604,13 +604,13 @@ We'd better get outta here,
 and pronto![END]
 
 === 26 | c936 | f ===
-Pentagulia dock[END]
+Pentagulia Dock[END]
 
 === 27 | d896 | 6c ===
 [POR09]
 We've arrived!![BRK]
 
-The holy city of Pentagulia
+The Holy City of Pentagulia
 stands before you![BRK]
 
 This is the crown jewel of
@@ -683,7 +683,7 @@ behest I have been following
 Lucia's progress.[BRK]
 
 [ROR09]
-...following!?[BRK]
+...Following!?[BRK]
 
 [ROR14]
 I have noted that your
@@ -702,9 +702,9 @@ Ah, yes. Well then, I'm sure
 you'll do your best to take
 the girl to the Goddess.[BRK]
 
-...and then the real show
+...And then the real show
 will begin...hm, hm, hm...
-hm, hm, hm, hm...
+Hm, hm, hm, hm...
 
 
 
@@ -721,7 +721,7 @@ wrong![END]
 
 === 2e | de3a | 5a ===
 [ROR02]
-Leo!.......wait!
+Leo!.......Wait!
 Where are you going?[BRK]
 
 How are we supposed to
@@ -750,7 +750,7 @@ How rude! Aren't you goin'
 to say good-bye to me too?[BRK]
 
 [POR05]
-Hahaha...oh yes, how could
+Hahaha...Oh yes, how could
 I forget?[BRK]
 
 Good-bye, Ruby! Make sure
@@ -792,7 +792,7 @@ It's called loneliness,
 or even sadness.[BRK]
 
 [POR08]
-...so...this hole in my
+...So...this hole in my
 heart...this empty space...
 ...is sadness?[BRK]
 
@@ -827,7 +827,7 @@ thing, come to the carnival
 and see me again![BRK]
 
 [POR02]
-...okay! I just can't wait
+...Okay! I just can't wait
 to see you dance again!![BRK]
 
 [POR10]
@@ -890,11 +890,11 @@ me luck!
 
 === 34 | e756 | 102 ===
 [POR05]
-Holy cow, chief! What the
+Holy cow, Chief! What the
 hell is that thing?[BRK]
 
 [POR10]
-It...it looks like some
+It...It looks like some
 sort of...[BRK]
 
 [POR07]
@@ -912,7 +912,7 @@ We'd better get outta here,
 and pronto![END]
 
 === 35 | e894 | f ===
-Pentagulia dock[END]
+Pentagulia Dock[END]
 
 === 36 | fad0 | b8 ===
 As a member of the Althena
@@ -970,7 +970,7 @@ Goddess has blessed me.[BRK]
 
 [POR02]
 More like it's because of
-the prozac injections they
+the Prozac injections they
 give you at dinner.[END]
 
 === 3b | fdf6 | 78 ===
@@ -1033,7 +1033,7 @@ The best way to ensure your
 safety while you're here is
 to donate to the Goddess.[BRK]
 
-The goddess' love embraces
+The Goddess' love embraces
 those that give freely.[BRK]
 
 [POR08]
@@ -1072,7 +1072,7 @@ I hope that Althena has
 enough power to kill Zophar![END]
 
 === 45 | 103b0 | 12 ===
-Pentagulia house 1[END]
+Pentagulia House 1[END]
 
 === 46 | 10bf0 | 9c ===
 Ghaleon is so strong.
@@ -1103,7 +1103,7 @@ Yeah, but what would you
 have?[BRK]
 
 I don't even want to think
-about it...bleecchh![END]
+about it...Bleecchh![END]
 
 === 48 | 10d48 | 88 ===
 I'm sick and tired of
@@ -1115,12 +1115,12 @@ that he once tried to
 destroy our world?[END]
 
 === 49 | 10de4 | 7d ===
-I'm starting an anti-ghaleon
+I'm starting an anti-Ghaleon
 campaign.[BRK]
 
 We'll focus our attention on
 trying to get Ghaleon out of
-the holy city of Pentagulia.[END]
+the Holy City of Pentagulia.[END]
 
 === 4a | 10e66 | 63 ===
 I heard that long ago,
@@ -1217,7 +1217,7 @@ present in this world,[BRK]
 
 it's a good thing that
 the Goddess has the Dragon-
-master and the four heroes.[BRK]
+master and the Four Heroes.[BRK]
 
 Could you imagine a world
 without the protection they
@@ -1225,12 +1225,12 @@ give us??[END]
 
 === 54 | 114d8 | 77 ===
 I think it's great that the
-four heroes are fighting
+Four Heroes are fighting
 hard to restore peace.[BRK]
 
 It just makes you kinda 
 proud to be alive.[END]
 
 === 55 | 11554 | 12 ===
-Pentagulia house 2[END]
+Pentagulia House 2[END]
 

@@ -3,16 +3,16 @@ File: M02.GRP
 Messages: 50
 
 === 0 | e2ee | 13 ===
-Larpa secret pass 1[END]
+Larpa Secret Pass 1[END]
 
 === 1 | f198 | 13 ===
-Larpa secret pass 2[END]
+Larpa Secret Pass 2[END]
 
 === 2 | f95a | 13 ===
-Larpa secret pass 3[END]
+Larpa Secret Pass 3[END]
 
 === 3 | 10276 | 13 ===
-Larpa secret pass 4[END]
+Larpa Secret Pass 4[END]
 
 === 4 | 10cd6 | 70 ===
 [POR09]
@@ -37,12 +37,12 @@ all that...
 [END]
 
 === 6 | 10e2b | 31 ===
-[0]P[0][0][0x3][0x10]
-n[0xC0][0xC0][BRK]
+[0]p[0][0][0x3][0x10]
+N[0xC0][0xC0][BRK]
 
-[0][0][0][0xA][0x10][0]0&E[0][0xC0][BRK]
+[0][0][0][0xA][0x10][0]0&e[0][0xC0][BRK]
 
-[0][0][0][0xA]P[0][0xC0][0x4][0][0][0xC0][BRK]
+[0][0][0][0xA]p[0][0xC0][0x4][0][0][0xC0][BRK]
 
  [0xE]Gave 10s.
 
@@ -62,7 +62,7 @@ is set to break the spell
 on Lucia.[BRK]
 
 Goddess Althena, hear my
-plea...take your holy light
+plea...Take your holy light
 and cleanse this girl.[BRK]
 
 Loose the bonds that now
@@ -74,7 +74,7 @@ rays of holy light!!![END]
 
 === 9 | 10f98 | dd ===
 [POR08]
-Uuu...aaaahhhh![BRK]
+Uuu...Aaaahhhh![BRK]
 
 [POR02]
 Ronfar! What's wrong? 
@@ -88,7 +88,7 @@ stronger than...[BRK]
 ....
 .....[BRK]
 
-I-i've never failed to 
+I-I've never failed to 
 break a spell, except once
 when...[BRK]
 
@@ -97,9 +97,9 @@ when...[BRK]
 
 === a | 1107e | 92 ===
 [POR05]
-Ohhhh....yes! I-it worked![BRK]
+Ohhhh....yes! I-It worked![BRK]
 
-...sweet success at the
+...Sweet success at the
 hands of Ronfar![BRK]
 
 It's not complete, but the
@@ -133,7 +133,7 @@ break the curse on the
 poor girl?[END]
 
 === d | 11270 | 60 ===
-The goddess is good to those
+The Goddess is good to those
 that serve her well...[BRK]
 
 [POR02]
@@ -168,7 +168,7 @@ Goddess from which all
 goodness springs forth...[BRK]
 
 But goodness has a price to
-be paid...donate now, won't
+be paid...Donate now, won't
 you?
 [END]
 
@@ -185,7 +185,7 @@ The most important thing we
 all must possess is a
 willing spirit.[BRK]
 
-The goddess will not help
+The Goddess will not help
 those that are not willing
 to help themselves.[END]
 
@@ -287,7 +287,7 @@ I know of her.[BRK]
 
 Say, can I interest you in
 becoming a member of the
-sanctuary boosters club?[END]
+Sanctuary Boosters Club?[END]
 
 === 1e | 11c56 | bc ===
 Say, can I cut you a deal
@@ -326,7 +326,7 @@ halls.[END]
 === 21 | 11e2e | 30 ===
 [POR08]
 ...Althena resides in...
-Pentagulia...hmm...
+Pentagulia...Hmm...
 [END]
 
 === 22 | 11e62 | 3f ===
@@ -364,7 +364,7 @@ your sins and serve Althena?[BRK]
 Done it, seen it, been it.
 Sorry, no dice...[BRK]
 
-Uh, pardon the pun...hahaha!
+Uh, pardon the pun...Hahaha!
 [END]
 
 === 26 | 120b8 | 6c ===
@@ -408,7 +408,7 @@ Through us, the world will
 come to know Althena's
 goodness.[BRK]
 
-...if they donate enough.[END]
+...If they donate enough.[END]
 
 === 2b | 1234c | 69 ===
 But in all this time, we
@@ -464,5 +464,5 @@ Believe in yourself and all
 your dreams will come true.[END]
 
 === 31 | 1267e | f ===
-Larpa sanctuary[END]
+Larpa Sanctuary[END]
 

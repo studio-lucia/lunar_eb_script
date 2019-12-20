@@ -14,10 +14,10 @@ If we don't get Lucia back
 right now, there's no
 telling what could happen.[BRK]
 
-...except that it won't be
+...Except that it won't be
 good for Lucia's health.[BRK]
 
-So, chief, the gameplan's to
+So, Chief, the gameplan's to
 sneak onto the Destiny and
 rescue her, right?
 
@@ -29,7 +29,7 @@ rescue her, right?
 
 === 1 | 969c | 68 ===
 [POR02]
-...what?!
+...What?!
 Hiro, the statue of Goddess
 Althena is broken!![BRK]
 
@@ -42,7 +42,7 @@ What is this world coming to
 when holy statues are
 defaced like this?!![BRK]
 
-Punk kids...they don't know
+Punk kids...They don't know
 the meaning of respect
 anymore.[END]
 
@@ -122,9 +122,9 @@ now that everything's okay![END]
 === c | 9c5e | 95 ===
 Northeast of here, there's 
 somethin' they call the
-ninth wonder of the world.[BRK]
+Ninth Wonder of the World.[BRK]
 
-It's some sorta dragon tower
+It's some sorta Dragon Tower
 thingamabob. They say it's
 mighty keen...[END]
 
@@ -170,7 +170,7 @@ I done never been there, but
 I heard it's mighty unusual.[END]
 
 === 10 | 9f70 | 6a ===
-Hey!...hey! Do ya know
+Hey!...Hey! Do ya know
 the names of the Four
 Heroes of Althena?
 [0x5]Yep! Saw the movie.
@@ -192,19 +192,19 @@ them!
 [END]
 
 === 13 | a05e | 155 ===
-The first of the four heroes
-is White Knight Leo, lord
+The first of the Four Heroes
+is White Knight Leo, Lord
 of Althena's Guard.[BRK]
 
-Second is Saint Lunn, master
+Second is Saint Lunn, Master
 of Blue Dragon Karate.[BRK]
 
 Third is Grand Black Wizard
 Borgan.[BRK]
 
-And last is...is...hmm...[BRK]
+And last is...is...Hmm...[BRK]
 
-...oh yeah! The last hero is
+...Oh yeah! The last Hero is
 Red Priest Mauri.[BRK]
 
 I learned all about them at
@@ -223,12 +223,12 @@ Heroes of Althena?
 Uh, I don't remember...[END]
 
 === 15 | a24e | 8b ===
-Oh...yeah, I told you about
-them already, didn't i? I
+Oh...Yeah, I told you about
+them already, didn't I? I
 spaced and forgot...[BRK]
 
 You probably think I'm the
-world's youngest alzheimer's
+world's youngest Alzheimer's
 patient.[END]
 
 === 16 | a2ea | 59 ===
@@ -241,14 +241,14 @@ Oh well, listen up![END]
 === 17 | a35a | 1fe ===
 My daddy said that he heard
 the Four Heroes of Althena
-don't control the dragons.[BRK]
+don't control the Dragons.[BRK]
 
 He said they lost control
-when the dragons were
+when the Dragons were
 released.[BRK]
 
 I wish I could see one of
-the dragons. They must be
+the Dragons. They must be
 awesome![BRK]
 
 [POR02]
@@ -262,7 +262,7 @@ joke? You're not one of the
 Four Dragons![BRK]
 
 You're just some stinkin'...
-stinkin'...well, I don't
+stinkin'...Well, I don't
 know what you are...[BRK]
 
 But you're too small to be
@@ -271,7 +271,7 @@ a dragon.[BRK]
 [POR02]
 Well, I'm big enough to
 toast your impudent butt,
-junior!
+Junior!
 [END]
 
 === 18 | a570 | 99 ===
@@ -283,7 +283,7 @@ My dad would never believe
 me, though.[BRK]
 
 'Specially if I told him I
-saw it on mulberry street.[END]
+saw it on Mulberry Street.[END]
 
 === 19 | a620 | 95 ===
 [POR05]
@@ -292,8 +292,8 @@ better head north, toward
 Illusion Woods.[BRK]
 
 After we clear the woods, we
-can make tracks for the holy
-city of Pentagulia.[END]
+can make tracks for the Holy
+City of Pentagulia.[END]
 
 === 1a | a6c4 | c6 ===
 One of the Four Heroes of
@@ -327,7 +327,7 @@ I hope he comes back soon...[END]
 === 1d | a8ba | 78 ===
 There's a rumor floating
 around that Lord Leo's been
-thrown out of the guard![BRK]
+thrown out of the Guard![BRK]
 
 How can that be?[BRK]
 
@@ -342,7 +342,7 @@ Good looks and principled,
 too! Is this guy too good to
 be true or what?!![BRK]
 
-Come to mama, big boy![END]
+Come to Mama, big boy![END]
 
 === 1f | aa00 | e2 ===
 [POR09]
@@ -354,8 +354,8 @@ So, I must respectfully deny
 your request and just blow
 you a kiss from here.[BRK]
 
-Be sure to catch my 'lords
-of valor' beefcake calendar
+Be sure to catch my 'Lords
+of Valor' beefcake calendar
 when it comes out.[END]
 
 === 20 | aaf2 | b2 ===
@@ -543,7 +543,7 @@ I think it'll stay broken
 a while longer...ha ha ha![END]
 
 === 33 | cb5c | 87 ===
-The holy city of Pentagulia
+The Holy City of Pentagulia
 is off-limits to outsiders.[BRK]
 
 Supposedly, a terrible evil
@@ -563,8 +563,8 @@ that really happen??!
 [END]
 
 === 35 | cca0 | 72 ===
-This is my annual hobble-a-
-thon for Althena.[BRK]
+This is my annual Hobble-a-
+Thon for Althena.[BRK]
 
 Can I put you down for 10s
 a lap? It's for the Goddess,
@@ -609,7 +609,7 @@ with her.
 === 3a | cf1e | 90 ===
 The Goddess Althena was an
 impostor! I wonder if the
-four heroes are too?![BRK]
+Four Heroes are too?![BRK]
 
 Now that this has come to
 light, I'm beginning to
@@ -637,7 +637,7 @@ of your world...
 
 === 3d | d0d2 | 7e ===
 [POR07]
-Silly! The goddess obviously
+Silly! The Goddess obviously
 has to have money for her
 organization to run![BRK]
 
@@ -682,7 +682,7 @@ Their skulls are so thick,
 no teachings of light can
 get through.[BRK]
 
-...and they're cheap, too.
+...And they're cheap, too.
 Won't donate a dime to help
 our cause.[END]
 
@@ -732,7 +732,7 @@ That Alex dude was one
 lucky guy...[END]
 
 === 46 | d700 | d ===
-Dalton shrine[END]
+Dalton Shrine[END]
 
 === 47 | e558 | 83 ===
 Ahhh! Nothin' like a tall
@@ -766,7 +766,7 @@ Say, I must be more wasted
 than I thought, 'cause you
 look like that girl Lucia...[BRK]
 
-...but I know she's in the
+...But I know she's in the
 jail on the Destiny.[BRK]
 
 ....
@@ -792,7 +792,7 @@ think he's got the balls to
 do it. She's innocent.[BRK]
 
 If that girl's a destroyer,
-I'm june cleaver.[END]
+I'm June Cleaver.[END]
 
 === 4d | e920 | 69 ===
 Have you tried the ale here?
@@ -837,7 +837,7 @@ Hi there! Welcome to the
 Blue Note Tavern.[BRK]
 
 We've got a kiddie menu
-right here...take your time
+right here...Take your time
 and look it over.[END]
 
 === 52 | ebe6 | 9a ===
@@ -849,7 +849,7 @@ anything you might want to
 eat or drink,[BRK]
 
 long as you got the cash...
-he he he....[END]
+He he he....[END]
 
 === 53 | ec90 | 61 ===
 Hey! Welcome back![BRK]
@@ -860,7 +860,7 @@ drinks are only 10s![END]
 
 === 54 | ecfe | b5 ===
 [POR07]
-10S! Hiro, let's buy a ton
+10s! Hiro, let's buy a ton
 of 'em and take them out.[BRK]
 
 We can sell them in Larpa
@@ -951,12 +951,12 @@ safe from destruction![BRK]
 
 Now I can continue working
 toward my goal of becoming
-miss Dalton in the pageant![END]
+Miss Dalton in the pageant![END]
 
 === 5d | f31c | 5b ===
 After a hard day's work,
 it's my pleasure to say
-...'bottoms up!'[BRK]
+...'Bottoms up!'[BRK]
 
 Ahhh! That hit the spot!
 [END]
@@ -984,7 +984,7 @@ Now we've got some sort of a
 world-wrecker walking among
 us![BRK]
 
-...oh man!...I need a drink![END]
+...Oh man!...I need a drink![END]
 
 === 60 | f532 | 68 ===
 If it's not one thing, it's
@@ -1004,7 +1004,7 @@ gonna have another drink in
 your honor![END]
 
 === 62 | f640 | d ===
-Dalton tavern[END]
+Dalton Tavern[END]
 
 === 63 | fdc2 | 4e ===
 Hello there! Welcome to
@@ -1025,7 +1025,7 @@ Thanks for stopping by and
 giving our wares a look![END]
 
 === 67 | fecc | 13 ===
-Dalton general shop[END]
+Dalton General Shop[END]
 
 === 68 | 10558 | 6e ===
 The people of Larpa are
@@ -1044,7 +1044,7 @@ I'd enlist to serve under
 him in a heartbeat![END]
 
 === 6a | 1066c | 6d ===
-Althena's guard is keeping
+Althena's Guard is keeping
 our world from anarchy.[BRK]
 
 But I think it would fall
@@ -1117,7 +1117,7 @@ ones that broke it in the
 first place![END]
 
 === 73 | 10b0c | e ===
-Dalton house 1[END]
+Dalton House 1[END]
 
 === 74 | 111dc | 72 ===
 I listened to the teaching
@@ -1195,13 +1195,13 @@ gave them money while they
 tried to revive Zophar![END]
 
 === 7d | 116a4 | e ===
-Dalton house 2[END]
+Dalton House 2[END]
 
 === 7e | 11e96 | 11 ===
-Dalton passage 1F[END]
+Dalton Passage 1F[END]
 
 === 7f | 1272c | 11 ===
-Dalton passage 2F[END]
+Dalton Passage 2F[END]
 
 === 80 | 13082 | 90 ===
 I've asked the priests of
@@ -1242,17 +1242,17 @@ fishy about that Cult of
 Althena...[END]
 
 === 84 | 1330c | 68 ===
-   The last Dragonmaster[BRK]
+   The Last Dragonmaster[BRK]
 
 A long time ago, a boy named
 Alex left the village of
 Burg to seek his dream...[END]
 
 === 85 | 1337a | 11 ===
-Dalton passage 3F[END]
+Dalton Passage 3F[END]
 
 === 86 | 13c12 | 10 ===
-Dalton breezeway[END]
+Dalton Breezeway[END]
 
 === 87 | 143cc | 6b ===
 The passage to the right
@@ -1273,7 +1273,7 @@ You should go see it. The
 ship's just incredible![END]
 
 === 89 | 14504 | 58 ===
-Have you seen the dragon-
+Have you seen the Dragon-
 ship Destiny?[BRK]
 
 That is the most incredible
@@ -1358,7 +1358,7 @@ I think we made the right
 choice, mister.[END]
 
 === 92 | 14a24 | 14 ===
-Dalton dock tower 1F[END]
+Dalton Dock Tower 1F[END]
 
 === 93 | 15164 | a3 ===
 Oh my! You startled me![BRK]
@@ -1427,9 +1427,9 @@ I can do some hunk-hunting
 while I'm there...[END]
 
 === 98 | 1557c | 42 ===
-   Abdominal discomfort
+   Abdominal Discomfort
         volume 1
- feral flatulence control[END]
+ Feral Flatulence Control[END]
 
 === 99 | 155d0 | 29 ===
 [POR02]
@@ -1437,5 +1437,5 @@ Hiro! I think Grandpa needs
 this book![END]
 
 === 9a | 155fe | 14 ===
-Dalton dock tower 2F[END]
+Dalton Dock Tower 2F[END]
 

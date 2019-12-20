@@ -3,22 +3,22 @@ File: M27.GRP
 Messages: 19
 
 === 0 | 17436 | f ===
-Sunken tower 1F[END]
+Sunken Tower 1F[END]
 
 === 1 | 1824e | f ===
-Sunken tower 2F[END]
+Sunken Tower 2F[END]
 
 === 2 | 19016 | f ===
-Sunken tower 3F[END]
+Sunken Tower 3F[END]
 
 === 3 | 19dec | f ===
-Sunken tower 4F[END]
+Sunken Tower 4F[END]
 
 === 4 | 1abb8 | f ===
-Sunken tower 5F[END]
+Sunken Tower 5F[END]
 
 === 5 | 1b9d0 | f ===
-Sunken tower 6F[END]
+Sunken Tower 6F[END]
 
 === 6 | 1c7aa | 1f ===
 [0xB][0][0xC]Took the Right Dragon's
@@ -45,7 +45,7 @@ these get us in![END]
 
 === 9 | 1c8e0 | 96 ===
 [POR02]
-Hello? Mr. Mini brain-cell?[BRK]
+Hello? Mr. Mini Brain-Cell?[BRK]
 
 We already got the eye out
 of this, remember?[BRK]
@@ -127,14 +127,14 @@ intentions are good,[BRK]
 just like Althena...[END]
 
 === f | 1cd16 | f ===
-Sunken tower 7F[END]
+Sunken Tower 7F[END]
 
 === 10 | 1da74 | e ===
-Secret room #1[END]
+Secret Room #1[END]
 
 === 11 | 1e066 | e ===
-Secret room #2[END]
+Secret Room #2[END]
 
 === 12 | 1e658 | e ===
-Secret room #3[END]
+Secret Room #3[END]
 

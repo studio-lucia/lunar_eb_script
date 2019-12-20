@@ -68,7 +68,7 @@ she's just so...so...[BRK]
 .........empty....[END]
 
 === 4 | 181da | 9c ===
-Lord Leo and lady Mauri have
+Lord Leo and Lady Mauri have
 devoted their lives to 
 further Althena's cause.[BRK]
 
@@ -78,7 +78,7 @@ never sees Mauri anymore.
 [END]
 
 === 5 | 1827c | a2 ===
-Rumor has it that lady
+Rumor has it that Lady
 Mauri has been granted the
 power of the Red Dragon.[BRK]
 
@@ -90,16 +90,16 @@ Ha! That's nothing compared
 to what I can do![END]
 
 === 6 | 18324 | c ===
-Red tower 1F[END]
+Red Tower 1F[END]
 
 === 7 | 18b9a | c ===
-Red tower 2F[END]
+Red Tower 2F[END]
 
 === 8 | 1942a | c ===
-Red tower 3F[END]
+Red Tower 3F[END]
 
 === 9 | 19cb8 | c ===
-Red tower 4F[END]
+Red Tower 4F[END]
 
 === a | 1a55a | 28d ===
 [POR09]
@@ -133,10 +133,10 @@ bottom of this mystery.[BRK]
 ....
 .....[BRK]
 
-<Wink> uh, don't ya mean
+<wink> Uh, don't ya mean
 'bottom of this Mystere?'[BRK]
 
-...psst! Say old buddy,
+...Psst! Say old buddy,
 where'd ya stash your
 mask?[BRK]
 
@@ -147,7 +147,7 @@ I have no disguise stashed![BRK]
 Why would I have a disguise?[END]
 
 === b | 1a7f6 | c ===
-Red tower 5F[END]
+Red Tower 5F[END]
 
 === c | 1b092 | 14e ===
 [POR05]
@@ -160,7 +160,7 @@ I am to see you guys![BRK]
 ....
 .....[BRK]
 
-...uh, hey Leo, what's with
+...Uh, hey Leo, what's with
 the mask?[BRK]
 
 [POR02]
@@ -280,7 +280,7 @@ before I can help you![BRK]
 
 [ROR00]
 [POR15]
-...enough of this nonsense,
+...Enough of this nonsense,
 Ronfar![BRK]
 
 Nothing has changed except
@@ -321,11 +321,11 @@ not me...[BRK]
 Help! I...am awash in a sea
 ....of.....darkness....[BRK]
 
-I-i...am...right here...
+I-I...am...right here...
 ....please, hurry...[BRK]
 
 Release me...before I.....
-i....disappear forever....[BRK]
+I....disappear forever....[BRK]
 
 I...[BRK]
 
@@ -334,7 +334,7 @@ I...[BRK]
 ............you![BRK]
 
 [ROR05]
-...m...Mauri, what in the
+...M...Mauri, what in the
 world is going on!?[BRK]
 
 Are you in there, Mauri?
@@ -360,7 +360,7 @@ this wretched mind...[END]
 
 === f | 1bb70 | 160 ===
 [POR05]
-...and when I woke up, I was
+...And when I woke up, I was
 in this comfy little cell
 countin' hash marks.[BRK]
 
@@ -379,7 +379,7 @@ The fake goddess will pay
 for what she's done to
 Mauri...[BRK]
 
-Believe me...she will
+Believe me...She will
 pay!!!
 
 [END]
@@ -400,7 +400,7 @@ by the deeds of...[BRK]
 
 === 11 | 1bd9e | 194 ===
 [POR02]
-Okay, Leo...uh, I mean
+Okay, Leo...Uh, I mean
 Mystere![BRK]
 
 ....
@@ -428,5 +428,5 @@ help us...
 [END]
 
 === 12 | 1bf68 | c ===
-Red tower 6F[END]
+Red Tower 6F[END]
 

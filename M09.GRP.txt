@@ -33,7 +33,7 @@ get to the Minea Sea, go by
 way of the lake to the east.[BRK]
 
 This is no place for people
-like you...get lost before
+like you...Get lost before
 Borgan finds you!
 [END]
 
@@ -42,11 +42,11 @@ Cross through the cave on
 the eastern end of the lake
 to get to the Minea Sea.[BRK]
 
-...it's a much safer route!
+...It's a much safer route!
 Good luck![END]
 
 === 3 | 7ca0 | 95 ===
-Well, I can tell you that i,
+Well, I can tell you that I,
 for one, am glad to see
 Zaback on the rise again![BRK]
 
@@ -70,12 +70,12 @@ Those that attempt the trial
 to enter but fail it are
 sent here...[BRK]
 
-To labor their meaningless
+to labor their meaningless
 lives away as slaves of
 Borgan.[BRK]
 
 [POR07]
-But...Grandpa...i...[BRK]
+But...Grandpa...I...[BRK]
 
 [POR00]
 Ah, Lemina, you were always
@@ -126,7 +126,7 @@ oppression once pleaded.[END]
 
 === 9 | 817e | 92 ===
 The sun is bright, and the
-breeze is warm...oh, it's
+breeze is warm...Oh, it's
 good to be alive![BRK]
 
 On days like this, I gaze
@@ -134,7 +134,7 @@ upon the Blue Star and wish
 I could live forever![END]
 
 === a | 8222 | 131 ===
-Lemina, my dear...come over
+Lemina, my dear...Come over
 here and sit with me in the
 warm morning sun...[BRK]
 
@@ -164,7 +164,7 @@ misery.[BRK]
 
 Success leads to a life of
 pleasant luxury in the
-service of master Borgan.[BRK]
+service of Master Borgan.[BRK]
 
 It's all determined by one
 small test...and nobody
@@ -212,7 +212,7 @@ It does serve them right![BRK]
 
 [POR02]
 Lemina, Lemina...always the
-same...hoohmhmhommmm...
+same...Hoohmhmhommmm...
 [END]
 
 === f | 871e | 93 ===
@@ -371,7 +371,7 @@ the time...[END]
 === 20 | 90e2 | 21 ===
 [POR07]
 ....
-....he he he...slug lips![END]
+....He he he...Slug lips![END]
 
 === 21 | 9116 | b8 ===
 I don't think it's fair that
@@ -392,7 +392,7 @@ should definitely examine
 the person's savings.[BRK]
 
 [POR02]
-Lemina...you have a one-
+Lemina...You have a one-
 track mind, don't you?[END]
 
 === 23 | 926a | 77 ===
@@ -473,7 +473,7 @@ I'll be glad when the day
 comes that this system is
 abolished...[BRK]
 
-...and it is coming...I can
+...And it is coming...I can
 feel it...[END]
 
 === 2a | 977a | d9 ===
@@ -483,7 +483,7 @@ overlooked by Borgan.[BRK]
 
 He cares only for his
 precious magic power...
-it rules his life...[BRK]
+It rules his life...[BRK]
 
 He is merely a slave of
 another master: namely, his
@@ -572,7 +572,7 @@ If any of us tries to steal
 what we mine, he finds out
 and punishes us severely.[BRK]
 
-...and we're not talkin'
+...And we're not talkin'
 spanking here...
 [END]
 
@@ -605,11 +605,11 @@ forget...
 [END]
 
 === 34 | 9fa8 | a3 ===
-Let's see...Magic of Blaze,
-Magic of Blaze...first I
+Let's see...magic of Blaze,
+magic of Blaze...First I
 have to say...[BRK]
 
-...oh, what's the use! This
+...Oh, what's the use! This
 spell is so complicated I'll
 never remember it![BRK]
 
@@ -642,7 +642,7 @@ It's gonna be so cool!
 Ha ha ha ha ha![BRK]
 
 [POR02]
-Hmmm...sounds like another
+Hmmm...Sounds like another
 little lost boy I know...
 I wonder if they're related![END]
 
@@ -692,7 +692,7 @@ If there's one thing we've
 learned during Zophar's
 oppression, it's that...[BRK]
 
-To prize one ability higher
+to prize one ability higher
 than all others serves only
 to limit ourselves...[END]
 
@@ -703,7 +703,7 @@ Knight Leo.[BRK]
 
 To become a knight for
 Althena, I don't have to
-have magic ability, do i?[BRK]
+have magic ability, do I?[BRK]
 
 I hope not, because my magic
 abilities are off the bottom
@@ -738,7 +738,7 @@ I've grown out of doing all
 that stuff...[END]
 
 === 41 | a870 | 10 ===
-Zaback mine town[END]
+Zaback Mine Town[END]
 
 === 42 | cc7e | 7e ===
 All the miners here are
@@ -916,14 +916,14 @@ defeated Zophar was leader
 of Vane's Magic Guild![BRK]
 
 [POR02]
-T-that's not true! How do
+T-That's not true! How do
 these rumors get started?
 [END]
 
 === 57 | d7c4 | 85 ===
 [POR07]
-You know, Ruby...someone
-calls 'the star' and offers
+You know, Ruby...Someone
+calls 'The Star' and offers
 to make up a story for 100s.[BRK]
 
 Happens all the time. You
@@ -1026,17 +1026,17 @@ he will be able to open the
 school in Zaback![END]
 
 === 62 | de4e | 14 ===
-Zaback mine entrance[END]
+Zaback Mine Entrance[END]
 
 === 63 | e538 | 69 ===
-This transport device is the
+This Transport Device is the
 only way to enter Neo-Vane.[BRK]
 
 To use it, step into the
 center of the circle...[END]
 
 === 64 | e5b4 | 78 ===
-Use of this transport device
+Use of this Transport Device
 is restricted to magic users
 only, by order of Borgan![BRK]
 
@@ -1044,7 +1044,7 @@ All others use it at their
 own risk![END]
 
 === 65 | e632 | 15 ===
-Zaback transport room[END]
+Zaback Transport Room[END]
 
 === 66 | ed10 | 32 ===
 Well there, stranger, what
@@ -1054,7 +1054,7 @@ can I do for you today?[END]
 Thanks for stopping by![END]
 
 === 68 | ed68 | 10 ===
-Zaback item shop[END]
+Zaback Item Shop[END]
 
 === 69 | f458 | 49 ===
 You know, the weapons I sell
@@ -1076,7 +1076,7 @@ It's been a pleasure servin'
 ya! Stop by again some time![END]
 
 === 6d | f562 | d ===
-Zaback bazaar[END]
+Zaback Bazaar[END]
 
 === 6e | fc3c | b6 ===
 Business in the bar is good
@@ -1088,14 +1088,14 @@ slaves of Borgan have no
 cash to pay their tabs![BRK]
 
 I'm up to my ears in
-i.O.U.'S![END]
+I.O.U.'s![END]
 
 === 6f | fd06 | 62 ===
 Say, you guys can pay for
 your drinks in cash, can't
 you?[BRK]
 
-My motto is 'cash service
+My motto is 'Cash service
 with a smile!'[END]
 
 === 70 | fd78 | 6c ===
@@ -1127,7 +1127,7 @@ a giant lion's head![BRK]
 But...you guys look like
 you're too busy...[BRK]
 
-...forget about it.[END]
+...Forget about it.[END]
 
 === 73 | ff5c | 7f ===
 In the Dragon's Nest and
@@ -1193,7 +1193,7 @@ I'm so happy that he passed
 and can now study in Neo-
 Vane, but...[BRK]
 
-...i...i...miss him...so
+...I...I...miss him...so
 very much...[END]
 
 === 79 | 103d4 | 4e ===
@@ -1214,7 +1214,7 @@ I gan goh see mah son iif
 I wan tooo naow! Haay wanna
 <hick> celebrate wif meee?[BRK]
 
-<Hick> this is tha bess
+<hick> This is tha bess
 birfday preesent I could
 haave godden![END]
 
@@ -1227,7 +1227,7 @@ That boy worries too much!
 I don't have a problem...[END]
 
 === 7d | 105f4 | 1e5 ===
-Hey...come close and I'll
+Hey...Come close and I'll
 tell you the old woman's
 story...[BRK]
 
@@ -1261,7 +1261,7 @@ It's hopeless.[BRK]
 
 [POR07]
 Well, maybe you can start a
-local chapter of 'aa' and
+local chapter of 'AA' and
 get her the help she needs![BRK]
 
 Remember, I get half the
@@ -1288,14 +1288,14 @@ started?![BRK]
 
 [POR00]
 In fact, eyewitness accounts
-say that somehow michael and
-lisa-marie were involved![BRK]
+say that somehow Michael and
+Lisa-Marie were involved![BRK]
 
 Something about magic,
-monkeys, makeup, elvis,
+monkeys, makeup, Elvis,
 and....[BRK]
 
-...tito![BRK]
+...Tito![BRK]
 
 [POR02]
 Oouhh, is there ever an end
@@ -1340,7 +1340,7 @@ Why not order a drink and
 celebrate?![END]
 
 === 85 | 10d2a | 93 ===
-<Hick> I used too haav a
+<hick> I used too haav a
 nice purdy wife thaat
 treeted me guud <hick>.[BRK]
 
@@ -1421,7 +1421,7 @@ Is that true?[BRK]
 If it is, they're gonna
 have some butt-ugly babies![BRK]
 
-I can see it now...whoo![END]
+I can see it now...Whoo![END]
 
 === 8e | 112ae | e3 ===
 [POR07]
@@ -1441,7 +1441,7 @@ that...bullfrog!
 [END]
 
 === 8f | 11396 | a ===
-Zaback bar[END]
+Zaback Bar[END]
 
 === 90 | 11bf4 | 147 ===
 Slaving in the mines is a
@@ -1618,7 +1618,7 @@ change? You're hopeless!
 I feel kinda bad for my big
 brother...[BRK]
 
-Mom and dad are always
+Mom and Dad are always
 yelling at him to do better
 in his magic studies.[BRK]
 
@@ -1665,7 +1665,7 @@ brother that'd bring me back
 valuable treasures for free![END]
 
 === a6 | 1295c | e ===
-Zaback house 1[END]
+Zaback House 1[END]
 
 === a7 | 12ffa | c6 ===
 I'm here because I didn't
@@ -1731,7 +1731,7 @@ Magic ability isn't the only
 criteria of the Guild of
 Vane.[BRK]
 
-...if he pays me, I might
+...If he pays me, I might
 be able to teach him
 humility...[BRK]
 
@@ -1744,8 +1744,8 @@ new scams! You're shameless![BRK]
 ....
 .....[BRK]
 
-...well, I have to try,
-don't i? You know, to
+...Well, I have to try,
+don't I? You know, to
 finance the rebuilding...[BRK]
 
 [POR02]
@@ -1777,7 +1777,7 @@ brain![END]
 
 === af | 13670 | 98 ===
 The boy next door still
-can't do the Magic of Blaze,[BRK]
+can't do the magic of Blaze,[BRK]
 
 but my boy mastered that
 when he was only three![BRK]
@@ -1793,7 +1793,7 @@ My son's still a genius.
 He'll find another calling,
 I'm sure...[BRK]
 
-...unlike that loser kid
+...Unlike that loser kid
 next door. Ha ha ha ha ha![END]
 
 === b1 | 137dc | 8d ===
@@ -1812,9 +1812,9 @@ perfect boy...[BRK]
 
 In fact, I don't think the
 neighbor boy even has the
-iq for butt-wiping.[BRK]
+IQ for butt-wiping.[BRK]
 
-...his own included. Lord!
+...His own included. Lord!
 His parents must be so very
 embarrassed!
 
@@ -1912,7 +1912,7 @@ My brother isn't the only
 genius in this family.[BRK]
 
 But we don't just pop out
-smart...we have to study,
+smart...We have to study,
 so leave me alone![END]
 
 === ba | 13f3a | 47 ===
@@ -1941,10 +1941,10 @@ I made some new friends in
 town. We're making a secret
 ship to go to Neo-Vane![BRK]
 
-...but don't tell my
-brother. He'll tell mom and
-dad...[END]
+...But don't tell my
+brother. He'll tell Mom and
+Dad...[END]
 
 === be | 14128 | e ===
-Zaback house 2[END]
+Zaback House 2[END]
 

@@ -3,11 +3,11 @@ File: M22.GRP
 Messages: 3
 
 === 0 | e9d4 | 12 ===
-Katarina zone west[END]
+Katarina Zone West[END]
 
 === 1 | 147e2 | 12 ===
-Katarina zone west[END]
+Katarina Zone West[END]
 
 === 2 | 1a74c | 12 ===
-Katarina zone west[END]
+Katarina Zone West[END]
 

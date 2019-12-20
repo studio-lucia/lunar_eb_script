@@ -48,7 +48,7 @@ extra hand, especially one
 skilled in magic![BRK]
 
 [POR02]
-B-b...but we didn't ask you
+B-B...But we didn't ask you
 to...[BRK]
 
 [POR07]
@@ -109,7 +109,7 @@ by! Let's go!
 [END]
 
 === 2 | 13cdc | 11 ===
-Ghost manor attic[END]
+Ghost Manor Attic[END]
 
 === 3 | 149aa | 44 ===
 [POR02]
@@ -118,23 +118,23 @@ creepy feeling we're not
 alone in here...[END]
 
 === 4 | 14a0a | 80 ===
-           Bang![BRK]
+           BANG![BRK]
 
 [POR02]
-W-what was that?[BRK]
+W-What was that?[BRK]
 
 [POR05]
 It sounded like a door
 slamming open or shut.[BRK]
 
 [POR02]
-D-do you think it was a
+D-Do you think it was a
 ...a...ghost?
 
 [END]
 
 === 5 | 14aa6 | 90 ===
-           Bang![BRK]
+           BANG![BRK]
 
 [POR02]
 There it is again! Now that
@@ -142,7 +142,7 @@ I think about it, it's
 probably not a ghost...[BRK]
 
 They wouldn't be using a
-door...w-would they?
+door...W-Would they?
 
 
 
@@ -153,7 +153,7 @@ Whooooo hooo hooo hoo! Wind
 shriek sharply to pass my
 test...[BRK]
 
-...shriek.....sharply...![BRK]
+...Shriek.....sharply...![BRK]
 
 [POR02]
 That...sounded...like...a
@@ -161,11 +161,11 @@ That...sounded...like...a
 
 [POR00]
 Wind...wind...wind! Mark
-and remember......whoooooo![BRK]
+and remember......Whoooooo![BRK]
 
 [POR02]
-W...w-w-what is he talking
-about? L-let's get out of
+W...W-W-What is he talking
+about? L-Let's get out of
 here!
 
 
@@ -180,7 +180,7 @@ Wind...wind...wind! Send
 forth your power...[BRK]
 
 [POR02]
-I-i...wish that ghost would
+I-I...wish that ghost would
 stop that! What is it
 talking about?[BRK]
 
@@ -192,7 +192,7 @@ out!
 === 8 | 14d4e | 9d ===
 Close the shutters and open
 the door to opportunity...
-...whoooooo![BRK]
+...Whoooooo![BRK]
 
 [POR01]
 ....
@@ -214,12 +214,12 @@ There it is again! What the
 heck is that creepy thing
 getting at??[BRK]
 
-Wait...hmm...window of the
-soul...doesn't that mean...?[END]
+Wait...hmm...Window of the
+soul...Doesn't that mean...?[END]
 
 === a | 14ef6 | 75 ===
-Dancer...dancer, light on
-your feet...you hold the
+Dancer...Dancer, light on
+your feet...You hold the
 key to salvation...[BRK]
 
 [POR10]
@@ -231,7 +231,7 @@ All will be revealed if you
 search out your heart.[BRK]
 
 The key unique lies within
-your soul...find it![BRK]
+your soul...Find it![BRK]
 
 [POR10]
 Don't taunt us! Tell us the
@@ -239,14 +239,14 @@ answer!
 [END]
 
 === c | 1502a | 11 ===
-Ghost manor lobby[END]
+Ghost Manor Lobby[END]
 
 === d | 15ef0 | a ===
-Manor exit[END]
+Manor Exit[END]
 
 === e | 16668 | 10 ===
-Manor hall to 1F[END]
+Manor Hall to 1F[END]
 
 === f | 16c5c | 10 ===
-Manor hall to 2F[END]
+Manor Hall to 2F[END]
 

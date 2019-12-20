@@ -24,7 +24,7 @@ levitate an entire city is
 coming from...?[BRK]
 
 [POR07]
-It is...it must be![BRK]
+It is...It must be![BRK]
 
 I don't believe it! It's
 Neo-Vane!
@@ -52,5 +52,5 @@ If that's the case, their
 range must be limited. [END]
 
 === 2 | 10202 | b ===
-Marius zone[END]
+Marius Zone[END]
 

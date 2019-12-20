@@ -3,10 +3,10 @@ File: M36.GRP
 Messages: 45
 
 === 0 | 14d96 | 13 ===
-Neo-trial warp room[END]
+Neo-Trial Warp Room[END]
 
 === 1 | 1549a | 11 ===
-Neo-trial cave B1[END]
+Neo-Trial Cave B1[END]
 
 === 2 | 16810 | 146 ===
 [POR05]
@@ -48,7 +48,7 @@ labyrinth.[BRK]
 It's some sorta secret
 entrance to the Magic Guild.[BRK]
 
-They say that lord fatty
+They say that Lord Fatty
 uses it, so let's keep our
 eyes peeled.[END]
 
@@ -65,7 +65,7 @@ I'm more of a hands-on
 person...[BRK]
 
 But to be dropped into the
-pit like that...ow![BRK]
+pit like that...Ow![BRK]
 
 [POR07]
 Jean, I...
@@ -134,7 +134,7 @@ treat us like this.[BRK]
 .....[END]
 
 === a | 16eee | 5e ===
-His lardness hasn't been 
+His Lardness hasn't been 
 down here for a long time.[BRK]
 
 Do you think he has a girl?[BRK]
@@ -183,7 +183,7 @@ all the work I've done?
 [END]
 
 === e | 171ea | db ===
-Why doesn't his fatness use
+Why doesn't His Fatness use
 those great magic powers to
 do this work for us?[BRK]
 
@@ -238,7 +238,7 @@ Neo-Vane? Tell me if you
 saw him with another woman. [BRK]
 
 I've been talking to 
-loraina...[BRK]
+Loraina...[BRK]
 
 And she's told me how to 
 take care of a man that 
@@ -271,7 +271,7 @@ destroyed.[BRK]
 
 Oh, I'm so sad...[BRK]
 
-...ha! Like hell I am.[BRK]
+...Ha! Like hell I am.[BRK]
 
 This is the happiest day
 of my life![END]
@@ -340,13 +340,13 @@ complaining about that...
 [END]
 
 === 1f | 17c0a | 11 ===
-Neo-trial cave B2[END]
+Neo-Trial Cave B2[END]
 
 === 20 | 19034 | 11 ===
-Neo-trial cave B3[END]
+Neo-Trial Cave B3[END]
 
 === 21 | 1a644 | 11 ===
-Neo-trial cave B4[END]
+Neo-Trial Cave B4[END]
 
 === 22 | 1b94e | 85 ===
 [POR07]
@@ -383,10 +383,10 @@ spell on this barrier...[END]
 [POR07]
 Ha! There![BRK]
 
-...let's go![END]
+...Let's go![END]
 
 === 27 | 1bb60 | 88 ===
-The transport pad over
+The Transport Pad over
 there leads to Borgan's
 Magic Guild.[BRK]
 
@@ -432,5 +432,5 @@ guards will find you and
 beat the crap out of you.[END]
 
 === 2c | 1be4e | 11 ===
-Neo-trial cave B5[END]
+Neo-Trial Cave B5[END]
 

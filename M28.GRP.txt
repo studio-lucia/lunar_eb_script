@@ -3,16 +3,16 @@ File: M28.GRP
 Messages: 17
 
 === 0 | 19434 | f ===
-Black dragon B1[END]
+Black Dragon B1[END]
 
 === 1 | 1a518 | f ===
-Black dragon B2[END]
+Black Dragon B2[END]
 
 === 2 | 1c322 | f ===
-Black dragon B3[END]
+Black Dragon B3[END]
 
 === 3 | 1dc72 | 10 ===
-Black dragon pit[END]
+Black Dragon Pit[END]
 
 === 4 | 1ec6c | 5f ===
 This is where one's true
@@ -22,16 +22,16 @@ Calm your fear and take
 a leap of faith...[END]
 
 === 5 | 1ecd0 | 11 ===
-Black dragon pass[END]
+Black Dragon Pass[END]
 
 === 6 | 20a64 | f ===
-Black dragon B4[END]
+Black Dragon B4[END]
 
 === 7 | 22b52 | f ===
-Black dragon B5[END]
+Black Dragon B5[END]
 
 === 8 | 25078 | f ===
-Black dragon B6[END]
+Black Dragon B6[END]
 
 === 9 | 267f8 | 2e ===
 [0xB][0][0x7]Threw the Black Dragon
@@ -39,7 +39,7 @@ Aura at the crystal![END]
 
 === a | 26836 | 32f ===
 [POR26]
-Ah! Lucia...you have come![BRK]
+Ah! Lucia...You have come![BRK]
 
 But...were you summoned by
 Althena?[BRK]
@@ -57,7 +57,7 @@ break the seal binding you.[BRK]
 
 In order to get to Althena,
 we had to release all of the
-bound dragonpower.[BRK]
+bound Dragonpower.[BRK]
 
 Zophar is planning to
 decimate this world,[BRK]
@@ -129,7 +129,7 @@ Why do you wish to go there?[BRK]
 [POR01]
 Because Lucia is there...[BRK]
 
-I-i can't leave her all
+I-I can't leave her all
 alone...[BRK]
 
 [POR26]
@@ -165,8 +165,8 @@ I...I know it sounds silly,
 but I'm kind of...scared.[END]
 
 === f | 26ec0 | 13 ===
-Black dragon's lair[END]
+Black Dragon's Lair[END]
 
 === 10 | 276a8 | f ===
-Black dragon B7[END]
+Black Dragon B7[END]
 

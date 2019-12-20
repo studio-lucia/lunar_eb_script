@@ -3,8 +3,8 @@ File: M48.GRP
 Messages: 2
 
 === 0 | fe18 | 11 ===
-Zophar's pinnacle[END]
+Zophar's Pinnacle[END]
 
 === 1 | 11f68 | d ===
-Dark corridor[END]
+Dark Corridor[END]
 

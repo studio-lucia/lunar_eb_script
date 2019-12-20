@@ -4,7 +4,7 @@ Messages: 211
 
 === 0 | 19186 | 44a ===
 [POR00]
-Ah! You've returned! I...i
+Ah! You've returned! I...I
 don't know how to thank
 you!![BRK]
 
@@ -22,7 +22,7 @@ We were successful in part
 because I was able to modify
 my dance steps for combat...[BRK]
 
-...but...Giban, the time
+...But...Giban, the time
 has come for me to...[BRK]
 
 [POR00]
@@ -41,7 +41,7 @@ problems I've been running
 away from...[BRK]
 
 I wish I could tell you 
-more...just know that it's
+more...Just know that it's
 something I must do.[BRK]
 
 [POR00]
@@ -106,7 +106,7 @@ Hiro.[END]
 
 === 3 | 196c8 | 206 ===
 [POR10]
-Hiro...hmm, that's the
+Hiro...Hmm, that's the
 strangest name I've ever
 heard...[BRK]
 
@@ -129,7 +129,7 @@ It'll just take five
 minutes...[BRK]
 
 [POR08]
-...what's wrong with my
+...What's wrong with my
 .......dress!?[BRK]
 
 [POR10]
@@ -150,7 +150,7 @@ you like.
 Hiro, where are you and
 your companions headed?[BRK]
 
-What?...the holy city of
+What?...The Holy City of
 Pentagulia! Are you going
 to go see the Goddess?[BRK]
 
@@ -222,7 +222,7 @@ coming from the hole in the
 eastern tree over there...[BRK]
 
 [POR10]
-...what hole!? I...I don't
+...What hole!? I...I don't
 see any hole in the tree
 over there...???[BRK]
 
@@ -236,7 +236,7 @@ Hmmm...the magic must've
 been cast to keep outsiders
 from finding it.[BRK]
 
-Show me this hole...perhaps
+Show me this hole...Perhaps
 with your help, we can
 defeat this, this...beast![BRK]
 
@@ -311,7 +311,7 @@ thing that keeps her from
 her dark secrets.[BRK]
 
 I've grown quite attached
-to the girl...don't know
+to the girl...Don't know
 what I'd do without her...[END]
 
 === b | 1a2de | 74 ===
@@ -320,7 +320,7 @@ You mark my words, Jean is
 going to be the best dancer
 in the whole world...[BRK]
 
-...if we all live to see
+...If we all live to see
 that day...[END]
 
 === c | 1a366 | d5 ===
@@ -438,10 +438,10 @@ As if you don't have
 problems![END]
 
 === 14 | 1a9b0 | 91 ===
-Did...did you see what just
+Did...Did you see what just
 happened? Oh my god![BRK]
 
-The ground...it just opened
+The ground...It just opened
 up and swallowed half the
 troupe![BRK]
 
@@ -464,7 +464,7 @@ first...[END]
 === 16 | 1ab14 | 94 ===
 'Join the carnival! Go see
 the world! You'll have an
-adventure!' They all said.[BRK]
+adventure!' they all said.[BRK]
 
 Now I'm probably stuck in
 these creepy woods forever![BRK]
@@ -481,7 +481,7 @@ all.[BRK]
 I knew I should've been an
 undertaker...but nooooooo,[BRK]
 
-'try the carnival,' they all
+'Try the carnival,' they all
 said. Ha! Some fun![END]
 
 === 18 | 1ac76 | 7e ===
@@ -516,7 +516,7 @@ You'll love my friendly,
 quality service.[BRK]
 
 I'm even endorsed by a 
-former star of Miami vice.[END]
+former star of Miami Vice.[END]
 
 === 1b | 1ae90 | f0 ===
 I knew that you were going
@@ -543,7 +543,7 @@ you will return to us...
 [END]
 
 === 1d | 1b022 | 60 ===
-Ahhh....what a beautiful
+Ahhh....What a beautiful
 day to be alive...[BRK]
 
 The clean, fresh air...
@@ -846,8 +846,8 @@ others![END]
 
 === 37 | 1c24c | ba ===
 Ke...ke...eeee
-ku ke...ku...ke
-ka ka...ka...ka![BRK]
+Ku ke...ku...ke
+Ka ka...ka...ka![BRK]
 
 [POR08]
 I don't think I've ever
@@ -897,7 +897,7 @@ the last minute![BRK]
 
 I thought we were all
 dead meat back there,
-wiiilllburrr![BRK]
+Wiiilllburrr![BRK]
 
 [POR02]
 Why do you keep calling me
@@ -913,11 +913,11 @@ Where'd you ever get that
 idea?[END]
 
 === 3b | 1c5d2 | 12 ===
-Ill woods clearing[END]
+Ill Woods Clearing[END]
 
 === 3c | 1e2da | 44a ===
 [POR00]
-Ah! You've returned! I...i
+Ah! You've returned! I...I
 don't know how to thank
 you!![BRK]
 
@@ -935,7 +935,7 @@ We were successful in part
 because I was able to modify
 my dance steps for combat...[BRK]
 
-...but...Giban, the time
+...But...Giban, the time
 has come for me to...[BRK]
 
 [POR00]
@@ -954,7 +954,7 @@ problems I've been running
 away from...[BRK]
 
 I wish I could tell you 
-more...just know that it's
+more...Just know that it's
 something I must do.[BRK]
 
 [POR00]
@@ -998,7 +998,7 @@ Now get out of here...
 
 === 3d | 1e73c | 46 ===
 [POR02]
-...listen, Hiro! It sounds
+...Listen, Hiro! It sounds
 like music.[BRK]
 
 What's going on over
@@ -1018,7 +1018,7 @@ Hiro.[END]
 
 === 3f | 1e81c | 206 ===
 [POR10]
-Hiro...hmm, that's the
+Hiro...Hmm, that's the
 strangest name I've ever
 heard...[BRK]
 
@@ -1041,7 +1041,7 @@ It'll just take five
 minutes...[BRK]
 
 [POR08]
-...what's wrong with my
+...What's wrong with my
 .......dress!?[BRK]
 
 [POR10]
@@ -1133,7 +1133,7 @@ coming from the hole in the
 eastern tree over there...[BRK]
 
 [POR10]
-...what hole!? I...I don't
+...What hole!? I...I don't
 see any hole in the tree
 over there....???[BRK]
 
@@ -1143,11 +1143,11 @@ magic spell on it. Only
 we can see it.[BRK]
 
 [POR10]
-Hmmm...the magic must've
+Hmmm...The magic must've
 been cast to keep outsiders
 from finding it.[BRK]
 
-Show me this hole...perhaps
+Show me this hole...Perhaps
 with your help, we can
 defeat this, this...beast![BRK]
 
@@ -1223,7 +1223,7 @@ thing that keeps her from
 her dark secrets.[BRK]
 
 I've grown quite attached
-to the girl...don't know
+to the girl...Don't know
 what I'd do without her...[END]
 
 === 47 | 1f432 | 74 ===
@@ -1232,7 +1232,7 @@ You mark my words, Jean is
 going to be the best dancer
 in the whole world...[BRK]
 
-...if we all live to see
+...If we all live to see
 that day...[END]
 
 === 48 | 1f4ba | d5 ===
@@ -1350,10 +1350,10 @@ As if you don't have
 problems![END]
 
 === 50 | 1fb04 | 91 ===
-Did...did you see what just
+Did...Did you see what just
 happened? Oh my god![BRK]
 
-The ground...it just opened
+The ground...It just opened
 up and swallowed half the
 troupe![BRK]
 
@@ -1376,7 +1376,7 @@ first...[END]
 === 52 | 1fc68 | 94 ===
 'Join the carnival! Go see
 the world! You'll have an
-adventure!' They all said.[BRK]
+adventure!' they all said.[BRK]
 
 Now I'm probably stuck in
 these creepy woods forever![BRK]
@@ -1393,7 +1393,7 @@ all.[BRK]
 I knew I should've been an
 undertaker...but nooooooo,[BRK]
 
-'try the carnival,' they all
+'Try the carnival,' they all
 said. Ha! Some fun![END]
 
 === 54 | 1fdca | 7e ===
@@ -1428,7 +1428,7 @@ You'll love my friendly,
 quality service.[BRK]
 
 I'm even endorsed by a 
-former star of Miami vice.[END]
+former star of Miami Vice.[END]
 
 === 57 | 1ffe4 | f0 ===
 I knew that you were going
@@ -1455,7 +1455,7 @@ you will return to us...
 [END]
 
 === 59 | 20176 | 60 ===
-Ahhh....what a beautiful
+Ahhh....What a beautiful
 day to be alive...[BRK]
 
 The clean, fresh air...
@@ -1758,8 +1758,8 @@ others![END]
 
 === 73 | 213a0 | ba ===
 Ke...ke...eeee
-ku ke...ku...ke
-ka ka...ka...ka![BRK]
+Ku ke...ku...ke
+Ka ka...ka...ka![BRK]
 
 [POR08]
 I don't think I've ever
@@ -1809,7 +1809,7 @@ the last minute![BRK]
 
 I thought we were all
 dead meat back there,
-wiiilllburrr![BRK]
+Wiiilllburrr![BRK]
 
 [POR02]
 Why do you keep calling me
@@ -1825,11 +1825,11 @@ Where'd you ever get that
 idea?[END]
 
 === 77 | 21726 | 12 ===
-Ill woods clearing[END]
+Ill Woods Clearing[END]
 
 === 78 | 233f8 | 44a ===
 [POR00]
-Ah! You've returned! I...i
+Ah! You've returned! I...I
 don't know how to thank
 you!![BRK]
 
@@ -1847,7 +1847,7 @@ We were successful in part
 because I was able to modify
 my dance steps for combat...[BRK]
 
-...but...Giban, the time
+...But...Giban, the time
 has come for me to...[BRK]
 
 [POR00]
@@ -1910,7 +1910,7 @@ Now get out of here...
 
 === 79 | 2385a | 46 ===
 [POR02]
-...listen, Hiro! It sounds
+...Listen, Hiro! It sounds
 like music.[BRK]
 
 What's going on over
@@ -1930,7 +1930,7 @@ Hiro.[END]
 
 === 7b | 2393a | 206 ===
 [POR10]
-Hiro...hmm, that's the
+Hiro...Hmm, that's the
 strangest name I've ever
 heard...[BRK]
 
@@ -1953,7 +1953,7 @@ It'll just take five
 minutes...[BRK]
 
 [POR08]
-...what's wrong with my
+...What's wrong with my
 .......dress!?[BRK]
 
 [POR10]
@@ -1973,7 +1973,7 @@ you like.
 Hiro, where are you and
 your companions headed?[BRK]
 
-What?...the holy city of
+What?...The holy city of
 Pentagulia! Are you going
 to go see the Goddess?[BRK]
 
@@ -2045,7 +2045,7 @@ coming from the hole in the
 eastern tree over there...[BRK]
 
 [POR10]
-...what hole!? I...I don't
+...What hole!? I...I don't
 see any hole in the tree
 over there...???[BRK]
 
@@ -2055,11 +2055,11 @@ magic spell on it. Only
 we can see it.[BRK]
 
 [POR10]
-Hmmm...the magic must've
+Hmmm...The magic must've
 been cast to keep outsiders
 from finding it.[BRK]
 
-Show me this hole...perhaps
+Show me this hole...Perhaps
 with your help, we can
 defeat this, this...beast![BRK]
 
@@ -2134,7 +2134,7 @@ thing that keeps her from
 her dark secrets.[BRK]
 
 I've grown quite attached
-to the girl...don't know
+to the girl...Don't know
 what I'd do without her...[END]
 
 === 83 | 24550 | 74 ===
@@ -2143,7 +2143,7 @@ You mark my words, Jean is
 going to be the best dancer
 in the whole world...[BRK]
 
-...if we all live to see
+...If we all live to see
 that day...[END]
 
 === 84 | 245d8 | d5 ===
@@ -2262,10 +2262,10 @@ As if you don't have
 problems![END]
 
 === 8c | 24c22 | 91 ===
-Did...did you see what just
+Did...Did you see what just
 happened? Oh my god![BRK]
 
-The ground...it just opened
+The ground...It just opened
 up and swallowed half the
 troupe![BRK]
 
@@ -2288,7 +2288,7 @@ first...[END]
 === 8e | 24d86 | 94 ===
 'Join the carnival! Go see
 the world! You'll have an
-adventure!' They all said.[BRK]
+adventure!' they all said.[BRK]
 
 Now, I'm probably stuck in
 these creepy woods forever![BRK]
@@ -2304,7 +2304,7 @@ all.[BRK]
 I knew I should've been an
 undertaker...but nooooooo,[BRK]
 
-'try the carnival,' they all
+'Try the carnival,' they all
 said. Ha! Some fun![END]
 
 === 90 | 24ee8 | 7e ===
@@ -2339,7 +2339,7 @@ You'll love my friendly,
 quality service.[BRK]
 
 I'm even endorsed by a 
-former star of Miami vice.[END]
+former star of Miami Vice.[END]
 
 === 93 | 25102 | f0 ===
 I knew that you were going
@@ -2366,7 +2366,7 @@ you will return to us...
 [END]
 
 === 95 | 25294 | 60 ===
-Ahhh...what a beautiful
+Ahhh...What a beautiful
 day to be alive...[BRK]
 
 The clean, fresh air...
@@ -2402,7 +2402,7 @@ Please! You have to find
 a way to stop the terrible
 monster![BRK]
 
-Our friends...all of our
+Our friends...All of our
 friends are just...gone![END]
 
 === 9a | 25526 | 39 ===
@@ -2670,8 +2670,8 @@ others![END]
 
 === af | 264be | ba ===
 Ke...ke...eeee
-ku ke...ku...ke
-ka ka...ka...ka![BRK]
+Ku ke...ku...ke
+Ka ka...ka...ka![BRK]
 
 [POR08]
 I don't think I've ever
@@ -2722,7 +2722,7 @@ the last minute![BRK]
 
 I thought we were all
 dead meat back there,
-wiiilllburrr![BRK]
+Wiiilllburrr![BRK]
 
 [POR02]
 Why do you keep calling me
@@ -2738,7 +2738,7 @@ Where'd you ever get that
 idea?[END]
 
 === b3 | 26844 | 12 ===
-Ill woods clearing[END]
+Ill Woods Clearing[END]
 
 === b4 | 283e8 | 13e ===
 My big sister Jean is a fan
@@ -2781,11 +2781,11 @@ brother. But I don't think
 I need to use karate.[END]
 
 === b8 | 2867c | 15d ===
-Jean...you're going to leave
+Jean...You're going to leave
 us, aren't you? Please don't
 go![BRK]
 
-I-i need you to stay so you
+I-I need you to stay so you
 can teach me karate![BRK]
 
 [POR10]
@@ -2829,7 +2829,7 @@ kill us all!
 [END]
 
 === bb | 28970 | 75 ===
-Jean...this is really
+Jean...This is really
 tough for me to admit,[BRK]
 
 ....
@@ -2859,7 +2859,7 @@ From now on, we're nothing
 but the best of friends![END]
 
 === bd | 28b0e | 1f8 ===
-...oh Jean! Do you know the
+...Oh Jean! Do you know the
 affection I feel for you?[BRK]
 
 Ever since I first saw your
@@ -2949,7 +2949,7 @@ Excuse me? Where is this
 coming from?[END]
 
 === c2 | 290aa | f ===
-Caravan coach 1[END]
+Caravan Coach 1[END]
 
 === c3 | 296c2 | 13c ===
 La la la la la la la
@@ -2985,7 +2985,7 @@ La la la la la...
 A monster, a monster! It
 came to our door![BRK]
 
-A monster! A monster! Is
+A monster! A monster! is
 outside no more![BRK]
 
 [POR02]
@@ -3039,7 +3039,7 @@ this...
 
 === c8 | 29b98 | 51 ===
 Ohhhh! This is terrible!
-Just terrible...the monster
+Just terrible...The monster
 will get us all, eventually![END]
 
 === c9 | 29bf8 | 92 ===
@@ -3056,7 +3056,7 @@ me in the dancing roster!
 [END]
 
 === ca | 29c90 | f ===
-Caravan coach 2[END]
+Caravan Coach 2[END]
 
 === cb | 2a2bc | 1a3 ===
 Have you ever seen anything
@@ -3124,7 +3124,7 @@ again anytime...if you can
 find me![END]
 
 === d0 | 2a6b8 | f ===
-Caravan coach 3[END]
+Caravan Coach 3[END]
 
 === d1 | 2ace4 | 154 ===
 [POR02]
@@ -3158,5 +3158,5 @@ my eyes, you arrogant
 boob...[END]
 
 === d2 | 2ae42 | 10 ===
-Plantella's lair[END]
+Plantella's Lair[END]
 

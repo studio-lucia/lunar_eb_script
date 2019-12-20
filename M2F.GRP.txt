@@ -32,7 +32,7 @@ See?[BRK]
 [0xB][0][0x5]Showed the invitation.[END]
 
 === 1 | 181f0 | 125 ===
-Heh heh...you must be one
+Heh heh...You must be one
 crazy freak to enter this
 competition.[BRK]
 
@@ -108,7 +108,7 @@ of your own?[BRK]
 What a novel idea. I didn't
 even think of that!![BRK]
 
-<Whack> <slam> <bam> [BRK]
+<whack> <slam> <bam> [BRK]
 
 Heh heh heh, I just gave
 myself a bloody nose![BRK]
@@ -116,11 +116,11 @@ myself a bloody nose![BRK]
 ....
 .....[BRK]
 
-Look!......look at the
+Look!......Look at the
 blood! Wooowwww![BRK]
 
 [POR02]
-...whew! This guy needs some
+...Whew! This guy needs some
 serious help![BRK]
 
 I'm thinking...[BRK]
@@ -150,8 +150,8 @@ have a headache.[BRK]
 But man! Can my head
 bleed![BRK]
 
-It was spewing like old
-faithful![BRK]
+It was spewing like Old
+Faithful![BRK]
 
 Talk about cool!
 [END]
@@ -161,7 +161,7 @@ I've seen so much of my
 blood during the last few
 minutes that...[BRK]
 
-...i...can't...keep...
+...I...can't...keep...
 a...wa...ke....
 [END]
 
@@ -177,63 +177,63 @@ won't find it anywhere
 else for less![END]
 
 === b | 18944 | 118 ===
-The 1st level  match no. 1
-Gale karate
-            vs. Bunny karate[BRK]
+The 1st Level  Match No. 1
+Gale Karate
+            vs. Bunny Karate[BRK]
 
-The 1st level  match no. 2
-Wolf karate
-            vs. Drunk karate[BRK]
+The 1st Level  Match No. 2
+Wolf Karate
+            vs. Drunk Karate[BRK]
 
-The 1st level  match no. 3
-Jean and party
-         vs. Assassin karate[BRK]
+The 1st Level  Match No. 3
+Jean and Party
+         vs. Assassin Karate[BRK]
 
-The 1st level  match no. 4
-Armadillo karate 
-      vs. Blue dragon karate[END]
+The 1st Level  Match No. 4
+Armadillo Karate 
+      vs. Blue Dragon Karate[END]
 
 === c | 18a70 | 34 ===
 [0x5]Who won the first level? 
 List for the second level[END]
 
 === d | 18ab4 | d1 ===
-The 1st level  match no. 1
+The 1st Level  Match No. 1
   Winner = Bunny Karate[BRK]
 
-The 1st level  match no. 2
+The 1st Level  Match No. 2
    Winner = Wolf Karate[BRK]
 
-The 1st level  match no. 3
-  Winner = Jean and party[BRK]
+The 1st Level  Match No. 3
+  Winner = Jean and Party[BRK]
 
-The 1st level  match no. 4
+The 1st Level  Match No. 4
 Winner = Blue Dragon Karate[END]
 
 === e | 18b96 | 92 ===
-The 2nd level  match no. 1
-Blue dragon karate
-            vs. Bunny karate[BRK]
+The 2nd Level  Match No. 1
+Blue Dragon Karate
+            vs. Bunny Karate[BRK]
 
-The 2nd level  match no. 2
-Jean and party
-             vs. Wolf karate [END]
+The 2nd Level  Match No. 2
+Jean and Party
+             vs. Wolf Karate [END]
 
 === f | 18c3c | 35 ===
 [0x5]Who won the second match?
 How about the final stage?[END]
 
 === 10 | 18c80 | 6b ===
-The 2nd level  match no. 1
+The 2nd Level  Match No. 1
 Winner = Blue Dragon Karate[BRK]
 
-The 2nd level  match no. 2
-  Winner = Jean and party[END]
+The 2nd Level  Match No. 2
+  Winner = Jean and Party[END]
 
 === 11 | 18cfc | 47 ===
-        The final match
+        The Final Match
 Blue Dragon Karate
-          vs. Jean and party[END]
+          vs. Jean and Party[END]
 
 === 12 | 18d56 | d7 ===
 Well, this is a shock! The
@@ -299,7 +299,7 @@ We could make some really
 big bucks![BRK]
 
 Don't worry, I won't become 
-like don king![BRK]
+like Don King![BRK]
 
 All I want is three-fourths
 of the profits!
@@ -339,7 +339,7 @@ I will be the team leader.[BRK]
 
 Hiro will be second.[BRK]
 
-...that is, if you would
+...That is, if you would
 like to fight with me,
 Hiro.[BRK]
 
@@ -358,7 +358,7 @@ are just as good as men
 these days?[BRK]
 
 [POR05]
-Ookey-dokey...fine then!
+Ookey-dokey...Fine then!
 Lemina, why don't you take
 my place...[BRK]
 
@@ -367,7 +367,7 @@ Ha! Just watch me kick their
 mega-sorry butts![BRK]
 
 [POR05]
-...but you do know that
+...But you do know that
 there's no money in it
 for you, don't you?[BRK]
 
@@ -412,7 +412,7 @@ challenged us, weaklings![BRK]
 Take this!![END]
 
 === 1e | 1963a | af ===
-Ha ha ha...what a pathetic
+Ha ha ha...What a pathetic
 waste of skin![BRK]
 
 They deserved to be
@@ -524,8 +524,8 @@ Whuh ho! What a fight!![BRK]
 
 That was incredible![BRK]
 
-The winners are the clan
-of Jean's dojo![BRK]
+The winners are the Clan
+of Jean's Dojo![BRK]
 
 [POR02]
 Ha! I knew you'd kick their
@@ -547,7 +547,7 @@ I could've sworn I heard
 some annoying person
 talking.[BRK]
 
-Hmm...maybe it was just my
+Hmm...Maybe it was just my
 imagination...[END]
 
 === 28 | 19dce | 3d ===
@@ -670,7 +670,7 @@ looking for a back door.[END]
 === 2f | 1a474 | 19e ===
 [POR16]
 At last, the time has come
-for my precious cult to
+for my precious Cult to
 show you the light.[BRK]
 
 Your next match is with
@@ -794,7 +794,7 @@ I'm gonna make a killing![BRK]
 [POR10]
 You...bet...on...?!![BRK]
 
-...uh...thanks, Ronfar.[BRK]
+...Uh...Thanks, Ronfar.[BRK]
 
 That bet is the highest vote
 of confidence you could have
@@ -840,11 +840,11 @@ Get in the ring!
 
 === 35 | 1add2 | 332 ===
 [POR16]
-Well...well done, Jean.
+Well...Well done, Jean.
 But ho...how can...[BRK]
 
 This makes...no sense...
-...i...am...the master![BRK]
+...I...am...the master![BRK]
 
 We share the knowledge of
 Blue Dragon Karate, but
@@ -915,8 +915,8 @@ Blue Dragon![END]
 
 === 37 | 1b1b8 | 1ca ===
 [POR16]
-The sanctuary of the blue 
-dragon is located in a cave
+The sanctuary of the Blue 
+Dragon is located in a cave
 north of here.[BRK]
 
 However, you can't reach
@@ -998,7 +998,7 @@ Please...forgive me.[BRK]
 [POR16]
 Take the Blue Dragon Aura
 I have given you and go to
-the Blue Dragon sanctuary.[BRK]
+the Blue Dragon Sanctuary.[BRK]
 
 Release the Blue Dragon-
 power from the seal and
@@ -1029,7 +1029,7 @@ me.
 === 3c | 1b7a8 | f7 ===
 [POR16]
 Jean, I'm developing a new
-karate. It is holy karate.[BRK]
+karate. It is Holy Karate.[BRK]
 
 This is what my former
 master taught me, and I will
@@ -1047,7 +1047,7 @@ in your heart to forgive me.[BRK]
 
 === 3d | 1b8ba | 81 ===
 [POR16]
-Holy karate has become my
+Holy Karate has become my
 life.[BRK]
 
 I teach only the use of
@@ -1075,7 +1075,7 @@ Only one has been foolish
 enough to spray paint the
 name on these walls...[BRK]
 
-Now michael cannot sit. He
+Now Michael cannot sit. He
 can think about his trans-
 gression while standing.[BRK]
 
@@ -1146,7 +1146,7 @@ for such a cold-hearted
 killer, don't you think?[BRK]
 
 [POR10]
-Well, this is rated 'k-a,'
+Well, this is rated 'K-A,'
 you know.[END]
 
 === 45 | 1bede | 5f ===
@@ -1172,7 +1172,7 @@ of these can get me caned![END]
 Master Lunn is teaching us
 a new karate style.[BRK]
 
-Blu...well, that old kind of
+Blu...Well, that old kind of
 karate is no longer
 practiced here.[BRK]
 
@@ -1261,7 +1261,7 @@ these cretins are no match
 for our superior skill![BRK]
 
 Like little lambs to the
-slaughter...he he he he...[BRK]
+slaughter...He he he he...[BRK]
 
 We're number one!
 We're number one![END]
@@ -1303,12 +1303,12 @@ I saw those hairy pits![BRK]
 Cheater! Cheater![END]
 
 === 52 | 1c77e | 60 ===
-I know...it's a dream...
-yeah, this is a dream...[BRK]
+I know...It's a dream...
+Yeah, this is a dream...[BRK]
 
 No, not a dream...[BRK]
 
-.............a nightmare!
+.............A nightmare!
 
 [END]
 
@@ -1359,7 +1359,7 @@ Ooooh! A whole month before
 the tournament?[BRK]
 
 That'll make a big
-difference......not![END]
+difference......Not![END]
 
 === 57 | 1ca96 | 13f ===
 You guys are actually quite
@@ -1439,7 +1439,7 @@ You're not. Nyah, nyah![END]
 
 === 5d | 1ceb2 | 112 ===
 Our form of karate is 
-called virtual Assassin
+called Virtual Assassin
 Karate.[BRK]
 
 We're trained by advanced
@@ -1519,7 +1519,7 @@ It's basically made up of
 bored housewives who love to
 beat the snot out of men.[BRK]
 
-Our motto is 'sniff, sniff,
+Our motto is 'Sniff, sniff,
 snarf!'[END]
 
 === 63 | 1d37e | 90 ===
@@ -1536,8 +1536,8 @@ Sniff, sniff, snarf!
 [END]
 
 === 64 | 1d422 | fc ===
-The guys from the blue 
-dragon karate didn't even
+The guys from the Blue 
+Dragon Karate didn't even
 care that we were girls![BRK]
 
 I even wore the tight outfit
@@ -1643,7 +1643,7 @@ Sniff, sniff, snarf![END]
 I can't believe we lost.
 We did everything right...[BRK]
 
-...tight outfits, athletic
+...Tight outfits, athletic
 jumping kicks, coquettish
 winks, strategic melvins...[BRK]
 
@@ -1658,7 +1658,7 @@ We're always looking for new
 members to join the
 Bunny Karate Dojo.[BRK]
 
-Say, goldilocks, do you
+Say, Goldilocks, do you
 want to join us?[BRK]
 
 Sniff, sniff, snarf!
@@ -2042,7 +2042,7 @@ Look at my armor. The Blue
 Dragon guys beat it to bits![BRK]
 
 I don't think I'm cut out
-to be an armadillo...[END]
+to be an Armadillo...[END]
 
 === 96 | 1f0de | 7c ===
 We've decided to go on
@@ -2091,7 +2091,7 @@ I just can't wait to try it
 out in real competition![END]
 
 === 9b | 1f3a2 | 8 ===
-Zen zone[END]
+Zen Zone[END]
 
 === 9c | 20782 | eb ===
 Please, no more practices.
@@ -2138,9 +2138,9 @@ I decided to write a song
 for you, Jean. What title
 do you like best?[BRK]
 
-'Hot leggin' Jean' 
-or 'Jean, Jean, killing
-machine?'[BRK]
+'Hot Leggin' Jean' 
+or 'Jean, Jean, Killing
+Machine?'[BRK]
 
 [POR02]
 Boy, that's a tough 
@@ -2175,7 +2175,7 @@ My face is the proof that
 I'm a great warrior.[BRK]
 
 [POR10]
-...or proof that you make a 
+...Or proof that you make a 
 great punching bag.[BRK]
 
 [POR00]
@@ -2183,7 +2183,7 @@ Come on, fight me! Let's
 fight right now![BRK]
 
 [POR10]
-...maybe later.[END]
+...Maybe later.[END]
 
 === a3 | 20c9e | 97 ===
 So, you've come back for
@@ -2283,15 +2283,15 @@ big happy orphanage.[BRK]
 Newt would be proud![BRK]
 
 [POR10]
-Forget newt. I'm proud that
+Forget Newt. I'm proud that
 you're taking that kind of
 initiative![END]
 
 === ac | 212ba | f ===
-Zen zone dojo 1[END]
+Zen Zone Dojo 1[END]
 
 === ad | 219a0 | 105 ===
-Hey!! You look like...you
+Hey!! You look like...You
 are![BRK]
 
 Jean! I didn't know you
@@ -2382,7 +2382,7 @@ anyone...
 What!? I don't have to
 practice karate anymore!?[BRK]
 
-Thank the maker! I...i...
+Thank the maker! I...I...
 love you guys![END]
 
 === b7 | 21f5a | 53 ===
@@ -2483,14 +2483,14 @@ one great, big, happy
 family.[BRK]
 
 Maybe we'll rename this
-place 'zen walton zone.'[END]
+place 'Zen Walton Zone.'[END]
 
 === c0 | 2256c | d3 ===
-I...i...tried...to escape
+I...I...tried...to escape
 like...you...Jean...[BRK]
 
 They...beat me...so bad...
-that...i...don't have...
+that...I...don't have...
 any...feeling in...my legs.[BRK]
 
 [POR10]
@@ -2548,7 +2548,7 @@ This is the room where
 we train our Blue Dragon
 team.[BRK]
 
-...no way!! I don't believe
+...No way!! I don't believe
 my eyes. Is that you, Jean?[BRK]
 
 [POR10]
@@ -2623,5 +2623,5 @@ task, I'll be back and we'll
 all dance.[END]
 
 === cd | 22d54 | f ===
-Zen zone dojo 2[END]
+Zen Zone Dojo 2[END]
 

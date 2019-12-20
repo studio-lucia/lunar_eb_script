@@ -81,7 +81,7 @@ It's an aphrodisiac, you
 know![BRK]
 
 [POR05]
-You don't say...hmmmm...
+You don't say...Hmmmm...
 [END]
 
 === 7 | c880 | f2 ===
@@ -90,7 +90,7 @@ latest shipment of special
 tonics.[BRK]
 
 How about some grated kitty
-nipple?...or maybe you'd
+nipple?...Or maybe you'd
 prefer fresh ogre wart?[BRK]
 
 [POR02]
@@ -120,7 +120,7 @@ flower today?[BRK]
 
 C'mon, a beautiful flower
 for a beautiful lady...
-what do ya say?[END]
+What do ya say?[END]
 
 === a | cab8 | b2 ===
 [POR07]
@@ -133,7 +133,7 @@ Girlie, if I were in the
 position to throw away
 cash on bums,[BRK]
 
-you'd call me clinton and
+you'd call me Clinton and
 I'd be president.[END]
 
 === b | cb82 | 4b ===
@@ -146,7 +146,7 @@ I have seen the face of an
 angel beautiful in every
 respect save one...[BRK]
 
-...she is unadorned with
+...She is unadorned with
 delicate flowers to
 compliment her beauty...[BRK]
 
@@ -323,7 +323,7 @@ candy from a baby![BRK]
 Sucker![END]
 
 === 19 | d6fa | 101 ===
-Hey...hey you! Com'ere! I
+Hey...Hey you! Com'ere! I
 got a big secret you might
 be interested in...[BRK]
 
@@ -339,7 +339,7 @@ error of your ways...[BRK]
 Oooooowwwww![BRK]
 
 Hey! You burned me, you
-maniac! Get...get away
+maniac! Get...Get away
 from me!
 [END]
 
@@ -424,7 +424,7 @@ a way to get out?
 You got inside the ancient
 ruins? I don't believe it![BRK]
 
-W-was it loaded with price-
+W-Was it loaded with price-
 less treasures?
 [END]
 
@@ -619,7 +619,7 @@ say it wards off the undead.[END]
 
 === 34 | e958 | 3c ===
 Like, this town is soooo
-boring...nothing ever
+boring...Nothing ever
 happens here.[END]
 
 === 35 | e9ac | be ===
@@ -683,11 +683,11 @@ know the name of the
 Dragonmaster?[BRK]
 
 He's the greatest of the
-four heroes, and he works
+Four Heroes, and he works
 with Althena herself![END]
 
 === 3c | ed94 | 8d ===
-Hey...hey mister! Can you
+Hey...Hey mister! Can you
 get rid of the people
 blocking the bridge?[BRK]
 
@@ -707,7 +707,7 @@ Goddess Althena![BRK]
 
 It would be sooo cool! 
 Fighting the bad guys...
-living on the edge...whoa...[END]
+living on the edge...Whoa...[END]
 
 === 3f | ef40 | 9b ===
 I heard that the Dragon-
@@ -725,7 +725,7 @@ East Nota[END]
 
 === 41 | 1020a | 5f ===
 [POR02]
-W...what the heck???[BRK]
+W...What the heck???[BRK]
 
 Hiro, look at that! It's
 the Dragonship Destiny![BRK]
@@ -762,7 +762,7 @@ in us?[BRK]
 
 [ROR07]
 Jean, you are so dim at
-times...he's obviously
+times...He's obviously
 interested in Lucia.[BRK]
 
 [ROR02]
@@ -777,7 +777,7 @@ mess, and fast...[BRK]
 Let's make a run for it![END]
 
 === 45 | 104b4 | c ===
-Nota village[END]
+Nota Village[END]
 
 === 46 | 10eaa | 83 ===
 Hey, stranger! If you're
@@ -812,9 +812,9 @@ with cream and sugar.[END]
 
 === 49 | 11048 | 11a ===
 [POR02]
-Oh, Hiro...my mouth is
+Oh, Hiro...My mouth is
 watering like a river in
-spring...gimmee![BRK]
+spring...Gimmee![BRK]
 
 [POR10]
 They do look good...[BRK]
@@ -830,7 +830,7 @@ than a fat chick.[BRK]
 [POR02]
 I don't care, you rude dog!
 Hiro, can we go in and just
-try one?...pleaaase?
+try one?...Pleaaase?
 
 [END]
 
@@ -840,7 +840,7 @@ Our candies are the sweetest
 in the known world![BRK]
 
 [POR02]
-Ohhhh, Hiro...look at those
+Ohhhh, Hiro...Look at those
 candies! Did I say I wanted
 one?[BRK]
 
@@ -904,7 +904,7 @@ put it in water![END]
 === 4f | 11592 | e0 ===
 Oh, and this one is one
 of my favorites! It's a
-dark god Zophar doll.[BRK]
+Dark God Zophar doll.[BRK]
 
 Put it in water and it
 grows 100 times it's
@@ -914,7 +914,7 @@ Isn't that the coolest
 thing you've ever heard?[BRK]
 
 [POR02]
-Uh...get that thing away
+Uh...Get that thing away
 from me, you freak!
 
 [END]
@@ -1008,7 +1008,7 @@ And you can only buy 'em
 right here![BRK]
 
 [POR02]
-...uh...Hiro...w-we didn't
+...Uh...Hiro...W-We didn't
 eat those...did we?
 
 
@@ -1056,7 +1056,7 @@ fu grip![END]
 What a silly-looking doll![BRK]
 
 He obviously just put
-Mauri's head on g.I. Joe's
+Mauri's head on G.I. Joe's
 body![BRK]
 
 That's the oldest trick in
@@ -1077,7 +1077,7 @@ Hurry, they're going fast!
 
 === 5d | 11f8c | 2b ===
 [POR09]
-...mmmm...how much did you
+...Mmmm...How much did you
 want for one?[END]
 
 === 5e | 11fca | 65 ===
@@ -1095,7 +1095,7 @@ kung-fu grip![END]
 
 === 60 | 1207a | ae ===
 [POR05]
-You watch...that kid'll get
+You watch...That kid'll get
 his Mauri doll,[BRK]
 
 and the first thing he'll
@@ -1169,7 +1169,7 @@ cost you plenty![END]
 
 === 68 | 12532 | a8 ===
 At least there's no noisy
-Althena sanctuary in our
+Althena Sanctuary in our
 part of Nota![BRK]
 
 Fortunately, all we have is
@@ -1346,8 +1346,8 @@ what you did for me and I
 thought of this...[BRK]
 
 I think I'm going to rename
-the red wine 'Hiro's special
-reserve' in your honor![BRK]
+the red wine 'Hiro's Special
+Reserve' in your honor![BRK]
 
 What do you think? Is that
 neat or what?[END]
@@ -1383,14 +1383,14 @@ boast. The store in Meribia
 is gigantic![END]
 
 === 82 | 14684 | be ===
-It's cool that dad is the
+It's cool that Dad is the
 biggest merchant in Nota,[BRK]
 
 but I wish he'd stay home
 more often. I miss him when
 he's on the road.[BRK]
 
-...uh, don't tell him I said
+...Uh, don't tell him I said
 that, okay? He'd just call
 me weak...[END]
 
@@ -1405,13 +1405,13 @@ I sure hope that happens![END]
 [POR02]
 Call me daffy, call me
 a hopeless sentimental, I
-think everything'll be ok.[BRK]
+think everything'll be OK.[BRK]
 
 Besides...I looked ahead
 in the script.[END]
 
 === 85 | 14840 | d ===
-Nota merchant[END]
+Nota Merchant[END]
 
 === 86 | 14ef8 | bc ===
 Man! I thought I'd never
@@ -1466,7 +1466,7 @@ meals after a long trip.[BRK]
 I like making them for him.[END]
 
 === 8c | 151fc | c ===
-Nota house 1[END]
+Nota House 1[END]
 
 === 8d | 158c0 | 79 ===
 East of the village, they
@@ -1522,7 +1522,7 @@ long-winded complainer.[BRK]
 
 He likes to hear the sound
 of his own voice. Kinda
-like that 'rush' fella...[END]
+like that 'Rush' fella...[END]
 
 === 93 | 15c84 | 72 ===
 It's hard to make a living
@@ -1544,7 +1544,7 @@ controlled apartment...for
 a finder's fee, of course.[END]
 
 === 95 | 15dac | c ===
-Nota house 3[END]
+Nota House 3[END]
 
 === 96 | 164a0 | 99 ===
 The villagers from Zulan to
@@ -1562,7 +1562,7 @@ is only tradesmen's rumors.[BRK]
 There's probably nothing
 to worry about.[BRK]
 
-...'least I hope not.
+...'Least I hope not.
 
 
 
@@ -1608,7 +1608,7 @@ today.[BRK]
 
 And cold! Whooo! It was the
 coldest I've ever seen it!
-...somethin's up.
+...Somethin's up.
 
 
 
@@ -1702,7 +1702,7 @@ driving me crazy! I can't
 keep up with their orders![END]
 
 === a5 | 16e48 | d1 ===
-Oh...how am I going to get
+Oh...How am I going to get
 out to make my liquor
 deliveries, too?[BRK]
 
@@ -1712,21 +1712,21 @@ cat![BRK]
 
 Say, do...do you want to
 help me out?
-[0x5]Sorry, charlie, I'm busy.
+[0x5]Sorry, Charlie, I'm busy.
 Okay, I think so.[END]
 
 === a6 | 16f28 | 53 ===
 I knew it. Good help is hard
-to find these days...get out
+to find these days...Get out
 of my way! I'm....busy!!![END]
 
 === a7 | 16f90 | 75 ===
-Well...now that I think of
+Well...Now that I think of
 it, this is really more of
 a lady's job.[BRK]
 
 Outta my way...I've got
-tables to tend to...ahh!
+tables to tend to...Ahh!
 [END]
 
 === a8 | 1701a | 1b4 ===
@@ -1742,7 +1742,7 @@ delivery receipt, I'll pay
 you 10s.[BRK]
 
 [POR02]
-...but...but I was the one
+...But...But I was the one
 that volunteered! I can do
 that![BRK]
 
@@ -1852,7 +1852,7 @@ it's another![BRK]
 
 Now I've got to re-label all
 this wine to say Hiro's
-special reserve! Shee...
+Special Reserve! Shee...
 [END]
 
 === b2 | 17794 | 89 ===
@@ -1876,9 +1876,9 @@ believe it...[BRK]
 [POR02]
 I've heard that, too.[BRK]
 
-Hooohhh...it's kind of a
+Hooohhh...It's kind of a
 long and complicated story.
-...don't ask.
+...Don't ask.
 [END]
 
 === b4 | 17934 | fc ===
@@ -1888,7 +1888,7 @@ mee![BRK]
 
 Huuh? Ooohh..I'm sorree...
 I thod you were tha <hick>
-da-stroyer! <Hick>[BRK]
+da-stroyer! <hick>[BRK]
 
 Bud she had uh <hick> evil
 red robe on. You're nod her.[BRK]
@@ -1900,19 +1900,19 @@ runnin' dry, ol' girl.[END]
 === b5 | 17a48 | 74 ===
 Haay! Have ya tried tha
 <hick> special rad wine?
-Id's graaad! <Buurp>[BRK]
+Id's graaad! <buurp>[BRK]
 
 All my buudies liike <hick>
 liike drink'n id. [END]
 
 === b6 | 17acc | 8e ===
-Naow thad thad zophag guy's
+Naow thad thad Zophag guy's
 gone, everybuddy is a lod
-nicer. <Buuurp>[BRK]
+nicer. <buuurp>[BRK]
 
 I <hick> I ged a lod mow
 free drinks now. Thad 
-alteena is graad! <Hick>[END]
+Alteena is graad! <hick>[END]
 
 === b7 | 17b6e | 7a ===
 Say there, gang! You look
@@ -1957,13 +1957,13 @@ off, I don't see that place
 lasting too much longer...[END]
 
 === bc | 17e24 | d ===
-Nota west bar[END]
+Nota West Bar[END]
 
 === bd | 1871c | c1 ===
 The Althena Cult is a
 terrible blight on humanity,[BRK]
 
-but the dragon steamship
+but the Dragon Steamship
 Destiny that they use is
 the bee's knees![BRK]
 
@@ -1974,7 +1974,7 @@ the thing! Don't you?[END]
 === be | 187f4 | 52 ===
 You know, if I can get on
 as a guard for the Destiny,
-I just might join that cult![END]
+I just might join that Cult![END]
 
 === bf | 18856 | 135 ===
 I've decided to become a
@@ -1996,7 +1996,7 @@ chance to ride it soon?[BRK]
 Probably just as soon as
 we're done riding on it.[BRK]
 
-...sucker!!![END]
+...Sucker!!![END]
 
 === c0 | 1899c | 158 ===
 [POR07]
@@ -2022,7 +2022,7 @@ be broken, weren't they?[END]
 
 === c1 | 18b04 | 6a ===
 Say, did you hear the rumor
-about the dragon steamship
+about the Dragon Steamship
 Destiny?
 [0x5]Yeah, it's all over town.
 No, what is it?[END]
@@ -2077,7 +2077,7 @@ ask her. I bet she could
 help you find it![END]
 
 === c6 | 18ea8 | 13 ===
-Nota w bridge house[END]
+Nota W Bridge House[END]
 
 === c7 | 1955c | 87 ===
 Through the west door,
@@ -2089,7 +2089,7 @@ between the two halves of
 the city.[END]
 
 === c8 | 195fa | 93 ===
-Hey...hey! What's going on?
+Hey...Hey! What's going on?
 Those idiotic guards![BRK]
 
 They've blocked the bridge
@@ -2105,7 +2105,7 @@ the bridge, we're cut off![BRK]
 
 I have no idea how we're
 supposed to survive with no
-trade from west Nota![END]
+trade from West Nota![END]
 
 === ca | 19756 | 7e ===
 I sure am glad Althena's
@@ -2117,7 +2117,7 @@ are almost back to normal.[END]
 
 === cb | 197f0 | 7e ===
 This bridge is the only link
-between east and west Nota.[BRK]
+between East and West Nota.[BRK]
 
 If it were ever severed
 completely, we'd all be in
@@ -2133,7 +2133,7 @@ of the tradesmen and he gave
 me a knuckle sandwich...[END]
 
 === cd | 19924 | 44 ===
-Oooohhh...that fist in the
+Oooohhh...That fist in the
 face routine smarts.[BRK]
 
 What was I thinking?[END]
@@ -2160,8 +2160,8 @@ Did you guys do something to
 close down the bridge?[BRK]
 
 [POR07]
-Uh, no....why do you ask?
-...what have you heard?[END]
+Uh, no....Why do you ask?
+...What have you heard?[END]
 
 === d0 | 19b1c | 68 ===
 Say there, try my new hot
@@ -2177,7 +2177,7 @@ Hmmmm...I don't know that
 'more wortroot' is really
 a great selling point...[BRK]
 
-...keep working on it.
+...Keep working on it.
 Try to use glittering
 generalities.[BRK]
 
@@ -2202,7 +2202,7 @@ the future of your snack
 universe.[BRK]
 
 One bite, and you'll be back
-for more...so will your new
+for more...So will your new
 friends.[BRK]
 
 Buy three at the low intro-
@@ -2218,7 +2218,7 @@ You made it sound so good
 I almost want to buy it, and
 I know it tastes like crap![BRK]
 
-Susan powter, watch out![END]
+Susan Powter, watch out![END]
 
 === d5 | 19ec6 | 19a ===
 You are now only one
@@ -2241,11 +2241,11 @@ extra bag free![BRK]
 Free! Geez! Gimme some of
 that stuff![BRK]
 
-...uh, hehe...can I pay
+...Uh, hehe...Can I pay
 you later?[BRK]
 
 [POR00]
-Sure...if I can deliver
+Sure...If I can deliver
 later, too...[BRK]
 
 Sorry, babe. No freeloaders!
@@ -2273,7 +2273,7 @@ cleaned it up...[END]
 
 === d7 | 1a1ac | eb ===
 Sorry, we're sold out of
-Nota's special nirvana blend
+Nota's Special Nirvana Blend
 snack mix right now...[BRK]
 
 Why not try again after 2pm?
@@ -2302,7 +2302,7 @@ the end for you![END]
 === d9 | 1a36c | f6 ===
 Don't even think about
 running away! I'd find
-you...you're mine![BRK]
+you...You're mine![BRK]
 
 I will die before I let
 you ruin the world that
@@ -2331,7 +2331,7 @@ and Lord Leo.[BRK]
 
 [POR02]
 The carnival? That sounds
-like fun! ...how does the
+like fun! ...How does the
 Magic Arrow work?[BRK]
 
 [POR05]
@@ -2343,7 +2343,7 @@ but it sounds like our only
 shot at escape...[BRK]
 
 [POR08]
-C-carnival? What is a
+C-Carnival? What is a
 carnival? Have I seen one?[BRK]
 
 [POR07]
@@ -2364,11 +2364,11 @@ We'd better move...
 [END]
 
 === db | 1a728 | 13 ===
-Nota e bridge house[END]
+Nota E Bridge House[END]
 
 === dc | 1adc6 | 9d ===
 Welcome to the shrine of
-great Goddess Althena![BRK]
+Great Goddess Althena![BRK]
 
 Our shrine is smaller than
 ones in neighboring towns,[BRK]
@@ -2497,7 +2497,7 @@ a big shrine to the Goddess.[END]
 
 === ea | 1b61c | 9d ===
 [POR07]
-Hmmm...well, I can relate to
+Hmmm...Well, I can relate to
 the money collection thing.[BRK]
 
 I just don't get the part
@@ -2569,7 +2569,7 @@ that I have changed.[BRK]
 Then why is your hand out?[BRK]
 
 [POR00]
-Oh, uh, hehe, sorry...it's
+Oh, uh, hehe, sorry...It's
 an old habit.[BRK]
 
 You know what they say about
@@ -2643,7 +2643,7 @@ serving a false Althena!
 I should have known...[END]
 
 === f7 | 1bfe8 | 11 ===
-Nota shrine house[END]
+Nota Shrine House[END]
 
 === f8 | 1c6b2 | c2 ===
 My! If that isn't the cutest
@@ -2655,7 +2655,7 @@ I am not a cat, and I
 definitely am not for sale![BRK]
 
 Really! The nerve! For
-sale...hrmph! I'll show you,
+sale...Hrmph! I'll show you,
 cute lady!
 [END]
 
@@ -2829,7 +2829,7 @@ hole in the area! Sit down
 and take a load off...[END]
 
 === 10a | 1d26a | b7 ===
-Welcome to the Nota tavern!
+Welcome to the Nota Tavern!
 We have the best service
 you'll ever find.[BRK]
 
@@ -2859,7 +2859,7 @@ Nota's famous ale![END]
 
 === 10d | 1d444 | e2 ===
 Come in! Come in! Sit down
-and relax. My name is bunne,
+and relax. My name is Bunne,
 and I'm your hostess.[BRK]
 
 I'm here to satisfy any need
@@ -2867,7 +2867,7 @@ you may have. All I ask is
 that you leave a big tip.[BRK]
 
 [POR02]
-Uh, Hiro...we better get out
+Uh, Hiro...We better get out
 of here before you get in
 trouble![END]
 
@@ -2897,7 +2897,7 @@ blocked the bridge to stop
 the destroyer from escaping.[BRK]
 
 I'd be mad, but he's just so
-darned sexy...what a hunk!
+darned sexy...What a hunk!
 Hooohmmmm...[END]
 
 === 111 | 1d70c | 5f ===
@@ -2912,7 +2912,7 @@ Or perhaps a virgin?
 You've come to the right
 place to relax.[BRK]
 
-Nota tavern is the best
+Nota Tavern is the best
 in the business. World
 renowned for its tonics![END]
 
@@ -2973,7 +2973,7 @@ Eh he he he! She wants me,
 I know it.[BRK]
 
 Every woman wants a piece of
-the ol' arty. I know it,
+the ol' Arty. I know it,
 they know it.[BRK]
 
 They just slap my face to
@@ -2993,7 +2993,7 @@ person, devoid of any
 humanity...so be it![END]
 
 === 11c | 1dcd2 | a ===
-Nota - bar[END]
+Nota - Bar[END]
 
 === 11d | 1e364 | 45 ===
 There are many weapon shops
@@ -3020,7 +3020,7 @@ here. What's yer pleasure?[END]
 Say, ya'll come back now![END]
 
 === 123 | 1e4ac | b ===
-Nota bazaar[END]
+Nota Bazaar[END]
 
 === 124 | 1ed12 | 3b ===
 Glad you stopped by my
@@ -3032,7 +3032,7 @@ Thanks for stopping by
 today. Please come again![END]
 
 === 126 | 1ed8c | e ===
-Nota item shop[END]
+Nota Item Shop[END]
 
 === 127 | 1f3f8 | 43 ===
 Hello there! Come closer,
@@ -3045,11 +3045,11 @@ hey, remember us for all
 your armor needs, ya hear?[END]
 
 === 129 | 1f498 | f ===
-Nota armor shop[END]
+Nota Armor Shop[END]
 
 === 12a | 1fb76 | 5f ===
 [POR02]
-W...what the heck???[BRK]
+W...What the heck???[BRK]
 
 Hiro, look at that! It's
 the Dragonship Destiny![BRK]
@@ -3101,5 +3101,5 @@ mess, and fast...[BRK]
 Let's make a run for it![END]
 
 === 12e | 1fe20 | c ===
-Nota village[END]
+Nota Village[END]
 

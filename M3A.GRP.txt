@@ -59,7 +59,7 @@ Lemina.[END]
 Even though Borgan is as 
 ugly as a festering boil,[BRK]
 
-lady Miria has fallen in 
+Lady Miria has fallen in 
 love with him. [BRK]
 
 ....
@@ -72,18 +72,18 @@ how she does it...
 === 6 | 17cde | d1 ===
 Halt![BRK]
 
-...wait![BRK]
+...Wait![BRK]
 
 Aren't you...??[BRK]
 
 Yes! Yes! We met in Vane.
 Don't you remember me?[BRK]
 
-...you must remember me. I
+...You must remember me. I
 was walking around, and we
 made eye contact...[BRK]
 
-I even said 'hi' to you![BRK]
+I even said 'Hi' to you![BRK]
 
 Come on! You must remember
 me![END]
@@ -127,16 +127,16 @@ He's definitely become the
 best magician in the world.[END]
 
 === a | 17f70 | e ===
-Black tower 1F[END]
+Black Tower 1F[END]
 
 === b | 187e8 | e ===
-Black tower 2F[END]
+Black Tower 2F[END]
 
 === c | 1904e | e ===
-Black tower 3F[END]
+Black Tower 3F[END]
 
 === d | 198bc | e ===
-Black tower 4F[END]
+Black Tower 4F[END]
 
 === e | 1a134 | 2b9 ===
 [POR09]
@@ -176,7 +176,7 @@ Let's go![BRK]
 ....
 .....[BRK]
 
-...did you tire of the mask,
+...Did you tire of the mask,
 friend? [BRK]
 
 [POR09]
@@ -191,7 +191,7 @@ Your precious Lucia's life
 hangs in the balance.[END]
 
 === f | 1a3fc | e ===
-Black tower 5F[END]
+Black Tower 5F[END]
 
 === 10 | 1ac78 | 20e ===
 [POR07]
@@ -204,7 +204,7 @@ were even still alive![BRK]
 ....
 .....[BRK]
 
-...hey! Who's the party
+...Hey! Who's the party
 dude in the mask?[BRK]
 
 [POR02]
@@ -308,7 +308,7 @@ daughter I never had.[BRK]
 
 [POR00]
 [ROR07]
-...daughter!?[BRK]
+...Daughter!?[BRK]
 
 [ROR00]
 [POR17]
@@ -345,7 +345,7 @@ When Zophar is revived, the
 power of Neo-Vane will
 finally be...[BRK]
 
-...oops. I almost let the
+...Oops. I almost let the
 cat out of the bag.[BRK]
 
 I can't let you in on that
@@ -364,7 +364,7 @@ holding cell.[BRK]
 
 Sweet dreams...[BRK]
 
-...............daughter!
+...............Daughter!
 
 
 [END]
@@ -403,17 +403,17 @@ Ruby, if Leo helped us
 without using some sort of
 disguise...[BRK]
 
-It could very well have cost
+it could very well have cost
 him and others their lives.[BRK]
 
 Leo has pledged his 
 allegiance to the Althena 
-cult.[BRK]
+Cult.[BRK]
 
 For now, this is probably
 the only way he can help
 us.[END]
 
 === 15 | 1b83e | e ===
-Black tower 6F[END]
+Black Tower 6F[END]
 

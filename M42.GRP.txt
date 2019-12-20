@@ -42,12 +42,12 @@ sting of my kiss...
 
 === 1 | 1471e | 1df ===
 [POR07]
-Wa...wait a minute.[BRK]
+Wa...Wait a minute.[BRK]
 
 I...I think we're still
 alive![BRK]
 
-D...did we defeat Zophar?[BRK]
+D...Did we defeat Zophar?[BRK]
 
 [POR05]
 Yep! We laid the big kahuna
@@ -86,7 +86,7 @@ Wait! Listen...
 [END]
 
 === 2 | 1490a | 11 ===
-Zophar's coliseum[END]
+Zophar's Coliseum[END]
 
 === 3 | 1500c | 232 ===
 You will regret coming here
@@ -128,12 +128,12 @@ sting of my kiss...
 
 === 4 | 15248 | 1df ===
 [POR07]
-Wa...wait a minute.[BRK]
+Wa...Wait a minute.[BRK]
 
 I...I think we're still
 alive![BRK]
 
-D...did we defeat Zophar?[BRK]
+D...Did we defeat Zophar?[BRK]
 
 [POR05]
 Yep! We laid the big kahuna
@@ -172,5 +172,5 @@ Wait! Listen...
 [END]
 
 === 5 | 15434 | 11 ===
-Zophar's coliseum[END]
+Zophar's Coliseum[END]
 

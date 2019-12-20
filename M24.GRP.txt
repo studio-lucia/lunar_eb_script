@@ -13,7 +13,7 @@ It was...???[BRK]
 
 [POR08]
 The lake was simply the
-transport fountain...a
+Transport Fountain...a
 doorway to this place...[BRK]
 
 We must hurry. The real
@@ -23,17 +23,17 @@ inside this tower.
 
 === 1 | 165fe | c6 ===
 [POR18]
-Oh, Pentagulia...what has
+Oh, Pentagulia...What has
 become of you?[BRK]
 
 How in the name of Zophar
-have Althena's dragons
+have Althena's Dragons
 found release?[BRK]
 
 Zophar...I must make Master
 Zophar hear my plea![BRK]
 
-Master Zophar...master
+Master Zophar...Master
 Zophar.........!!![END]
 
 === 2 | 166dc | 233 ===
@@ -41,7 +41,7 @@ Zophar.........!!![END]
 Is everybody all right?[BRK]
 
 [POR05]
-Dang!...why did Lucia
+Dang!...Why did Lucia
 take our magic?[BRK]
 
 [POR07]
@@ -90,7 +90,7 @@ What's your plan?!
 
 === 3 | 16958 | 13e ===
 [POR08]
-The tower is sealed with
+The Tower is sealed with
 some sort of magic.[BRK]
 
 I've never felt magic this
@@ -163,7 +163,7 @@ our great leader...Zophar![BRK]
 You know, you should look
 upon it as a great hon...[BRK]
 
-...what!? Ghaleon?[BRK]
+...What!? Ghaleon?[BRK]
 
 What is wrong with you?[BRK]
 
@@ -171,7 +171,7 @@ I did not order you to
 appear! Leave at once![BRK]
 
 [POR02]
-Oh, great...just...super![BRK]
+Oh, great...Just...super![BRK]
 
 Ghaleon![BRK]
 
@@ -182,7 +182,7 @@ crapper!
 
 === 6 | 16e2c | c1 ===
 [POR08]
-What...what's happening?!![BRK]
+What...What's happening?!![BRK]
 
 Althena...i-is...that you?[BRK]
 
@@ -197,11 +197,11 @@ But what's causing it???[BRK]
 ????
 ?????[BRK]
 
-.............whoa![END]
+.............Whoa![END]
 
 === 7 | 16ef0 | 86 ===
 [POR18]
-...what is the meaning
+...What is the meaning
 of this?!![BRK]
 
 I demand to know what is
@@ -246,7 +246,7 @@ associates...[BRK]
 Just wait he....[END]
 
 === 9 | 17166 | 12 ===
-Goddess tower ent.[END]
+Goddess Tower Ent.[END]
 
 === a | 17f90 | c5 ===
 [POR08]
@@ -263,19 +263,19 @@ chamber so she can help us
 stop him![END]
 
 === b | 1805e | 10 ===
-Goddess tower 1F[END]
+Goddess Tower 1F[END]
 
 === c | 18b7e | 10 ===
-Goddess tower 2F[END]
+Goddess Tower 2F[END]
 
 === d | 19684 | 10 ===
-Goddess tower 3F[END]
+Goddess Tower 3F[END]
 
 === e | 1a18e | 10 ===
-Goddess tower 4F[END]
+Goddess Tower 4F[END]
 
 === f | 1ac98 | 10 ===
-Goddess tower 5F[END]
+Goddess Tower 5F[END]
 
 === 10 | 1b7d8 | 45 ===
 [POR11]
@@ -303,7 +303,7 @@ believe in you.[BRK]
 I've waited for this day for
 so long![BRK]
 
-...the day that my promise
+...The day that my promise
 to Luna is finally
 fulfilled.[BRK]
 
@@ -311,14 +311,14 @@ Seeing her brings back so
 many memories...[BRK]
 
 Memories of Alex, Nash, Mia,
-jessica, and...[BRK]
+Jessica, and...[BRK]
 
 ....
 .....[BRK]
 
-...look at me! I've turned
+...Look at me! I've turned
 into a driveling idiot doing
-the 'remember when?' Number![BRK]
+the 'Remember when?' number![BRK]
 
 All that matters now is that
 you've got a job to do, and
@@ -331,16 +331,16 @@ I don't want Ruby to see
 me like this. She would
 never let me live it down.[BRK]
 
-...so long!![BRK]
+...So long!![BRK]
 
-......remember Althena's
+......Remember Althena's
 words! That's the key to
 stopping Zophar forever![BRK]
 
 ...I'm counting on you!!![BRK]
 
 [POR08]
-...wait!...Nall!!!?
+...Wait!...Nall!!!?
 
 [END]
 
@@ -367,7 +367,7 @@ Oh, forgive me, Hiro.
 
 === 13 | 1bc38 | 14a ===
 [POR07]
-...what!? What's happened?
+...What!? What's happened?
 I've lost all my magic
 power!![BRK]
 
@@ -387,11 +387,11 @@ Let's get outta this place,
 Hiro![BRK]
 
 [POR01]
-...oh, Lucia...why?!![BRK]
+...Oh, Lucia...Why?!![BRK]
 
 Didn't you hear what Althena
 said???[END]
 
 === 14 | 1bd90 | 10 ===
-Goddess tower 6F[END]
+Goddess Tower 6F[END]
 

@@ -16,7 +16,7 @@ telling when she will see
 us.[BRK]
 
 [POR02]
-...well, in that case, I
+...Well, in that case, I
 think we should go sight-
 seeing.[END]
 
@@ -73,7 +73,7 @@ end![BRK]
 
 But if I do see...
 ...then Hiro and....
-no! I must go...[BRK]
+No! I must go...[BRK]
 
 ....
 .....[BRK]
@@ -109,7 +109,7 @@ importance.[END]
 
 [POR14]
 Hm, hm, hm......
-...............my, my![BRK]
+...............My, my![BRK]
 
 Seems that we have quite the
 firebrand in our presence![BRK]
@@ -156,7 +156,7 @@ These humans are about as
 dangerous as raindrops.[BRK]
 
 [POR09]
-...Ghaleon! What...what
+...Ghaleon! What...What
 just happened?[BRK]
 
 [POR18]
@@ -170,7 +170,7 @@ Perhaps you knew of her
 intent?[BRK]
 
 [POR09]
-No...i...![BRK]
+No...I...![BRK]
 
 [POR14]
 Perhaps our good Lord Leo
@@ -195,7 +195,7 @@ Just wait...I will prove
 my worth![BRK]
 
 [POR14]
-Hm, hm, hm, hm...oh,
+Hm, hm, hm, hm...Oh,
 I can't wait to see this.
 
 
@@ -211,7 +211,7 @@ and discuss philosophy
 sometime...[BRK]
 
 [POR02]
-Uh, sorry...you heard wrong.
+Uh, sorry...You heard wrong.
 There's no way we're moving
 to this creepy joint!
 [END]
@@ -249,7 +249,7 @@ taking these people? This
 area is off-limits.[BRK]
 
 [POR09]
-The goddess has summoned
+The Goddess has summoned
 them.[END]
 
 === f | 16986 | 8c ===
@@ -297,7 +297,7 @@ I wonder what's gotten
 into him?[END]
 
 === 13 | 16bc2 | 12 ===
-Pentagulia shr. 1F[END]
+Pentagulia Shr. 1F[END]
 
 === 14 | 185de | 40e ===
 [POR18]
@@ -352,14 +352,14 @@ Certainly not yours![BRK]
 
 [POR14]
 Oh, the little princess has
-copped an attitude...how
+copped an attitude...How
 endearing.[BRK]
 
 [POR18]
 Silence, Ghaleon! I can
 handle this.[BRK]
 
-...well, Lucia.[BRK]
+...Well, Lucia.[BRK]
 
 The time has come for you
 to give of yourself for the
@@ -430,7 +430,7 @@ out of this mess!
 
 === 18 | 18c8a | 136 ===
 [POR08]
-Oh, Hiro...thank you!
+Oh, Hiro...Thank you!
 I knew you'd come![BRK]
 
 All of you are such good
@@ -455,7 +455,7 @@ Oh, this is terrible! I
 don't know what to do![END]
 
 === 19 | 18dca | 12 ===
-Pentagulia shr. 2F[END]
+Pentagulia Shr. 2F[END]
 
 === 1a | 1a422 | 259 ===
 [POR08]
@@ -466,7 +466,7 @@ Some clue that can lead us
 to where she's being held![BRK]
 
 She simply must be around
-here somewhere...if only
+here somewhere...If only
 I could see![BRK]
 
 [POR02]
@@ -492,13 +492,13 @@ find it....[BRK]
 
 ...[BRK]
 
-....wait![BRK]
+....Wait![BRK]
 
-.....the pool! It must be
-a fountain of transport![BRK]
+.....The pool! It must be
+a Fountain of Transport![BRK]
 
-...ahh, yes! This has to
-be the fountain of transport
+...Ahh, yes! This has to
+be the Fountain of Transport
 that leads to the Goddess![BRK]
 
 It was before me the entire
@@ -521,11 +521,11 @@ I can't believe she jumped.[BRK]
 
 I hope she's right![BRK]
 
-...because I have a feeling
+...Because I have a feeling
 we're going in after her...[BRK]
 
-...right, Hiro?[END]
+...Right, Hiro?[END]
 
 === 1c | 1a756 | 12 ===
-Pentagulia balcony[END]
+Pentagulia Balcony[END]
 

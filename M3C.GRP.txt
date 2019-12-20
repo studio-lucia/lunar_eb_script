@@ -7,7 +7,7 @@ Messages: 15
 ...Lucia!![BRK]
 
 [POR08]
-Hiro...you should not have
+Hiro...You should not have
 come.[BRK]
 
 You can't possibly win
@@ -45,7 +45,7 @@ You must try...[BRK]
 ....
 .....[BRK]
 
-Here...this is the only
+Here...This is the only
 assistance I can offer.[BRK]
 
 Take it...
@@ -75,46 +75,46 @@ I'm coming for you, Lucia!
 Don't give up![END]
 
 === 2 | 1115e | 13 ===
-Zophar's keep foyer[END]
+Zophar's Keep Foyer[END]
 
 === 3 | 11974 | 15 ===
-Zophar's keep gallery[END]
+Zophar's Keep Gallery[END]
 
 === 4 | 1620e | 12 ===
-Zophar's keep 1F-a[END]
+Zophar's Keep 1F-A[END]
 
 === 5 | 16986 | 12 ===
-Zophar's keep 1F-c[END]
+Zophar's Keep 1F-C[END]
 
 === 6 | 17a0c | 12 ===
-Zophar's keep hall[END]
+Zophar's Keep Hall[END]
 
 === 7 | 18c48 | 12 ===
-Zophar's keep 1F-d[END]
+Zophar's Keep 1F-D[END]
 
 === 8 | 1931c | 12 ===
-Zophar's keep 2F-b[END]
+Zophar's Keep 2F-B[END]
 
 === 9 | 19b88 | 12 ===
-Zophar's keep 2F-c[END]
+Zophar's Keep 2F-C[END]
 
 === a | 1a3c0 | 12 ===
-Zophar's keep 2F-d[END]
+Zophar's Keep 2F-D[END]
 
 === b | 1aeac | 12 ===
-Zophar's keep 2F-a[END]
+Zophar's Keep 2F-A[END]
 
 === c | 1b7dc | 12 ===
-Zophar's keep 1F-b[END]
+Zophar's Keep 1F-B[END]
 
 === d | 1be86 | 52 ===
 Groum! Groum! Groum![BRK]
 
 [POR02]
-What...what was that?
+What...What was that?
 It sounded like something
 crumbling![END]
 
 === e | 1bede | 15 ===
-Zophar's keep terrace[END]
+Zophar's Keep Terrace[END]
 

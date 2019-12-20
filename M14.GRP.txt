@@ -3,7 +3,7 @@ File: M14.GRP
 Messages: 7
 
 === 0 | fd2e | 12 ===
-Katarina zone east[END]
+Katarina Zone East[END]
 
 === 1 | 156e2 | 160 ===
 [POR07]
@@ -13,7 +13,7 @@ above the land.[BRK]
 
 The only entrance was by
 means of this magic
-fountain of transfer.[BRK]
+Fountain of Transfer.[BRK]
 
 Fortunately, it still works!
 We can use it as our own
@@ -42,15 +42,15 @@ to try that![END]
 Ah! Lemina! I'm so glad
 you've come to visit![BRK]
 
-What? The transport
-fountain? Hmmm....[BRK]
+What? The Transport
+Fountain? Hmmm....[BRK]
 
 It has been dormant for
 many years. I doubt it
 even works anymore...[END]
 
 === 4 | 15968 | 8d ===
-The transport spring can
+The Transport Spring can
 lead you to Vane,[BRK]
 
 but it will first take you
@@ -68,8 +68,8 @@ Perhaps you can help me...[BRK]
 
 Just how many licks does it
 take to get to the center of
-a tootsie roll tootsie pop?[END]
+a Tootsie Roll Tootsie Pop?[END]
 
 === 6 | 15ac0 | f ===
-Transfer spring[END]
+Transfer Spring[END]
 

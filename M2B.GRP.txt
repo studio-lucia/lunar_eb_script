@@ -18,21 +18,21 @@ How did you do that!?[BRK]
 
 [POR11]
 It's not important.
-...doesn't matter.[BRK]
+...Doesn't matter.[BRK]
 
 Now that you're finally
-here, my dragonpower can
+here, my Dragonpower can
 be released at last.[BRK]
 
 You must throw the Dragon
 Aura directly at the
 crystal.[BRK]
 
-Once the aura touches the
+Once the Aura touches the
 crystal, the seal will be
 shattered,[BRK]
 
-...and my dragonpower will
+...and my Dragonpower will
 be released!!
 
 [END]
@@ -91,7 +91,7 @@ in the butt...[BRK]
 ....
 .....[BRK]
 
-Hmmmm...maybe there is hope
+Hmmmm...Maybe there is hope
 for him...[BRK]
 
 But I can't leave Hiro....
@@ -99,7 +99,7 @@ what would he do without
 me...??[END]
 
 === 6 | 1b090 | 11 ===
-White dragon lair[END]
+White Dragon Lair[END]
 
 === 7 | 1b864 | 1a8 ===
 [POR11]
@@ -135,20 +135,20 @@ And I don't like waiting.
 [END]
 
 === 8 | 1ba16 | 11 ===
-White dragon maze[END]
+White Dragon Maze[END]
 
 === 9 | 1c800 | 14 ===
-White dragon nw room[END]
+White Dragon NW Room[END]
 
 === a | 1e8f6 | 14 ===
-White dragon sw room[END]
+White Dragon SW Room[END]
 
 === b | 20c26 | 14 ===
-White dragon ne room[END]
+White Dragon NE Room[END]
 
 === c | 24c36 | 14 ===
-White dragon se room[END]
+White Dragon SE Room[END]
 
 === d | 29f00 | f ===
-White dragon B1[END]
+White Dragon B1[END]
 

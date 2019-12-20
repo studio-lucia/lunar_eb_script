@@ -20,7 +20,7 @@ worthy to join the Guild
 from those that weren't.[BRK]
 
 Anyway...that's ancient
-history...we've got a job
+history...We've got a job
 to do. Let's get moving.[BRK]
 
 But be careful! I don't
@@ -53,7 +53,7 @@ property of Lemina.
 [END]
 
 === 3 | 11834 | 10 ===
-Cave of trial 5F[END]
+Cave of Trial 5F[END]
 
 === 4 | 12c70 | 52 ===
 [POR07]
@@ -70,7 +70,7 @@ Hiro, I think we'd better
 leave the chests alone...[END]
 
 === 6 | 12d1e | 10 ===
-Cave of trial B4[END]
+Cave of Trial B4[END]
 
 === 7 | 140be | 7e ===
 [POR07]
@@ -92,7 +92,7 @@ If we do, Lemina might blow
 a gasket![END]
 
 === 9 | 141ba | 10 ===
-Cave of trial B3[END]
+Cave of Trial B3[END]
 
 === a | 15282 | 82 ===
 [POR07]
@@ -112,7 +112,7 @@ I think Lemina's pretty
 attached to these treasures.[END]
 
 === c | 15384 | 10 ===
-Cave of trial B2[END]
+Cave of Trial B2[END]
 
 === d | 166ba | 6a ===
 [POR07]
@@ -198,7 +198,7 @@ Black Karate of Death.[END]
 
 === 14 | 16c04 | fd ===
 [POR16]
-Jean...go now and complete
+Jean...Go now and complete
 your destiny.[BRK]
 
 Remember all that I have
@@ -217,5 +217,5 @@ I will fight valiantly
 to preserve it![END]
 
 === 15 | 16d06 | 10 ===
-Cave of trial B1[END]
+Cave of Trial B1[END]
 

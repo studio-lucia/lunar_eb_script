@@ -33,7 +33,7 @@ destroyed.[BRK]
 
 [POR02]
 Uh, Hiro? I'm kinda gettin'
-the creeps...how 'bout we
+the creeps...How 'bout we
 get outta here?[BRK]
 
 [POR01]
@@ -41,8 +41,8 @@ get outta here?[BRK]
 .....[BRK]
 
 [POR08]
-...his former self...
-Althena...what does this
+...His former self...
+Althena...What does this
 record mean?
 
 
@@ -53,8 +53,8 @@ record mean?
 Ghaleon???[BRK]
 
 In the distant past, there
-was a person named 'magic
-emperor Ghaleon...'[BRK]
+was a person named 'Magic
+Emperor Ghaleon...'[BRK]
 
 He seized Althena's power
 and tried to destroy the
@@ -96,7 +96,7 @@ uneasy, but there's some-
 thing in his...eyes...[END]
 
 === 3 | 14c42 | f ===
-Mystic ruins 6F[END]
+Mystic Ruins 6F[END]
 
 === 4 | 1562a | e2 ===
 You are the first visitors
@@ -162,10 +162,10 @@ sanctuary.[BRK]
 
 In fact, you should see the
 incredible spell that guards
-his abba memoribilia...[BRK]
+his ABBA memoribilia...[BRK]
 
 [POR08]
-Hmm...i...I wonder if...[END]
+Hmm...I...I wonder if...[END]
 
 === c | 15ad8 | cf ===
 Ghaleon shuns nearly all
@@ -174,7 +174,7 @@ private person...[BRK]
 
 But he has entrusted me
 with the task of re-sorting
-his entire abba collection![BRK]
+his entire ABBA collection![BRK]
 
 He seems to really like
 them, though I don't know
@@ -191,7 +191,7 @@ beautiful garden he created?[BRK]
 I even finished the task he
 assigned me...[BRK]
 
-Now, his abba records lie
+Now, his ABBA records lie
 silently in alphabetical
 order,[BRK]
 
@@ -203,12 +203,12 @@ Since you don't have Ghaleon
 around here any more, I'll
 ask Nall to guard you!![BRK]
 
-He'll probably have the blue
+He'll probably have the Blue
 and Black Dragons look out
 for you, too![BRK]
 
 If you're lucky, maybe
-they'll torch the lp's, too![BRK]
+they'll torch the LP's, too![BRK]
 
 So cheer up, okay?!![END]
 
@@ -237,7 +237,7 @@ The only people that could
 break that spell are
 Althena, Ghaleon, and me.[BRK]
 
-...curious that he would use
+...Curious that he would use
 such strong measures for
 this ancient ruin...
 
@@ -281,7 +281,7 @@ with a sad face, but that's
 all he's had lately...[BRK]
 
 I was thinking about sending
-him a teleflora bouquet.
+him a Teleflora bouquet.
 What do you think?[END]
 
 === 15 | 161e0 | 86 ===
@@ -310,14 +310,14 @@ else she can do?
 
 === 17 | 16334 | 33 ===
 G...Ghaleon....zzzz....
-...come...come back...zzz..[END]
+...Come...Come back...zzz..[END]
 
 === 18 | 16376 | 81 ===
 I was dreaming that I was
 controlled by a river filled
 with 1's and 0's...[BRK]
 
-....it made no sense to me.
+....It made no sense to me.
 Do you know what it means?[END]
 
 === 19 | 1640e | 60 ===
@@ -421,7 +421,7 @@ that makes me mad![BRK]
 
 I'm gonna make that Ghaleon
 contribute to restore Vane!
-.........bet on it![BRK]
+.........Bet on it![BRK]
 
 [POR02]
 And how do you plan on
@@ -516,20 +516,20 @@ where he is?
 [END]
 
 === 2c | 16f5c | 12 ===
-My new secret grdn[END]
+My New Secret Grdn[END]
 
 === 2d | 17994 | f ===
-Mystic ruins 5F[END]
+Mystic Ruins 5F[END]
 
 === 2e | 1934e | f ===
-Mystic ruins 4F[END]
+Mystic Ruins 4F[END]
 
 === 2f | 1b11a | f ===
-Mystic ruins 3F[END]
+Mystic Ruins 3F[END]
 
 === 30 | 1e3ba | f ===
-Mystic ruins 2F[END]
+Mystic Ruins 2F[END]
 
 === 31 | 1fd94 | 11 ===
-Mystic ruins 5F-a[END]
+Mystic Ruins 5F-A[END]
 

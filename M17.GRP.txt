@@ -95,7 +95,7 @@ far away...[END]
 === a | 19c4e | fd ===
 Black Master Zophar,
 Goddess Althena, Lucia,
-baywatch popularity...[BRK]
+Baywatch popularity...[BRK]
 
 In this world there are many
 things that are a mystery.[BRK]
@@ -123,7 +123,7 @@ to the Blue Star, that just
 might be possible.[END]
 
 === c | 19e28 | 13 ===
-Star tower entrance[END]
+Star Tower Entrance[END]
 
 === d | 1a61c | 1ba ===
 Hmm hmm hmm...[BRK]
@@ -164,22 +164,22 @@ Ruby![BRK]
 Just checking.....[END]
 
 === e | 1a7e0 | d ===
-Star tower 1F[END]
+Star Tower 1F[END]
 
 === f | 1b004 | d ===
-Star tower 2F[END]
+Star Tower 2F[END]
 
 === 10 | 1b81e | d ===
-Star tower 3F[END]
+Star Tower 3F[END]
 
 === 11 | 1c038 | d ===
-Star tower 4F[END]
+Star Tower 4F[END]
 
 === 12 | 1c8f4 | d ===
-Star tower 5F[END]
+Star Tower 5F[END]
 
 === 13 | 1d29c | d ===
-Star tower 6F[END]
+Star Tower 6F[END]
 
 === 14 | 1dd86 | 232 ===
 Ha ha ha ha![BRK]
@@ -192,7 +192,7 @@ test his mettle against my
 superior power?[BRK]
 
 [POR02]
-Who...who are you? Show
+Who...Who are you? Show
 yourself![BRK]
 
 [POR00]
@@ -277,7 +277,7 @@ But that is why I must go.
 Her task is my task. We are
 as one...[BRK]
 
-...but I guess you wouldn't
+...But I guess you wouldn't
 understand that...[BRK]
 
 Suffice to say that I must
@@ -301,7 +301,7 @@ We fight for passage![END]
 
 === 19 | 1e3e4 | 1b3 ===
 You've won the right to use
-the transport to the Blue
+the Transport to the Blue
 Star.[BRK]
 
 The strength of your resolve
@@ -327,17 +327,17 @@ that you have the power to
 make dreams a reality...[END]
 
 === 1a | 1e5a0 | d ===
-Star tower 7F[END]
+Star Tower 7F[END]
 
 === 1b | 1edd4 | 8e ===
 [POR02]
-Look! Hiro...the Star
+Look! Hiro...The Star
 Dragon Crystal![BRK]
 
 The way to the Blue Star is
 before us![BRK]
 
-...i...guess this is where
+...I...guess this is where
 we have to say good-bye,
 isn't it?
 [END]
@@ -352,7 +352,7 @@ she better take good care of
 you...or...or else...I'll...[BRK]
 
 Ooohhhh, Hiro...
-good-bye![BRK]
+Good-bye![BRK]
 
 [POR01]
 Oh, Ruby! I know I'm going
@@ -367,7 +367,7 @@ Take care of yourself!
 
 === 1d | 1f03a | 18d ===
 [POR05]
-Well, chief, this is it, I
+Well, Chief, this is it, I
 guess...the moment of
 truth.[BRK]
 
@@ -408,7 +408,7 @@ Hiro, are you certain you
 want to try this alone?[BRK]
 
 I mean...I could go with
-...wait...what am I saying?[BRK]
+...Wait...what am I saying?[BRK]
 
 This is probably something
 you want to do by yourself.[BRK]
@@ -471,5 +471,5 @@ without even saying good-bye
 to your friends?[END]
 
 === 22 | 1f5e4 | 14 ===
-Star tower warp room[END]
+Star Tower Warp Room[END]
 

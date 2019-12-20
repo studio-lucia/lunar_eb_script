@@ -39,7 +39,7 @@ carnival and forget your
 worries![END]
 
 === 3 | f752 | 74 ===
-Oh, ms. Jean! Your song and
+Oh, Ms. Jean! Your song and
 dance routine is a special
 event, indeed.[BRK]
 
@@ -110,12 +110,12 @@ Have you seen my grampa?
 He took me to this place,
 then disappeared.[BRK]
 
-I'm scared. Mommy and daddy
+I'm scared. Mommy and Daddy
 are back home, and I don't
 know how to get there...[END]
 
 === b | fc22 | c7 ===
-You...you have special
+You...You have special
 clothes. Are you a member
 of the carnival?[BRK]
 
@@ -138,11 +138,11 @@ find my way home without
 him...[END]
 
 === d | fd52 | 76 ===
-Mommy and daddy said grampa
+Mommy and Daddy said Grampa
 would watch me at the 
 carnival.[BRK]
 
-Now grampa has gone away,
+Now Grampa has gone away,
 and I don't know where he
 is...[END]
 
@@ -152,7 +152,7 @@ if my mommy and daddy find
 out about this.[BRK]
 
 Daddy will be real mad. The
-last time grampa took me,
+last time Grampa took me,
 he left me at the store.[BRK]
 
 I think he's getting too old
@@ -160,13 +160,13 @@ to go places by himself.[BRK]
 
 Say, lady, you look like a
 magic performer. Can you
-make grampa come back?[END]
+make Grampa come back?[END]
 
 === f | ff08 | 7a ===
 Grampa, if you don't start
 remembering better,[BRK]
 
-mommy and daddy are going
+Mommy and Daddy are going
 to put you away in a home.[BRK]
 
 I heard them say that.[END]
@@ -199,7 +199,7 @@ Wanna join the carnival?[BRK]
 Uh, no...thanks.[END]
 
 === 12 | 1011a | cc ===
-Step right up...step close
+Step right up...Step close
 as you dare and witness the
 human flamethrower![BRK]
 
@@ -211,7 +211,7 @@ air! Watch and see![BRK]
 .....[BRK]
 
 And, uh, kids...don't try
-this at home...ok?
+this at home...OK?
 
 [END]
 
@@ -267,7 +267,7 @@ Every adventure party has a
 pooper. That's why we
 invited you...[BRK]
 
-...party pooper!
+...Party pooper!
 [END]
 
 === 18 | 1056a | 64 ===
@@ -290,12 +290,12 @@ I'm not some stupid kid you
 can sucker in with that
 tired sales pitch![BRK]
 
-...but I will take just one.[END]
+...But I will take just one.[END]
 
 === 1a | 106c4 | 51 ===
 Enjoy our carnival, see the
 sights, and don't forget to
-visit the hall of chance![END]
+visit the Hall of Chance![END]
 
 === 1b | 1072e | 1e7 ===
 [POR05]
@@ -317,7 +317,7 @@ Besides, I can double my
 money in no time flat![BRK]
 
 [POR07]
-Double...did you say double
+Double...Did you say double
 your money?[BRK]
 
 Well, maybe we do have just
@@ -340,7 +340,7 @@ It's all in good fun![END]
 === 1d | 10988 | 4d ===
 Come one, come all! There's
 always a new game starting
-in the hall of chance![END]
+in the Hall of Chance![END]
 
 === 1e | 109e2 | 11b ===
 [POR05]
@@ -408,7 +408,7 @@ behold.[0xDB].
 [0xDB]Sight to my eyes, and
 warmth to my heart[0xDB][BRK]
 
-[0xDB]la la la la la laaaa...[BRK]
+[0xDB]La la la la la laaaa...[BRK]
 
 [POR02]
 Hey, Hiro! Isn't this the
@@ -628,16 +628,16 @@ Some combinations will knock
 you on your butt.[END]
 
 === 39 | 11a7a | 65 ===
-<Hick> haaay, whad are you
+<hick> Haaay, whad are you
 doin' invadin' my space?[BRK]
 
 Don' you know I'm a bery
-'portant person?? <Hick>[END]
+'portant person?? <hick>[END]
 
 === 3a | 11aee | 7a ===
 Say, <hick> ledds go see
 thad cutie Jean shake ger
-boody, huh? Huh? <Hick>[BRK]
+boody, huh? Huh? <hick>[BRK]
 
 Bud, waid uh minnit whal
 I finnish 'dis dreenk.[END]
@@ -749,10 +749,10 @@ to western Nota and beyond.[BRK]
 
 Giban, I want you to use the
 Magic Arrow to fly us to
-west Nota.[BRK]
+West Nota.[BRK]
 
 [POR00]
-...you can't be serious!?[BRK]
+...You can't be serious!?[BRK]
 
 The Magic Arrow has not
 been fully tested at that
@@ -763,12 +763,12 @@ Who's in charge of this
 drunken revelry?! Come
 forth![BRK]
 
-I am Leo, white knight of
+I am Leo, White Knight of
 Althena's Guard. Again,
 who is in charge?![BRK]
 
 [POR00]
-Oh dear...they've found
+Oh dear...They've found
 you...[BRK]
 
 Don't worry, Jean, I'll take
@@ -785,7 +785,7 @@ red cloth. Have you seen
 her?[BRK]
 
 [POR00]
-...as you can see, sir, 
+...As you can see, sir, 
 we've been here for some
 time,[BRK]
 
@@ -820,7 +820,7 @@ unturned!
 
 === 49 | 13948 | 26b ===
 [POR10]
-...thank you, Giban. Leo 
+...Thank you, Giban. Leo 
 is relentless. He wants
 Lucia here...[BRK]
 
@@ -876,7 +876,7 @@ close. It's safer that way.[END]
 
 === 4b | 13c5c | fc ===
 [POR00]
-...whoa! Those clothes
+...Whoa! Those clothes
 really do you justice,
 Lucia.[BRK]
 
@@ -974,7 +974,7 @@ missing me![END]
 
 === 53 | 14168 | 89 ===
 [POR05]
-...hey, Hiro, what do you
+...Hey, Hiro, what do you
 think they're doing inside
 that tent?[BRK]
 
@@ -1020,7 +1020,7 @@ out...???
 
 === 56 | 143ac | 145 ===
 [POR05]
-...dammit![BRK]
+...Dammit![BRK]
 
 I can't see anything! 
 Hiro, let's trade positions![BRK]
@@ -1030,21 +1030,21 @@ In a minute, Ronfar. You
 see this stuff everyday! [BRK]
 
 [POR05]
-...what!? Hey! Nothing like
+...What!? Hey! Nothing like
 this![BRK]
 
 Now move! If I don't get a 
 glimpse I'm really going
 to be pissed.[BRK]
 
-...ungh...there...perfect
+...Ungh...There...Perfect
 view...[BRK]
 
 [POR01]
-Ronfar...let me see![BRK]
+Ronfar...Let me see![BRK]
 
 [POR05]
-...oh yesss!!! Babydoll,
+...Oh yesss!!! Babydoll,
 come to papa!
 
 [END]
@@ -1095,7 +1095,7 @@ peep show![BRK]
 
 [POR08]
 ....
-.....embarrassed?[BRK]
+.....Embarrassed?[BRK]
 
 [POR10]
 Lucia, you can't let guys
@@ -1107,7 +1107,7 @@ boss![BRK]
 
 [POR08]
 ....
-.....boss?[BRK]
+.....Boss?[BRK]
 
 [POR10]
 Yeah, boss! Watch![END]
@@ -1122,7 +1122,7 @@ you know them!![END]
 [POR10]
 Uh, don't do that again.[BRK]
 
-Okay, Lucia...come on out![END]
+Okay, Lucia...Come on out![END]
 
 === 5d | 147ba | 5e ===
 [POR10]
@@ -1142,7 +1142,7 @@ like that, Hiro?[BRK]
 ....
 .....[BRK]
 
-...is...is something...
+...Is...Is something...
 ...wrong?[BRK]
 
 [POR01]
@@ -1160,7 +1160,7 @@ Jean, I haven't seen you
 in ages![BRK]
 
 What? You want to fly to
-west Nota using the Magic
+West Nota using the Magic
 Arrow?[BRK]
 
 It's fine with me, but you
@@ -1192,7 +1192,7 @@ whack, no tellin' where
 you'll end up...[END]
 
 === 62 | 14b36 | 34 ===
-...all right, who's going to
+...All right, who's going to
 be the first to get in?[END]
 
 === 63 | 14b6e | 4b ===
@@ -1200,21 +1200,21 @@ be the first to get in?[END]
 I knew the old man was
 lying![BRK]
 
-...halt! I've finally found
+...Halt! I've finally found
 you, traitors![END]
 
 === 64 | 14bbc | 39 ===
 [POR05]
-...come on! Hurry up and
+...Come on! Hurry up and
 get in! Let's get outta
 here![END]
 
 === 65 | 14bf8 | 4b ===
 [POR09]
-...ha!! Do you really think
+...Ha!! Do you really think
 you can escape me!?[BRK]
 
-...guess again, vermin!![END]
+...Guess again, vermin!![END]
 
 === 66 | 14c46 | 55 ===
 [ROR09]
@@ -1238,7 +1238,7 @@ change of flight plans!
 
 === 68 | 14d58 | 95 ===
 I think I can build a better
-arrow. I just need someone
+Arrow. I just need someone
 to test it out...[BRK]
 
 [POR10]
@@ -1251,14 +1251,14 @@ If I just would've taken the
 expansion shield and crossed
 it over to the...[BRK]
 
-...don't worry, I'll have
+...Don't worry, I'll have
 the bugs worked out of the 
 new one before you need it.[END]
 
 === 6a | 14eba | ca ===
-J-42 to j-37. The black wire
+J-42 to J-37. The black wire
 then crosses over and hooks
-on to yellow j-29.[BRK]
+on to yellow J-29.[BRK]
 
 Yikes! Geez, don't just walk
 up and scare me like that![BRK]
@@ -1273,7 +1273,7 @@ I've told you a million
 times, we're not going to 
 fly on your Magic Arrows![BRK]
 
-...ever!
+...Ever!
 [END]
 
 === 6c | 15004 | 86 ===
@@ -1281,7 +1281,7 @@ Say, you don't know anyone
 that would like to take
 a Magic Arrow ride?[BRK]
 
-I need a guinea pi...i
+I need a guinea pi...I
 mean to say, volunteer...
 to try it out.[END]
 
@@ -1366,7 +1366,7 @@ me?[BRK]
 
 Just go! It'll never be good
 enough for you anyway...
-leave me...[END]
+Leave me...[END]
 
 === 77 | 15556 | 76 ===
 Hey, do you think I could 
@@ -1416,7 +1416,7 @@ perfect, blah, blah, blah...
 
 === 7c | 157fc | 32 ===
 Oh!? You guys...
-what's...what's happened
+What's...What's happened
 to Jean?[END]
 
 === 7d | 15846 | cd ===
@@ -1468,7 +1468,7 @@ I'm sure you've worked hard
 to become so. Have you seen
 me dance?[BRK]
 
-...just wondering...
+...Just wondering...
 [END]
 
 === 82 | 15b86 | a2 ===
@@ -1651,10 +1651,10 @@ Do you want my help or
 not?[END]
 
 === 90 | 16564 | f ===
-North carnival [END]
+North Carnival [END]
 
 === 91 | 170ae | 14 ===
-Hmmm...where's Jean?[END]
+Hmmm...Where's Jean?[END]
 
 === 92 | 170da | d9 ===
 Ahh! Hey, there's Jean!
@@ -1680,7 +1680,7 @@ I saw you guys fly in the
 Magic Arrow! It was sooo
 cool![BRK]
 
-...but weren't you afraid?
+...But weren't you afraid?
 It was so high in the air![END]
 
 === 95 | 1728c | 2d ===
@@ -1730,7 +1730,7 @@ Even Jean will not be
 able to best me this time![END]
 
 === 9a | 1756c | 93 ===
-J-jean! You came to the
+J-Jean! You came to the
 carnival! Are you still
 keeping up on your dance?[BRK]
 
@@ -1811,11 +1811,11 @@ sick?[BRK]
 I think I may be lovesick.[BRK]
 
 [POR00]
-You don't say...hmmmm...
+You don't say...Hmmmm...
 [END]
 
 === a1 | 179d4 | 7e ===
-Jean...oh, my dear, sweet
+Jean...Oh, my dear, sweet
 Jean...I know she's crazy
 for me...[BRK]
 
@@ -1855,8 +1855,8 @@ Jean, Jean, Jean! Do not
 tear my beating heart from
 this tender flesh![BRK]
 
-Come back to me now...all
-is forgiven...be mine yet
+Come back to me now...All
+is forgiven...Be mine yet
 once more.[BRK]
 
 [POR10]
@@ -1908,7 +1908,7 @@ burns in her heart for me
 and me alone...[END]
 
 === a9 | 18006 | d1 ===
-Jean, sweet Jean...why do
+Jean, sweet Jean...Why do
 you let our love run cold?[BRK]
 
 I will love you until the
@@ -1922,10 +1922,10 @@ on someone you could get.
 [END]
 
 === aa | 180dc | 13 ===
-Carnival[0xDF]carriage 1[END]
+Carnival[0xDF]Carriage 1[END]
 
 === ab | 186fa | 13 ===
-Carnival[0xDF]carriage 2[END]
+Carnival[0xDF]Carriage 2[END]
 
 === ac | 18d16 | 4d ===
 It's carnival time! If you
@@ -2010,7 +2010,7 @@ chances if you dare...[END]
 
 === b3 | 19202 | c5 ===
 Remember this. Now listen
-close...there is a mirror
+close...There is a mirror
 with a single dose...[BRK]
 
 Find this mirror, and you
@@ -2034,11 +2034,11 @@ you when it's ready...[END]
 
 === b6 | 1939a | 27 ===
 There once was a girl from
-nantucket...[END]
+Nantucket...[END]
 
 === b7 | 193d0 | e7 ===
 I gave up on that whole
-nantucket line on the song.[BRK]
+Nantucket line on the song.[BRK]
 
 Listen to this opening
 verse, okay?[BRK]
@@ -2052,10 +2052,10 @@ beginning, huh? The song
 will be about Lucia![END]
 
 === b8 | 194bc | 13 ===
-Carnival[0xDF]carriage 3[END]
+Carnival[0xDF]Carriage 3[END]
 
 === b9 | 19ade | 17 ===
-Welcome...he he he he!
+Welcome...He he he he!
 [END]
 
 === ba | 19afa | 43 ===
@@ -2066,23 +2066,23 @@ find it again...[END]
 === bb | 19b4e | 47 ===
 [POR07]
 Gwah ha ha ha!
-...oh...hey! I found 1s!
-Imagine that...gwah ha ha!
+...Oh...hey! I found 1s!
+Imagine that...Gwah ha ha!
 
 [END]
 
 === bc | 19bc0 | 31 ===
 [POR07]
 I guess that's all there
-was...gwah ha ha ha!
+was...Gwah ha ha ha!
 [END]
 
 === bd | 19c00 | a4 ===
 Ha ha! I've got you![BRK]
 
 [POR05]
-He...hey! Get off me, you
-flaming...geez! What are
+He...Hey! Get off me, you
+flaming...Geez! What are
 you doing?[BRK]
 
 [POR00]
@@ -2106,20 +2106,20 @@ get out of here...
 [END]
 
 === bf | 19d48 | 41 ===
-Oohh...this feels nice.[BRK]
+Oohh...This feels nice.[BRK]
 
 It's soft and gushy...dee he
 he he he...
 [END]
 
 === c0 | 19d96 | 31 ===
-Oh no...oh man...it's...
-it's...Grandpa's butt!
+Oh no...Oh man...It's...
+It's...Grandpa's butt!
 
 [END]
 
 === c1 | 19dd6 | 3e ===
-Hey...who...who's squeezing
+Hey...Who...Who's squeezing
 my butt?![BRK]
 
 Stop that this instant!
@@ -2183,7 +2183,7 @@ office? It's my favorite
 game...[END]
 
 === c9 | 1a0ce | 92 ===
-I heard that this giggle den
+I heard that this Giggle Den
 was dangerous, but I wanted
 to see what it was like.[BRK]
 
@@ -2193,7 +2193,7 @@ of my face...[END]
 
 === ca | 1a174 | 71 ===
 Oh no! I seem to have lost
-my way...this will never
+my way...This will never
 do...[BRK]
 
 This adventure is just
@@ -2201,17 +2201,17 @@ getting curiouser and
 curiouser![END]
 
 === cb | 1a1f4 | 86 ===
-I came to the giggle den
+I came to the Giggle Den
 to see why it was called
 that.[BRK]
 
 Some people say it's filled
 with spooks. I think it's
-just vega and his men...[END]
+just Vega and his men...[END]
 
 === cc | 1a28e | 4a ===
-I wonder when robert is
-coming back with little fox
+I wonder when Robert is
+coming back with Little Fox
 to beam me outta here![END]
 
 === cd | 1a2e8 | 5a ===
@@ -2237,7 +2237,7 @@ mind, we'll be right here.[BRK]
 
 If you didn't want to play,
 why'd you come to the
-giggle house, anyway?[END]
+Giggle House, anyway?[END]
 
 === d0 | 1a496 | 3e ===
 Where is this? What am
@@ -2278,7 +2278,7 @@ I touching now?[BRK]
 Ohhhh![BRK]
 
 That's your...your...
-...ewwwww![BRK]
+...Ewwwww![BRK]
 
 Anyone have a
 handkerchief?
@@ -2301,14 +2301,14 @@ It's so dark in here, I
 fell asleep...[END]
 
 === d8 | 1a78c | 50 ===
-I like the giggle den. Tee
+I like the Giggle Den. Tee
 hee hee...[BRK]
 
 Everyone is beautiful in
 here. Gwah ha ha![END]
 
 === d9 | 1a7e2 | 13 ===
-Carnival[0xDF]giggle den[END]
+Carnival[0xDF]Giggle Den[END]
 
 === da | 1afc8 | ab ===
 Say there, come on over and
@@ -2335,7 +2335,7 @@ mind if I insure my destiny
 by checking your dice...[BRK]
 
 [POR00]
-Oh...no, no. That's not
+Oh...No, no. That's not
 necessary. We're a licensed
 establishment.[BRK]
 
@@ -2344,14 +2344,14 @@ There's no cheating here.[END]
 === dd | 1b1a0 | 59 ===
 Okay then, folks, what'll
 you wager? 
-[0x5]            10S
+[0x5]            10s
             50s 
           10,000s[END]
 
 === de | 1b208 | 52 ===
 Are you betting your milk
 money? I haven't seen a bet
-that small since...well, ok.[END]
+that small since...Well, OK.[END]
 
 === df | 1b272 | 41 ===
 50 Silver it is! I like a
@@ -2359,7 +2359,7 @@ person that's willing to
 risk a little![END]
 
 === e0 | 1b2d4 | d8 ===
-10,000S?! We have a player
+10,000s?! We have a player
 here, folks! Gather round
 and watch the fun![BRK]
 
@@ -2391,7 +2391,7 @@ All right, now. Let's see
 some of that betting cash
 on the table.[BRK]
 
-...hey! You don't even have
+...Hey! You don't even have
 enough to cover your bets![BRK]
 
 Get out of here, ya bum![END]
@@ -2423,7 +2423,7 @@ Better luck next time, eh?[END]
 
 === e7 | 1b6c4 | 4c ===
 Ahh, a thigh man, hmmm. I
-like that...let's roll the
+like that...Let's roll the
 dice and test yer luck![END]
 
 === e8 | 1b724 | 3d ===
@@ -2464,7 +2464,7 @@ in the first place, kid?[BRK]
 This ain't no petting zoo![END]
 
 === ef | 1b996 | 11 ===
-Carnival[0xDF]dice den[END]
+Carnival[0xDF]Dice Den[END]
 
 === f0 | 1c024 | 4b ===
 I've been expecting you.
@@ -2474,7 +2474,7 @@ let me tell your fortune.[END]
 === f1 | 1c084 | bb ===
 [POR07]
 Can you tell me if my future
-has money in it?...l-lots
+has money in it?...L-Lots
 of it?!![BRK]
 
 [POR00]
@@ -2503,12 +2503,12 @@ already?[END]
 
 === f3 | 1c1f6 | 5e ===
 ...I see danger...and a
-great...no! It all will
+great...No! It all will
 lie on the head of a girl![BRK]
 
 [POR08]
 .....
-....what?
+....What?
 [END]
 
 === f4 | 1c26c | 4d ===
@@ -2566,12 +2566,12 @@ item you seek...
 [END]
 
 === f8 | 1c5a4 | 1b3 ===
-Ah, brave one...you have
+Ah, brave one...You have
 returned for another glimpse
 of your future![BRK]
 
 Let me see...I see...I see
-...no! It cannot be! I've
+...No! It cannot be! I've
 never been wrong, but...[BRK]
 
 [POR02]
@@ -2580,7 +2580,7 @@ working for a psychic
 hotline in the near future?[BRK]
 
 [POR00]
-No...no! I see the brave one
+No...No! I see the brave one
 going to the Blue Star! It
 can't be! It's not possible.[BRK]
 
@@ -2589,7 +2589,7 @@ Well, if you saw it, it must
 be possible! I'll tell you
 how it turns out...[BRK]
 
-Oh, and say hi to dionne
+Oh, and say hi to Dionne
 for me, okay?
 
 [END]
@@ -2601,7 +2601,7 @@ future than I wanted to see.[BRK]
 Your destiny is too
 complicated for me...[BRK]
 
-...the Blue Star awaits...[END]
+...The Blue Star awaits...[END]
 
 === fa | 1c802 | 77 ===
 The fortune teller in here
@@ -2610,7 +2610,7 @@ scared sometimes.[BRK]
 
 But that's foolish, right?[BRK]
 
-...uh, hehe...right?
+...Uh, hehe...right?
 [END]
 
 === fb | 1c888 | 8a ===
@@ -2620,7 +2620,7 @@ here.[BRK]
 
 This fortune teller is very
 accurate, and she doesn't
-charge $3.95 A minute.[END]
+charge $3.95 a minute.[END]
 
 === fc | 1c922 | 78 ===
 I asked the teller to see
@@ -2644,10 +2644,10 @@ Well, it's not Hiro. Hiro's
 already taken![END]
 
 === fe | 1ca60 | 16 ===
-Carnival[0xDF]fortune tellr[END]
+Carnival[0xDF]Fortune Tellr[END]
 
 === ff | 1d0e0 | 3e ===
-Hi there! Welcome to bunni's
+Hi there! Welcome to Bunni's
 item shop. What can I do
 for you?[END]
 
@@ -2656,7 +2656,7 @@ Leaving so soon? Well, be
 sure and come again![END]
 
 === 101 | 1d16a | 70 ===
-That darn hall of chance!
+That darn Hall of Chance!
 I went in there loaded and
 came out broke![BRK]
 
@@ -2664,8 +2664,8 @@ Don't they know that kids
 shouldn't gamble?[END]
 
 === 102 | 1d1f2 | 46 ===
-Have you been to the giggle
-den? It's really fun! Sorta
+Have you been to the Giggle
+Den? It's really fun! Sorta
 touchy-feelly.[END]
 
 === 103 | 1d248 | 4b ===
@@ -2676,7 +2676,7 @@ carnival.[BRK]
 I sure hope so...[END]
 
 === 104 | 1d298 | 12 ===
-Carnival[0xDF]item shop[END]
+Carnival[0xDF]Item Shop[END]
 
 === 105 | 1d92a | 238 ===
 [POR00]
@@ -2695,10 +2695,10 @@ to western Nota and beyond.[BRK]
 
 Giban, I want you to use the
 Magic Arrow to fly us to
-west Nota.[BRK]
+West Nota.[BRK]
 
 [POR00]
-...you can't be serious!?[BRK]
+...You can't be serious!?[BRK]
 
 The Magic Arrow has not
 been fully tested at that
@@ -2709,12 +2709,12 @@ Who's in charge of this
 drunken revelry?! Come
 forth![BRK]
 
-I am Leo, white knight of
+I am Leo, White Knight of
 Althena's Guard. Again,
 who is in charge?![BRK]
 
 [POR00]
-Oh dear...they've found
+Oh dear...They've found
 you...[BRK]
 
 Don't worry, Jean, I'll take
@@ -2733,7 +2733,7 @@ red cloth. Have you seen
 her?[BRK]
 
 [POR00]
-...as you can see, sir, 
+...As you can see, sir, 
 we've been here for some
 time,[BRK]
 
@@ -2745,7 +2745,7 @@ here...[BRK]
 I trust that you are telling
 the truth...[BRK]
 
-But I warn you: it is not
+But I warn you: It is not
 wise to betray my trust!
 Remember that![END]
 
@@ -2825,7 +2825,7 @@ close. It's safer that way.[END]
 
 === 10a | 1e042 | fc ===
 [POR00]
-...whoa! Those clothes
+...Whoa! Those clothes
 really do you justice,
 Lucia.[BRK]
 
@@ -2922,7 +2922,7 @@ missing me![END]
 
 === 112 | 1e54e | 89 ===
 [POR05]
-...hey, Hiro, what do you
+...Hey, Hiro, what do you
 think they're doing inside
 that tent?[BRK]
 
@@ -2960,12 +2960,12 @@ You should choose the most
 expensive garments, since
 you get them for free!![BRK]
 
-...what have you got picked
+...What have you got picked
 out...???[END]
 
 === 115 | 1e792 | 145 ===
 [POR05]
-...dammit![BRK]
+...Dammit![BRK]
 
 I can't see anything! 
 Hiro, let's trade positions![BRK]
@@ -2975,21 +2975,21 @@ In a minute, Ronfar. You
 see this stuff everyday! [BRK]
 
 [POR05]
-...what!? Hey! Nothing like
+...What!? Hey! Nothing like
 this![BRK]
 
 Now move! If I don't get a 
 glimpse I'm really going
 to be pissed.[BRK]
 
-...ungh...there...perfect
+...Ungh...There...Perfect
 view...[BRK]
 
 [POR01]
-Ronfar...let me see![BRK]
+Ronfar...Let me see![BRK]
 
 [POR05]
-...oh yesss!!! Babydoll,
+...Oh yesss!!! Babydoll,
 come to papa!
 
 [END]
@@ -3040,7 +3040,7 @@ peep show![BRK]
 
 [POR08]
 ....
-.....embarrassed?[BRK]
+.....Embarrassed?[BRK]
 
 [POR10]
 Lucia, you can't let guys
@@ -3052,7 +3052,7 @@ boss![BRK]
 
 [POR08]
 ....
-.....boss?[BRK]
+.....Boss?[BRK]
 
 [POR10]
 Yeah, boss! Watch![END]
@@ -3087,7 +3087,7 @@ like that, Hiro?[BRK]
 ....
 .....[BRK]
 
-...is...is something...
+...Is...Is something...
 ...wrong?[BRK]
 
 [POR01]
@@ -3105,7 +3105,7 @@ Jean, I haven't seen you
 in ages![BRK]
 
 What? You want to fly to
-west Nota using the Magic
+West Nota using the Magic
 Arrow?[BRK]
 
 It's fine with me, but you
@@ -3123,7 +3123,7 @@ hands, now. I'll make sure
 the Arrow gets you to Nota.[END]
 
 === 120 | 1ee44 | ce ===
-The arrow is all finished.[BRK]
+The Arrow is all finished.[BRK]
 
 Just wait a second while I
 make one final adjustment to
@@ -3137,7 +3137,7 @@ whack, no tellin' where
 you'll end up...[END]
 
 === 121 | 1ef1c | 34 ===
-...all right, who's going to
+...All right, who's going to
 be the first to get in?[END]
 
 === 122 | 1ef54 | 4b ===
@@ -3145,21 +3145,21 @@ be the first to get in?[END]
 I knew the old man was
 lying![BRK]
 
-...halt! I've finally found
+...Halt! I've finally found
 you, traitors![END]
 
 === 123 | 1efa2 | 39 ===
 [POR05]
-...come on! Hurry up and
+...Come on! Hurry up and
 get in! Let's get outta
 here![END]
 
 === 124 | 1efde | 4b ===
 [POR09]
-...ha!! Do you really think
+...Ha!! Do you really think
 you can escape me!?[BRK]
 
-...guess again, vermin!![END]
+...Guess again, vermin!![END]
 
 === 125 | 1f02c | 55 ===
 [ROR09]
@@ -3183,7 +3183,7 @@ change of flight plans!
 
 === 127 | 1f13e | 95 ===
 I think I can build a better
-arrow. I just need someone
+Arrow. I just need someone
 to test it out...[BRK]
 
 [POR10]
@@ -3196,14 +3196,14 @@ If I just would've taken the
 expansion shield and crossed
 it over to the...[BRK]
 
-...don't worry, I'll have
+...Don't worry, I'll have
 the bugs worked out of the 
 new one before you need it.[END]
 
 === 129 | 1f2a0 | ca ===
-J-42 to j-37. The black wire
+J-42 to J-37. The black wire
 then crosses over and hooks
-on to yellow j-29.[BRK]
+on to yellow J-29.[BRK]
 
 Yikes! Geez, don't just walk
 up and scare me like that![BRK]
@@ -3218,7 +3218,7 @@ I've told you a million
 times, we're not going to 
 fly on your Magic Arrows![BRK]
 
-...ever!
+...Ever!
 [END]
 
 === 12b | 1f3ea | 86 ===
@@ -3226,7 +3226,7 @@ Say, you don't know anyone
 that would like to take
 a Magic Arrow ride?[BRK]
 
-I need a guinea pi...i
+I need a guinea pi...I
 mean to say, volunteer...
 to try it out.[END]
 
@@ -3310,7 +3310,7 @@ me?[BRK]
 
 Just go! It'll never be good
 enough for you anyway...
-leave me...[END]
+Leave me...[END]
 
 === 136 | 1f93c | 76 ===
 Hey, do you think I could 
@@ -3361,7 +3361,7 @@ perfect, blah, blah, blah...
 
 === 13b | 1fbe2 | 32 ===
 Oh!? You guys...
-what's...what's happened
+What's...What's happened
 to Jean?[END]
 
 === 13c | 1fc2c | cd ===
@@ -3413,7 +3413,7 @@ I'm sure you've worked hard
 to become so. Have you seen
 me dance?[BRK]
 
-...just wondering...
+...Just wondering...
 [END]
 
 === 141 | 1ff6c | a2 ===
@@ -3600,5 +3600,5 @@ Do you want my help or
 not?[END]
 
 === 14f | 2094a | f ===
-North carnival [END]
+North Carnival [END]
 

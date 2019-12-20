@@ -4,7 +4,7 @@ Messages: 122
 
 === 0 | 8402 | a0 ===
 [POR05]
-Hmm...just as I remember it.
+Hmm...Just as I remember it.
 Nothing ever changes in this
 ol' town.[BRK]
 
@@ -12,7 +12,7 @@ Ever since I was a kid
 growing up here with Leo and
 Mauri, it's been the same.[BRK]
 
-...boring.[END]
+...Boring.[END]
 
 === 1 | 84bc | 7d ===
 Didja know this here was the
@@ -62,7 +62,7 @@ usually pretty peaceful.
 
 === 6 | 878e | 109 ===
 This is the village of...
-...hey, Ronfar! What are
+...Hey, Ronfar! What are
 you doing?[BRK]
 
 I thought you finally
@@ -110,7 +110,7 @@ Okay, Ronfar, call me
 brother! I want to hear it![BRK]
 
 [POR05]
-Uh...no...no...you can't
+Uh...No...no...You can't
 make me!
 
 [END]
@@ -166,7 +166,7 @@ What? What did you say?
 I thought you said...[BRK]
 
 [POR08]
-Ah...oh, nothing...forget
+Ah...Oh, nothing...Forget
 I said anything...
 [END]
 
@@ -199,7 +199,7 @@ She'd probably have us
 killed.[END]
 
 === 12 | 8f94 | 96 ===
-The legendary tears of
+The legendary Tears of
 Althena are said to have
 wonderful healing qualities.[BRK]
 
@@ -213,7 +213,7 @@ afflicted by madness have
 returned to normal![BRK]
 
 I wonder if someone used the
-tears of Althena...[END]
+Tears of Althena...[END]
 
 === 14 | 90d0 | 8f ===
 I have dedicated my life to
@@ -222,7 +222,7 @@ of disease.[BRK]
 
 We must find ways to cure
 the sick without relying
-solely on goddess tears.[END]
+solely on Goddess Tears.[END]
 
 === 15 | 9162 | 4b ===
 One day, mankind will be
@@ -252,15 +252,15 @@ Perot is god...or is it
 godot? [BRK]
 
 Perot, godot, what's the
-difference...we're still
-waiting...haahahahahaah![END]
+difference...We're still
+waiting...Haahahahahaah![END]
 
 === 19 | 935a | 97 ===
 Since the initiation, I
 am stuck in a vat of madness
 that comes and goes...[BRK]
 
-Please...you've got to
+Please...You've got to
 hel...hahahaha! Winky pinky
 poopy fop! Hahahahahaha![END]
 
@@ -273,13 +273,13 @@ I think Mauri's cleansing
 has somehow damaged me...[BRK]
 
 [POR02]
-I'll say...you should have
+I'll say...You should have
 seen the way you were acting
 before![END]
 
 === 1b | 94e0 | 7c ===
 I keep having this dream
-where I'm insane...it's just
+where I'm insane...It's just
 so weird![BRK]
 
 It's just sapping all my
@@ -288,7 +288,7 @@ night...[END]
 
 === 1c | 9570 | 123 ===
 Oh, what am I going to do?
-It's my...my husband...he's
+It's my...my husband...He's
 been like this ever since...[BRK]
 
 Oh, this is terrible! I
@@ -299,7 +299,7 @@ But he was a good man...and
 now that he's been cleansed,
 look at him![BRK]
 
-He's cuckoo for cocoa puffs!
+He's cuckoo for Cocoa Puffs!
 No...worse! What am I going
 to do?
 
@@ -481,7 +481,7 @@ I haven't seen Mauri look
 this happy since she and 
 Ronfar...[BRK]
 
-...oh, Ronfar...
+...Oh, Ronfar...
 [END]
 
 === 2b | a194 | 32 ===
@@ -527,7 +527,7 @@ cleansing rites right away![END]
 === 2f | a3e6 | 70 ===
 When my turn comes to go to
 Serak Palace, I'm gonna
-escape like logan did.[BRK]
+escape like Logan did.[BRK]
 
 He wasn't gonna let them
 cleanse him![END]
@@ -733,7 +733,7 @@ your zitty butt in hiding,
 we'll all be better off.[BRK]
 
 Congrats on the puberty
-thing, though...that's, uh,
+thing, though...That's, uh,
 hehe...really...um...nice.
 [END]
 
@@ -765,7 +765,7 @@ to do?[BRK]
 
 If I don't show up for my
 cleansing, the enforcers
-will come...oh dear...
+will come...Oh dear...
 [END]
 
 === 44 | b2b4 | 8e ===
@@ -808,11 +808,11 @@ are famous.[END]
 
 === 49 | b542 | 12d ===
 [POR07]
-Hey...this is perfect! If
+Hey...This is perfect! If
 I can get those three to
 live in Vane...[BRK]
 
-...it'll be a huge draw for
+...It'll be a huge draw for
 tourists! I can see it now:[BRK]
 
 Mauri mugs, Leo lights,
@@ -820,7 +820,7 @@ Ronfar rugs! It'll make a
 mint![BRK]
 
 And if I give them free
-rent...they'll come for
+rent...They'll come for
 sure![BRK]
 
 [POR02]
@@ -842,7 +842,7 @@ Good-bye! Good-bye! Please
 come back anytime![END]
 
 === 4d | c346 | b ===
-Raculi shop[END]
+Raculi Shop[END]
 
 === 4e | c99a | 8c ===
 Oh, dear heavens! Ronfar, is
@@ -1002,7 +1002,7 @@ is to tell others of the
 true teachings of Althena.[END]
 
 === 5d | d334 | 11 ===
-Raculi mayor home[END]
+Raculi Mayor Home[END]
 
 === 5e | d980 | 37f ===
 [POR05]
@@ -1023,7 +1023,7 @@ epidemic...[BRK]
 
 [ROR00]
 [POR05]
-Leo...i...[BRK]
+Leo...I...[BRK]
 
 [POR00]
 [ROR09]
@@ -1035,7 +1035,7 @@ one who caught it...[BRK]
 
 [ROR00]
 [POR05]
-Leo...it was my fault...i
+Leo...it was my fault...I
 ...I gave her the potion
 that changed her...[BRK]
 
@@ -1069,7 +1069,7 @@ Don't give me false hope![BRK]
 [POR00]
 [ROR09]
 ....
-.....there is a way, but...[BRK]
+.....There is a way, but...[BRK]
 
 ....
 .....[BRK]
@@ -1090,7 +1090,7 @@ Mauri back to normal again![BRK]
 
 [POR00]
 [ROR09]
-Ronfar...you gave Mauri the
+Ronfar...You gave Mauri the
 potion that would save her
 life...[BRK]
 
@@ -1340,7 +1340,7 @@ Just know that we're always
 here for you...[BRK]
 
 [POR05]
-...always. Remember that,
+...Always. Remember that,
 buddy.[END]
 
 === 68 | eb34 | 138 ===
@@ -1416,7 +1416,7 @@ Hiro...buddy! Long time no
 see! Say, what brings you
 back to Raculi?[BRK]
 
-Oh, I see...the old ruins,
+Oh, I see...The old ruins,
 hm? Why do you want to find
 them? And where's Lucia?[BRK]
 
@@ -1493,12 +1493,12 @@ Ha ha ha!
 [END]
 
 === 70 | f3bc | 13 ===
-Raculi Mauri's home[END]
+Raculi Mauri's Home[END]
 
 === 71 | fa02 | 75 ===
 Grrrr....ooooohhh...grrrr
-...ahhhh....Lord Zophar!
-...ooooo...[BRK]
+...Ahhhh....Lord Zophar!
+...Ooooo...[BRK]
 
 [POR08]
 This boy has been overtaken
@@ -1507,26 +1507,26 @@ by the power of Zophar![END]
 === 72 | fa84 | 4f ===
 [POR08]
 If we don't find Althena's
-aura stone soon, his mind
+Aura Stone soon, his mind
 will be gone forever...[END]
 
 === 73 | faea | 99 ===
-Wha...what am I doing back
+Wha...What am I doing back
 here in my house?[BRK]
 
 The last thing I remember
 was that I was about to
 start my cleansing...[BRK]
 
-...after that, everything's
+...After that, everything's
 a blank.[END]
 
 === 74 | fb9e | 7b ===
-I-it...was like I was in a
+I-It...was like I was in a
 bad dream. A voice kept
 saying 'Zophar,' [BRK]
 
-And all I could see was a
+and all I could see was a
 dark fog wherever I looked.
 [END]
 
@@ -1575,5 +1575,5 @@ knowing he's not hanging
 around those weirdoes...[END]
 
 === 79 | fefe | e ===
-Raculi house 2[END]
+Raculi House 2[END]
 

@@ -3,11 +3,11 @@ File: M29.GRP
 Messages: 49
 
 === 0 | 1a3fa | 116 ===
-Red priest Mauri is not
+Red Priest Mauri is not
 prepared for the next...[BRK]
 
-Ma...mar...Mauri...
-n...no...no...ahhhh!![BRK]
+Ma...Mar...Mauri...
+N...No...no...Ahhhh!![BRK]
 
 I'm sorry, did I just
 black out? That keeps
@@ -57,7 +57,7 @@ This is just great! Now
 I look like a complete
 dork![BRK]
 
-...man! I wonder how I
+...Man! I wonder how I
 managed to drool like this
 and not know it!!!?[END]
 
@@ -76,7 +76,7 @@ they'll go insane...
 [END]
 
 === 5 | 1a802 | 183 ===
-How...how did I get here?[BRK]
+How...How did I get here?[BRK]
 
 I never would have come here
 of my own accord. This place
@@ -263,12 +263,12 @@ few days...[BRK]
 
 All I can say is...[BRK]
 
-...whoa!!![BRK]
+...Whoa!!![BRK]
 
 Was I nuts, or what?[END]
 
 === 11 | 1b294 | 12 ===
-Serak palace foyer[END]
+Serak Palace Foyer[END]
 
 === 12 | 1c3a0 | 15e ===
 [POR09]
@@ -278,7 +278,7 @@ The time has come to settle
 this![BRK]
 
 [POR15]
-...why do you come to me
+...Why do you come to me
 with condemnation in your
 eyes?[BRK]
 
@@ -367,7 +367,7 @@ It's no dream, Mauri.
 I'm here.[BRK]
 
 [POR15]
-It...it's just so hard to
+It...It's just so hard to
 believe that Zophar's power
 disappeared so suddenly...[BRK]
 
@@ -414,7 +414,7 @@ I can't just watch her slip
 away like this, Lucia...[BRK]
 
 Please! I'll do anything to
-save her...there must be a
+save her...There must be a
 way![BRK]
 
 [POR08]
@@ -464,7 +464,7 @@ C'mon, Lucia! Zap me,
 before it's too late![BRK]
 
 [POR08]
-...are you sure that you 
+...Are you sure that you 
 want to risk your life just
 to save her?[BRK]
 
@@ -476,14 +476,14 @@ Mauri is the only person
 that I've ever loved![BRK]
 
 I have to do this! C'mon,
-Lucia...hit me![END]
+Lucia...Hit me![END]
 
 === 18 | 1ce18 | ee ===
 [POR15]
 That fool! Ronfar is doomed
 to die a fool's death.[BRK]
 
-...and you along with him![BRK]
+...And you along with him![BRK]
 
 Every wrong step he takes
 within will call forth my
@@ -501,7 +501,7 @@ your executioner![END]
 Ronfar, I sure hope you
 know what you're doing...[BRK]
 
-...plan your course
+...Plan your course
 carefully, or we're all
 dead.[END]
 
@@ -558,8 +558,8 @@ to work this one out.[BRK]
 But there's no doubt in my
 mind that he'll come around.[BRK]
 
-After all, he is the white
-knight...
+After all, he is the White
+Knight...
 
 [END]
 
@@ -588,7 +588,7 @@ I'll see you in Raculi... [END]
 [POR09]
 ...Ronfar!!![BRK]
 
-Mauri...have you returned
+Mauri...Have you returned
 to us, my dear sister?[BRK]
 
 [POR15]
@@ -631,7 +631,7 @@ Go ahead Ronfar, kiss her. [BRK]
 We won't look![BRK]
 
 [POR05]
-...blasted cat!![BRK]
+...Blasted cat!![BRK]
 
 Don't you have anything 
 better to do than play
@@ -642,7 +642,7 @@ Ha, ha, ha...[END]
 
 === 1e | 1d6d0 | 129 ===
 [POR05]
-...hey...Leo!!![BRK]
+...Hey...Leo!!![BRK]
 
 Where are you going?[BRK]
 
@@ -650,7 +650,7 @@ Don't you think it's time
 you joined our fight?[BRK]
 
 [POR09]
-...my power is no longer 
+...My power is no longer 
 of use to anyone...[BRK]
 
 When you have restored the
@@ -704,7 +704,7 @@ Please be careful. I want to
 see you back in Raculi soon![END]
 
 === 22 | 1d9e4 | 14 ===
-Serak palace sanctum[END]
+Serak Palace Sanctum[END]
 
 === 23 | 1e33a | 49 ===
 [POR05]
@@ -760,7 +760,7 @@ Lucia, I won't forget what
 you've done here.[BRK]
 
 I will find some way to
-repay you...bet on it![BRK]
+repay you...Bet on it![BRK]
 
 ....
 .....[BRK]
@@ -774,16 +774,16 @@ returns!
 [END]
 
 === 26 | 1e65e | f ===
-Serak palace 5F[END]
+Serak Palace 5F[END]
 
 === 27 | 1f65e | f ===
-Serak palace 2F[END]
+Serak Palace 2F[END]
 
 === 28 | 20968 | f ===
-Serak palace 3F[END]
+Serak Palace 3F[END]
 
 === 29 | 21ba0 | f ===
-Serak palace 4F[END]
+Serak Palace 4F[END]
 
 === 2a | 22ddc | dc ===
 [POR05]
@@ -816,7 +816,7 @@ Mauri! It's me, Ronfar!![BRK]
 [POR15]
 Ronfar!?[BRK]
 
-You...are you sure you're
+You...Are you sure you're
 Ronfar?[BRK]
 
 ....
@@ -861,10 +861,10 @@ love and we can start our
 new life together...[BRK]
 
 [POR15]
-...oh, Ronfar![END]
+...Oh, Ronfar![END]
 
 === 2c | 23226 | c ===
-Mauri's mind[END]
+Mauri's Mind[END]
 
 === 2d | 23ff8 | e ===
 Donated 100s!
@@ -887,5 +887,5 @@ for your turn to be
 cleansed.[END]
 
 === 30 | 2410c | c ===
-Serak palace[END]
+Serak Palace[END]
 

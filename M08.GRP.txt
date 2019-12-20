@@ -5,7 +5,7 @@ Messages: 218
 === 0 | 87b0 | b7 ===
 Welcome to the town of
 Horam! We're located in
-western katarina.[BRK]
+western Katarina.[BRK]
 
 South of here lies the
 Marius Zone.[BRK]
@@ -45,7 +45,7 @@ against Lunn.[BRK]
 
 The only person I would've
 thought could beat him was
-otto...[END]
+Otto...[END]
 
 === 3 | 8a88 | 7b ===
 Only the best karate masters
@@ -262,7 +262,7 @@ these dojos and watching
 these studs work out.[BRK]
 
 The constant bending over 
-and stretching...oh man![BRK]
+and stretching...Oh man![BRK]
 
 I just don't know which
 man is the best...[BRK]
@@ -436,11 +436,11 @@ a lick, a grab, a grope, and
 two snaps in the air.[BRK]
 
 [POR02]
-...please, Hiro! Let me fry
+...Please, Hiro! Let me fry
 this guy's face off! Please?[BRK]
 
 [POR01]
-...ruuuby![END]
+...Ruuuby![END]
 
 === 28 | a1be | 56 ===
 Hey! You guys make great
@@ -508,7 +508,7 @@ I hope.[BRK]
 [POR02]
 I wonder if he'll learn...[BRK]
 
-That you'll never make a
+that you'll never make a
 difference if you just sit
 around and do nothing.[END]
 
@@ -516,8 +516,8 @@ around and do nothing.[END]
 I'm looking for a strong
 woman to marry...[BRK]
 
-I've been to the bunny 
-karate dojo, but they just
+I've been to the Bunny 
+Karate Dojo, but they just
 don't appeal to me...[BRK]
 
 Say, you look like you're 
@@ -700,7 +700,7 @@ fist can't cash![END]
 
 === 42 | afdc | 28 ===
 Master Lunn....
-what's happened to you??[END]
+What's happened to you??[END]
 
 === 43 | b018 | 65 ===
 I just can't accept that
@@ -910,7 +910,7 @@ it in two with this axe!
 I'm getting stronger each
 and every day.[BRK]
 
-I've rented all the 'rocky' 
+I've rented all the 'Rocky' 
 movies and I think I'm 
 going to win![END]
 
@@ -940,7 +940,7 @@ This is the best place to
 train in the world![BRK]
 
 I've been peeking into the
-bunny dojo, and man! Am I 
+Bunny Dojo, and man! Am I 
 telling you....[BRK]
 
 It's well worth getting your
@@ -1065,7 +1065,7 @@ Get used to famous people
 letting you down. It happens
 all the time![BRK]
 
-Usually on sunset...
+Usually on Sunset...
 [END]
 
 === 6c | c628 | 69 ===
@@ -1155,15 +1155,15 @@ I can't believe that you
 beat Lunn! Your skill is
 quite impressive.[BRK]
 
-Y-you're not going to...
+Y-You're not going to...
 to hold a grudge about
 b-before...are you?[BRK]
 
-I-i'm all for the equal
-rights thing...see....
+I-I'm all for the equal
+rights thing...See....
 I even know the chant![BRK]
 
-...what do we want?[BRK]
+...What do we want?[BRK]
 
 Equal rights![BRK]
 
@@ -1174,7 +1174,7 @@ Now![BRK]
 ....
 .....[BRK]
 
-...hehe...<gulp>...uh...
+...hehe...<gulp>...Uh...
 right?
 
 
@@ -1225,14 +1225,14 @@ yours before. What
 discipline did you study?[BRK]
 
 [POR10]
-Blue dragon karate, Sensei.
+Blue Dragon Karate, Sensei.
 My knowledge comes from a
 master of long ago.[BRK]
 
 [POR00]
-Hmmm...why do you want to
+Hmmm...Why do you want to
 enter the tournament? Fame?
-Fortune?...revenge?[BRK]
+Fortune?...Revenge?[BRK]
 
 [POR10]
 No. I tried once to deny the
@@ -1336,7 +1336,7 @@ Now my dojo can have the
 shame of Lunn's misuse of
 power lifted from it.[BRK]
 
-....yes, I am the master
+....Yes, I am the master
 who taught Lunn, before
 he became drunk with power.[BRK]
 
@@ -1394,7 +1394,7 @@ you never dreamed possible![BRK]
 ....
 .....[BRK]
 
-You know...I wrote the kama-
+You know...I wrote the Kama-
 sutra...[END]
 
 === 80 | 107dc | c4 ===
@@ -1406,17 +1406,17 @@ He called it to find someone
 who is strong enough to beat
 Lunn.[BRK]
 
-Wong-lee was his master, but
+Wong-Lee was his master, but
 now he fears Lunn's power.[END]
 
 === 81 | 108b8 | 83 ===
 Oh, are you looking for
-the wight dojo?[BRK]
+the Wight Dojo?[BRK]
 
 No, I'm sorry, you've got
 the Wong Dojo.[BRK]
 
-The wight dojo has been
+The Wight Dojo has been
 closed for many years now.[END]
 
 === 82 | 10956 | 60 ===
@@ -1508,7 +1508,7 @@ a boy saved our world![BRK]
 Is that true?[END]
 
 === 8b | 10e86 | be ===
-Wong-lee over there is the
+Wong-Lee over there is the
 master of this dojo, and
 leader of Horam.[BRK]
 
@@ -1516,7 +1516,7 @@ He is also the one who
 taught Lunn everything he
 knows.[BRK]
 
-Wong-lee has announced a
+Wong-Lee has announced a
 tournament to gauge Lunn's
 true power...[END]
 
@@ -1549,7 +1549,7 @@ I think he's nuts.[BRK]
 
 Bonkers.[BRK]
 
-Cuckoo for cocoa puffs...[END]
+Cuckoo for Cocoa Puffs...[END]
 
 === 8e | 1115a | e1 ===
 Are you the girl that knows
@@ -1595,7 +1595,7 @@ using Lunn, knowing his
 heart was bad,[BRK]
 
 why did they do it? It...
-...it doesn't make sense...[END]
+...It doesn't make sense...[END]
 
 === 93 | 11474 | 4f ===
 Thanks to you, Lunn has seen
@@ -1630,7 +1630,7 @@ You are entering the special
 tournament? Are you sure you
 want to fight Lunn?[BRK]
 
-He's very strong...battles
+He's very strong...Battles
 with him seem to last only
 seconds![END]
 
@@ -1643,11 +1643,11 @@ It seems to have made you
 very strong![BRK]
 
 [POR02]
-I'd like to say wheaties,
+I'd like to say Wheaties,
 but I'm embarrassed to say
 it's...[BRK]
 
-...spam.
+...Spam.
 
 
 
@@ -1674,7 +1674,7 @@ say.[BRK]
 
 It both confuses and annoys
 the hell out of them in one
-easy step...pure genius![BRK]
+easy step...Pure genius![BRK]
 
 [POR02]
 Uh, I don't think you got
@@ -1714,7 +1714,7 @@ work for the common good...[END]
 === 9e | 11b54 | 44 ===
 I'm sure I speak for every
 student of this dojo when
-I say 'thanks!'[END]
+I say 'Thanks!'[END]
 
 === 9f | 11ba8 | 7e ===
 Lunn was born with a gift
@@ -1723,7 +1723,7 @@ arts.[BRK]
 
 Now he will learn them
 once again from the start
-in the great hall...[END]
+in the Great Hall...[END]
 
 === a0 | 11c3a | b5 ===
 The karate that Lunn has
@@ -1792,7 +1792,7 @@ my excellent armor?[END]
 Come back again![END]
 
 === aa | 12e6a | c ===
-Horam bazaar[END]
+Horam Bazaar[END]
 
 === ab | 136e0 | 3e ===
 Come in! Come in! What fine
@@ -1803,7 +1803,7 @@ today?[END]
 Please stop by again![END]
 
 === ad | 13742 | f ===
-Horam item shop[END]
+Horam Item Shop[END]
 
 === ae | 13e32 | 80 ===
 The more you drink, the
@@ -1848,7 +1848,7 @@ maade uh joak![BRK]
 
 [POR02]
 You are seriously pathetic!
-Don't you guys have an 'aa'
+Don't you guys have an 'AA'
 chapter around here?[END]
 
 === b1 | 140e0 | 62 ===
@@ -1880,8 +1880,8 @@ I wanted to go to Fat Boy
 Dojo and eat cake all day.[BRK]
 
 But my father said this
-was much better...he...was..
-...wrong...urp...blaaaaaaah![END]
+was much better...He...was..
+...wrong...urp...Blaaaaaaah![END]
 
 === b4 | 142e4 | 33 ===
 Ohhh, if only I'd gone to
@@ -1955,7 +1955,7 @@ victories![BRK]
 Some have become fearful of
 my great power.[BRK]
 
-Be honest now: does my skill
+Be honest now: Does my skill
 frighten you?[BRK]
 
 [POR02]
@@ -1975,7 +1975,7 @@ Wind Karate is a fraud.[BRK]
 Well, they're on the right
 path.[BRK]
 
-If john stossel shows up at
+If John Stossel shows up at
 your door, be very afraid.[END]
 
 === bd | 153dc | ad ===
@@ -1992,7 +1992,7 @@ You said it, I didn't.[BRK]
 ....
 .....[BRK]
 
-...coward. Hehe...
+...Coward. Hehe...
 
 [END]
 
@@ -2019,7 +2019,7 @@ Man, you have a seriously
 warped view of reality...[END]
 
 === c0 | 155e2 | f ===
-Horam wind dojo[END]
+Horam Wind Dojo[END]
 
 === c1 | 15cf2 | 8c ===
 I am the master of this
@@ -2069,7 +2069,7 @@ don't you fight Lunn?[BRK]
 
 [POR00]
 Me? Oh, I'm sick, too...
-<hack> <hack>...can't you
+<hack> <hack>...Can't you
 tell?[END]
 
 === c7 | 16020 | 96 ===
@@ -2097,7 +2097,7 @@ you come along with us and
 fight by our side?[BRK]
 
 [POR00]
-Uh...my recent illness has
+Uh...My recent illness has
 left me quite weak. I'd
 better work on my health.
 [END]
@@ -2143,7 +2143,7 @@ sort of fighting ability,
 after all?[BRK]
 
 [POR00]
-...why? Don't you believe
+...Why? Don't you believe
 that we are karate masters?[BRK]
 
 [POR02]
@@ -2162,7 +2162,7 @@ wanted to fight, but our
 master got sick again.[END]
 
 === d0 | 165d0 | 11 ===
-Horam sickly dojo[END]
+Horam Sickly Dojo[END]
 
 === d1 | 16c94 | 6b ===
 It's pretty hard to believe,
@@ -2227,5 +2227,5 @@ master is always sick!
 [END]
 
 === d9 | 17078 | 11 ===
-Horam sickly dojo[END]
+Horam Sickly Dojo[END]
 

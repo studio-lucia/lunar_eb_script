@@ -48,7 +48,7 @@ extra hand, especially one
 skilled in magic![BRK]
 
 [POR02]
-B-b...but we didn't ask you
+B-B...But we didn't ask you
 to...[BRK]
 
 [POR07]
@@ -108,7 +108,7 @@ by! Let's go!
 [END]
 
 === 2 | 1390c | 11 ===
-Ghost manor attic[END]
+Ghost Manor Attic[END]
 
 === 3 | 145da | 44 ===
 [POR02]
@@ -117,23 +117,23 @@ creepy feeling we're not
 alone in here...[END]
 
 === 4 | 1463a | 80 ===
-           Bang![BRK]
+           BANG![BRK]
 
 [POR02]
-W-what was that?[BRK]
+W-What was that?[BRK]
 
 [POR05]
 It sounded like a door
 slamming open or shut.[BRK]
 
 [POR02]
-D-do you think it was a
+D-Do you think it was a
 ...a...ghost?
 
 [END]
 
 === 5 | 146d6 | 90 ===
-           Bang![BRK]
+           BANG![BRK]
 
 [POR02]
 There it is again! Now that
@@ -141,7 +141,7 @@ I think about it, it's
 probably not a ghost...[BRK]
 
 They wouldn't be using a
-door...w-would they?
+door...W-Would they?
 
 
 
@@ -152,7 +152,7 @@ Whooooo hooo hooo hoo! Wind
 shriek sharply to pass my
 test...[BRK]
 
-...shriek.....sharply...![BRK]
+...Shriek.....sharply...![BRK]
 
 [POR02]
 That...sounded...like...a
@@ -160,11 +160,11 @@ That...sounded...like...a
 
 [POR00]
 Wind...wind...wind! Mark
-and remember......whoooooo![BRK]
+and remember......Whoooooo![BRK]
 
 [POR02]
-W...w-w-what is he talking
-about? L-let's get out of
+W...W-W-What is he talking
+about? L-Let's get out of
 here!
 
 
@@ -178,7 +178,7 @@ Wind...wind...wind! Send
 forth your power...[BRK]
 
 [POR02]
-I-i...wish that ghost would
+I-I...wish that ghost would
 stop that! What is it
 talking about?[BRK]
 
@@ -190,7 +190,7 @@ out!
 === 8 | 1497e | 9d ===
 Close the shutters and open
 the door to opportunity...
-...whoooooo![BRK]
+...Whoooooo![BRK]
 
 [POR01]
 ....
@@ -212,12 +212,12 @@ There it is again! What the
 heck is that creepy thing
 getting at??[BRK]
 
-Wait...hmm...window of the
+Wait...hmm...Window of the
 soul...doesn't that mean...?[END]
 
 === a | 14b26 | 75 ===
-Dancer...dancer, light on
-your feet...you hold the
+Dancer...Dancer, light on
+your feet...You hold the
 key to salvation...[BRK]
 
 [POR10]
@@ -229,107 +229,107 @@ All will be revealed, if you
 search out your heart.[BRK]
 
 The key unique lies within
-your soul...find it![BRK]
+your soul...Find it![BRK]
 
 [POR10]
 Don't taunt us! Tell us the
 answer![END]
 
 === c | 14c5a | 11 ===
-Ghost manor lobby[END]
+Ghost Manor Lobby[END]
 
 === d | 15b20 | a ===
-Manor exit[END]
+Manor Exit[END]
 
 === e | 16298 | 10 ===
-Manor hall to 1F[END]
+Manor Hall to 1F[END]
 
 === f | 1688c | 10 ===
-Manor hall to 2F[END]
+Manor Hall to 2F[END]
 
 === 10 | 16e88 | d ===
-Manor 1F hall[END]
+Manor 1F Hall[END]
 
 === 11 | 17a60 | f ===
-Manor 1F room 1[END]
+Manor 1F Room 1[END]
 
 === 12 | 180e0 | f ===
-Manor 1F room 2[END]
+Manor 1F Room 2[END]
 
 === 13 | 187ba | f ===
-Manor 1F room 3[END]
+Manor 1F Room 3[END]
 
 === 14 | 18eac | f ===
-Manor 1F room 4[END]
+Manor 1F Room 4[END]
 
 === 15 | 19560 | 11 ===
-Manor dining hall[END]
+Manor Dining Hall[END]
 
 === 16 | 19e54 | 11 ===
-Manor 1F ballroom[END]
+Manor 1F Ballroom[END]
 
 === 17 | 1a6fe | d ===
-Manor 2F hall[END]
+Manor 2F Hall[END]
 
 === 18 | 1b376 | 10 ===
-Manor 2F room 1A[END]
+Manor 2F Room 1A[END]
 
 === 19 | 1be70 | 10 ===
-Manor 2F room 1B[END]
+Manor 2F Room 1B[END]
 
 === 1a | 1c956 | 10 ===
-Manor 2F room 1C[END]
+Manor 2F Room 1C[END]
 
 === 1b | 1d44a | 10 ===
-Manor 2F room 1D[END]
+Manor 2F Room 1D[END]
 
 === 1c | 1df50 | 10 ===
-Manor 2F room 2A[END]
+Manor 2F Room 2A[END]
 
 === 1d | 1e926 | 10 ===
-Manor 2F room 2B[END]
+Manor 2F Room 2B[END]
 
 === 1e | 1f302 | 10 ===
-Manor 2F room 2C[END]
+Manor 2F Room 2C[END]
 
 === 1f | 1fd16 | 10 ===
-Manor 2F room 2D[END]
+Manor 2F Room 2D[END]
 
 === 20 | 2072a | d ===
-Manor 3F hall[END]
+Manor 3F Hall[END]
 
 === 21 | 21174 | 10 ===
-Manor 3F room 1A[END]
+Manor 3F Room 1A[END]
 
 === 22 | 2176c | 10 ===
-Manor 3F room 1B[END]
+Manor 3F Room 1B[END]
 
 === 23 | 21da4 | f ===
-Manor 3F hall 2[END]
+Manor 3F Hall 2[END]
 
 === 24 | 223ce | 10 ===
-Manor 3F room 2A[END]
+Manor 3F Room 2A[END]
 
 === 25 | 229dc | 10 ===
-Manor 3F room 2B[END]
+Manor 3F Room 2B[END]
 
 === 26 | 23016 | 10 ===
-Manor 3F room 3A[END]
+Manor 3F Room 3A[END]
 
 === 27 | 2360e | 10 ===
-Manor 3F room 3B[END]
+Manor 3F Room 3B[END]
 
 === 28 | 23c56 | f ===
-Manor 3F hall 3[END]
+Manor 3F Hall 3[END]
 
 === 29 | 24286 | 10 ===
-Manor 3F room 4A[END]
+Manor 3F Room 4A[END]
 
 === 2a | 24894 | 10 ===
-Manor 3F room 4B[END]
+Manor 3F Room 4B[END]
 
 === 2b | 24ed6 | 10 ===
-Manor 3F room 4C[END]
+Manor 3F Room 4C[END]
 
 === 2c | 2575c | 4b ===
 [POR02]
@@ -372,12 +372,12 @@ find the exit door.[BRK]
 
 I wish you the best of luck.[BRK]
 
-...you'll need it...
+...You'll need it...
 [END]
 
 === 30 | 259e4 | 82 ===
 [POR20]
-Hee, hee, hee, hee...this
+Hee, hee, hee, hee...This
 is one test I'm looking
 forward to administering![BRK]
 
@@ -385,5 +385,5 @@ Now, all I have to do is get
 there ahead of them...[END]
 
 === 31 | 25a70 | 10 ===
-Ghost manor yard[END]
+Ghost Manor Yard[END]
 

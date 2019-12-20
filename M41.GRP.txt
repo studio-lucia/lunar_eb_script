@@ -4,7 +4,7 @@ Messages: 76
 
 === 0 | 9544 | 7f ===
 Halt! You have no business
-aboard the dragon steam-
+aboard the Dragon Steam-
 ship Destiny![BRK]
 
 You'd better leave before
@@ -20,7 +20,7 @@ We'd better find out![END]
 === 2 | 962c | 8e ===
 This is the Dragonship
 Destiny, pride of the
-entire Althena guard![BRK]
+entire Althena Guard![BRK]
 
 What? Lord Leo? He's
 retired to his quarters.
@@ -167,7 +167,7 @@ port of Pentagulia![BRK]
 [POR08]
 I'm certain that Althena's
 impostor has closed the
-transmission spring by now.[BRK]
+Transmission Spring by now.[BRK]
 
 So, the only way to get back
 to Althena's tower will be
@@ -357,14 +357,14 @@ continue on...[BRK]
 ....
 .....[BRK]
 
-...but...[BRK]
+...But...[BRK]
 
 [POR01]
 But what, Lucia?
 What's the matter?[BRK]
 
 [POR08]
-No...nothing. Forget it.[BRK]
+No...Nothing. Forget it.[BRK]
 
 I'm just glad to know
 that someone will always
@@ -379,12 +379,12 @@ Of course you'll always
 have me around![BRK]
 
 [POR08]
-Y-you're right. From now
+Y-You're right. From now
 on, no more bad thoughts![BRK]
 
 Okay. As Ruby would say,[BRK]
 
-'let's get this show on
+'Let's get this show on
 the road, Hiro!'
 [END]
 
@@ -404,7 +404,7 @@ were you thinking about?[BRK]
 [POR08]
 Oh, nothing, really...[BRK]
 
-I-i was just wishing we
+I-I was just wishing we
 could continue this journey
 forever...[BRK]
 
@@ -416,7 +416,7 @@ stupid.[BRK]
 
 I've had that same thought
 myself. Ya know, after we
-visit gramps,[BRK]
+visit Gramps,[BRK]
 
 we can take the Destiny and
 start another adventure![BRK]
@@ -439,10 +439,10 @@ This'll be great![END]
 [POR01]
 It looks like we're here.
 We'd better get moving! I
-can't wait to tell grand...[BRK]
+can't wait to tell Grand...[BRK]
 
 [POR08]
-...wait! Hiro, I'd like to
+...Wait! Hiro, I'd like to
 stop at the Blue Tower
 first.[BRK]
 
@@ -454,13 +454,13 @@ visit Grandpa Gwyn first?[BRK]
 Please, Hiro? For me?[BRK]
 
 [POR01]
-...okay, Lucia. For you.
+...Okay, Lucia. For you.
 
 [END]
 
 === 18 | adbe | b9 ===
 [POR02]
-Remember, Leo said the cave
+Remember, Leo said the Cave
 of the White Dragon was in
 an iceberg by the North Sea.[BRK]
 
@@ -686,7 +686,7 @@ Dragon Ship Destiny[END]
 
 === 26 | c316 | 7f ===
 Halt! You have no business
-aboard the dragon steam-
+aboard the Dragon Steam-
 ship Destiny![BRK]
 
 You'd better leave before
@@ -848,7 +848,7 @@ port of Pentagulia![BRK]
 [POR08]
 I'm certain that Althena's
 impostor has closed the
-transmission spring by now.[BRK]
+Transmission Spring by now.[BRK]
 
 So, the only way to get back
 to Althena's tower will be
@@ -1038,14 +1038,14 @@ continue on...[BRK]
 ....
 .....[BRK]
 
-...but...[BRK]
+...But...[BRK]
 
 [POR01]
 But what, Lucia?
 What's the matter?[BRK]
 
 [POR08]
-No...nothing. Forget it.[BRK]
+No...Nothing. Forget it.[BRK]
 
 I'm just glad to know
 that someone will always
@@ -1060,12 +1060,12 @@ Of course you'll always
 have me around![BRK]
 
 [POR08]
-Y-you're right. From now
+Y-You're right. From now
 on, no more bad thoughts![BRK]
 
 Okay. As Ruby would say,[BRK]
 
-'let's get this show on
+'Let's get this show on
 the road, Hiro!'
 [END]
 
@@ -1085,7 +1085,7 @@ were you thinking about?[BRK]
 [POR08]
 Oh, nothing, really...[BRK]
 
-I-i was just wishing we
+I-I was just wishing we
 could continue this journey
 forever...[BRK]
 
@@ -1097,7 +1097,7 @@ stupid.[BRK]
 
 I've had that same thought
 myself. Ya know, after we
-visit gramps,[BRK]
+visit Gramps,[BRK]
 
 we can take the Destiny and
 start another adventure![BRK]
@@ -1120,10 +1120,10 @@ This'll be great![END]
 [POR01]
 It looks like we're here.
 We'd better get moving! I
-can't wait to tell grand...[BRK]
+can't wait to tell Grand...[BRK]
 
 [POR08]
-...wait! Hiro, I'd like to
+...Wait! Hiro, I'd like to
 stop at the Blue Tower
 first.[BRK]
 
@@ -1135,13 +1135,13 @@ visit Grandpa Gwyn first?[BRK]
 Please, Hiro? For me?[BRK]
 
 [POR01]
-...okay, Lucia. For you.
+...Okay, Lucia. For you.
 
 [END]
 
 === 3e | db90 | b9 ===
 [POR02]
-Remember, Leo said the cave
+Remember, Leo said the Cave
 of the White Dragon was in
 an iceberg by the North Sea.[BRK]
 
@@ -1349,7 +1349,7 @@ You've got to save him,
 Lucia![BRK]
 
 [POR08]
-But Lemina...i...
+But Lemina...I...
 
 [END]
 
@@ -1360,8 +1360,8 @@ say: 'time is money.' And,
 time's mega-a-wastin'.[BRK]
 
 Let's make tracks for the
-Blue Spire and wake prince
-charming!
+Blue Spire and wake Prince
+Charming!
 [END]
 
 === 4b | e7cc | 13 ===

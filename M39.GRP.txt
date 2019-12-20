@@ -21,7 +21,7 @@ way to Pentagulia?[BRK]
 
 [POR00]
 [0xB][0][0x3][ROR10]
-...it's this mask. I took
+...It's this mask. I took
 it from the leader of the
 Blue Dragon Cult.[BRK]
 
@@ -108,8 +108,8 @@ to develop a new type of
 martial art...[BRK]
 
 Yet he lost interest once
-he became one of the four
-heroes...[BRK]
+he became one of the Four
+Heroes...[BRK]
 
 I wonder what kind of 
 fighting technique he was
@@ -141,16 +141,16 @@ Lunn sure has an impressive
 physique up close...[END]
 
 === a | 18740 | 11 ===
-Blue tower stairs[END]
+Blue Tower Stairs[END]
 
 === b | 18fba | d ===
-Blue tower 2F[END]
+Blue Tower 2F[END]
 
 === c | 19892 | d ===
-Blue tower 3F[END]
+Blue Tower 3F[END]
 
 === d | 1a148 | d ===
-Blue tower 4F[END]
+Blue Tower 4F[END]
 
 === e | 1aa32 | 2e7 ===
 [POR09]
@@ -201,14 +201,14 @@ Ronfar?[BRK]
 There's never been any
 disguises...[BRK]
 
-...but regardless, we must
+...But regardless, we must
 get to the shrine.[BRK]
 
 Lucia's life hangs in the
 balance![END]
 
 === f | 1ad28 | d ===
-Blue tower 5F[END]
+Blue Tower 5F[END]
 
 === 10 | 1b5de | 23b ===
 [POR10]
@@ -266,7 +266,7 @@ way to Pentagulia?[BRK]
 
 [POR00]
 [0xB][0][0x3][ROR10]
-...it's this mask. I took
+...It's this mask. I took
 it from the leader of the
 Blue Dragon Cult.[BRK]
 
@@ -301,7 +301,7 @@ enough alone...[BRK]
 
 [POR00]
 [ROR10]
-...your best student? What
+...Your best student? What
 ...are you talking ab....[BRK]
 
 ....
@@ -318,7 +318,7 @@ so long to put it together.[BRK]
 But then again, you were 
 bred to fight, not to think.[BRK]
 
-...and fight you did![BRK]
+...And fight you did![BRK]
 
 Under my watchful eye, your
 fighting skill increased
@@ -359,7 +359,7 @@ An emotional wreck who is
 always running from a past
 I don't understand?[BRK]
 
-...or maybe a trained
+...Or maybe a trained
 killer who can never live
 a normal life?[BRK]
 
@@ -379,14 +379,14 @@ away with no remorse.[BRK]
 
 [ROR00]
 [POR16]
-Jean...Jean...you make it
+Jean...Jean...You make it
 sound so...harsh.[BRK]
 
 I did care about you. Your
 skill was beyond anything I
 had encountered.[BRK]
 
-...you were special.[BRK]
+...You were special.[BRK]
 
 ....
 .....[BRK]
@@ -422,7 +422,7 @@ be...
 [ROR10]
 ...I don't believe...[BRK]
 
-...your karate has...grown
+...Your karate has...grown
 ...so....strong...[BRK]
 
 Lunn...you...you...can't...
@@ -430,7 +430,7 @@ Lunn...you...you...can't...
 
 === 13 | 1c082 | e4 ===
 [POR10]
-...and the next thing I
+...And the next thing I
 knew, I was in this cell.[BRK]
 
 We have to find a way to
@@ -488,5 +488,5 @@ before it's too late...
 [END]
 
 === 16 | 1c3f4 | d ===
-Blue tower 6F[END]
+Blue Tower 6F[END]
 

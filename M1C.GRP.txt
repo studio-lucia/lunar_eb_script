@@ -18,10 +18,10 @@ it out!
 [END]
 
 === 1 | 16888 | 13 ===
-Snow cave left side[END]
+Snow Cave Left Side[END]
 
 === 2 | 1a5e6 | 10 ===
-Snow cave hole 1[END]
+Snow Cave Hole 1[END]
 
 === 3 | 1ccc0 | 75 ===
 [POR02]
@@ -33,10 +33,10 @@ We should head back down the
 mountain and check![END]
 
 === 4 | 1cd3a | 14 ===
-Snow cave right side[END]
+Snow Cave Right Side[END]
 
 === 5 | 2039a | 10 ===
-Snow cave secret[END]
+Snow Cave Secret[END]
 
 === 6 | 20eaa | 5d ===
 [POR08]
@@ -57,21 +57,21 @@ died![BRK]
 It was horrible...[BRK]
 
 [POR02]
-But Lucia...why did you come
+But Lucia...Why did you come
 back to find us? You risked
 your life...your mission.[BRK]
 
 [POR08]
 I came because....
 ...because...
-i.....[BRK]
+I.....[BRK]
 
 It makes no sense, but just
 before I came to you, I felt
 something was wrong.[BRK]
 
 Not wrong in general, but
-wrong with Hiro...it was
+wrong with Hiro...It was
 very strange.[BRK]
 
 When I was alone on the Blue
@@ -105,7 +105,7 @@ whopper of a headache![BRK]
 It's a good thing you guys
 found me when you did.[BRK]
 
-...guess I'm luckier than
+...Guess I'm luckier than
 I'd thought...[BRK]
 
 [POR02]
@@ -130,14 +130,14 @@ the opposite of anxiety,
 which you felt earlier.[BRK]
 
 [POR08]
-Hmmm...'relief'...I like
-this feeling. Hmm...relief.[END]
+Hmmm...'Relief'...I like
+this feeling. Hmm...Relief.[END]
 
 === a | 213e4 | 93 ===
 [POR10]
-Wha...what happened?[BRK]
+Wha...What happened?[BRK]
 
-The...the last thing I
+The...The last thing I
 remember was Ruby screaming
 as the snow washed over us.[BRK]
 
@@ -150,7 +150,7 @@ alive! Thank you!
 Oh pooh! Look at my dress!
 It's absolutely soaked![BRK]
 
-...wait...there was an
+...Wait...There was an
 avalanche, wasn't there?[BRK]
 
 How is it that I'm still
@@ -181,8 +181,8 @@ village should have much
 better luck with weather![END]
 
 === f | 2167a | e ===
-Snow cave rock[END]
+Snow Cave Rock[END]
 
 === 10 | 22464 | 10 ===
-Snow cave hole 2[END]
+Snow Cave Hole 2[END]
 

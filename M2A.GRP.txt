@@ -8,7 +8,7 @@ at the crystal![END]
 
 === 1 | 1a5b4 | 317 ===
 [POR02]
-...bummer![BRK]
+...Bummer![BRK]
 
 How come nothing happened?[BRK]
 
@@ -38,7 +38,7 @@ the power from embracing
 you.[BRK]
 
 [POR02]
-...you can sense my
+...You can sense my
 feelings, can't you?[BRK]
 
 I just don't want to leave
@@ -53,7 +53,7 @@ Something's changed inside
 of me. I think I'm scared to
 grow up...[BRK]
 
-If...if I have to leave all
+If...If I have to leave all
 of you, I don't want to 
 become an adult...[BRK]
 
@@ -102,7 +102,7 @@ Ruby?[BRK]
 You know what I mean, Lucia.[BRK]
 
 [POR08]
-I...i...[BRK]
+I...I...[BRK]
 
 ....
 .....[BRK]
@@ -112,7 +112,7 @@ Now that all the dragons
 are released, we must
 assault Pentagulia![BRK]
 
-The goddess awaits!
+The Goddess awaits!
 [END]
 
 === 3 | 1aaa0 | c0 ===
@@ -133,7 +133,7 @@ it, I'm sure.[BRK]
 Crest![END]
 
 === 4 | 1ab70 | f ===
-Red dragon lair[END]
+Red Dragon Lair[END]
 
 === 5 | 1b348 | 206 ===
 [POR02]
@@ -181,32 +181,32 @@ moving again!
 [END]
 
 === 6 | 1b558 | f ===
-Red dragon B1-a[END]
+Red Dragon B1-A[END]
 
 === 7 | 1c762 | f ===
-Red dragon B2-a[END]
+Red Dragon B2-A[END]
 
 === 8 | 1dc6e | 11 ===
-Red dragon lava 1[END]
+Red Dragon Lava 1[END]
 
 === 9 | 1fb34 | f ===
-Red dragon B2-b[END]
+Red Dragon B2-B[END]
 
 === a | 21a64 | f ===
-Red dragon B2-c[END]
+Red Dragon B2-C[END]
 
 === b | 22cfc | 11 ===
-Red dragon lava 2[END]
+Red Dragon Lava 2[END]
 
 === c | 253f6 | f ===
-Red dragon B2-e[END]
+Red Dragon B2-E[END]
 
 === d | 279fe | f ===
-Red dragon B1-b[END]
+Red Dragon B1-B[END]
 
 === e | 28b68 | f ===
-Red dragon B2-d[END]
+Red Dragon B2-D[END]
 
 === f | 293f0 | d ===
-Red dragon B3[END]
+Red Dragon B3[END]
 

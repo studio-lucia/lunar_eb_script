@@ -28,7 +28,7 @@ Hiro, you're not really
 going to make Lemina face
 down Borgan all alone...[BRK]
 
-...are you?[BRK]
+...Are you?[BRK]
 
 C'mon! Let's go back to
 Vane and help her![END]
@@ -106,7 +106,7 @@ These tourists are annoying
 the hell out of me.[BRK]
 
 Always asking questions...
-'where is the tower?',
+'Where is the tower?',
 'Where is the tower?'[BRK]
 
 Geez! Just look up, for
@@ -174,7 +174,7 @@ Or, then again, maybe we'll
 find some decent dice action
 in this town...[BRK]
 
-...either way, I'm happy![END]
+...Either way, I'm happy![END]
 
 === e | a0ae | d2 ===
 It seems as if the only ones
@@ -208,15 +208,15 @@ attacks stop![BRK]
 Just my luck![END]
 
 === 11 | a27e | 141 ===
-The greatest of the four
-heroes is the legendary
+The greatest of the Four
+Heroes is the legendary
 White Knight Leo.[BRK]
 
 Since my dad died from the
 last monster attack, I had
 no money to buy the beads.[BRK]
 
-But the white knight took
+But the White Knight took
 pity on me and gave me the
 beads for free![BRK]
 
@@ -231,7 +231,7 @@ how impolite it is to beg?
 === 12 | a3d6 | 7d ===
 Silence! You stand in the
 presence of the legendary
-White Knight Leo jr.[BRK]
+White Knight Leo Jr.[BRK]
 
 I've decided that I'm gonna
 adopt Leo as my new dad.[END]
@@ -251,8 +251,8 @@ Lord Leo is the strongest
 guy on the planet, huh?!![END]
 
 === 15 | a54c | d2 ===
-Lord Leo isn't the white
-knight anymore...[BRK]
+Lord Leo isn't the White
+Knight anymore...[BRK]
 
 That doesn't matter, though.
 I'm still gonna grow up and
@@ -282,10 +282,10 @@ Fight hard for truth, and
 follow no one![END]
 
 === 18 | a730 | cf ===
-30 Years...360 payments...
+30 years...360 payments...
 and for what? I'll tell ya![BRK]
 
-.............for nothing!!
+.............For nothing!!
 Just look at this mess![BRK]
 
 Those blasted monsters
@@ -299,7 +299,7 @@ monster-raid insurance.[END]
 Why?! Why?! Why didn't I
 listen?[BRK]
 
-But oh no! I thought, 'i
+But oh no! I thought, 'I
 don't need no stinking
 beads...'[BRK]
 
@@ -358,8 +358,8 @@ stinkin' beads![END]
 
 === 1d | abca | c4 ===
 Boom chaka laka...
-boom chaka laka...
-boom chaka laka boom.[BRK]
+Boom chaka laka...
+Boom chaka laka boom.[BRK]
 
 Boom! Boom! Boom! Monster's
 coming! Boom![BRK]
@@ -393,7 +393,7 @@ But Leo fearlessly thrust
 his saber into Zophar's
 black heart![BRK]
 
-Talk about brave...wow![END]
+Talk about brave...Wow![END]
 
 === 20 | ae28 | 54 ===
 [POR09]
@@ -433,9 +433,9 @@ in half the time if you
 weren't such a cheap-o![BRK]
 
 [POR02]
-...your beads are about
+...Your beads are about
 as useless as Lemina's
-guild memberships![END]
+Guild memberships![END]
 
 === 24 | b08a | 58 ===
 [POR05]
@@ -516,7 +516,7 @@ Only about a hundred times.[END]
 
 === 2a | b4f8 | fb ===
 Leo and Mauri are two of the
-four heroes.[BRK]
+Four Heroes.[BRK]
 
 Lord Leo is the head of 
 Althena's Guard, and the
@@ -537,19 +537,19 @@ absolutely stunning.[END]
 
 === 2c | b620 | 4f ===
 The only people that don't
-know about the four heroes
+know about the Four Heroes
 are mentally incompetent.[END]
 
 === 2d | b682 | 11b ===
 Look over here. My friend
 just got the latest issue
-of 'busty goddess babes.'[BRK]
+of 'Busty Goddess Babes.'[BRK]
 
 Quick! Turn to page 42![BRK]
 
-...ohhhh yeah...[BRK]
+...Ohhhh yeah...[BRK]
 
-...see what I mean? That's
+...See what I mean? That's
 Mauri![BRK]
 
 Oh baby! Just look at her
@@ -563,14 +563,14 @@ Come and serve me, Mauri!
 [END]
 
 === 2e | b7b0 | a3 ===
-I heard that the four heroes
+I heard that the Four Heroes
 have gone their own ways.[BRK]
 
 And that Althena herself is
 no more![BRK]
 
 But the best rumor is that
-black wizard Borgan's going
+Black Wizard Borgan's going
 to take a bride![END]
 
 === 2f | b860 | 60 ===
@@ -584,7 +584,7 @@ stepdaughter![END]
 === 30 | b8d4 | a8 ===
 Say Leo, since you and Mauri
 are no longer considered 
-part of the four heroes,[BRK]
+part of the Four Heroes,[BRK]
 
 do you think that she'd
 be free to perform a
@@ -691,7 +691,7 @@ Some believe that the
 Four Dragons and the Dragon-
 master...[BRK]
 
-Are powerful enough to
+are powerful enough to
 protect Althena forever.[BRK]
 
 I find that hard to believe.[END]
@@ -757,7 +757,7 @@ I think he's more interested
 in checking her out...[BRK]
 
 But if I catch him oogling,
-it's bobbitt time!
+it's Bobbitt time!
 [END]
 
 === 41 | c3ae | 4b ===
@@ -765,7 +765,7 @@ I've already filed for a
 divorce from my no-good
 husband![BRK]
 
-...men are pigs![END]
+...Men are pigs![END]
 
 === 42 | c410 | 7b ===
 Hey, I've got a piece of
@@ -898,7 +898,7 @@ Ah! You've seen the value
 of this fine structure,
 I see![BRK]
 
-...just can't find another
+...Just can't find another
 one quite like her, can ya?[BRK]
 
 Let's sit down and talk
@@ -979,7 +979,7 @@ respectfully decline.[BRK]
 
 [POR00]
 Kum on Leo! I kuud maak yew
-barry haapee! <Wink> <snort>
+barry haapee! <wink> <snort>
 
 [END]
 
@@ -1017,7 +1017,7 @@ cookies in the shape of the
 beast![BRK]
 
 I'm gonna call them
-beasties![BRK]
+Beasties![BRK]
 
 If this catches on, I'm
 going to be filthy rich!![BRK]
@@ -1025,7 +1025,7 @@ going to be filthy rich!![BRK]
 [POR02]
 Why not make them with
 laxative chips instead and
-call them 'bowel beasties?'[BRK]
+call them 'Bowel Beasties?'[BRK]
 
 You can sell them to
 people that are bound up![BRK]
@@ -1121,7 +1121,7 @@ The things that frighten me
 the most, the sounds that 
 keep me awake at night...[BRK]
 
-Are the sounds of music
+are the sounds of music
 that I hear in the 
 distance.[END]
 
@@ -1191,7 +1191,7 @@ me now.
 [END]
 
 === 6d | fc24 | d ===
-Azado house 1[END]
+Azado House 1[END]
 
 === 6e | 102e2 | 8f ===
 My fiance is so busy working
@@ -1275,7 +1275,7 @@ buy beads...[BRK]
 And I show up late to open
 the gate! Just...great![BRK]
 
-I gotta go...see ya!
+I gotta go...See ya!
 [END]
 
 === 75 | 10834 | b1 ===
@@ -1310,7 +1310,7 @@ her. Nothing is ever going
 to come between us again.[END]
 
 === 78 | 10a00 | d ===
-Azado house 2[END]
+Azado House 2[END]
 
 === 79 | 110ac | 81 ===
 My children can't sleep
@@ -1392,7 +1392,7 @@ a friend of the world.'[END]
 
 === 83 | 1155e | bc ===
 I want you to look at me and
-say, 'the monster was only
+say, 'The monster was only
 doing his job.'[BRK]
 
 'He didn't hate me. He's
@@ -1402,10 +1402,10 @@ me.'[BRK]
 There now. Don't you feel
 better? I know I do![BRK]
 
-1000S, please.[END]
+1000s, please.[END]
 
 === 84 | 11620 | d ===
-Azado house 3[END]
+Azado House 3[END]
 
 === 85 | 11cc2 | 53 ===
 Wise men will arm themselves
@@ -1437,7 +1437,7 @@ I do for you?[END]
 Come again![END]
 
 === 8b | 11e7e | c ===
-Azado bazaar[END]
+Azado Bazaar[END]
 
 === 8c | 12604 | 41 ===
 The items I sell are known
@@ -1455,7 +1455,7 @@ Remember to stop by whenever
 you run low on supplies![END]
 
 === 8f | 126e2 | f ===
-Azado item shop[END]
+Azado Item Shop[END]
 
 === 90 | 12de4 | 7c ===
 There's no way in <hick>
@@ -1572,7 +1572,7 @@ if he's interested in me.[BRK]
 ....
 .....[BRK]
 
-...well, fine then! See if
+...Well, fine then! See if
 I ever do anything for you![BRK]
 
 And besides! What are a 
@@ -1623,7 +1623,7 @@ Sheesh! I just heard that
 Mauri and her good-for-
 nothin' lover...[BRK]
 
-Just got back together.
+just got back together.
 Man, my life just sucks![END]
 
 === a0 | 13814 | 8c ===
@@ -1652,7 +1652,7 @@ free drink to shut me up![END]
 === a2 | 13962 | 52 ===
 Drinks! Drinks! Drinks![BRK]
 
-Hehehehehe...don't worry,
+Hehehehehe...Don't worry,
 he'll cave in sooner or
 later! 
 [END]
@@ -1680,10 +1680,10 @@ could buy a round of drinks
 for your ol' buddy here?[BRK]
 
 [POR09]
-Hmm...no, but I could put
+Hmm...No, but I could put
 you in jail for pandering.[BRK]
 
-...how about that?
+...How about that?
 [END]
 
 === a6 | 13b94 | b2 ===
@@ -1751,12 +1751,12 @@ I think I really should
 stop drinking.[BRK]
 
 My liver's probably bigger'n
-jerry garcia's.[BRK]
+Jerry Garcia's.[BRK]
 
 ....
 .....[BRK]
 
-...well, at least the one
+...Well, at least the one
 he thrashed. Maybe I need
 a new one, too![END]
 
@@ -1783,7 +1783,7 @@ the lard in your shorts![END]
 
 === b0 | 140fa | 8f ===
 Repent! Repent! Sinners!
-The goddess has condemned
+The Goddess has condemned
 your wicked ways![BRK]
 
 Only by repenting can you
@@ -1825,7 +1825,7 @@ people will like.[BRK]
 People just don't care about
 serving a fake goddess.[BRK]
 
-...and I don't blame them.[END]
+...And I don't blame them.[END]
 
 === b5 | 143de | b0 ===
 I'm not a priest of Althena
@@ -1840,7 +1840,7 @@ But now I get paid to do
 it![END]
 
 === b6 | 14494 | c ===
-Azado tavern[END]
+Azado Tavern[END]
 
 === b7 | 14bda | d3 ===
 May Goddess Althena smile
@@ -1861,7 +1861,7 @@ Go ahead and buy my beads.
 It's the only way to protect
 yourself from evil.[BRK]
 
-The goddess has allowed us
+The Goddess has allowed us
 to sell them for her,
 and we keep the profits.[END]
 
@@ -1886,7 +1886,7 @@ When I was walking through
 town last night, I heard a
 strange voice.[BRK]
 
-It said, 'go buy the beads
+It said, 'Go buy the beads
 before I return to claim
 your soul.'[BRK]
 
@@ -1984,7 +1984,7 @@ true priest of Althena
 would never do that![END]
 
 === c7 | 154ae | c ===
-Azado bridge[END]
+Azado Bridge[END]
 
 === c8 | 162c0 | aa ===
 [POR05]
@@ -2011,8 +2011,8 @@ start anew![BRK]
 ....
 .....[BRK]
 
-Wait...um, there's one more
-part to the spell...let me
+Wait...Um, there's one more
+part to the spell...Let me
 think...hmmm...[BRK]
 
 ....
@@ -2020,7 +2020,7 @@ think...hmmm...[BRK]
 
 Oh yeah! I remember![BRK]
 
-......open sesame!
+......Open sesame!
 [END]
 
 === ca | 16456 | b0 ===
@@ -2033,7 +2033,7 @@ Give me a break![BRK]
 
 [POR05]
 Well, I got the door open,
-didn't i?[BRK]
+didn't I?[BRK]
 
 Just shut your hole and
 get inside, smarty-pants![END]
@@ -2097,13 +2097,13 @@ Your intent is not that
 of one true of heart![BRK]
 
 [POR02]
-...you have a nice day,
+...You have a nice day,
 now![BRK]
 
 ....
 .....[BRK]
 
-...and mind your own
+...And mind your own
 beeswax, ya kook!
 [END]
 
@@ -2193,7 +2193,7 @@ feed some overweight priest![BRK]
 ....
 .....[BRK]
 
-Or sally struthers...you
+Or Sally Struthers...you
 never can tell what she's
 involved in these days...[END]
 
@@ -2258,7 +2258,7 @@ jewelery for the ladies?
 [END]
 
 === db | 170f4 | 76 ===
-Look, sir, shiny...it's 
+Look, sir, shiny...It's 
 shiny![BRK]
 
 Hey! Come on, I know you'll
@@ -2352,7 +2352,7 @@ he could have destroyed our
 whole world![BRK]
 
 [POR02]
-Correct-a-mundo, einstein![END]
+Correct-a-mundo, Einstein![END]
 
 === e6 | 176a2 | 64 ===
 Hey! Get in line! I was 
@@ -2453,9 +2453,9 @@ I'll tell you, being a hard-
 nosed tax auditor can make
 you rich fast![BRK]
 
-...if you know how to play
+...If you know how to play
 your cards just right.[END]
 
 === f1 | 17cc8 | c ===
-Azado shrine[END]
+Azado Shrine[END]
 

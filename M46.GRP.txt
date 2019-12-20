@@ -18,38 +18,38 @@ Lionhead 4F[END]
 Lionhead 5F[END]
 
 === 5 | 186a6 | d ===
-Lionhead rm 1[END]
+Lionhead Rm 1[END]
 
 === 6 | 18cb4 | d ===
-Lionhead rm 2[END]
+Lionhead Rm 2[END]
 
 === 7 | 192c2 | d ===
-Lionhead rm 3[END]
+Lionhead Rm 3[END]
 
 === 8 | 198e6 | d ===
-Lionhead rm 4[END]
+Lionhead Rm 4[END]
 
 === 9 | 19f0a | d ===
-Lionhead rm 5[END]
+Lionhead Rm 5[END]
 
 === a | 1a54e | d ===
-Lionhead rm 6[END]
+Lionhead Rm 6[END]
 
 === b | 1ab80 | f ===
-Lionhead path 1[END]
+Lionhead Path 1[END]
 
 === c | 1bc88 | f ===
-Lionhead path 2[END]
+Lionhead Path 2[END]
 
 === d | 1ce06 | f ===
-Lionhead path 3[END]
+Lionhead Path 3[END]
 
 === e | 1de5c | f ===
-Lionhead path 4[END]
+Lionhead Path 4[END]
 
 === f | 1ef18 | d ===
-Lionhead peak[END]
+Lionhead Peak[END]
 
 === 10 | 20552 | 13 ===
-Lionhead booty room[END]
+Lionhead Booty Room[END]
 

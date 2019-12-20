@@ -89,11 +89,11 @@ You can't be hurt![END]
 I guess Lord Leo was
 wrong.[BRK]
 
-..........fancy that.[BRK]
+..........Fancy that.[BRK]
 
 [POR08]
 This magic is strong...
-could it be that......?[END]
+Could it be that......?[END]
 
 === 5 | 14818 | a ===
 ....
@@ -101,7 +101,7 @@ could it be that......?[END]
 
 === 6 | 14826 | 82 ===
 [POR08]
-It...it looked like...
+It...It looked like...
 .....Ghaleon![BRK]
 
 [POR01]
@@ -138,7 +138,7 @@ time. Let's take advantage
 of it.[END]
 
 === 9 | 149e6 | e ===
-Madoria plains[END]
+Madoria Plains[END]
 
 === a | 198bc | 22 ===
 [POR02]
@@ -227,11 +227,11 @@ You can't be hurt![END]
 I guess Lord Leo was
 wrong.[BRK]
 
-..........fancy that.[BRK]
+..........Fancy that.[BRK]
 
 [POR08]
 This magic is strong...
-could it be that......?[END]
+Could it be that......?[END]
 
 === f | 19d4c | a ===
 ....
@@ -239,7 +239,7 @@ could it be that......?[END]
 
 === 10 | 19d5a | 82 ===
 [POR08]
-It...it looked like...
+It...It looked like...
 .....Ghaleon![BRK]
 
 [POR01]
@@ -276,5 +276,5 @@ time. Let's take advantage
 of it.[END]
 
 === 13 | 19f1a | e ===
-Madoria plains[END]
+Madoria Plains[END]
 

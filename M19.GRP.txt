@@ -3,17 +3,17 @@ File: M19.GRP
 Messages: 5
 
 === 0 | f992 | f ===
-Taben's peak 2F[END]
+Taben's Peak 2F[END]
 
 === 1 | 111ae | f ===
-Taben's peak 3F[END]
+Taben's Peak 3F[END]
 
 === 2 | 141e4 | f ===
-Taben's peak 4F[END]
+Taben's Peak 4F[END]
 
 === 3 | 17238 | f ===
-Taben's peak 5F[END]
+Taben's Peak 5F[END]
 
 === 4 | 1a06c | f ===
-Taben's peak 6F[END]
+Taben's Peak 6F[END]
 

@@ -4,7 +4,7 @@ Messages: 139
 
 === 0 | 14296 | 7f ===
 Halt! You have no business
-aboard the dragon steam-
+aboard the Dragon Steam-
 ship Destiny![BRK]
 
 You'd better leave before
@@ -20,7 +20,7 @@ We'd better find out![END]
 === 2 | 1437e | 8e ===
 This is the Dragonship
 Destiny, pride of the
-entire Althena guard![BRK]
+entire Althena Guard![BRK]
 
 What? Lord Leo? He's
 retired to his quarters.
@@ -52,7 +52,7 @@ given to Lord Leo by the
 Goddess Althena.[BRK]
 
 It is equipped with a mighty
-White Dragon cannon at its
+White Dragon Cannon at its
 bow.
 [END]
 
@@ -76,7 +76,7 @@ That milky skin, the curve
 of her hips...those smooth,
 supple br...[BRK]
 
-.............uh, never mind!
+.............Uh, never mind!
 [END]
 
 === 9 | 1473c | 7d ===
@@ -170,14 +170,14 @@ port of Pentagulia![BRK]
 [POR08]
 I'm certain that Althena's
 impostor has closed the
-transmission spring by now.[BRK]
+Transmission Spring by now.[BRK]
 
 So the only way to get back
 to Althena's tower will be
 to break Zophar's seal.[BRK]
 
 Once we arrive, I can try to
-use dragonpower to break it.[BRK]
+use Dragonpower to break it.[BRK]
 
 Hopefully there will be
 enough power...and then...[BRK]
@@ -297,7 +297,7 @@ Hiro! Please???[BRK]
 [POR05]
 Looks like our luck's taken
 a turn for the worse...
-damn that Ghaleon![BRK]
+Damn that Ghaleon![BRK]
 
 [POR07]
 If Ghaleon can change a
@@ -306,7 +306,7 @@ stop him?[BRK]
 
 [POR10]
 Lucia has the power to save
-Hiro and stop Ghaleon...he
+Hiro and stop Ghaleon...He
 said it himself...[BRK]
 
 [POR08]
@@ -351,7 +351,7 @@ get moving and restore Hiro![BRK]
 ....
 .....[BRK]
 
-...okay, Ruby. I'm coming.[END]
+...Okay, Ruby. I'm coming.[END]
 
 === 15 | 155e0 | 1cd ===
 [POR01]
@@ -365,7 +365,7 @@ continue on...[BRK]
 ....
 .....[BRK]
 
-...but...[BRK]
+...But...[BRK]
 
 [POR01]
 But what, Lucia?
@@ -387,12 +387,12 @@ Of course you'll always
 have me around![BRK]
 
 [POR08]
-Y-you're right. From now
+Y-You're right. From now
 on, no more bad thoughts![BRK]
 
 Okay. As Ruby would say,[BRK]
 
-'let's get this show on
+'Let's get this show on
 the road, Hiro!'
 [END]
 
@@ -412,7 +412,7 @@ were you thinking about?[BRK]
 [POR08]
 Oh, nothing, really...[BRK]
 
-I-i was just wishing we
+I-I was just wishing we
 could continue this journey
 forever...[BRK]
 
@@ -424,7 +424,7 @@ stupid.[BRK]
 
 I've had that same thought
 myself. Ya know, after we
-visit gramps,[BRK]
+visit Gramps,[BRK]
 
 we can take the Destiny and
 start another adventure![BRK]
@@ -448,10 +448,10 @@ This'll be great!
 [POR01]
 It looks like we're here.
 We'd better get moving! I
-can't wait to tell grand--[BRK]
+can't wait to tell Grand--[BRK]
 
 [POR08]
-...wait! Hiro, I'd like to
+...Wait! Hiro, I'd like to
 stop at the Blue Tower,
 first.[BRK]
 
@@ -463,14 +463,14 @@ visit Grandpa Gwyn first?[BRK]
 Please Hiro? For me?[BRK]
 
 [POR01]
-...okay, Lucia. For you.
+...Okay, Lucia. For you.
 
 
 [END]
 
 === 18 | 15b10 | b9 ===
 [POR02]
-Remember, Leo said the cave
+Remember, Leo said the Cave
 of the White Dragon was in
 an iceberg by the North Sea.[BRK]
 
@@ -636,15 +636,15 @@ But you're doing the right
 thing by going to the Blue
 Spire first to save Hiro.[BRK]
 
-Trust me...it'll all be
+Trust me...It'll all be
 peachy keen, jelly bean.
-...you'll see...
+...You'll see...
 
 [END]
 
 === 21 | 16494 | 9b ===
 [POR10]
-Lucia...why do you hesitate?
+Lucia...Why do you hesitate?
 You aren't thinking of
 letting Hiro die, are you?[BRK]
 
@@ -679,19 +679,19 @@ You've got to save him,
 Lucia![BRK]
 
 [POR08]
-But Lemina...i...
+But Lemina...I...
 
 [END]
 
 === 24 | 166b6 | 90 ===
 [POR07]
 Hey hey! You know what they
-say: 'time is money.' And
+say: 'Time is money.' And
 time's mega-a-wastin'.[BRK]
 
 Let's make tracks for the
-Blue Spire and wake prince
-charming!
+Blue Spire and wake Prince
+Charming!
 
 [END]
 
@@ -705,7 +705,7 @@ checkpoint over my dead
 body![END]
 
 === 27 | 170e0 | 11 ===
-...u...ummmmm...
+...U...Ummmmm...
 [END]
 
 === 28 | 1710c | 40 ===
@@ -714,19 +714,19 @@ the Cult of Zophar! Halt
 and surrender![END]
 
 === 29 | 17168 | 10 ===
-...uhhhhhh...
+...Uhhhhhh...
 
 
 [END]
 
 === 2a | 17194 | 45 ===
-Haay...what the hell are
+Haay...What the hell are
 you runts doin' down here?
 Prepare to fight![END]
 
 === 2b | 171f4 | 1f ===
-Mama...i-is that you...
-mama?
+Mama...I-Is that you...
+Mama?
 
 [END]
 
@@ -737,7 +737,7 @@ under arrest, ya hear?[END]
 
 === 2d | 1728e | 40 ===
 Ohhhhh...I think I wet
-my pants...don't tell
+my pants...Don't tell
 Lord Leo, o-okay?
 
 [END]
@@ -747,7 +747,7 @@ Hey, I haven't seen you
 around here before. [BRK]
 
 Anyway, ya better not bring
-fire in here...the room's
+fire in here...The room's
 loaded with gunpowder![END]
 
 === 2f | 1736e | 4d ===
@@ -858,7 +858,7 @@ eating all your fish, but
 I'm not gonna be your pet![BRK]
 
 [POR00]
-Duh, huh, huh...well, why
+Duh, huh, huh...Well, why
 not, purdy kitty?[BRK]
 
 [POR01]
@@ -913,7 +913,7 @@ of getting in.[END]
 
 === 3d | 17d4c | 55 ===
 Have you heard the legend of
-the sauced boys? Ho, ho, ho!
+the Sauced Boys? Ho, ho, ho!
 Ya gotta hear it some time![END]
 
 === 3e | 17dc2 | 4a ===
@@ -963,7 +963,7 @@ all of Leo's men complete
 idiots? Man![END]
 
 === 43 | 180a4 | 61 ===
-If you let marvin catch
+If you let Marvin catch
 sight of your cat. He'll
 want to keep it.[BRK]
 
@@ -980,7 +980,7 @@ Be patient, though. He gets
 bored of 'em pretty easy.[END]
 
 === 45 | 181b8 | 4a ===
-Keep an eye on marvin. If
+Keep an eye on Marvin. If
 he's got your flyin' cat,
 he won't give it back![END]
 
@@ -995,18 +995,18 @@ all opposed to Althena.[END]
 
 === 47 | 18290 | f6 ===
 
-       Today's menu
+       Today's Menu
 [BRK]
 
-Breakfast: rocky mountain
+Breakfast: Rocky mountain
 oyster omelets, toast,
 toad juice, and milk.[BRK]
 
-Lunch: baked seagull beak
+Lunch: Baked seagull beak
 and pork lips casserole, 
 hargle beans, and milk.[BRK]
 
-Dinner: barnacle bean stew,
+Dinner: Barnacle bean stew,
 roast tuna tail, snail
 rolls, and chocolate milk.[END]
 
@@ -1033,7 +1033,7 @@ to unload the secrets of
 the Destiny, eh? Eat this![END]
 
 === 4d | 1979e | 14 ===
-Wha...what happened?[END]
+Wha...What happened?[END]
 
 === 4e | 197ce | 35 ===
 Okay, ya little sneaks!
@@ -1064,7 +1064,7 @@ to me. Why don't we take
 her to Goddess Althena?[BRK]
 
 [POR09]
-Hmmm...that is one
+Hmmm...That is one
 possibility. Perhaps she
 would be of use to us.[BRK]
 
@@ -1125,7 +1125,7 @@ water,[BRK]
 
 looks like we're gonna
 make it to Pentagulia!
-Congrats, chief![END]
+Congrats, Chief![END]
 
 === 59 | 19db4 | 13a ===
 [POR10]
@@ -1195,7 +1195,7 @@ I'm going to show that no-
 good toad Borgan my true
 power![BRK]
 
-Oh, mother! Hold on just a
+Oh, Mother! Hold on just a
 little longer...I'll find
 a way to release you![END]
 
@@ -1205,8 +1205,8 @@ trip to Pentagulia. I've
 kinda got the jitters.[BRK]
 
 [POR02]
-Calm down, jim. You just
-need to switch to sanka
+Calm down, Jim. You just
+need to switch to Sanka
 brand decaffeinated coffee.[BRK]
 
 Try it! You'll be glad you
@@ -1215,7 +1215,7 @@ did.[END]
 === 5e | 1a282 | 4b ===
 I'd give anything to be in
 your shoes! Going to see
-the Goddess...sheesh!
+the Goddess...Sheesh!
 
 [END]
 
@@ -1229,7 +1229,7 @@ from the port of Azado.[END]
 
 === 60 | 1a37e | 43 ===
 Pentagulia...Pentagulia...
-hmmm, I wonder what the
+Hmmm, I wonder what the
 city name means?[END]
 
 === 61 | 1a3d4 | 51 ===
@@ -1327,7 +1327,7 @@ Answer me![BRK]
 
 [POR08]
 I...I can't. You wouldn't
-understand...you're only...
+understand...You're only...
 ...human.[BRK]
 
 [POR09]
@@ -1499,7 +1499,7 @@ left.[BRK]
 
 [POR05]
 Hey! Pipe down, you guys...
-someone's coming! Get outta
+Someone's coming! Get outta
 sight![END]
 
 === 76 | 1c352 | 29 ===
@@ -1578,7 +1578,7 @@ Trust me on this one![END]
 
 === 7e | 1c6f8 | 54 ===
 [POR02]
-H-h-hey! Don't open that.
+H-H-Hey! Don't open that.
 Leave him locked in there![BRK]
 
 We've gotta get outta here!
@@ -1647,7 +1647,7 @@ Forest of Illusion.[END]
 The Destiny B3[END]
 
 === 84 | 1da56 | 15 ===
-Destiny recovery room[END]
+Destiny Recovery Room[END]
 
 === 85 | 1e210 | 58 ===
 Halt! What are you doing
@@ -1667,20 +1667,20 @@ I really can't believe it's
 true...[END]
 
 === 87 | 1e2ee | 44 ===
-    Managing seasickness
-          volume 1
-     urrp...there it is![END]
+    Managing Seasickness
+          Volume 1
+     Urrp...There it is![END]
 
 === 88 | 1e338 | 3b ===
-     Legends of lore
-        volume 4
+     Legends of Lore
+        Volume 4
     Dragonmaster Dyne[END]
 
 === 89 | 1e378 | 42 ===
-   Navigational blunders
-         volume 2
-   creative cannibalism[END]
+   Navigational Blunders
+         Volume 2
+   Creative Cannibalism[END]
 
 === 8a | 1e3c0 | 18 ===
-Destiny tactical control[END]
+Destiny Tactical Control[END]
 

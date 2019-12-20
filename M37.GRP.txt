@@ -22,7 +22,7 @@ order.[END]
 Leo demands perfect service
 from his loyal servants.[BRK]
 
-And i, for one, will not
+And I, for one, will not
 let him down.[END]
 
 === 3 | 170e4 | f2 ===
@@ -80,19 +80,19 @@ I don't take a bath.[END]
 Donated 100s![END]
 
 === 8 | 17446 | e ===
-White tower 1F[END]
+White Tower 1F[END]
 
 === 9 | 17cc2 | e ===
-White tower 2F[END]
+White Tower 2F[END]
 
 === a | 18556 | e ===
-White tower 3F[END]
+White Tower 3F[END]
 
 === b | 18df4 | e ===
-White tower 4F[END]
+White Tower 4F[END]
 
 === c | 19688 | e ===
-White tower 5F[END]
+White Tower 5F[END]
 
 === d | 19f44 | 22 ===
 [POR02]
@@ -112,7 +112,7 @@ for that evil Althena![BRK]
 We've got to find a way to
 get out of here...[BRK]
 
-...wherever 'here' is...
+...Wherever 'here' is...
 [END]
 
 === f | 1a06e | 162 ===
@@ -145,14 +145,14 @@ find the others![BRK]
 ....
 .....[BRK]
 
-...uh...any ideas?
+...Uh...Any ideas?
 
 
 [END]
 
 === 10 | 1a1da | 4f4 ===
 [POR13]
-...you there! Listen up![BRK]
+...You there! Listen up![BRK]
 
 I've come to rescue you.
 Do as I say and we'll all
@@ -161,7 +161,7 @@ get out of here alive![BRK]
 Now then, follow me![BRK]
 
 [POR02]
-L-le...Leo! What are you
+L-Le...Leo! What are you
 doing here?[BRK]
 
 I thought you were the
@@ -175,7 +175,7 @@ to help us?[BRK]
 Uh...er...I am not White
 Knight Leo.[BRK]
 
-I...am...i...am...[BRK]
+I...am...I...am...[BRK]
 
 ....
 .....uh....[BRK]
@@ -249,7 +249,7 @@ escapes us!
 [END]
 
 === 11 | 1a70c | e ===
-White tower 6F[END]
+White Tower 6F[END]
 
 === 12 | 1b0a6 | 72 ===
 [POR09]

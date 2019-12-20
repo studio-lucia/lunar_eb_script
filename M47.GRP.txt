@@ -13,7 +13,7 @@ It was...???[BRK]
 
 [POR08]
 The lake was simply the
-transport fountain...a
+Transport Fountain...a
 doorway to this place...[BRK]
 
 We must hurry. The real
@@ -23,17 +23,17 @@ inside this tower.
 
 === 1 | c1de | c6 ===
 [POR18]
-Oh, Pentagulia...what has
+Oh, Pentagulia...What has
 become of you?[BRK]
 
 How in the name of Zophar
-have Althena's dragons
+have Althena's Dragons
 found release?[BRK]
 
 Zophar...I must make Master
 Zophar hear my plea![BRK]
 
-Master Zophar...master
+Master Zophar...Master
 Zophar.........!!![END]
 
 === 2 | c2bc | 233 ===
@@ -41,7 +41,7 @@ Zophar.........!!![END]
 Is everybody all right?[BRK]
 
 [POR05]
-Dang!...why did Lucia
+Dang!...Why did Lucia
 take our magic?[BRK]
 
 [POR07]
@@ -88,7 +88,7 @@ What's your plan?!![END]
 
 === 3 | c538 | 13e ===
 [POR08]
-The tower is sealed with
+The Tower is sealed with
 some sort of magic.[BRK]
 
 I've never felt magic this
@@ -135,7 +135,7 @@ Funny. The one thing Althena
 depended on most for
 protection...[BRK]
 
-Was what helped create this
+was what helped create this
 seal on the Goddess Tower.[BRK]
 
 ....
@@ -162,7 +162,7 @@ our great leader...Zophar![BRK]
 You know, you should look
 upon it as a great hon...[BRK]
 
-...what!? Ghaleon?[BRK]
+...What!? Ghaleon?[BRK]
 
 What is wrong with you?[BRK]
 
@@ -181,14 +181,14 @@ crapper!
 
 === 6 | ca0c | c1 ===
 [POR08]
-What...what's happening?!![BRK]
+What...What's happening?!![BRK]
 
 Althena...is, is...that you?[BRK]
 
 I...I don't understand...[BRK]
 
 [POR02]
-Look, Hiro! The dragon wings
+Look, Hiro! The Dragon Wings
 are beginning to glow!![BRK]
 
 But what's causing it???[BRK]
@@ -196,11 +196,11 @@ But what's causing it???[BRK]
 ????
 ?????[BRK]
 
-...........whoa![END]
+...........Whoa![END]
 
 === 7 | cad0 | 86 ===
 [POR18]
-...what is the meaning
+...What is the meaning
 of this?!![BRK]
 
 I demand to know what is
@@ -246,5 +246,5 @@ Just wait he...
 [END]
 
 === 9 | cd46 | 12 ===
-Goddess tower ent.[END]
+Goddess Tower Ent.[END]
 

@@ -55,7 +55,7 @@ We'd better just forget
 about going in here.[END]
 
 === 4 | 1ae5a | 15 ===
-Dragon ruins entrance[END]
+Dragon Ruins Entrance[END]
 
 === 5 | 1bcec | f7 ===
 [POR02]
@@ -110,7 +110,7 @@ We'd better just forget
 about going in here.[END]
 
 === 9 | 1bfba | 15 ===
-Dragon ruins entrance[END]
+Dragon Ruins Entrance[END]
 
 === a | 1d700 | 27 ===
 [0xB][0][BRK]
@@ -147,7 +147,7 @@ Salyan Desert.[END]
 === f | 1d8aa | 7c ===
 [POR02]
 Hiro, do you just get your
-kicks playing indy? You
+kicks playing Indy? You
 already got both the jewels.[BRK]
 
 There's nothing left here
@@ -155,44 +155,44 @@ for us to take![END]
 
 === 10 | 1d934 | 2f ===
 [POR02]
-Hmmm...where is that other
+Hmmm...Where is that other
 Dragon Eye Jewel?[END]
 
 === 11 | 1d974 | 5d ===
 [POR02]
 Okay, Hiro, you've got both
-the dragon eyes. Let's go
+the Dragon Eyes. Let's go
 to the Star Tower![BRK]
 
 Lucia is waiting![END]
 
 === 12 | 1d9d6 | f ===
-Dragon ruins 1F[END]
+Dragon Ruins 1F[END]
 
 === 13 | 1e078 | f ===
-Dragon ruins 1F[END]
+Dragon Ruins 1F[END]
 
 === 14 | 1eff6 | f ===
-Dragon ruins 2F[END]
+Dragon Ruins 2F[END]
 
 === 15 | 1fd84 | f ===
-Dragon ruins 3F[END]
+Dragon Ruins 3F[END]
 
 === 16 | 20c42 | f ===
-Dragon ruins 4F[END]
+Dragon Ruins 4F[END]
 
 === 17 | 21bcc | f ===
-Dragon ruins 5F[END]
+Dragon Ruins 5F[END]
 
 === 18 | 227dc | f ===
-Dragon ruins 6F[END]
+Dragon Ruins 6F[END]
 
 === 19 | 2350a | f ===
-Dragon ruins 7F[END]
+Dragon Ruins 7F[END]
 
 === 1a | 241ee | f ===
-Dragon ruins 8F[END]
+Dragon Ruins 8F[END]
 
 === 1b | 24e68 | f ===
-Dragon ruins 9F[END]
+Dragon Ruins 9F[END]
 

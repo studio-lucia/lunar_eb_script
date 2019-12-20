@@ -16,11 +16,11 @@ I think I can work out a
 good deal on the rental
 of them...[BRK]
 
-...oh, what the heck! I'll
+...Oh, what the heck! I'll
 let you guys use them for
 free...[BRK]
 
-...after all, you are
+...After all, you are
 rescuing my mother.[END]
 
 === 1 | dc06 | 7d ===
@@ -128,7 +128,7 @@ man.[BRK]
 
 [POR07]
 Pooh! I don't understand
-you, mother. He's just
+you, Mother. He's just
 trying to...[END]
 
 === 7 | e218 | 10a ===
@@ -138,7 +138,7 @@ Borgan with respect while
 he is here.[BRK]
 
 [POR07]
-But mother! He's trying to
+But Mother! He's trying to
 make sure Vane's Magic Guild
 never comes back![BRK]
 
@@ -259,8 +259,8 @@ And none of us want to see
 that...[BRK]
 
 [POR01]
-But...Miria...i...
-...i...[BRK]
+But...Miria...I...
+...I...[BRK]
 
 [POR22]
 Shhh! I'm still not sure
@@ -278,7 +278,7 @@ Go to the roof.[BRK]
 
 Someone is waiting there...[BRK]
 
-Go! Quickly now...see for
+Go! Quickly now...See for
 yourself...on the roof.
 
 [END]
@@ -295,7 +295,7 @@ find out![END]
 
 === e | eb08 | 16d ===
 [POR22]
-Ghaleon...that name has been
+Ghaleon...That name has been
 stained in blood on this
 place for centuries...[BRK]
 
@@ -343,7 +343,7 @@ Well done, Hiro![END]
 
 === 11 | ee2c | 4c ===
 [POR08]
-It's strange...that sounds
+It's strange...That sounds
 like something I heard a
 very long time ago...[END]
 
@@ -372,7 +372,7 @@ I will never give up!![END]
 === 14 | efe0 | 179 ===
 [POR17]
 Gwha ha ha ha! Ah, but I've
-changed...really, I have![BRK]
+changed...Really, I have![BRK]
 
 And I have a very urgent
 reason to be here.[BRK]
@@ -422,7 +422,7 @@ like you...[BRK]
 [POR07]
 Mother! How can you say such
 a terrible thing?!! He's...
-...he's......evil![BRK]
+...He's......evil![BRK]
 
 Why are you defending him?
 He wants to kidnap you! Or
@@ -441,12 +441,12 @@ as I wish. Behold...
 
 === 16 | f400 | 2d2 ===
 [POR07]
-Mother!!!![BRK]
+MOTHER!!!![BRK]
 
 [POR17]
 Wasn't that delicious? And
 all it took was a simple
-wave of my rubenesque hands![BRK]
+wave of my Rubenesque hands![BRK]
 
 Poof! Mommy's gone! Gwa ha
 ha ha ha![BRK]
@@ -466,7 +466,7 @@ speak, dear girl.[BRK]
 
 Think of the power I hold.
 I could crush you like a
-twinkie.[BRK]
+Twinkie.[BRK]
 
 No, your mother will not be
 coming back. She will rule
@@ -480,8 +480,8 @@ I have a summer cottage
 there Miria might enjoy.[BRK]
 
 We'll be certain to roll out
-the...dead carpet for you...
-gwa ha ha ha ha...[BRK]
+the...DEAD carpet for you...
+Gwa ha ha ha ha...[BRK]
 
 [POR07]
 No! Borgan! I'm serious!
@@ -491,7 +491,7 @@ Come back here this instant!
 
 === 17 | f6dc | 137 ===
 [POR07]
-Oh, mother! I can't believe
+Oh, Mother! I can't believe
 I let you down![BRK]
 
 ....
@@ -510,7 +510,7 @@ I can't even save the one
 I love most! How can I hope
 to restore a whole city?[BRK]
 
-Oh, mother...I'm a failure!
+Oh, Mother...I'm a failure!
 
 
 [END]
@@ -569,7 +569,7 @@ I could help you, but...[END]
 [POR17]
 I'm pleasantly surprised at
 your prowess in defeating
-dark lord Ghaleon.[BRK]
+Dark Lord Ghaleon.[BRK]
 
 Maybe you do stand a chance
 against Zophar after all...[BRK]
@@ -602,12 +602,12 @@ Gwa ha ha ha![END]
 === 1f | fd78 | 176 ===
 [POR17]
 Ah, little Lemina, going
-on a trip, I see...why...
+on a trip, I see...Why...
 thank you![BRK]
 
 [POR07]
 ....
-.....huh?[BRK]
+.....Huh?[BRK]
 
 [POR17]
 I just appreciate the fact
@@ -615,7 +615,7 @@ that you want to give me
 and Miria some 'alone time.'[BRK]
 
 I can't tell you how much
-this means to me...gha ha
+this means to me...Gha ha
 ha ha![BRK]
 
 [POR07]
@@ -626,7 +626,7 @@ Borgan, you are a foul-
 minded pig! Call my trip
 what you'd like...[BRK]
 
-But I have no intention
+but I have no intention
 of helping you win my
 mother's affection!
 [END]
@@ -644,7 +644,7 @@ Lay one hand on my mother
 and I'll...I'll...[BRK]
 
 [POR17]
-You'll what? Call me daddy?
+You'll what? Call me Daddy?
 Gha ha ha ha ha![BRK]
 
 [POR07]
@@ -684,8 +684,8 @@ A fun-loving guy that's
 perfect for Miria![END]
 
 === 23 | 101de | f2 ===
-It...it smells like mold
-or mildew in here...whoop![BRK]
+It...It smells like mold
+or mildew in here...Whoop![BRK]
 
 Sorry, forgot. This is the
 decaying Vane...not my
@@ -696,7 +696,7 @@ decaying past in this god-
 forsaken place...[BRK]
 
 What I wouldn't give for
-a bucket of lysol right now.[END]
+a bucket of Lysol right now.[END]
 
 === 24 | 102e0 | 3c ===
 Borgan, Borgan, he's our
@@ -733,7 +733,7 @@ Have you finally decided to
 join the Guild? Let's see,
 where are those contracts...[BRK]
 
-...oh, is Lucia with you?
+...Oh, is Lucia with you?
 She probably wants to join,
 too.[BRK]
 
@@ -741,7 +741,7 @@ too.[BRK]
 ....[BRK]
 
 What?!! Lucia went back to
-the Blue Star?!...alone?
+the Blue Star?!...Alone?
 That's...terrible![BRK]
 
 Ah...I'm beginning to get
@@ -751,11 +751,11 @@ You came here to get me to
 help you go after Lucia!
 I'm with you now...[BRK]
 
-Let's see...that should only
+Let's see...That should only
 run you about 10,000s,[BRK]
 
 a special price for a
-special friend...what do
+special friend...What do
 you say?[END]
 
 === 28 | 1067c | 2e ===
@@ -803,9 +803,9 @@ discount. How about 10,000s?
 [END]
 
 === 2c | 10958 | 104 ===
-     Rapture in the wind    
+     Rapture in the Wind    
              by
-      veronica swinster [BRK]
+      Veronica Swinster [BRK]
 
 His eyes met hers in a gaze
 that meant only one thing...[BRK]
@@ -827,17 +827,17 @@ correcting the wrongs the
 evil premier had committed.[END]
 
 === 2e | 10ae2 | 82 ===
-    Secrets to successful    
-         moneymaking[BRK]
+    Secrets to Successful    
+         Moneymaking[BRK]
 
 Make books with titles that
 desperate people looking for
 easy answers will buy.[END]
 
 === 2f | 10b6a | 37 ===
-   I want to beat you
+   I Want to Beat You
            by
-      ornce jameson[END]
+      Ornce Jameson[END]
 
 === 30 | 10bb0 | 79 ===
 [POR07]
@@ -849,7 +849,7 @@ Those are my deepest and
 most intimate thoughts...[END]
 
 === 31 | 10c3c | 16f ===
-...oh, how I wish getting
+...Oh, how I wish getting
 Vane off the ground was not
 such a lonely task.[BRK]
 
@@ -866,7 +866,7 @@ fin, my mega-hunky helper?[BRK]
 
 Ah, well...someday. Good-
 bye for now, diary.
-                   Lee lee
+                   Lee Lee
 
 
 
@@ -877,7 +877,7 @@ The battle we are about to
 fight frightens me greatly.
 Zophar is indestructible...[BRK]
 
-...at least, that's the way
+...At least, that's the way
 it seems now that he has
 the power of Althena.[BRK]
 
@@ -890,7 +890,7 @@ fight alongside.[BRK]
 
 Wish me luck, diary...I'll
 be needing it.
-                   Lee lee
+                   Lee Lee
 [END]
 
 === 33 | 10f26 | 237 ===
@@ -919,7 +919,7 @@ it kills me![BRK]
 
 I'll let you know how it
 goes tomorrow.
-                    Lee lee[BRK]
+                    Lee Lee[BRK]
 
 [POR02]
 You know, I almost feel
@@ -973,7 +973,7 @@ Vane Magic Guild[END]
 
 === 3a | 122fc | b1 ===
 [POR05]
-Say, uh, chief...I think 
+Say, uh, Chief...I think 
 you should have a few words
 with Lemina.[BRK]
 
@@ -1015,14 +1015,14 @@ start...
 
 === 3c | 12532 | 89 ===
 [POR08]
-Hiro...please find the words
+Hiro...Please find the words
 to cheer poor Lemina.[BRK]
 
 Somehow, I do not have the
 gift for inspiration you
 possess.[BRK]
 
-...it must be human...[END]
+...It must be human...[END]
 
 === 3d | 125d6 | 36 ===
 [POR08]
@@ -1037,7 +1037,7 @@ best...just as I was...
 
 Much has happened since we
 first met at the Blue Spire.
-It...it seems like ages ago.[BRK]
+It...It seems like ages ago.[BRK]
 
 You've shown me so much of
 this wonderful land.[BRK]
@@ -1046,7 +1046,7 @@ The cool breezes that blow
 in the afternoon. The warm
 sands of the beach.[BRK]
 
-...and most of all, the kind
+...And most of all, the kind
 people, whose spirit cannot
 be broken in adversity.[BRK]
 
@@ -1075,7 +1075,7 @@ I'm sure that Grandpa won't
 mind. What do you say?[BRK]
 
 [ROR08]
-...all right, Hiro.[BRK]
+...All right, Hiro.[BRK]
 
 Everyone's waiting. We'd
 better go...
@@ -1121,7 +1121,7 @@ to get enough to restore
 the Magic Guild.[BRK]
 
 She's been working so hard
-collecting money...everyone
+collecting money...Everyone
 just thought she was greedy.[BRK]
 
 It must have been so lonely.
@@ -1137,18 +1137,18 @@ than we all knew.[END]
 
 === 43 | 12c4e | 188 ===
 [ROR07]
-W...what? Have you come to
+W...What? Have you come to
 taunt me for being weak?[BRK]
 
-Sure...g...go ahead and
+Sure...G...Go ahead and
 laugh...I'm certain it's
-a thousand...y-yucks![BRK]
+a thousand...Y-Yucks![BRK]
 
 Ha! Lemina's reviving the
-magic g-guild, but she's
+Magic G-Guild, but she's
 the only member.[BRK]
 
-I-i-i'm just a b-big joke!
+I-I-I'm just a b-big joke!
 I didn't even have the power
 to save my mother! And...[BRK]
 
@@ -1174,14 +1174,14 @@ now. I never wanted that.[END]
 
 === 46 | 12e7c | 41 ===
 [ROR07]
-...but I'll take your money
+...But I'll take your money
 in good f-faith. Thank
 you, Hiro.
 [END]
 
 === 47 | 12ed0 | 49 ===
 [ROR07]
-Oh, Hiro...just leave me
+Oh, Hiro...Just leave me
 alone. I have to figure
 this out for myself.
 [END]
@@ -1287,7 +1287,7 @@ she was crying?[END]
 
 === 4b | 1349e | db ===
 [ROR07]
-Mother...oh, mother! If I
+Mother...Oh, mother! If I
 didn't have the magic power
 to save you,[BRK]
 
@@ -1296,7 +1296,7 @@ the once-great city of
 Vane?[BRK]
 
 No...I will rescue you,
-mother. And I will restore
+Mother. And I will restore
 Vane.[BRK]
 
 And I won't rest until it's
@@ -1372,7 +1372,7 @@ Lucia...[BRK]
 [POR14]
 Yes...[BRK]
 
-...pathetic, isn't it?[BRK]
+...Pathetic, isn't it?[BRK]
 
 The poor girl has no taste
 at all, it seems...[BRK]
@@ -1393,7 +1393,7 @@ Watch in horror as I give
 you a preview of the show
 Zophar has planned![BRK]
 
-See you soon...ha ha ha!
+See you soon...Ha ha ha!
 
 
 
@@ -1414,5 +1414,5 @@ C'mon, Ruby. We're going to
 stop him or die trying![END]
 
 === 50 | 13aca | f ===
-Vane guild roof[END]
+Vane Guild Roof[END]
 
