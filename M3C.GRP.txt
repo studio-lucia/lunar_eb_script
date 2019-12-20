@@ -4,17 +4,17 @@ Messages: 15
 
 === 0 | 10e28 | 210 ===
 [POR01]
-...lucia!![BRK]
+...Lucia!![BRK]
 
 [POR08]
 Hiro...you should not have
 come.[BRK]
 
 You can't possibly win
-against zophar...[BRK]
+against Zophar...[BRK]
 
 He has bound my power, and
-the power of althena stands
+the power of Althena stands
 ready for him to take.[BRK]
 
 We must face the fact that
@@ -29,11 +29,11 @@ get it back...[BRK]
 
 Unless....[BRK]
 
-Perhaps althena was right
+Perhaps Althena was right
 and the power of humanity
 can overcome him.[BRK]
 
-...i cannot believe that
+...I cannot believe that
 it is so, but it is the
 only hope left![BRK]
 
@@ -46,22 +46,22 @@ You must try...[BRK]
 .....[BRK]
 
 Here...this is the only
-assistance i can offer.[BRK]
+assistance I can offer.[BRK]
 
 Take it...
 [END]
 
 === 1 | 1104b | 105 ===
-Received the goddess
-crest![BRK]
+Received the Goddess
+Crest![BRK]
 
 [0xB][0][0][POR01]
 Lucia, you must believe in
 us![BRK]
 
 The power of humanity is the
-key to defeating zophar,
-just as althena said.[BRK]
+key to defeating Zophar,
+just as Althena said.[BRK]
 
 It's stronger than any magic
 ever devised...[BRK]
@@ -71,7 +71,7 @@ If you only believe...[BRK]
 ....
 .....[BRK]
 
-I'm coming for you, lucia!
+I'm coming for you, Lucia!
 Don't give up![END]
 
 === 2 | 1115e | 13 ===
@@ -81,31 +81,31 @@ Zophar's keep foyer[END]
 Zophar's keep gallery[END]
 
 === 4 | 1620e | 12 ===
-Zophar's keep 1f-a[END]
+Zophar's keep 1F-a[END]
 
 === 5 | 16986 | 12 ===
-Zophar's keep 1f-c[END]
+Zophar's keep 1F-c[END]
 
 === 6 | 17a0c | 12 ===
 Zophar's keep hall[END]
 
 === 7 | 18c48 | 12 ===
-Zophar's keep 1f-d[END]
+Zophar's keep 1F-d[END]
 
 === 8 | 1931c | 12 ===
-Zophar's keep 2f-b[END]
+Zophar's keep 2F-b[END]
 
 === 9 | 19b88 | 12 ===
-Zophar's keep 2f-c[END]
+Zophar's keep 2F-c[END]
 
 === a | 1a3c0 | 12 ===
-Zophar's keep 2f-d[END]
+Zophar's keep 2F-d[END]
 
 === b | 1aeac | 12 ===
-Zophar's keep 2f-a[END]
+Zophar's keep 2F-a[END]
 
 === c | 1b7dc | 12 ===
-Zophar's keep 1f-b[END]
+Zophar's keep 1F-b[END]
 
 === d | 1be86 | 52 ===
 Groum! Groum! Groum![BRK]

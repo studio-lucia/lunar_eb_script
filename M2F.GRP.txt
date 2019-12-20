@@ -20,7 +20,7 @@ stomach, you'll be heavin'
 before the second round![BRK]
 
 [POR10]
-I think i have the stomach
+I think I have the stomach
 for it.[BRK]
 
 In fact, our team is in
@@ -93,7 +93,7 @@ The competition is all over.[BRK]
 You know, it really wasn't
 that bloody this year.[BRK]
 
-Or maybe i'm getting
+Or maybe I'm getting
 desensitized to it...[END]
 
 === 6 | 185b4 | 1c9 ===
@@ -110,7 +110,7 @@ even think of that!![BRK]
 
 <Whack> <slam> <bam> [BRK]
 
-Heh heh heh, i just gave
+Heh heh heh, I just gave
 myself a bloody nose![BRK]
 
 ....
@@ -199,16 +199,16 @@ List for the second level[END]
 
 === d | 18ab4 | d1 ===
 The 1st level  match no. 1
-  Winner = bunny karate[BRK]
+  Winner = Bunny Karate[BRK]
 
 The 1st level  match no. 2
-   Winner = wolf karate[BRK]
+   Winner = Wolf Karate[BRK]
 
 The 1st level  match no. 3
-  Winner = jean and party[BRK]
+  Winner = Jean and party[BRK]
 
 The 1st level  match no. 4
-Winner = blue dragon karate[END]
+Winner = Blue Dragon Karate[END]
 
 === e | 18b96 | 92 ===
 The 2nd level  match no. 1
@@ -225,14 +225,14 @@ How about the final stage?[END]
 
 === 10 | 18c80 | 6b ===
 The 2nd level  match no. 1
-Winner = blue dragon karate[BRK]
+Winner = Blue Dragon Karate[BRK]
 
 The 2nd level  match no. 2
-  Winner = jean and party[END]
+  Winner = Jean and party[END]
 
 === 11 | 18cfc | 47 ===
         The final match
-blue dragon karate
+Blue Dragon Karate
           vs. Jean and party[END]
 
 === 12 | 18d56 | d7 ===
@@ -244,25 +244,25 @@ Jean's dojo![BRK]
 
 [POR05]
 Darn! In all the excitement,
-i forgot to place a bet. [BRK]
+I forgot to place a bet. [BRK]
 
 [POR10]
-It's time to face lunn.[BRK]
+It's time to face Lunn.[BRK]
 
 Someone has to stop him! I
-just hope i'm ready...[END]
+just hope I'm ready...[END]
 
 === 13 | 18e40 | a3 ===
 Whew! Talk about humiliating
 a guy![BRK]
 
 You completely wasted the
-blue karate master![BRK]
+Blue Karate master![BRK]
 
 I've never seen anyone fight
 like you before.[BRK]
 
-Say, can i...have your
+Say, can I...have your
 autograph?
 
 [END]
@@ -280,7 +280,7 @@ competition.
 
 === 15 | 18f72 | 7a ===
 [POR10]
-I can tell you what i'll
+I can tell you what I'll
 do next year right now.[BRK]
 
 ....
@@ -292,16 +292,16 @@ will cease![END]
 
 === 16 | 18ffa | a5 ===
 [POR07]
-Come on, jean! I could
+Come on, Jean! I could
 promote you![BRK]
 
 We could make some really
 big bucks![BRK]
 
-Don't worry, i won't become 
+Don't worry, I won't become 
 like don king![BRK]
 
-All i want is three-fourths
+All I want is three-fourths
 of the profits!
 
 [END]
@@ -341,7 +341,7 @@ Hiro will be second.[BRK]
 
 ...that is, if you would
 like to fight with me,
-hiro.[BRK]
+Hiro.[BRK]
 
 Great! I knew you would.[BRK]
 
@@ -375,7 +375,7 @@ for you, don't you?[BRK]
 ....
 .....[BRK]
 
-Well, jean, good luck.
+Well, Jean, good luck.
 I'll stand right over there
 and cheer for all of you![BRK]
 
@@ -419,8 +419,8 @@ They deserved to be
 terminated![BRK]
 
 Soon, all will know the
-strength of the blue
-dragon cult![BRK]
+strength of the Blue
+Dragon Cult![BRK]
 
 We will reign supreme over
 this tournament![END]
@@ -430,7 +430,7 @@ this tournament![END]
 ...![BRK]
 
 [POR02]
-I...i can't believe what I
+I...I can't believe what I
 just witnessed![BRK]
 
 It was sick! The fight was
@@ -438,8 +438,8 @@ already over and they just
 ...well...you know...[BRK]
 
 [POR10]
-The karate of the blue
-dragon cult is nothing but
+The karate of the Blue
+Dragon Cult is nothing but
 evil.[BRK]
 
 There is no mercy shown to
@@ -474,10 +474,10 @@ You are now qualified to
 compete in the final match.[BRK]
 
 Your opponent is the clan
-of the blue dragon cult.[BRK]
+of the Blue Dragon Cult.[BRK]
 
 [POR02]
-Be careful, hiro![BRK]
+Be careful, Hiro![BRK]
 
 These guys are dangerous![BRK]
 
@@ -487,7 +487,7 @@ earlier![END]
 === 24 | 19a34 | 6d ===
 If you need a break, you
 won't stand a chance against
-the cult![BRK]
+the Cult![BRK]
 
 Enjoy the break. It'll
 probably be your last.[END]
@@ -497,25 +497,25 @@ Okay, the next match is
 set to begin.[BRK]
 
 Your opponents are from the
-cult of the blue dragon.[BRK]
+Cult of the Blue Dragon.[BRK]
 
 Are you ready?
 [0x5]You'd better believe it!
-No...i'm scared![END]
+No...I'm scared![END]
 
 === 26 | 19b58 | cb ===
 Then let the final battle
 begin![BRK]
 
 [POR10]
-Hiro, ronfar, these guys
+Hiro, Ronfar, these guys
 don't mess around. They're
 cold-blooded killers.[BRK]
 
 Don't lower your guard for
 even a second![BRK]
 
-Remember what i've taught
+Remember what I've taught
 you, and follow my lead!
 [END]
 
@@ -525,7 +525,7 @@ Whuh ho! What a fight!![BRK]
 That was incredible![BRK]
 
 The winners are the clan
-of jean's dojo![BRK]
+of Jean's dojo![BRK]
 
 [POR02]
 Ha! I knew you'd kick their
@@ -535,7 +535,7 @@ I wasn't worried for a
 second![BRK]
 
 [POR05]
-What's this 'us,' ruby? All
+What's this 'us,' Ruby? All
 you did was sit on your pink
 bottom and watch.[BRK]
 
@@ -543,7 +543,7 @@ bottom and watch.[BRK]
 I'm sorry. Did anyone hear
 that?[BRK]
 
-I could've sworn i heard
+I could've sworn I heard
 some annoying person
 talking.[BRK]
 
@@ -559,12 +559,12 @@ the ring![END]
 This competition used to be
 a peaceful event.[BRK]
 
-But now, i think lunn uses
+But now, I think Lunn uses
 it as a recruiting ground.[BRK]
 
 He's here today talking
 about his new all-powerful
-black karate of death.[BRK]
+Black Karate of Death.[BRK]
 
 ....
 .....[BRK]
@@ -575,7 +575,7 @@ turned evil...[END]
 
 === 2a | 19f2c | 7b ===
 We have been studying the
-teachings of master lunn.[BRK]
+teachings of Master Lunn.[BRK]
 
 But after your display of
 fighting prowess, we'd like
@@ -583,7 +583,7 @@ to follow you...
 [END]
 
 === 2b | 19fb6 | 6f ===
-Master lunn will no doubt
+Master Lunn will no doubt
 want to see you.[BRK]
 
 He doesn't appreciate being
@@ -592,7 +592,7 @@ by newcomers.[END]
 
 === 2c | 1a03c | 181 ===
 [POR16]
-Hrmph...jean! I see you
+Hrmph...Jean! I see you
 found your way out of
 your cell.[BRK]
 
@@ -613,7 +613,7 @@ breath to stop your wicked
 cult.[BRK]
 
 [POR16]
-My, my, i don't think i've
+My, my, I don't think I've
 ever seen you so focused.[BRK]
 
 You must be quite serious in
@@ -622,7 +622,7 @@ your intent, foolish girl.
 
 === 2d | 1a1d8 | 175 ===
 [POR16]
-My blue dragon cult will
+My Blue Dragon Cult will
 dominate this competition.[BRK]
 
 I have trained each and
@@ -640,13 +640,13 @@ miserably![BRK]
 Ha ha ha ha![BRK]
 
 [POR10]
-Lunn, i give you my word.[BRK]
+Lunn, I give you my word.[BRK]
 
 I will not rest until I
 have defeated you.[BRK]
 
 I will defeat your
-followers. And then, i'm
+followers. And then, I'm
 coming for you![END]
 
 === 2e | 1a360 | 100 ===
@@ -685,12 +685,12 @@ ignore the anguished pleas
 of the damned.[BRK]
 
 [POR10]
-I know your evil ways, lunn.
+I know your evil ways, Lunn.
 But this time, there will be
 no anguish on my part.[BRK]
 
 I will win this next match.
-And then i'm coming for
+And then I'm coming for
 you.
 [END]
 
@@ -703,7 +703,7 @@ But she has the black mist
 of revenge in her eyes.[BRK]
 
 You're a fool for returning,
-jean.[BRK]
+Jean.[BRK]
 
 [POR10]
 I am not here for revenge.
@@ -718,7 +718,7 @@ must stop...now!
 
 === 31 | 1a74c | 1a3 ===
 [POR10]
-If i win this match, you
+If I win this match, you
 will stop corrupting the
 art of karate.[BRK]
 
@@ -735,7 +735,7 @@ This match is a match to the
 death. There can be only one
 winner.[BRK]
 
-And when i win, i will kill
+And when I win, I will kill
 all your associates, too.[BRK]
 
 When you challenge me, you
@@ -748,7 +748,7 @@ one.
 
 === 32 | 1a8f2 | 32 ===
 [0x5]Um, let me think about it.
-I will stop you, lunn![END]
+I will stop you, Lunn![END]
 
 === 33 | 1a934 | ac ===
 [POR16]
@@ -766,26 +766,26 @@ your end. Ha ha ha...[END]
 
 === 34 | 1a9f2 | 3a6 ===
 [POR10]
-I know i can win, but i need
+I know I can win, but I need
 to know that you all agree
-that i should fight.[BRK]
+that I should fight.[BRK]
 
-After all, if i lose, lunn
+After all, if I lose, Lunn
 has vowed to kill all of
 you, too.[BRK]
 
 [POR07]
-Go for it, jean![BRK]
+Go for it, Jean![BRK]
 
 I know you have the skill to
 beat this guy into a pile of
 mega-waste![BRK]
 
 [POR05]
-Yeah, jean. We all believe
+Yeah, Jean. We all believe
 in you.[BRK]
 
-In fact, i found a place
+In fact, I found a place
 that gave me 10 to 1 odds
 on you winning.[BRK]
 
@@ -794,7 +794,7 @@ I'm gonna make a killing![BRK]
 [POR10]
 You...bet...on...?!![BRK]
 
-...uh...thanks, ronfar.[BRK]
+...uh...thanks, Ronfar.[BRK]
 
 That bet is the highest vote
 of confidence you could have
@@ -806,22 +806,22 @@ Jean, you must fight well.[BRK]
 The entire future of this
 world rests on this battle.[BRK]
 
-If we do not get the blue
-dragon aura, we cannot
+If we do not get the Blue
+Dragon Aura, we cannot
 complete my quest.[BRK]
 
 And all will be lost.[BRK]
 
 [POR10]
-Don't worry, lucia. I've
+Don't worry, Lucia. I've
 waited all my life for
 this moment.[BRK]
 
 It's strange. I've dreamt
 of this moment for so long,
-i'm not even afraid.[BRK]
+I'm not even afraid.[BRK]
 
-The need to stop lunn once
+The need to stop Lunn once
 and for all has consumed
 me.[BRK]
 
@@ -830,7 +830,7 @@ I will not fail.[BRK]
 ....
 .....[BRK]
 
-Okay, lunn! It's just you
+Okay, Lunn! It's just you
 and me, now.[BRK]
 
 Get in the ring!
@@ -840,27 +840,27 @@ Get in the ring!
 
 === 35 | 1add2 | 332 ===
 [POR16]
-Well...well done, jean.
+Well...well done, Jean.
 But ho...how can...[BRK]
 
 This makes...no sense...
 ...i...am...the master![BRK]
 
 We share the knowledge of
-blue dragon karate, but
+Blue Dragon Karate, but
 yours is somehow different.[BRK]
 
 [POR10]
 I fight not to kill, but
 to conquer.[BRK]
 
-My blue dragon karate is
+My Blue Dragon Karate is
 never used aggressively.[BRK]
 
-Once i believed in the power
+Once I believed in the power
 of good within my soul,[BRK]
 
-i knew i could never be
+I knew I could never be
 overcome by evil again.[BRK]
 
 Your power draws from the
@@ -883,7 +883,7 @@ insurmountable.[BRK]
 .....[BRK]
 
 So, now you will spare my
-life, even though i was
+life, even though I was
 intent on ending yours.[BRK]
 
 Jean, you truly have become
@@ -900,8 +900,8 @@ to forgive me.[BRK]
 
 === 36 | 1b10e | a0 ===
 [POR08]
-...lunn, you must surrender
-the blue dragon's aura.[BRK]
+...Lunn, you must surrender
+the Blue Dragon's aura.[BRK]
 
 [POR16]
 Certainly.[BRK]
@@ -910,8 +910,8 @@ Here, take it. I have no
 use for it any longer.[BRK]
 
 [POR00]
-[0xB][0][0x6]Received the aura of the
-blue dragon![END]
+[0xB][0][0x6]Received the Aura of the
+Blue Dragon![END]
 
 === 37 | 1b1b8 | 1ca ===
 [POR16]
@@ -924,7 +924,7 @@ it by heading directly
 north.[BRK]
 
 Follow the river back to
-horam, then head south and
+Horam, then head south and
 east.[BRK]
 
 The river will then lead 
@@ -954,8 +954,8 @@ forgive me.[BRK]
 [POR16]
 Our fight is to the death.[BRK]
 
-And once i am victorious,
-i will eliminate your
+And once I am victorious,
+I will eliminate your
 friends, as well.
 [END]
 
@@ -965,22 +965,22 @@ Jean, listen to me. I
 was not always the monster
 you have come to know.[BRK]
 
-When i started, karate was
+When I started, karate was
 a way to defend myself.[BRK]
 
 I enjoyed the peace of mind
-practice brought, and i no
+practice brought, and I no
 longer feared anyone.[BRK]
 
-However, i forgot that
+However, I forgot that
 original peace, and began to
 crave power.[BRK]
 
-That's when i sold my soul
-to zophar.[BRK]
+That's when I sold my soul
+to Zophar.[BRK]
 
-I began to teach blue dragon
-karate, twisted for my own
+I began to teach Blue Dragon
+Karate, twisted for my own
 selfish purposes.[BRK]
 
 This defeat has shown me the
@@ -996,13 +996,13 @@ Please...forgive me.[BRK]
 
 === 3a | 1b626 | dc ===
 [POR16]
-Take the blue dragon aura
-i have given you and go to
-the blue dragon sanctuary.[BRK]
+Take the Blue Dragon Aura
+I have given you and go to
+the Blue Dragon sanctuary.[BRK]
 
-Release the blue dragon-
+Release the Blue Dragon-
 power from the seal and
-stop zophar.[BRK]
+stop Zophar.[BRK]
 
 I believe in you.[BRK]
 
@@ -1028,17 +1028,17 @@ me.
 
 === 3c | 1b7a8 | f7 ===
 [POR16]
-Jean, i'm developing a new
+Jean, I'm developing a new
 karate. It is holy karate.[BRK]
 
 This is what my former
-master taught me, and i will
+master taught me, and I will
 teach it to my students.[BRK]
 
 It is but the first step in
 my redemption.[BRK]
 
-One day, i hope you find it
+One day, I hope you find it
 in your heart to forgive me.[BRK]
 
 [POR10]
@@ -1058,11 +1058,11 @@ a thing of the past.[END]
 
 === 3e | 1b952 | 1dd ===
 [POR16]
-Ah, jean! It's been so long
-since i last saw you.[BRK]
+Ah, Jean! It's been so long
+since I last saw you.[BRK]
 
-As i promised, the way of
-blue dragon karate is taught
+As I promised, the way of
+Blue Dragon Karate is taught
 no more.[BRK]
 
 In fact, the mention of that
@@ -1083,9 +1083,9 @@ gression while standing.[BRK]
 That certainly is good
 news.[BRK]
 
-One day, perhaps i can 
+One day, perhaps I can 
 forgive what you once did to
-me, but i can never forget.[END]
+me, but I can never forget.[END]
 
 === 3f | 1bb4a | 55 ===
 [POR16]
@@ -1096,8 +1096,8 @@ dream.[BRK]
 Remember that always...[END]
 
 === 40 | 1bbae | df ===
-I'm a member of the blue
-dragon cult.[BRK]
+I'm a member of the Blue
+Dragon Cult.[BRK]
 
 I live for combat.[BRK]
 
@@ -1112,8 +1112,8 @@ I rally for aggression.[BRK]
 I am the ultimate killing
 machine.[BRK]
 
-But on the weekends, i'm an
-althena-fearing guy.[END]
+But on the weekends, I'm an
+Althena-fearing guy.[END]
 
 === 41 | 1bca4 | 3f ===
 I am the greatest fighter
@@ -1121,7 +1121,7 @@ in the world. I cannot be
 defeated. [END]
 
 === 42 | 1bcfe | 5d ===
-I think i've been in too
+I think I've been in too
 many of these fights.[BRK]
 
 The thrill of the kill has
@@ -1132,12 +1132,12 @@ I'm going to make my next
 opponent wish he was dead.[BRK]
 
 Just when he's beggin' for
-mercy, i'm gonna dig into
+mercy, I'm gonna dig into
 his jugular and finish him.[END]
 
 === 44 | 1be0c | b7 ===
 Crud! Crap! Poop! I lost!
-I can't believe i lost!
+I can't believe I lost!
 Crap! Craaap![BRK]
 
 [POR02]
@@ -1159,17 +1159,17 @@ us we were invincible![BRK]
 This can't be![END]
 
 === 46 | 1bf50 | 8e ===
-Master lunn has banned blue
-dragon karate...[BRK]
+Master Lunn has banned Blue
+Dragon Karate...[BRK]
 
-...and especially the black
-karate of death.[BRK]
+...and especially the Black
+Karate of Death.[BRK]
 
 In fact, just the mention
 of these can get me caned![END]
 
 === 47 | 1bfee | 90 ===
-Master lunn is teaching us
+Master Lunn is teaching us
 a new karate style.[BRK]
 
 Blu...well, that old kind of
@@ -1199,13 +1199,13 @@ in the ring.
 
 === 49 | 1c18c | 91 ===
 Don't worry. When we fight,
-i'll try to go easy on you.[BRK]
+I'll try to go easy on you.[BRK]
 
 I'll tear your aorta out
 quickly.[BRK]
 
 Consider that a guarantee.
-If i were you, i'd quit now.[END]
+If I were you, I'd quit now.[END]
 
 === 4a | 1c230 | 54 ===
 You're our next opponent?[BRK]
@@ -1218,14 +1218,14 @@ You're kidding, right?[END]
 
 === 4b | 1c298 | 60 ===
 Now that you've beaten all
-the others, lunn is all that
+the others, Lunn is all that
 remains.[BRK]
 
 Fool! You don't stand a
 chance![END]
 
 === 4c | 1c30c | 89 ===
-Curse lunn! I can't believe
+Curse Lunn! I can't believe
 he lost to...to...to a 
 stupid girl.[BRK]
 
@@ -1245,9 +1245,9 @@ Ban all girls from sports.[BRK]
 
 Ban all girls from sports![BRK]
 
-Now i can't beat people
+Now I can't beat people
 up and rip out entrails,
-thanks to you, jean![BRK]
+thanks to you, Jean![BRK]
 
 I hate you so much![END]
 
@@ -1268,13 +1268,13 @@ We're number one![END]
 
 === 4f | 1c54e | 8b ===
 The time has come for all
-to fear the power of blue
-dragon karate.[BRK]
+to fear the power of Blue
+Dragon Karate.[BRK]
 
 I'm gonna make mincemeat
 outta my opponents! And...[BRK]
 
-...i love mincemeat.[END]
+...I love mincemeat.[END]
 
 === 50 | 1c5ec | a7 ===
 There is no one that can
@@ -1290,8 +1290,8 @@ we are the best!
 
 === 51 | 1c6aa | b8 ===
 There's no way that a girl
-defeated the masters of blue
-dragon karate![BRK]
+defeated the masters of Blue
+Dragon Karate![BRK]
 
 I refuse to admit it![BRK]
 
@@ -1314,7 +1314,7 @@ No, not a dream...[BRK]
 
 === 53 | 1c7f2 | 86 ===
 I still won't believe that
-lunn was defeated by a 
+Lunn was defeated by a 
 girl.[BRK]
 
 This has to be some kind
@@ -1324,14 +1324,14 @@ Someone, please tell me
 it's a joke![END]
 
 === 54 | 1c888 | 89 ===
-After lunn slapped me a few
-times, i realized how silly
-i was acting.[BRK]
+After Lunn slapped me a few
+times, I realized how silly
+I was acting.[BRK]
 
 ....
 .....[BRK]
 
-But i still say girls
+But I still say girls
 should be banned from all
 sports!
 [END]
@@ -1389,10 +1389,10 @@ really embarrassed.[END]
 
 === 58 | 1cbe4 | c5 ===
 I'm going to become strong
-like you. Then i can save
+like you. Then I can save
 this world.[BRK]
 
-What should i do first to
+What should I do first to
 get into shape?[BRK]
 
 [POR02]
@@ -1434,13 +1434,13 @@ You come here, beat up a
 couple of us, and all of
 the sudden you're the best![BRK]
 
-Well, i got news for ya!
+Well, I got news for ya!
 You're not. Nyah, nyah![END]
 
 === 5d | 1ceb2 | 112 ===
 Our form of karate is 
-called virtual assassin
-karate.[BRK]
+called virtual Assassin
+Karate.[BRK]
 
 We're trained by advanced
 virtual technology.[BRK]
@@ -1512,8 +1512,8 @@ I can take you with both
 wings tied behind my back![END]
 
 === 62 | 1d2cc | 9e ===
-We are members of the bunny
-karate dojo.[BRK]
+We are members of the Bunny
+Karate Dojo.[BRK]
 
 It's basically made up of 
 bored housewives who love to
@@ -1557,7 +1557,7 @@ Sniff, sniff, snarf![END]
 You guys are, like, totally
 buff.[BRK]
 
-But i can't believe you're
+But I can't believe you're
 winning dressed like that![BRK]
 
 Jean, don't you know that
@@ -1600,7 +1600,7 @@ Sniff, sniff, snarf!
 [END]
 
 === 68 | 1d7a8 | c3 ===
-The secret of bunny karate 
+The secret of Bunny Karate 
 is to stun your male 
 opponent with your beauty.[BRK]
 
@@ -1616,12 +1616,12 @@ Sniff, sniff, snarf![END]
 === 69 | 1d882 | 86 ===
 What? You're in this 
 competition, too? Oh no,
-i just told you our secret![BRK]
+I just told you our secret![BRK]
 
 Sniff, sniff, snarf![BRK]
 
 [POR10]
-Don't worry, i'm not 
+Don't worry, I'm not 
 impressed...
 [END]
 
@@ -1656,7 +1656,7 @@ Sniff, sniff, snarf![END]
 === 6c | 1db02 | 82 ===
 We're always looking for new
 members to join the
-bunny karate dojo.[BRK]
+Bunny Karate Dojo.[BRK]
 
 Say, goldilocks, do you
 want to join us?[BRK]
@@ -1667,7 +1667,7 @@ Sniff, sniff, snarf!
 === 6d | 1db92 | 41 ===
 [POR07]
 Geez, you'd have to pay
-me a ton of silver to
+me a ton of Silver to
 dress like that.[END]
 
 === 6e | 1dbe0 | bb ===
@@ -1678,17 +1678,17 @@ like that.[BRK]
 [POR07]
 I should have expected a
 comment like that from you,
-ronfar![BRK]
+Ronfar![BRK]
 
 [POR02]
-Don't be so uptight, lemina.
+Don't be so uptight, Lemina.
 I'd pay to see you dress
 like that, too.[BRK]
 
 He he he he...[END]
 
 === 6f | 1dcb6 | c6 ===
-I'm sorry, but i think
+I'm sorry, but I think
 next year we're going
 to have designer clothes.[BRK]
 
@@ -1702,7 +1702,7 @@ route...[BRK]
 Sniff, sniff, snarf![END]
 
 === 70 | 1dd8c | 74 ===
-I think i'm gonna give this
+I think I'm gonna give this
 fighting thing up.[BRK]
 
 I really picture myself as
@@ -1711,7 +1711,7 @@ more of a director...[BRK]
 Sniff, sniff, snarf![END]
 
 === 71 | 1de14 | ed ===
-Soon bunny karate will
+Soon Bunny Karate will
 become the most feared
 karate in the world![BRK]
 
@@ -1755,7 +1755,7 @@ I'm gonna hurt him so bad...[BRK]
 Sniff, sniff, snarf![END]
 
 === 74 | 1e0b6 | 71 ===
-Those blue dragon guys were
+Those Blue Dragon guys were
 too serious! They scared me.[BRK]
 
 Their eyes look so...so...
@@ -1767,7 +1767,7 @@ Sniff, sniff, snarf![END]
 You guys totally kicked some
 major butt today![BRK]
 
-Say, jean, do you think
+Say, Jean, do you think
 you'd want to join us?[BRK]
 
 Sniff, sniff, snarf![END]
@@ -1804,14 +1804,14 @@ one finger.[END]
 Have you changed your mind?
 I knew you would...[BRK]
 
-In fact, i've already
+In fact, I've already
 ordered a costume for you![BRK]
 
 [POR10]
 I don't think so...[BRK]
 
 [POR02]
-Come on, jean! I think you'd
+Come on, Jean! I think you'd
 look cute in that outfit.[BRK]
 
 A little fuzzy bunny tail
@@ -1822,8 +1822,8 @@ He he he...
 [END]
 
 === 7b | 1e460 | 74 ===
-We are the wolf karate
-team.[BRK]
+We are the Wolf Karate
+Team.[BRK]
 
 We act like crazy, wild 
 animals and bite our
@@ -1834,7 +1834,7 @@ Ahhhhh...bite me!
 [END]
 
 === 7c | 1e4ec | 28 ===
-Stand back, or i'll bite
+Stand back, or I'll bite
 you to death!!![END]
 
 === 7d | 1e522 | 3d ===
@@ -1873,7 +1873,7 @@ on ya![END]
 
 === 81 | 1e6fe | 61 ===
 [POR09]
-I'm sorry, i will only
+I'm sorry, I will only
 participate in a fair
 fight.[BRK]
 
@@ -1882,7 +1882,7 @@ way to victory.[END]
 
 === 82 | 1e772 | 74 ===
 I've had my fangs enlarged.
-Now i'll be able to bite
+Now I'll be able to bite
 my victims on the neck.[BRK]
 
 I'm now favored to win all
@@ -1937,8 +1937,8 @@ We will do whatever it takes
 to be the best![END]
 
 === 89 | 1ea7a | 51 ===
-I'm the leader of the wolf-
-pack karate dojo.[BRK]
+I'm the leader of the Wolf-
+pack Karate Dojo.[BRK]
 
 My blood runs hungry like
 the wolf![END]
@@ -1947,34 +1947,34 @@ the wolf![END]
 I've gotta relax. My pulse
 rate is way up there...[BRK]
 
-I think i'm having...[END]
+I think I'm having...[END]
 
 === 8b | 1eb3e | 80 ===
 Don't worry. After my heart
-attack, i don't let stress
+attack, I don't let stress
 bother me...[BRK]
 
 But we must win! If we
-don't win i'll...i'll
+don't win I'll...I'll
 kill myself!!
 
 [END]
 
 === 8c | 1ebce | 96 ===
-My doctor said that i've
+My doctor said that I've
 gotta stop training so hard.[BRK]
 
 It's not good for my heart.[BRK]
 
 Once my blood pressure 
-drops, i'm gonna be right
+drops, I'm gonna be right
 back in that ring![END]
 
 === 8d | 1ec78 | 78 ===
-The blue dragon cult's bark
+The Blue Dragon Cult's bark
 is worse than their bite![BRK]
 
-The armadillo dojo will
+The Armadillo Dojo will
 defeat them without even
 breaking a sweat.[END]
 
@@ -1987,15 +1987,15 @@ If your opponent can't hit
 you, then he can't win.[END]
 
 === 8f | 1ed88 | 4f ===
-Well...now that i think
+Well...now that I think
 about it, [BRK]
 
-i guess we should've
+I guess we should've
 practiced how to punch.[END]
 
 === 90 | 1ede4 | 5d ===
-The blue dragon cult still
-attacked, even after i threw
+The Blue Dragon Cult still
+attacked, even after I threw
 in the towel!!![BRK]
 
 They have no honor...[END]
@@ -2014,7 +2014,7 @@ You looked like a stinkin'
 idiot out there![END]
 
 === 93 | 1ef20 | eb ===
-With this steel armor, i'll
+With this steel armor, I'll
 roll up into a small ball
 so no one can hit me.[BRK]
 
@@ -2033,15 +2033,15 @@ back-scratcher.[END]
 === 94 | 1f022 | 33 ===
 Offense...[BRK]
 
-Dang, i knew we forgot
+Dang, I knew we forgot
 about something.
 [END]
 
 === 95 | 1f068 | 67 ===
-Look at my armor. The blue
-dragon guys beat it to bits![BRK]
+Look at my armor. The Blue
+Dragon guys beat it to bits![BRK]
 
-I don't think i'm cut out
+I don't think I'm cut out
 to be an armadillo...[END]
 
 === 96 | 1f0de | 7c ===
@@ -2049,7 +2049,7 @@ We've decided to go on
 strike for better pay.[BRK]
 
 Sure, the fans will be
-pissed, but i need somethin'
+pissed, but I need somethin'
 shiny to put in my wallet.[END]
 
 === 97 | 1f16a | 74 ===
@@ -2057,16 +2057,16 @@ I hate all this armor.[BRK]
 
 I can barely move.[BRK]
 
-In fact, i don't think i'll
+In fact, I don't think I'll
 be able to get onto the
 mat without some help.[END]
 
 === 98 | 1f1f2 | 9b ===
-I surrendered to the blue
-dragon cult and they still
+I surrendered to the Blue
+Dragon Cult and they still
 beat the crap out of me.[BRK]
 
-If i were you, i'd be very
+If I were you, I'd be very
 afraid.[BRK]
 
 Get out of your match while
@@ -2099,7 +2099,7 @@ I hate fighting. Please!
 Just let me go home.[BRK]
 
 What!? You're not a member
-of the blue dragon cult?[BRK]
+of the Blue Dragon Cult?[BRK]
 
 That's wonderful! Do you
 think you could take me
@@ -2110,36 +2110,36 @@ Stay right here. You'll be
 free to go very soon![END]
 
 === 9d | 20884 | 65 ===
-Please, i'm begging you!
+Please, I'm begging you!
 Take me with you![BRK]
 
 [POR10]
-As i said before, be patient
+As I said before, be patient
 and you will soon be free![END]
 
 === 9e | 20900 | 85 ===
 Thank you so much for
-crushing the blue dragon
-cult![BRK]
+crushing the Blue Dragon
+Cult![BRK]
 
-Not that i approve of your
-violent behavior, but i 
+Not that I approve of your
+violent behavior, but I 
 sure enjoyed seeing 'em cry.[END]
 
 === 9f | 2099c | 56 ===
-I think i'm going to become
+I think I'm going to become
 a singer![BRK]
 
-Jean, i'm gonna dedicate my
+Jean, I'm gonna dedicate my
 first album to you!![END]
 
 === a0 | 20a02 | a0 ===
 I decided to write a song 
-for you, jean. What title
+for you, Jean. What title
 do you like best?[BRK]
 
-'Hot leggin' jean' 
-or 'jean, jean, killing
+'Hot leggin' Jean' 
+or 'Jean, Jean, killing
 machine?'[BRK]
 
 [POR02]
@@ -2152,7 +2152,7 @@ choice...
 [POR10]
 Perhaps you can think of
 another couple titles so
-i have more to choose from.[BRK]
+I have more to choose from.[BRK]
 
 You know, you need a title
 that'll really grab your
@@ -2172,7 +2172,7 @@ another story.[BRK]
 [POR00]
 What are you talking about?
 My face is the proof that
-i'm a great warrior.[BRK]
+I'm a great warrior.[BRK]
 
 [POR10]
 ...or proof that you make a 
@@ -2207,7 +2207,7 @@ fighter in the world.[END]
 
 === a5 | 20dcc | a1 ===
 I don't care if you defeated
-zophar![BRK]
+Zophar![BRK]
 
 I remember fighting him last
 week. He was a wimp![BRK]
@@ -2217,15 +2217,15 @@ the world! I cannot be
 defeated!!! Hahahaha...[END]
 
 === a6 | 20e80 | d3 ===
-Oh jean! The rumors were
+Oh Jean! The rumors were
 true! You've come to
 fight in the tournament![BRK]
 
-I never thought i would
+I never thought I would
 see you again...[BRK]
 
 But are you really strong
-enough to beat lunn?[BRK]
+enough to beat Lunn?[BRK]
 
 [POR10]
 Don't worry. I can't lose.
@@ -2233,25 +2233,25 @@ This is my destiny...
 [END]
 
 === a7 | 20f6a | ee ===
-I can't stop you, jean.
+I can't stop you, Jean.
 I understand your reasons
 for fighting...[BRK]
 
-I just wish i were as strong
+I just wish I were as strong
 as you.[BRK]
 
-Perhaps then i could've
-stopped lunn, or even
+Perhaps then I could've
+stopped Lunn, or even
 escaped like you did.[BRK]
 
-Hurry, jean! You mustn't be
+Hurry, Jean! You mustn't be
 late for the fight. I know
 you'll win.
 [END]
 
 === a8 | 21070 | 7a ===
 I knew it! You were always
-lunn's best pupil...[BRK]
+Lunn's best pupil...[BRK]
 
 The best part about it is
 that now all the kidnapped
@@ -2269,7 +2269,7 @@ Many of these kids don't
 remember where their homes
 are located.[BRK]
 
-I've decided i'm going to
+I've decided I'm going to
 stay and make sure all of
 them find their parents.[END]
 
@@ -2308,7 +2308,7 @@ a close this chapter in my
 life.[BRK]
 
 I will do whatever it takes
-to stop that maniac lunn![END]
+to stop that maniac Lunn![END]
 
 === ae | 21abc | 44 ===
 It seems you have been 
@@ -2323,15 +2323,15 @@ That's great! Now we can
 leave this place![END]
 
 === b0 | 21b8a | 6e ===
-I think i'll go to horam
+I think I'll go to Horam
 and start my own karate
 school![BRK]
 
-There i will teach people
+There I will teach people
 the real meaning of karate.[END]
 
 === b1 | 21c10 | 64 ===
-Jean, i'm going to follow
+Jean, I'm going to follow
 your teachings.[BRK]
 
 To teach people that you
@@ -2344,12 +2344,12 @@ memories of this place won't
 haunt my dreams.[END]
 
 === b3 | 21ce2 | a4 ===
-Jean, i owe you so much!
+Jean, I owe you so much!
 I don't know how to repay
 you.[BRK]
 
 Please come and visit me
-in horam and see my karate
+in Horam and see my karate
 school.[BRK]
 
 [POR10]
@@ -2374,7 +2374,7 @@ innocent children will stop![END]
 They are beginning to teach 
 me the art of assassination.[BRK]
 
-But i don't want to hurt
+But I don't want to hurt
 anyone...
 [END]
 
@@ -2388,14 +2388,14 @@ love you guys![END]
 === b7 | 21f5a | 53 ===
 I don't know how to thank
 you for saving me. Just know
-that i'm eternally grateful.[END]
+that I'm eternally grateful.[END]
 
 === b8 | 21fbc | 99 ===
 Everyone wants me to go to
-the town of horam to learn
+the town of Horam to learn
 a new type of karate.[BRK]
 
-Quite frankly, i don't want
+Quite frankly, I don't want
 to ever see another dojo for
 the rest of my life.[END]
 
@@ -2419,7 +2419,7 @@ escape too.[END]
 
 === ba | 2216e | b3 ===
 Jean, don't try to fight
-the blue dragon cult! 
+the Blue Dragon Cult! 
 They'll kill you!![BRK]
 
 It's not worth risking your
@@ -2441,16 +2441,16 @@ This is so grand! I can't
 wait to get out of this 
 place and go home.[BRK]
 
-I just...i just hope my
+I just...I just hope my
 parents haven't forgotten
 about me...[END]
 
 === bc | 22310 | b0 ===
-The first thing i'm gonna
-do when i get home is go
+The first thing I'm gonna
+do when I get home is go
 shopping.[BRK]
 
-No, wait, maybe i'll go out
+No, wait, maybe I'll go out
 to eat first. No, wait...[BRK]
 
 [POR10]
@@ -2469,7 +2469,7 @@ escape.[END]
 
 === be | 22456 | 8b ===
 My dream didn't come true.
-Jean, i don't have a family
+Jean, I don't have a family
 anymore.[BRK]
 
 That's why all of us have 
@@ -2487,7 +2487,7 @@ place 'zen walton zone.'[END]
 
 === c0 | 2256c | d3 ===
 I...i...tried...to escape
-like...you...jean...[BRK]
+like...you...Jean...[BRK]
 
 They...beat me...so bad...
 that...i...don't have...
@@ -2497,14 +2497,14 @@ any...feeling in...my legs.[BRK]
 Those bastards will pay for
 this![BRK]
 
-Don't worry, kid, i'll beat
+Don't worry, kid, I'll beat
 them into custard!
 [END]
 
 === c1 | 22656 | 43 ===
-Is that...you, jean??[BRK]
+Is that...you, Jean??[BRK]
 
-Oh no! I think i'm 
+Oh no! I think I'm 
 beginning to hallucinate![END]
 
 === c2 | 226b4 | 7d ===
@@ -2529,11 +2529,11 @@ Momma...is that you?
 My health has been restored.
 I'm able to move freely.[BRK]
 
-Where's jean? I want so much
+Where's Jean? I want so much
 to thank you for saving me.[END]
 
 === c5 | 22804 | 97 ===
-I don't think i'll ever
+I don't think I'll ever
 practice karate again.[BRK]
 
 It causes me too much
@@ -2545,21 +2545,21 @@ pain never goes away.[END]
 
 === c6 | 228ae | d0 ===
 This is the room where 
-we train our blue dragon
+we train our Blue Dragon
 team.[BRK]
 
 ...no way!! I don't believe
-my eyes. Is that you, jean?[BRK]
+my eyes. Is that you, Jean?[BRK]
 
 [POR10]
 Yes. I've come back to stop
-the blue dragon cult.[BRK]
+the Blue Dragon Cult.[BRK]
 
 You'd better decide where
 your loyalty lies.[END]
 
 === c7 | 22996 | 50 ===
-Don't worry, jean. I believe
+Don't worry, Jean. I believe
 in you! Now get in there and
 kick their blue butts![END]
 
@@ -2611,15 +2611,15 @@ they can join the carnival.[END]
 === cc | 22c9c | b3 ===
 [POR10]
 I'm truly honored. Is there
-anything i can do to help?[BRK]
+anything I can do to help?[BRK]
 
 [POR00]
 Some of them want you to
 teach them how to dance.[BRK]
 
 [POR10]
-When i finish this little
-task, i'll be back and we'll
+When I finish this little
+task, I'll be back and we'll
 all dance.[END]
 
 === cd | 22d54 | f ===

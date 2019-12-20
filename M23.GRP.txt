@@ -3,12 +3,12 @@ File: M23.GRP
 Messages: 6
 
 === 0 | b398 | e ===
-Zaback mine b1[END]
+Zaback mine B1[END]
 
 === 1 | d92e | 80 ===
 [POR08]
 I can feel the power of the
-black dragon...[BRK]
+Black Dragon...[BRK]
 
 It's coursing through the
 rock around this door![BRK]
@@ -17,15 +17,15 @@ We must find the key to
 open it![END]
 
 === 2 | d9c2 | 1d ===
-[0xB][0][0x8]Used borgan's special
+[0xB][0][0x8]Used Borgan's special
 key![END]
 
 === 3 | d9f4 | 10 ===
-Zaback mine b2-b[END]
+Zaback mine B2-b[END]
 
 === 4 | fc60 | e ===
-Zaback mine b3[END]
+Zaback mine B3[END]
 
 === 5 | 12a60 | 10 ===
-Zaback mine b2-a[END]
+Zaback mine B2-a[END]
 

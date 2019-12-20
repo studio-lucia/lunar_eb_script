@@ -4,7 +4,7 @@ Messages: 16
 
 === 0 | 1374c | 2e3 ===
 [POR07]
-In fact, right now the guild
+In fact, right now the Guild
 membership is just being
 expanded.[BRK]
 
@@ -13,11 +13,11 @@ you'll be charter members![BRK]
 
 And you'll also become part
 of the rich history and 
-tradition of vane.[BRK]
+tradition of Vane.[BRK]
 
 So, what do you think? Do
-you want to join the magic
-guild?[BRK]
+you want to join the Magic
+Guild?[BRK]
 
 [POR02]
 It sounds really nice, but
@@ -37,9 +37,9 @@ Please! Please! Please![BRK]
 [POR07]
 Well then, if you finish
 this quest faster, you can
-join the guild![BRK]
+join the Guild![BRK]
 
-So, i'll tell you what: i'll
+So, I'll tell you what: I'll
 go with you to speed up this
 little quest of yours.[BRK]
 
@@ -63,7 +63,7 @@ let's get moving!
 [POR07]
 I hope that once we finish
 your quest, you'll join the
-guild.[BRK]
+Guild.[BRK]
 
 I'll do my best to speed
 things along. Just think
@@ -74,11 +74,11 @@ Don't you think you're being
 a little...er...pushy?[BRK]
 
 [POR08]
-This magic guild sounds
+This Magic Guild sounds
 quite enchanting...[BRK]
 
 [POR02]
-Watch it, lucia. This girl
+Watch it, Lucia. This girl
 sounds desperate. If you say
 any more,[BRK]
 
@@ -87,12 +87,12 @@ yourself hog-tied and being
 dragged to this magic city.[BRK]
 
 [POR05]
-Oh, c'mon, ruby! She's not
+Oh, c'mon, Ruby! She's not
 that bad! And besides, we
 could use her in battle![BRK]
 
 [POR10]
-Okay, ronfar! That's enough!
+Okay, Ronfar! That's enough!
 She's off-limits to you![BRK]
 
 [POR05]
@@ -138,7 +138,7 @@ D-do you think it was a
 
 [POR02]
 There it is again! Now that
-i think about it, it's
+I think about it, it's
 probably not a ghost...[BRK]
 
 They wouldn't be using a
@@ -245,8 +245,8 @@ Ghost manor lobby[END]
 Manor exit[END]
 
 === e | 16668 | 10 ===
-Manor hall to 1f[END]
+Manor hall to 1F[END]
 
 === f | 16c5c | 10 ===
-Manor hall to 2f[END]
+Manor hall to 2F[END]
 

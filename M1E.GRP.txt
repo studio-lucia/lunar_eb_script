@@ -4,10 +4,10 @@ Messages: 159
 
 === 0 | 81d6 | ea ===
 Weelllcooome to the village
-of zulan...[BRK]
+of Zulan...[BRK]
 
 [POR05]
-Knock it off, grandpa! You
+Knock it off, Grandpa! You
 can't scare us with that
 gravelly voice.[BRK]
 
@@ -36,25 +36,25 @@ this wicked foe...[BRK]
 
 [POR05]
 I remember you being a kind
-old man. Now i find you're 
+old man. Now I find you're 
 just a grumpy old fart.[BRK]
 
 [POR00]
-Why i oughtta...! Who are
+Why I oughtta...! Who are
 you callin' old?[BRK]
 
-Just to show you i'm not 
+Just to show you I'm not 
 grumpy, you'll find the 
 entrance to the cave...[BRK]
 
 Just to the east of this
 village. Now get a move on,
-before i die waiting on ya.[END]
+before I die waiting on ya.[END]
 
 === 3 | 84d6 | 65 ===
-Well, i don't believe it!
+Well, I don't believe it!
 You actually did something
-i told ya![BRK]
+I told ya![BRK]
 
 I'm really quite proud of
 ya, lad...
@@ -86,7 +86,7 @@ know you don't have any
 right to criticize my talk?[BRK]
 
 Now get your scrawny little 
-butts out of here before i 
+butts out of here before I 
 throw you out![END]
 
 === 6 | 870c | 5a ===
@@ -102,31 +102,31 @@ Uh...no thanks.
 
 === 7 | 8776 | f0 ===
 This is the road that leads
-to meribia. All you have to 
+to Meribia. All you have to 
 do is continue on this path.[BRK]
 
 [POR10]
 Meribia lies before me, and 
 so does my destiny. Lunn, 
-i hope you're there...[BRK]
+I hope you're there...[BRK]
 
 [POR00]
-...i'm sorry, but i can't
+...I'm sorry, but I can't
 let you pass! You must first
 help us out...[END]
 
 === 8 | 887e | 124 ===
 Are you looking for your
-girlfriend, lucia?[BRK]
+girlfriend, Lucia?[BRK]
 
 She's already passed through
 this exit.[BRK]
 
-Man, i don't understand why
+Man, I don't understand why
 you just let her leave 
 without going with her.[BRK]
 
-If i was her, i would want
+If I was her, I would want
 my boyfriend to always be
 close to me.[BRK]
 
@@ -138,7 +138,7 @@ friend...[END]
 === 9 | 89be | ea ===
 Lucia seemed like she was in
 a hurry. What does she have
-to do in meribia?[BRK]
+to do in Meribia?[BRK]
 
 [POR02]
 Lucia doesn't have anything
@@ -146,13 +146,13 @@ to do there! Jean's the one
 that has business there![BRK]
 
 [POR10]
-Yes, but ruby, i can't leave
+Yes, but Ruby, I can't leave
 this village like this. They
 need our help.[END]
 
 === a | 8ac4 | bb ===
-I think i saw fear in 
-lucia's eyes when she ran
+I think I saw fear in 
+Lucia's eyes when she ran
 past me...[BRK]
 
 Did you guys have a lover's
@@ -170,7 +170,7 @@ really, really be in love![END]
 [POR02]
 Wipe that silly grin off 
 your face! I'm telling
-grandpa gwyn...[END]
+Grandpa Gwyn...[END]
 
 === c | 8bfc | 6d ===
 You need a good therapist
@@ -221,7 +221,7 @@ things,[BRK]
 but they really got no right
 to complain...[BRK]
 
-Hey...i say, ya got no
+Hey...I say, ya got no
 reason ta complain 'til
 ya get a woman.[BRK]
 
@@ -244,25 +244,25 @@ Now that the weather's more
 moderate and the beast is
 gone,[BRK]
 
-the ski resort i want to
+the ski resort I want to
 create looks like a definite
 possibility...[BRK]
 
 If this place does become a
-ski resort, i'm going to
+ski resort, I'm going to
 own all the cabins.[BRK]
 
-But i haven't decided if I
+But I haven't decided if I
 should rent them by the day
 or the hour...[BRK]
 
 I guess it depends on what
-kind of crowd i want to 
+kind of crowd I want to 
 attract...[END]
 
 === 13 | 9154 | d6 ===
 Now that you've killed the
-beast, i have the chance to
+beast, I have the chance to
 turn my dream into reality.[BRK]
 
 The girl that has stolen my
@@ -277,7 +277,7 @@ You guys have really helped
 us out of this troubling
 situation...[BRK]
 
-When i build my cabins, i'll
+When I build my cabins, I'll
 let you stay for free. You
 gotta come back!![END]
 
@@ -293,11 +293,11 @@ before.[END]
 [POR10]
 I've never seen snow like 
 this before. Have you,
-lucia?[BRK]
+Lucia?[BRK]
 
 [POR08]
 This place reminds me of the
-blue star.[BRK]
+Blue Star.[BRK]
 
 The cold and overwhelming
 calm is eerie...[END]
@@ -309,14 +309,14 @@ going to be very unpleasant.[BRK]
 
 [POR02]
 Well, duh! Tell me something
-i don't know![BRK]
+I don't know![BRK]
 
-You know, maybe i could
+You know, maybe I could
 start a fire to warm us
 up a bit...[BRK]
 
 [POR05]
-That's one gamble i don't
+That's one gamble I don't
 want to take![BRK]
 
 Knowing you, it'd be outta
@@ -339,7 +339,7 @@ wrapped up in all that fur![END]
 
 === 1a | 9614 | a3 ===
 You know, there's this nice
-guy named ramus that wants
+guy named Ramus that wants
 to turn this place into...[BRK]
 
 A nice little tourist trap.[BRK]
@@ -354,7 +354,7 @@ really rake it in.
 
 === 1b | 96c4 | 89 ===
 [POR07]
-I knew ramus would go to 
+I knew Ramus would go to 
 any lengths to win our
 little bet![BRK]
 
@@ -367,7 +367,7 @@ This has got to be the worst
 job in the world! I hate
 shoveling snow![BRK]
 
-Oooughh...what i wouldn't
+Oooughh...what I wouldn't
 give for someone to do all
 this work for me![BRK]
 
@@ -384,13 +384,13 @@ This is going to make a ton
 of money![BRK]
 
 Now, in order to make this 
-business profitable i'm 
-going to need you, ruby.[BRK]
+business profitable I'm 
+going to need you, Ruby.[BRK]
 
 [POR02]
 My help?[BRK]
 
-Ouuhhhh...i get it![BRK]
+Ouuhhhh...I get it![BRK]
 
 You want me to melt all the
 snow with my breath, don't
@@ -409,16 +409,16 @@ No.[BRK]
 Way!!!!![BRK]
 
 With your hare-brained
-scheme, i do all the work,
+scheme, I do all the work,
 and you get all the dough!![END]
 
 === 1d | 99e6 | a5 ===
-Geez, what i wouldn't give
+Geez, what I wouldn't give
 for some help in clearing
 all this snow...[BRK]
 
 [POR07]
-I'll help! But i have to
+I'll help! But I have to
 charge you like 1,000s an
 hour...[BRK]
 
@@ -431,7 +431,7 @@ I've had enough of this
 snow! I'm leaving to live
 in the desert.[BRK]
 
-The ground'll be so hot i'll
+The ground'll be so hot I'll
 be jumping barefoot like a
 jumpin' jack...[BRK]
 
@@ -486,7 +486,7 @@ We can make the biggest
 man-made lake in history![BRK]
 
 I just haven't worked out
-what i'm going to do with
+what I'm going to do with
 all the dirt...[END]
 
 === 23 | 9e64 | 81 ===
@@ -494,14 +494,14 @@ Did you hear that some of
 the villagers want to make
 this into a resort?[BRK]
 
-Shoot! Why didn't i think
+Shoot! Why didn't I think
 of doing something like 
 that?[END]
 
 === 24 | 9ef8 | b0 ===
 People are trying to get out
 of this snowy country, but
-i'm going to stay here.[BRK]
+I'm going to stay here.[BRK]
 
 I'm a member of the freezing
 blathering idiot swim club.[BRK]
@@ -529,10 +529,10 @@ liness![END]
 
 === 27 | a104 | e9 ===
 When all this snow melts,
-i'm going to sell it as 
+I'm going to sell it as 
 mineral water.[BRK]
 
-I'll call it zulan magic
+I'll call it Zulan magic
 tonic.  I know it'll be
 a big hit![BRK]
 
@@ -545,7 +545,7 @@ the snow around here yellow?[END]
 
 === 28 | a1fa | d6 ===
 [POR07]
-Shut up ruby! Listen, I
+Shut up Ruby! Listen, I
 know a place where we can
 sell a million of these![BRK]
 
@@ -554,7 +554,7 @@ like to sign this
 distribution agreement?[BRK]
 
 [POR02]
-Man, lemina, don't you
+Man, Lemina, don't you
 ever stop trying to spin
 gold from manure?[END]
 
@@ -563,7 +563,7 @@ This winter has really
 killed my fishing business.[BRK]
 
 The only good thing to come
-from it is that i'm starting
+from it is that I'm starting
 a fish-cream business...[BRK]
 
 Looks like ice cream, but
@@ -575,7 +575,7 @@ Yuck! Who would want to eat
 that crap? Sounds terrible![BRK]
 
 [POR00]
-Well, it's not like i wanted
+Well, it's not like I wanted
 your opinion![BRK]
 
 Besides my business is going
@@ -594,7 +594,7 @@ winter we've ever had![END]
 
 === 2b | a4fe | 35 ===
 [POR08]
-The monster...zophar must
+The monster...Zophar must
 be behind all of this...[END]
 
 === 2c | a54a | 14a ===
@@ -602,8 +602,8 @@ I don't know how to thank
 you for finally killing 
 that icy beast![BRK]
 
-Now i can start to plan how
-i'm going to invest all of
+Now I can start to plan how
+I'm going to invest all of
 my money...[BRK]
 
 You didn't, by chance, scalp
@@ -614,7 +614,7 @@ What!!!??? You didn't get
 anything off him???!!![BRK]
 
 [POR02]
-Oh, i'm so sorry. I was
+Oh, I'm so sorry. I was
 more concerned about saving
 this little icehole.[END]
 
@@ -624,7 +624,7 @@ you don't bring back any
 souvenirs![BRK]
 
 What good is a dead monster
-if i don't have his head
+if I don't have his head
 mounted on my wall??![END]
 
 === 2e | a746 | 55 ===
@@ -645,20 +645,20 @@ I'll be drippin'....freezin'
 ...still got to keep...
 ...moving...can't stop...[BRK]
 
-Oohhhh...what i wouldn't
+Oohhhh...what I wouldn't
 give to be strapped to a
 furnace right about now...[END]
 
 === 31 | a8ba | 62 ===
 I should have put my
-shoes on before i came out
+shoes on before I came out
 this morning![BRK]
 
-At least then i could
+At least then I could
 stop moving...[END]
 
 === 32 | a92c | 51 ===
-Man, oh man...i can't wait
+Man, oh man...I can't wait
 'til this summer![BRK]
 
 The bods, the studs,
@@ -684,7 +684,7 @@ and forth all the time!
 === 36 | aa84 | 76 ===
 I've been trying to get to
 first base with that girl,
-but i can't...[BRK]
+but I can't...[BRK]
 
 She says it's because I
 don't understand women...[END]
@@ -697,7 +697,7 @@ not a man alive that does.
 
 === 38 | ab60 | 4b ===
 I've been reading books 
-about women. I think i'll
+about women. I think I'll
 finally get to date her.[END]
 
 === 39 | abba | 5c ===
@@ -736,39 +736,39 @@ Do you want these people to
 eat you? Wake up!![END]
 
 === 3c | ad84 | 6e ===
-If it's the last thing i do
-i'm going to make sure you
+If it's the last thing I do
+I'm going to make sure you
 stay awake!![BRK]
 
 Only the weak and the stupid
 fall asleep!![END]
 
 === 3d | ae0a | 89 ===
-Zzzzz....zzzzz....i don't
+Zzzzz....zzzzz....I don't
 care. Go ahead and eat me.[BRK]
 
 I'm willing to sacrifice
 my tasty left calf so you
 can live...[BRK]
 
-Take it...i insist...[END]
+Take it...I insist...[END]
 
 === 3e | aea2 | 77 ===
 I hated playing that stupid
 game of being trapped on the
 icy snow pass...[BRK]
 
-Next time, i get to be the
+Next time, I get to be the
 guy that survives![END]
 
 === 3f | af2c | 42 ===
-I thought i told you it was
+I thought I told you it was
 my turn to survive the 
 balloon crash![END]
 
 === 40 | af86 | 4f ===
-If i don't get to play the
-hero this time, then i'm not
+If I don't get to play the
+hero this time, then I'm not
 going to play with you![END]
 
 === 41 | afec | 56 ===
@@ -793,7 +793,7 @@ At least it's a fun game to
 play![END]
 
 === 44 | b138 | a3 ===
-Can you believe i got stuck
+Can you believe I got stuck
 with this paper route?[BRK]
 
 Half the people here don't
@@ -804,8 +804,8 @@ And the other half just
 don't care about the news![END]
 
 === 45 | b1ea | 6f ===
-If i don't get twelve new
-subscriptions i won't get
+If I don't get twelve new
+subscriptions I won't get
 to be paper boy of month.[BRK]
 
 I really hate being a paper-
@@ -835,7 +835,7 @@ This place is freezing![BRK]
 
 [POR00]
 This isn't cold. I think
-i'm going to put on my
+I'm going to put on my
 shorts.[BRK]
 
 [POR02]
@@ -868,7 +868,7 @@ how cold this place is...[BRK]
 I'm thinking of becoming a
 career sinner.[BRK]
 
-That way, i'll get sent
+That way, I'll get sent
 straight to a warmer
 climate.[END]
 
@@ -884,7 +884,7 @@ the inside of a freezer![END]
 === 4d | b67c | 98 ===
 [POR05]
 I don't understand why 
-you're cold, ruby. All that
+you're cold, Ruby. All that
 fur oughtta keep you warm.[BRK]
 
 [POR02]
@@ -897,7 +897,7 @@ With the heat wave we're
 having, they closed down
 the ski operations...[BRK]
 
-Man, i wish that monster was
+Man, I wish that monster was
 still alive. At least we 
 could still ski![END]
 
@@ -921,14 +921,14 @@ since she recovered.[END]
 === 52 | d396 | 6b ===
 The mayor is upstairs
 working on his plans to
-turn zulan into a resort.[BRK]
+turn Zulan into a resort.[BRK]
 
 It all sounds very glamorous
 to me.[END]
 
 === 53 | d414 | bb ===
-If i were a little bigger,
-i would ram a spear down
+If I were a little bigger,
+I would ram a spear down
 that monster's throat![BRK]
 
 That way, my friend could
@@ -939,19 +939,19 @@ times like this. You just
 feel so powerless...[END]
 
 === 54 | d4e6 | 66 ===
-If i were all grown up, i'd
+If I were all grown up, I'd
 whip that monster's butt in
 a second![BRK]
 
-In fact, i think i'll try it
+In fact, I think I'll try it
 anyway![END]
 
 === 55 | d560 | e5 ===
 I just feel so helpless that
-nothing i do seems to make
+nothing I do seems to make
 a difference.[BRK]
 
-I wish i could help you
+I wish I could help you
 defeat that monster. [BRK]
 
 You are going to try to 
@@ -966,17 +966,17 @@ Thank you for slaying the
 monster to free my girl-
 friend.[BRK]
 
-When i grow up, i want to
+When I grow up, I want to
 be just like you...[BRK]
 
-Or eddie vedder...i haven't
+Or eddie vedder...I haven't
 really decided yet.[BRK]
 
 At least you're in the
 running![END]
 
 === 57 | d72c | 43 ===
-Pretty soon, i'm gonna be
+Pretty soon, I'm gonna be
 big enough to protect this
 whole village![END]
 
@@ -1011,10 +1011,10 @@ world quite like it.[BRK]
 .....[END]
 
 === 5a | d93a | e ===
-Zulan mayor 1f[END]
+Zulan mayor 1F[END]
 
 === 5b | e02e | 204 ===
-Oh, thank the goddess! She
+Oh, thank the Goddess! She
 has heard my prayers and
 sent you to save us.[BRK]
 
@@ -1040,7 +1040,7 @@ If you won't do it for me,
 please do it for my grand- 
 daughter...[BRK]
 
-She's all i have left. Will
+She's all I have left. Will
 you please help us?
 
 [END]
@@ -1053,7 +1053,7 @@ I'm tired of helping people.[END]
 Oh, you have no idea how 
 happy you've made me.[BRK]
 
-As the mayor, i'll make
+As the mayor, I'll make
 sure you receive everything
 you need.[END]
 
@@ -1067,7 +1067,7 @@ to save this village...[BRK]
 
 We've wasted valuable time 
 in trying to stop the 
-revival of zophar.[BRK]
+revival of Zophar.[BRK]
 
 I know that you'll want to
 help these people. I can no
@@ -1083,8 +1083,8 @@ our good-bye...[BRK]
 
 === 5f | e44c | 18e ===
 [POR02]
-...i can't believe that
-lucia would turn her back
+...I can't believe that
+Lucia would turn her back
 on these people...[BRK]
 
 ...how can she be so...
@@ -1105,7 +1105,7 @@ left.[BRK]
 You hurry to the monster
 cave above this village.[BRK]
 
-I wish i could tell you what
+I wish I could tell you what
 to expect inside,[BRK]
 
 but everyone who's been
@@ -1115,11 +1115,11 @@ only sketchy details.
 [END]
 
 === 60 | e5f0 | 9c ===
-Then i guess the death toll
+Then I guess the death toll
 will continue to increase...[BRK]
 
 [POR02]
-...hiro! How can you be so
+...Hiro! How can you be so
 self-centered?[BRK]
 
 These people need our help!
@@ -1149,9 +1149,9 @@ thank you from the bottom
 of our hearts.[BRK]
 
 [POR07]
-Mr. Mayor, i'm lemina the
-junior premier of the magic
-guild of vane.[BRK]
+Mr. Mayor, I'm Lemina the
+Junior Premier of the Magic
+Guild of Vane.[BRK]
 
 I would like to present
 you with this bill for our
@@ -1167,17 +1167,17 @@ Pooh! Where is that written
 in stone?[BRK]
 
 I'm telling you that they
-will pay us a ton of silver
+will pay us a ton of Silver
 for what we've done!![END]
 
 === 64 | e984 | 7e ===
-Once again, i can't thank
+Once again, I can't thank
 you enough for saving my
 village...[BRK]
 
 [POR07]
 Well, just remember that
-next time i'm going to
+next time I'm going to
 charge you...[END]
 
 === 65 | ea16 | 7d ===
@@ -1193,7 +1193,7 @@ she's going to make it.[END]
 Just remember, if you ever
 need any help,[BRK]
 
-the vane magic guild will
+the Vane Magic Guild will
 always be here to help you.[BRK]
 
 ....
@@ -1219,12 +1219,12 @@ for bucks...
 
 === 69 | ec2a | 3e ===
 [POR07]
-Pooh! If ramus keeps making
-money like this, i'm a
+Pooh! If Ramus keeps making
+money like this, I'm a
 goner...[END]
 
 === 6a | ec78 | ce ===
-I...i'm...s-s-s...so...
+I...I'm...s-s-s...so...
 v-v-v-very...c-c-c-cold...[BRK]
 
 Momma...where...are...
@@ -1263,17 +1263,17 @@ worthwhile.[END]
 
 === 6d | ee64 | 78 ===
 Grandpa promised me that
-soon i'll be able to get
+soon I'll be able to get
 up and play...[BRK]
 
 I hope that you'll come and
-see me when i'm all better.[END]
+see me when I'm all better.[END]
 
 === 6e | eef0 | b1 ===
 I had a dream last night. 
-You and lucia were in it.[BRK]
+You and Lucia were in it.[BRK]
 
-I dreamt that lucia was in
+I dreamt that Lucia was in
 a place colder than this...[BRK]
 
 And somehow you found a way
@@ -1286,7 +1286,7 @@ Crazy, huh?[BRK]
 .....[END]
 
 === 6f | efb8 | 4f ===
-What's happened to lucia?
+What's happened to Lucia?
 Why isn't she with you 
 anymore?[BRK]
 
@@ -1317,7 +1317,7 @@ suckered into giving your
 lives for this village.[END]
 
 === 72 | f16a | 55 ===
-...i don't believe it![BRK]
+...I don't believe it![BRK]
 
 I can't believe you're 
 back. I guess the old man
@@ -1333,8 +1333,8 @@ Don't you agree?[END]
 === 74 | f222 | 40 ===
 [POR07]
 Like, maybe they're in the
-mood to donate to the magic
-guild?[END]
+mood to donate to the Magic
+Guild?[END]
 
 === 75 | f276 | b3 ===
 Each day she keeps getting
@@ -1344,10 +1344,10 @@ I don't think my daughter
 has the strength to fight
 the fever anymore...[BRK]
 
-I don't know what i'm going
+I don't know what I'm going
 to do...[BRK]
 
-She's the only child i have
+She's the only child I have
 left![END]
 
 === 76 | f340 | 4b ===
@@ -1357,7 +1357,7 @@ he's never returned...[END]
 
 === 77 | f39e | 6a ===
 I've done nothing but pray
-to the goddess to help us
+to the Goddess to help us
 find a cure...[BRK]
 
 Yet my prayers still go
@@ -1365,7 +1365,7 @@ unanswered...
 [END]
 
 === 78 | f41c | 74 ===
-Ohh, the goddess has finally
+Ohh, the Goddess has finally
 answered my prayers![BRK]
 
 My daughter's going to live!
@@ -1384,20 +1384,20 @@ I want to thank you for
 saving my daughter's life.[BRK]
 
 Words cannot express how
-happy i am. Just seeing her
+happy I am. Just seeing her
 laugh brings me great joy![BRK]
 
 I just don't know what I
 would've done if she'd
 died...[BRK]
 
-But thanks to you, i don't
+But thanks to you, I don't
 have to think about that.
 [END]
 
 === 7b | f600 | da ===
 Damn that monster! If he'd
-fight fair, i would've beat
+fight fair, I would've beat
 him to a bloody pulp...[BRK]
 
 Here's a tip, if you think
@@ -1406,7 +1406,7 @@ it...[BRK]
 
 Watch out! He fights real
 dirty! After he kneed me in
-the groin, i was history...[END]
+the groin, I was history...[END]
 
 === 7c | f6ee | 80 ===
 There's no way you can win
@@ -1414,7 +1414,7 @@ a fight with the beast
 without me...[BRK]
 
 Why don't you wait until I
-feel better? Then i can go
+feel better? Then I can go
 with you.
 [END]
 
@@ -1426,7 +1426,7 @@ beast!?[BRK]
 .....[BRK]
 
 The only reason you defeated
-him was because i softened
+him was because I softened
 him up for you![END]
 
 === 7e | f80a | 38 ===
@@ -1494,16 +1494,16 @@ talking about?[END]
 
 === 85 | fbbc | 61 ===
 With all this cold weather,
-i don't think i'll ever get
+I don't think I'll ever get
 better!![BRK]
 
-...i really hate that 
+...I really hate that 
 monster.
 [END]
 
 === 86 | fc2c | 6d ===
-If i could've killed that
-beast, i would've ripped his
+If I could've killed that
+beast, I would've ripped his
 spleen out with my teeth.[BRK]
 
 ...uh, if it had a spleen...[END]
@@ -1520,7 +1520,7 @@ that bad! Get it yourself![END]
 === 88 | fd2e | 154 ===
 I...was in a terrible...
 fight...the beast...
-i'm injured...[BRK]
+I'm injured...[BRK]
 
 I'm in terrible pain. Would
 you please go get me 
@@ -1531,11 +1531,11 @@ You don't look like you got
 beaten up by the beast.[BRK]
 
 [POR00]
-Well, no...i...i didn't
+Well, no...i...I didn't
 exactly fight with the
 monster...[BRK]
 
-I...f-fell down when i was 
+I...f-fell down when I was 
 trying to run away from it.[BRK]
 
 [POR02]
@@ -1548,7 +1548,7 @@ I knew it!! You coward!!
 === 89 | fe9e | 67 ===
 Please promise me that you
 won't tell anyone about
-how i got hurt.[BRK]
+how I got hurt.[BRK]
 
 They'll never let me live
 it down...[END]
@@ -1561,16 +1561,16 @@ me a reward for my heroism.[END]
 My wounds are finally
 healing.[BRK]
 
-The doc said i should be out
+The doc said I should be out
 of here in a couple of days.[END]
 
 === 8c | ffd2 | 51 ===
 I've joined the track team
-here. Next time i run away 
-i'm not going to get hurt.[END]
+here. Next time I run away 
+I'm not going to get hurt.[END]
 
 === 8d | 10028 | e ===
-Zulan mayor 2f[END]
+Zulan mayor 2F[END]
 
 === 8e | 1077a | 52 ===
 Ah! Come in! Come in! Get
@@ -1608,17 +1608,17 @@ again.[END]
 Zulan bazaar[END]
 
 === 96 | 1190e | 92 ===
-When i promised to marry my
+When I promised to marry my
 man, he promised we'd never
 be cold.[BRK]
 
 Ha! What a liar! This is the
-coldest town i've ever seen![BRK]
+coldest town I've ever seen![BRK]
 
 Oh, why'd we move here?[END]
 
 === 97 | 119b4 | 92 ===
-I guess i have no choice but
+I guess I have no choice but
 to make the best of living
 here.[BRK]
 
@@ -1642,7 +1642,7 @@ he'd be able to stay around
 the house.[END]
 
 === 9a | 11b4a | 9a ===
-What am i going to do? The
+What am I going to do? The
 winter isn't close to being
 over, and our food is low![BRK]
 
@@ -1658,7 +1658,7 @@ it's cabin fever...[BRK]
 ..........or pms....[END]
 
 === 9c | 11c6c | 4c ===
-You know, i was thinking
+You know, I was thinking
 about starting a sno-cone
 stand.[BRK]
 
@@ -1666,7 +1666,7 @@ What do you think?[END]
 
 === 9d | 11cc8 | 98 ===
 Now that the weather is
-good, i have to work hard so
+good, I have to work hard so
 we'll have food next winter.[BRK]
 
 I don't want a repeat of

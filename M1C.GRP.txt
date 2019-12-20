@@ -40,7 +40,7 @@ Snow cave secret[END]
 
 === 6 | 20eaa | 5d ===
 [POR08]
-Oh, hiro! I'm so happy
+Oh, Hiro! I'm so happy
 you're awake again...[BRK]
 
 Please be still. I must
@@ -51,13 +51,13 @@ heal your wounds...
 === 7 | 20f0a | 290 ===
 [POR08]
 I can't tell you how worried
-i was that you had both
+I was that you had both
 died![BRK]
 
 It was horrible...[BRK]
 
 [POR02]
-But lucia...why did you come
+But Lucia...why did you come
 back to find us? You risked
 your life...your mission.[BRK]
 
@@ -67,25 +67,25 @@ I came because....
 i.....[BRK]
 
 It makes no sense, but just
-before i came to you, i felt
+before I came to you, I felt
 something was wrong.[BRK]
 
 Not wrong in general, but
-wrong with hiro...it was
+wrong with Hiro...it was
 very strange.[BRK]
 
-When i was alone on the blue
-star, i never had such
+When I was alone on the Blue
+Star, I never had such
 a strange feeling...[BRK]
 
-It was like...like hiro and
-i were one.[BRK]
+It was like...like Hiro and
+I were one.[BRK]
 
 I've never felt that before.[BRK]
 
 [POR02]
 Well, whatever hocus-pocus
-called you back to us, i'm
+called you back to us, I'm
 grateful.[BRK]
 
 If you hadn't come, we'd
@@ -99,14 +99,14 @@ the others![END]
 [POR05]
 Oooouuuggggghhhh![BRK]
 
-Man...do i have a king-size
+Man...do I have a king-size
 whopper of a headache![BRK]
 
 It's a good thing you guys
 found me when you did.[BRK]
 
-...guess i'm luckier than
-i'd thought...[BRK]
+...guess I'm luckier than
+I'd thought...[BRK]
 
 [POR02]
 Ya got that right![END]
@@ -117,8 +117,8 @@ I'm so glad we were able to
 find and revive all the
 party members.[BRK]
 
-For a while there, i was
-frightened at what i might
+For a while there, I was
+frightened at what I might
 find.[BRK]
 
 It's strange. I feel like my
@@ -130,7 +130,7 @@ the opposite of anxiety,
 which you felt earlier.[BRK]
 
 [POR08]
-Hmmm...'relief'...i like
+Hmmm...'relief'...I like
 this feeling. Hmm...relief.[END]
 
 === a | 213e4 | 93 ===
@@ -138,10 +138,10 @@ this feeling. Hmm...relief.[END]
 Wha...what happened?[BRK]
 
 The...the last thing I
-remember was ruby screaming
+remember was Ruby screaming
 as the snow washed over us.[BRK]
 
-I can't believe i'm still
+I can't believe I'm still
 alive! Thank you!
 [END]
 
@@ -153,16 +153,16 @@ It's absolutely soaked![BRK]
 ...wait...there was an
 avalanche, wasn't there?[BRK]
 
-How is it that i'm still
+How is it that I'm still
 alive?[BRK]
 
 [POR02]
-It's because lucia came
+It's because Lucia came
 back and saved our butts![END]
 
 === c | 2156a | 2c ===
 [POR02]
-...hiro! You can't just
+...Hiro! You can't just
 leave the others![END]
 
 === d | 2159a | 46 ===

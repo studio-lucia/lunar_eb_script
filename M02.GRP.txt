@@ -17,14 +17,14 @@ Larpa secret pass 4[END]
 === 4 | 10cd6 | 70 ===
 [POR09]
 I'll find that girl for the
-goddess, if it's the last
-thing i do![BRK]
+Goddess, if it's the last
+thing I do![BRK]
 
 We won't allow her to ruin
 all we've built![END]
 
 === 5 | 10d72 | 9e ===
-Lord leo, you certainly
+Lord Leo, you certainly
 look splendid today, if I
 might offer my opinion.[BRK]
 
@@ -59,9 +59,9 @@ Gave 10s.
 [POR05]
 Okay. Now then, everything
 is set to break the spell
-on lucia.[BRK]
+on Lucia.[BRK]
 
-Goddess althena, hear my
+Goddess Althena, hear my
 plea...take your holy light
 and cleanse this girl.[BRK]
 
@@ -92,7 +92,7 @@ I-i've never failed to
 break a spell, except once
 when...[BRK]
 
-....mauri was sick...
+....Mauri was sick...
 [END]
 
 === a | 1107e | 92 ===
@@ -100,7 +100,7 @@ when...[BRK]
 Ohhhh....yes! I-it worked![BRK]
 
 ...sweet success at the
-hands of ronfar![BRK]
+hands of Ronfar![BRK]
 
 It's not complete, but the
 main spell is broken. She'll
@@ -154,17 +154,17 @@ closed for the day.[BRK]
 Please come back later.[BRK]
 
 [POR05]
-C'mon, hiro. Let's go to
-my house and let lucia 
+C'mon, Hiro. Let's go to
+my house and let Lucia 
 rest.[BRK]
 
 She's had a really tough
-time, and i'm sure she needs
+time, and I'm sure she needs
 it.[END]
 
 === 10 | 11438 | 88 ===
-Thanks be to althena, the
-goddess from which all
+Thanks be to Althena, the
+Goddess from which all
 goodness springs forth...[BRK]
 
 But goodness has a price to
@@ -173,7 +173,7 @@ you?
 [END]
 
 === 11 | 114e4 | 74 ===
-I now know that the goddess
+I now know that the Goddess
 cannot fix all of mankind's
 mistakes.[BRK]
 
@@ -193,9 +193,9 @@ to help themselves.[END]
 You're looking for the girl
 with red clothes?[BRK]
 
-If you pray to althena, and
+If you pray to Althena, and
 your heart is true, she will
-show you the way, i'm sure.[BRK]
+show you the way, I'm sure.[BRK]
 
 The best way to show that
 your heart is true is to
@@ -204,7 +204,7 @@ donate freely.[END]
 === 14 | 116de | 9d ===
 The people of this town
 are deserving only of
-althena's wrath![BRK]
+Althena's wrath![BRK]
 
 All they want to do is
 gamble their lives away![BRK]
@@ -224,8 +224,8 @@ times!
 
 === 16 | 1180a | 53 ===
 [POR09]
-As long as the goddess is
-yet with us, zophar will not
+As long as the Goddess is
+yet with us, Zophar will not
 accomplish his evil here.[END]
 
 === 17 | 11870 | 129 ===
@@ -233,15 +233,15 @@ Ah, yes. I sense that the
 girl in the red robe is
 fading from us.[BRK]
 
-Quick, donate to althena
+Quick, donate to Althena
 and pray for her mercy.[BRK]
 
 [POR02]
-Uh, i really don't think
+Uh, I really don't think
 that's gonna work...[BRK]
 
 Say, do you happen to
-know a priest named ronfar?[BRK]
+know a priest named Ronfar?[BRK]
 
 [POR00]
 Priest?!? Ronfar is no
@@ -252,14 +252,14 @@ for implements of sin.[END]
 
 === 18 | 119b0 | 4b ===
 That miserable failure,
-ronfar, could have been the
+Ronfar, could have been the
 greatest priest of all.[END]
 
 === 19 | 11a22 | 5e ===
 Our world now careens toward
 destruction...[BRK]
 
-Only the goddess althena has
+Only the Goddess Althena has
 the power to save us.[END]
 
 === 1a | 11a90 | 42 ===
@@ -282,16 +282,16 @@ If they did, they'd be
 crying like babies...[END]
 
 === 1d | 11bbc | 77 ===
-Lucia? No, i can't say that
-i know of her.[BRK]
+Lucia? No, I can't say that
+I know of her.[BRK]
 
-Say, can i interest you in
+Say, can I interest you in
 becoming a member of the
 sanctuary boosters club?[END]
 
 === 1e | 11c56 | bc ===
-Say, can i cut you a deal
-on a slightly used althena
+Say, can I cut you a deal
+on a slightly used Althena
 statue?[BRK]
 
 They make great hall trees!
@@ -315,8 +315,8 @@ cold one!
 [END]
 
 === 20 | 11dac | 74 ===
-Since the goddess althena
-herself resides in penta-
+Since the Goddess Althena
+herself resides in Penta-
 gulia, [BRK]
 
 only specially chosen ones
@@ -325,27 +325,27 @@ halls.[END]
 
 === 21 | 11e2e | 30 ===
 [POR08]
-...althena resides in...
-pentagulia...hmm...
+...Althena resides in...
+Pentagulia...hmm...
 [END]
 
 === 22 | 11e62 | 3f ===
-I'm dreaming of the day i am
-chosen to serve in penta-
+I'm dreaming of the day I am
+chosen to serve in Penta-
 gulia...[END]
 
 === 23 | 11eb8 | 6c ===
 There's a rumor floating
 around about that dog
-ronfar.[BRK]
+Ronfar.[BRK]
 
 They say he's been learning
-new tricks in pentagulia![END]
+new tricks in Pentagulia![END]
 
 === 24 | 11f32 | 75 ===
 [POR05]
 Hrmph! Well, it's not true,
-but i kinda like the sound
+but I kinda like the sound
 of it.[BRK]
 
 Kinda enhances my special
@@ -353,12 +353,12 @@ mystique, don't you think?[END]
 
 === 25 | 11fbe | d7 ===
 Huh? A girl wearing a red
-dress? No, i haven't seen
+dress? No, I haven't seen
 her.[BRK]
 
 But rather than chasing
 skirts, why not repent from
-your sins and serve althena?[BRK]
+your sins and serve Althena?[BRK]
 
 [POR05]
 Done it, seen it, been it.
@@ -368,7 +368,7 @@ Uh, pardon the pun...hahaha!
 [END]
 
 === 26 | 120b8 | 6c ===
-If zophar had succeeded,
+If Zophar had succeeded,
 our world would have been
 lost forever![BRK]
 
@@ -376,8 +376,8 @@ Thank heavens for the
 heroes that saved us![END]
 
 === 27 | 12134 | 47 ===
-If you offer your silver
-to the goddess althena, 
+If you offer your Silver
+to the Goddess Althena, 
 you will grow strong.[END]
 
 === 28 | 1218e | a4 ===
@@ -386,13 +386,13 @@ give to the sanctuary,[BRK]
 
 but most are heathen pigs
 who will wither in the hot
-fires of althena's fury.[BRK]
+fires of Althena's fury.[BRK]
 
-At least, i'm pretty sure
+At least, I'm pretty sure
 they will...[END]
 
 === 29 | 12242 | 6f ===
-You can ask althena to do
+You can ask Althena to do
 anything on your behalf.[BRK]
 
 But it's really just good
@@ -402,10 +402,10 @@ too.
 
 === 2a | 122ca | 7e ===
 We are the guardians of
-althena's truth.[BRK]
+Althena's truth.[BRK]
 
 Through us, the world will
-come to know althena's
+come to know Althena's
 goodness.[BRK]
 
 ...if they donate enough.[END]
@@ -420,10 +420,10 @@ sinners!
 [END]
 
 === 2c | 123cc | ad ===
-Lucia...lucia...hmm...[BRK]
+Lucia...Lucia...hmm...[BRK]
 
 I have heard that name once
-before. I think lord leo was
+before. I think Lord Leo was
 trying to find her.[BRK]
 
 [POR02]
@@ -439,7 +439,7 @@ this place.[BRK]
 
 Do you think it'll work?
 Of course, all proceeds will
-go to althena...[END]
+go to Althena...[END]
 
 === 2e | 12522 | 8a ===
 [POR05]
@@ -449,14 +449,14 @@ sinners in here![BRK]
 
 Come right down to their
 level. At least, that's
-what i always said.[END]
+what I always said.[END]
 
 === 2f | 125c6 | 32 ===
 What ever happened to the
 carefree days of before?[END]
 
 === 30 | 125fc | 79 ===
-If there's one thing i've
+If there's one thing I've
 learned through all of this,
 it's this:[BRK]
 

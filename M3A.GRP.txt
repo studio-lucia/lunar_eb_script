@@ -12,11 +12,11 @@ The door's locked.[END]
 === 1 | 17954 | 14d ===
 [POR17]
 Well, well! If it isn't
-my dear lemina![BRK]
+my dear Lemina![BRK]
 
 You're the last person I
 would have expected to
-see in pentagulia.[BRK]
+see in Pentagulia.[BRK]
 
 [POR00]
 [ROR07]
@@ -32,7 +32,7 @@ my mother.[BRK]
 
 And the second is to make
 sure that you never again
-set foot in vane...[END]
+set foot in Vane...[END]
 
 === 2 | 17ac0 | 7d ===
 Borgan is the most powerful
@@ -40,32 +40,32 @@ wizard that's ever existed.[BRK]
 
 He's created an entirely new
 magic city that is far
-better than vane![END]
+better than Vane![END]
 
 === 3 | 17b50 | 52 ===
 We are already preparing to
-recognize borgan as the new
-leader of the magic guild.[END]
+recognize Borgan as the new
+leader of the Magic Guild.[END]
 
 === 4 | 17bb2 | 74 ===
-Lord borgan is the rightful
-leader of the magic guild.[BRK]
+Lord Borgan is the rightful
+leader of the Magic Guild.[BRK]
 
-He's more interested in vane
+He's more interested in Vane
 than that money-grubbing
-lemina.[END]
+Lemina.[END]
 
 === 5 | 17c3a | 94 ===
-Even though borgan is as 
+Even though Borgan is as 
 ugly as a festering boil,[BRK]
 
-lady miria has fallen in 
+lady Miria has fallen in 
 love with him. [BRK]
 
 ....
 .....[BRK]
 
-Honestly...i don't know
+Honestly...I don't know
 how she does it...
 [END]
 
@@ -76,7 +76,7 @@ Halt![BRK]
 
 Aren't you...??[BRK]
 
-Yes! Yes! We met in vane.
+Yes! Yes! We met in Vane.
 Don't you remember me?[BRK]
 
 ...you must remember me. I
@@ -94,17 +94,17 @@ running away from me![BRK]
 
 I know we met. Just admit
 that you saw me. That's all
-i ask...[END]
+I ask...[END]
 
 === 8 | 17e3e | a0 ===
-Since borgan has the power
-of the black dragon, he's
-become invincible, i think.[BRK]
+Since Borgan has the power
+of the Black Dragon, he's
+become invincible, I think.[BRK]
 
 Only two people have more
 power than him...[BRK]
 
-...althena and ghaleon.
+...Althena and Ghaleon.
 
 
 
@@ -119,24 +119,24 @@ power than him...[BRK]
 [END]
 
 === 9 | 17ef2 | 79 ===
-With the power of the black
-dragon, borgan will never
+With the power of the Black
+Dragon, Borgan will never
 be defeated.[BRK]
 
 He's definitely become the
 best magician in the world.[END]
 
 === a | 17f70 | e ===
-Black tower 1f[END]
+Black tower 1F[END]
 
 === b | 187e8 | e ===
-Black tower 2f[END]
+Black tower 2F[END]
 
 === c | 1904e | e ===
-Black tower 3f[END]
+Black tower 3F[END]
 
 === d | 198bc | e ===
-Black tower 4f[END]
+Black tower 4F[END]
 
 === e | 1a134 | 2b9 ===
 [POR09]
@@ -145,26 +145,26 @@ conversation.[BRK]
 
 Something very sinister is
 going on around here, and
-i don't like it.[BRK]
+I don't like it.[BRK]
 
 I'm beginning to think I
 have been duped into being
 part of some evil plan![BRK]
 
 I must find out what the
-true intentions of althena
+true intentions of Althena
 are.[BRK]
 
 Perhaps if we work together,
 we can solve this mystery.[BRK]
 
 In any case, we must first
-find lucia and hear her
+find Lucia and hear her
 story.[BRK]
 
 She's being held in the
 shrine on the second floor
-of althena's tower.[BRK]
+of Althena's tower.[BRK]
 
 We can get to the shrine
 by means of a secret passage
@@ -183,15 +183,15 @@ friend? [BRK]
 What are you talking about?[BRK]
 
 I know nothing of a mask,
-ronfar.[BRK]
+Ronfar.[BRK]
 
 I have no time for games.[BRK]
 
-Your precious lucia's life
+Your precious Lucia's life
 hangs in the balance.[END]
 
 === f | 1a3fc | e ===
-Black tower 5f[END]
+Black tower 5F[END]
 
 === 10 | 1ac78 | 20e ===
 [POR07]
@@ -212,21 +212,21 @@ Funny you should ask...[BRK]
 
 We're playing a little game.[BRK]
 
-Lord leo has decided to play
-this part called 'mystere',
+Lord Leo has decided to play
+this part called 'Mystere',
 and we're playing along.[BRK]
 
 We're not supposed to know
 who he is...but he's helping
-us...i think...[BRK]
+us...I think...[BRK]
 
 [POR07]
 Whatever floats his boat.[BRK]
 
-Anyway, i can't believe what
-that stupid borgan did.[BRK]
+Anyway, I can't believe what
+that stupid Borgan did.[BRK]
 
-...i'll never forgive him! 
+...I'll never forgive him! 
 I hope he chokes on all the
 food he eats!![BRK]
 
@@ -235,11 +235,11 @@ Get a load of this...[END]
 === 11 | 1ae94 | 70e ===
 [POR17]
 Well, well! If it isn't
-my dear lemina![BRK]
+my dear Lemina![BRK]
 
 You're the last person I
 would have expected to
-see in pentagulia.[BRK]
+see in Pentagulia.[BRK]
 
 [POR00]
 [ROR07]
@@ -255,12 +255,12 @@ my mother.[BRK]
 
 And the second is to make
 sure that you never again
-set foot in vane![BRK]
+set foot in Vane![BRK]
 
 [ROR00]
 [POR17]
 I find your manner so...
-i don't know...delicious.[BRK]
+I don't know...delicious.[BRK]
 
 You're always hell-bent on
 changing others.[BRK]
@@ -269,19 +269,19 @@ Perhaps you should consider
 changing yourself![BRK]
 
 Besides, your mother is no
-longer in pentagulia.[BRK]
+longer in Pentagulia.[BRK]
 
 She's busy making a new 
-home for us in neo-vane,
+home for us in Neo-Vane,
 my illustrious magic city.[BRK]
 
 [POR00]
 [ROR07]
-Neo-vane!?[BRK]
+Neo-Vane!?[BRK]
 
 [ROR00]
 [POR17]
-Yes, that's right. Neo-vane,
+Yes, that's right. Neo-Vane,
 cupcake![BRK]
 
 And, surprise of surprises,
@@ -294,17 +294,17 @@ queen.[BRK]
 I have given her the finest
 of everything in this world![BRK]
 
-And all i ask is that she
+And all I ask is that she
 grow to love me.[BRK]
 
 Despite what you think, it
 can be done.[BRK]
 
-If you try hard enough, i'm
+If you try hard enough, I'm
 certain you can do the same.[BRK]
 
 I'll think of you as the
-daughter i never had.[BRK]
+daughter I never had.[BRK]
 
 [POR00]
 [ROR07]
@@ -312,15 +312,15 @@ daughter i never had.[BRK]
 
 [ROR00]
 [POR17]
-Yes! Soon miria will agree
+Yes! Soon Miria will agree
 to be my wife. I can feel
 it![BRK]
 
-After miria and i are 
+After Miria and I are 
 united,[BRK]
 
 your ability to revive the
-magic guild of vane will
+Magic Guild of Vane will
 be forever sealed.[BRK]
 
 I'm afraid you don't stand
@@ -341,8 +341,8 @@ Soon, the only words you'll
 utter will be those of a
 loyal daughter...[BRK]
 
-When zophar is revived, the
-power of neo-vane will
+When Zophar is revived, the
+power of Neo-Vane will
 finally be...[BRK]
 
 ...oops. I almost let the
@@ -350,7 +350,7 @@ cat out of the bag.[BRK]
 
 I can't let you in on that
 little secret until we're
-back in neo-vane.[BRK]
+back in Neo-Vane.[BRK]
 
 Believe me, poopsie, you'll
 feel right at home...[BRK]
@@ -359,7 +359,7 @@ But since you seem a little
 adverse to the idea right
 now,[BRK]
 
-i'd better put you in a
+I'd better put you in a
 holding cell.[BRK]
 
 Sweet dreams...[BRK]
@@ -371,12 +371,12 @@ Sweet dreams...[BRK]
 
 === 12 | 1b5b2 | 8b ===
 [POR07]
-There is no way that i'm
-going back to neo-vane
+There is no way that I'm
+going back to Neo-Vane
 with that bucket of lard![BRK]
 
 We've got to find a way out
-of here so i can rescue my
+of here so I can rescue my
 mother![END]
 
 === 13 | 1b654 | 66 ===
@@ -387,19 +387,19 @@ job is finished.[BRK]
 Good luck! And remember
 always...[BRK]
 
-...............mystere!
+...............Mystere!
 [END]
 
 === 14 | 1b6c4 | 144 ===
 [POR02]
-Thank you, mystere.[BRK]
+Thank you, Mystere.[BRK]
 
-...i can't believe leo 
+...I can't believe Leo 
 thinks he's really fooling
 us with that mask.[BRK]
 
 [POR05]
-Ruby, if leo helped us 
+Ruby, if Leo helped us 
 without using some sort of
 disguise...[BRK]
 
@@ -407,7 +407,7 @@ It could very well have cost
 him and others their lives.[BRK]
 
 Leo has pledged his 
-allegiance to the althena 
+allegiance to the Althena 
 cult.[BRK]
 
 For now, this is probably
@@ -415,5 +415,5 @@ the only way he can help
 us.[END]
 
 === 15 | 1b83e | e ===
-Black tower 6f[END]
+Black tower 6F[END]
 

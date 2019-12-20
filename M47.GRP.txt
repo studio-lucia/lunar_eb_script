@@ -5,7 +5,7 @@ Messages: 10
 === 0 | c0de | df ===
 [POR08]
 This is the fifth tower
-of pentagulia.[BRK]
+of Pentagulia.[BRK]
 
 [POR02]
 But...where's the lake?
@@ -17,48 +17,48 @@ transport fountain...a
 doorway to this place...[BRK]
 
 We must hurry. The real
-althena must be locked
+Althena must be locked
 inside this tower.
 [END]
 
 === 1 | c1de | c6 ===
 [POR18]
-Oh, pentagulia...what has
+Oh, Pentagulia...what has
 become of you?[BRK]
 
-How in the name of zophar
-have althena's dragons
+How in the name of Zophar
+have Althena's dragons
 found release?[BRK]
 
-Zophar...i must make master
-zophar hear my plea![BRK]
+Zophar...I must make Master
+Zophar hear my plea![BRK]
 
-Master zophar...master
-zophar.........!!![END]
+Master Zophar...master
+Zophar.........!!![END]
 
 === 2 | c2bc | 233 ===
 [POR10]
 Is everybody all right?[BRK]
 
 [POR05]
-Dang!...why did lucia
+Dang!...why did Lucia
 take our magic?[BRK]
 
 [POR07]
 Pooh! This is a fine fix![BRK]
 
-Now the junior premier of
-the vane magic guild doesn't
+Now the Junior Premier of
+the Vane Magic Guild doesn't
 even have any magic![BRK]
 
-Thanks a lot, lucia![BRK]
+Thanks a lot, Lucia![BRK]
 
 [POR01]
 ....
 .....[BRK]
 
 [POR02]
-Why did lucia do this?[BRK]
+Why did Lucia do this?[BRK]
 
 Althena herself said that
 humanity's power is the
@@ -70,12 +70,12 @@ spades![BRK]
 
 [POR02]
 But she's going to try to
-face down zophar on her
+face down Zophar on her
 own...[BRK]
 
 But what will happen when
 she tries to use the power
-of althena herself???[BRK]
+of Althena herself???[BRK]
 
 ....
 .....[BRK]
@@ -97,14 +97,14 @@ powerful before.[BRK]
 I'm certain it's not of
 human origin...[BRK]
 
-In fact, i'm fairly certain
-it is the work of zophar...[BRK]
+In fact, I'm fairly certain
+it is the work of Zophar...[BRK]
 
 [POR18]
-My, lucia! You do have a
+My, Lucia! You do have a
 keen sense of the obvious![BRK]
 
-Of course this is zophar's
+Of course this is Zophar's
 seal![BRK]
 
 It was created to keep tripe
@@ -112,12 +112,12 @@ like you out![END]
 
 === 4 | c67a | 249 ===
 [POR18]
-Ahh, the goddess tower! It
+Ahh, the Goddess Tower! It
 seems to be such a pure,
 tranquil place...[BRK]
 
 And that's why the city of
-pentagulia was erected in
+Pentagulia was erected in
 front of it.[BRK]
 
 Its power and purity could
@@ -125,18 +125,18 @@ not be allowed to escape
 into this world.[BRK]
 
 Fortunately, the power of
-the four dragons was easy to
-mold to zophar's will.[BRK]
+the Four Dragons was easy to
+mold to Zophar's will.[BRK]
 
 ....
 .....[BRK]
 
-Funny. The one thing althena
+Funny. The one thing Althena
 depended on most for
 protection...[BRK]
 
 Was what helped create this
-seal on the goddess tower.[BRK]
+seal on the Goddess Tower.[BRK]
 
 ....
 .....[BRK]
@@ -144,8 +144,8 @@ seal on the goddess tower.[BRK]
 Oh, and one last confession
 before you...um...go.[BRK]
 
-I must admit that i did not
-create this seal for zophar
+I must admit that I did not
+create this seal for Zophar
 alone.[BRK]
 
 I had a little help from my
@@ -157,7 +157,7 @@ dear friends...
 [POR18]
 Your miserable souls will
 enable us to finally revive
-our great leader...zophar![BRK]
+our great leader...Zophar![BRK]
 
 You know, you should look
 upon it as a great hon...[BRK]
@@ -185,10 +185,10 @@ What...what's happening?!![BRK]
 
 Althena...is, is...that you?[BRK]
 
-I...i don't understand...[BRK]
+I...I don't understand...[BRK]
 
 [POR02]
-Look, hiro! The dragon wings
+Look, Hiro! The dragon wings
 are beginning to glow!![BRK]
 
 But what's causing it???[BRK]
@@ -214,15 +214,15 @@ Ghaleon!? Show yourself![END]
 
 === 8 | cb5a | 1db ===
 [POR18]
-Why did you allow lucia to
+Why did you allow Lucia to
 escape?[BRK]
 
 I will hold you personally
-accountable to zophar![BRK]
+accountable to Zophar![BRK]
 
 [POR14]
 What a poor imitation of 
-althena you are, goddess. [BRK]
+Althena you are, goddess. [BRK]
 
 You don't even have the 
 power to capture a little 

@@ -3,7 +3,7 @@ File: M45.GRP
 Messages: 11
 
 === 0 | 102f0 | 11 ===
-Zophar's tower 1f[END]
+Zophar's tower 1F[END]
 
 === 1 | 10e16 | 69 ===
 [POR08]
@@ -15,28 +15,28 @@ Hi...ro....four sealed...
 ......dangerous....[END]
 
 === 2 | 10e84 | 11 ===
-Zophar's tower 3f[END]
+Zophar's tower 3F[END]
 
 === 3 | 11a02 | 11 ===
-Zophar's tower 5f[END]
+Zophar's tower 5F[END]
 
 === 4 | 12526 | 11 ===
-Zophar's tower 7f[END]
+Zophar's tower 7F[END]
 
 === 5 | 13082 | 11 ===
-Zophar's tower 9f[END]
+Zophar's tower 9F[END]
 
 === 6 | 13bb4 | 11 ===
-Zophar's tower 2f[END]
+Zophar's tower 2F[END]
 
 === 7 | 14260 | 11 ===
-Zophar's tower 4f[END]
+Zophar's tower 4F[END]
 
 === 8 | 14a78 | 11 ===
-Zophar's tower 6f[END]
+Zophar's tower 6F[END]
 
 === 9 | 15290 | 10 ===
-Zophar's keep 8f[END]
+Zophar's keep 8F[END]
 
 === a | 15aa8 | 14 ===
 Zophar's tower tubes[END]

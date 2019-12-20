@@ -17,7 +17,7 @@ no match for my superior
 intellect.[BRK]
 
 You can't escape the power
-of the dragonship destiny![BRK]
+of the Dragonship Destiny![BRK]
 
 Surrender now![BRK]
 
@@ -49,8 +49,8 @@ I'm in.[BRK]
 
 [POR07]
 This situation looks bad all
-around, and i don't see how
-i'll profit from fighting.[BRK]
+around, and I don't see how
+I'll profit from fighting.[BRK]
 
 Why don't we just surrender?[BRK]
 
@@ -60,10 +60,10 @@ conference and surrender to
 me immediately![BRK]
 
 My given task is to execute
-lucia before she destroys
+Lucia before she destroys
 us all.[BRK]
 
-Know that i have the will
+Know that I have the will
 and the resources to carry
 out that task...
 
@@ -74,7 +74,7 @@ out that task...
 What the hell?!!![END]
 
 === 3 | 4a28 | 88 ===
-Ahhhh! The evil lucia
+Ahhhh! The evil Lucia
 is raining fire down
 upon us! Help![BRK]
 
@@ -86,7 +86,7 @@ protect us![BRK]
 You can't be hurt![END]
 
 === 4 | 4ab4 | 64 ===
-I guess lord leo was
+I guess Lord Leo was
 wrong.[BRK]
 
 ..........fancy that.[BRK]
@@ -102,7 +102,7 @@ could it be that......?[END]
 === 6 | 4b2a | 82 ===
 [POR08]
 It...it looked like...
-.....ghaleon![BRK]
+.....Ghaleon![BRK]
 
 [POR01]
 ....
@@ -114,7 +114,7 @@ Why would he go out of his
 way to help us???[END]
 
 === 7 | 4bb0 | 53 ===
-Lord leo has been badly
+Lord Leo has been badly
 injured! Quick, we must
 get him to safety![BRK]
 
@@ -149,24 +149,24 @@ horribly wrong...[BRK]
 I feel kinda...sick![BRK]
 
 [POR07]
-Ouugghh...i know what you
+Ouugghh...I know what you
 ...mean...[BRK]
 
 [POR05]
 That has gotta be the
 most bone-jarring detour
-i've ever taken...[BRK]
+I've ever taken...[BRK]
 
-Man, am i glad that's over!
+Man, am I glad that's over!
 Where the hell are we?[BRK]
 
 [POR07]
-I don't know, but i think
-i'm gonna hurl again...[BRK]
+I don't know, but I think
+I'm gonna hurl again...[BRK]
 
 [POR08]
 Leo must have damaged the
-magic arrow right before we
+Magic Arrow right before we
 took off...[BRK]
 
 [POR10]
@@ -174,7 +174,7 @@ But that means we could've
 landed almost anywhere![BRK]
 
 [POR07]
-Doesn't anyone care that i'm
+Doesn't anyone care that I'm
 going to flood this place
 with vomit any minute?[BRK]
 
@@ -184,17 +184,17 @@ with vomit any minute?[BRK]
 
 Is 'vomit' the same as the
 liquid you deposited in the
-magic arrow?[BRK]
+Magic Arrow?[BRK]
 
 Why do you do that? It has
 a terrible stench and is
 quite unattractive.[BRK]
 
 Is it some kind of custom
-from vane?[BRK]
+from Vane?[BRK]
 
 [POR10]
-Uh, lucia, we'll save that
+Uh, Lucia, we'll save that
 lesson for later. [BRK]
 
 Right now, we'd better find
@@ -212,31 +212,31 @@ magic seal...[BRK]
 [POR07]
 Really? I thought my magic
 skills were excellent, but
-i don't sense anything...[BRK]
+I don't sense anything...[BRK]
 
 [POR08]
 This is a very old magic...
-i doubt that humans could
+I doubt that humans could
 detect it.[BRK]
 
-Wait...i will try to remove
+Wait...I will try to remove
 it...[END]
 
 === c | a022 | 111 ===
 [POR07]
-I...i...i've never heard the
+I...i...I've never heard the
 magic you used uttered by
 humans![BRK]
 
 That sounded like magic that
-only althena should know![BRK]
+only Althena should know![BRK]
 
 ..............who are you??![BRK]
 
 [POR08]
 I have told you...my name
-is lucia...i come from the
-blue star.[BRK]
+is Lucia...I come from the
+Blue Star.[BRK]
 
 ....
 .....[BRK]
@@ -255,13 +255,13 @@ What brought you to this
 dank old dungeon, anyway?[BRK]
 
 And hey! What happened to
-lucia?[BRK]
+Lucia?[BRK]
 
 I thought you two would be
 joined at the hip by now![BRK]
 
 ...she what? She went back
-to the blue star? Why,
+to the Blue Star? Why,
 that's a travesty![BRK]
 
 Let me help you in your   
@@ -274,8 +274,8 @@ Leo, that'd be so great![END]
 Ha ha ha ha! Why would you
 doubt my desire?[BRK]
 
-Of course i'll help you
-get back to lucia. You
+Of course I'll help you
+get back to Lucia. You
 two belong together.[BRK]
 
 But you already know that.
@@ -288,7 +288,7 @@ Just lead the way...[END]
 [POR09]
 Don't mention it. This is
 but a small down payment on
-the debt of gratitude i owe.[BRK]
+the debt of gratitude I owe.[BRK]
 
 Now then, time's wasting...
 let's get moving![END]
@@ -318,7 +318,7 @@ where it is...[END]
 
 === 12 | a5a2 | 66 ===
 [POR02]
-Hiro, remember when leo made
+Hiro, remember when Leo made
 us wanna puke our guts out?[BRK]
 
 I say we still owe him a
@@ -326,8 +326,8 @@ little payback...[END]
 
 === 13 | a616 | 50 ===
 [POR09]
-But i was under orders from
-what i thought was althena![BRK]
+But I was under orders from
+what I thought was Althena![BRK]
 
 You must understand!
 [END]

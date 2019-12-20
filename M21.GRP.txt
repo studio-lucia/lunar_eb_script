@@ -30,11 +30,11 @@ using the knowledge of
 karate for evil![BRK]
 
 I'll have no part of it!
-And i'll take those kids,
+And I'll take those kids,
 thank you![BRK]
 
 [POR21]
-Ha ha ha ha! Oh, jean! You
+Ha ha ha ha! Oh, Jean! You
 always did overestimate your
 abilities.[BRK]
 
@@ -61,7 +61,7 @@ trained them myself...[BRK]
 === 5 | 18a34 | b6 ===
 [POR21]
 Hrmph! You fared better than
-i had hoped. It seems I
+I had hoped. It seems I
 trained you all too well...[BRK]
 
 But you'll never lay a
@@ -91,16 +91,16 @@ believe you have a chance
 against me...[BRK]
 
 Come to the town called
-horam and gain entrance to
-the tournament of death.[BRK]
+Horam and gain entrance to
+the Tournament of Death.[BRK]
 
 That is the most suitable
 forum for your humiliating
 defeat, child.[BRK]
 
 Soon, all will know the
-strength of blue dragon
-karate.[BRK]
+strength of Blue Dragon
+Karate.[BRK]
 
 I'm looking forward to
 our...reunion...hahahaha!
@@ -119,14 +119,14 @@ This mask...
 Hmmmm...that voice...it
 sounded so...familiar...[BRK]
 
-Well...maybe if i take this
-mask to master lunn, i can
+Well...maybe if I take this
+mask to Master Lunn, I can
 gain his trust...[BRK]
 
 Once he trusts me, he might
 be able to help us![BRK]
 
-...i'd better go see him
+...I'd better go see him
 right away![END]
 
 === a | 18dc4 | ee ===
@@ -138,7 +138,7 @@ that strange man, we might
 have been killed![BRK]
 
 We have to get back to
-taben's peak in a hurry![BRK]
+Taben's Peak in a hurry![BRK]
 
 Our leader will be
 worried![BRK]
@@ -159,10 +159,10 @@ running off so fast these
 days![BRK]
 
 Anyway, we should head back
-and follow them to taben's
-peak.[BRK]
+and follow them to Taben's
+Peak.[BRK]
 
-C'mon, hiro, let's go!
+C'mon, Hiro, let's go!
 
 
 
@@ -172,8 +172,8 @@ C'mon, hiro, let's go!
 [END]
 
 === c | 18f70 | 12 ===
-Meribian sewers 5f[END]
+Meribian sewers 5F[END]
 
 === d | 197f4 | 10 ===
-Meribia house 4a[END]
+Meribia house 4A[END]
 

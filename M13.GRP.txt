@@ -3,10 +3,10 @@ File: M13.GRP
 Messages: 14
 
 === 0 | 15b60 | 11 ===
-E bandit butte 1f[END]
+E Bandit Butte 1F[END]
 
 === 1 | 169c4 | 11 ===
-E bandit butte 2f[END]
+E Bandit Butte 2F[END]
 
 === 2 | 17970 | 40 ===
 Ha ha ha ha![BRK]
@@ -55,29 +55,29 @@ again...let's continue.
 Bandit butte peak[END]
 
 === 5 | 19996 | 11 ===
-W bandit butte 2f[END]
+W Bandit Butte 2F[END]
 
 === 6 | 1a738 | 11 ===
-W bandit butte 1f[END]
+W Bandit Butte 1F[END]
 
 === 7 | 1b406 | 13 ===
-E bandit butte 1f-a[END]
+E Bandit Butte 1F-a[END]
 
 === 8 | 1c906 | 13 ===
-E bandit butte 2f-a[END]
+E Bandit Butte 2F-a[END]
 
 === 9 | 1df40 | 13 ===
-E bandit butte 2f-b[END]
+E Bandit Butte 2F-b[END]
 
 === a | 1e9f8 | 13 ===
-W bandit butte 1f-a[END]
+W Bandit Butte 1F-a[END]
 
 === b | 1f5c0 | 13 ===
-W bandit butte 2f-a[END]
+W Bandit Butte 2F-a[END]
 
 === c | 2183c | 13 ===
-W bandit butte 2f-c[END]
+W Bandit Butte 2F-c[END]
 
 === d | 2244c | 13 ===
-W bandit butte 2f-b[END]
+W Bandit Butte 2F-b[END]
 

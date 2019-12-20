@@ -5,11 +5,11 @@ Messages: 20
 === 0 | 10350 | ca ===
 [POR08]
 If we have to fight our
-way through the spire,
+way through the Spire,
 we'll waste too much time.[BRK]
 
 Defenders from ages past,
-hear my words. I am lucia![BRK]
+hear my words. I am Lucia![BRK]
 
 Do not cross the path of
 one so true until the face
@@ -19,7 +19,7 @@ of the star is new.
 === 1 | 1041e | 49 ===
 [POR08]
 That should do it. Let's go,
-hiro. No monster will cross
+Hiro. No monster will cross
 our path now.[END]
 
 === 2 | 1047e | 68 ===
@@ -30,7 +30,7 @@ I need to remove the seal
 from a hidden area ahead.[BRK]
 
 It's where we have to take
-hiro...[END]
+Hiro...[END]
 
 === 3 | 104ea | 14c ===
 [POR08]
@@ -38,20 +38,20 @@ The entrance to the secret
 chamber is over...there.[BRK]
 
 But...humans are forbidden
-to enter...i don't know
+to enter...I don't know
 what will happen if you do.[BRK]
 
-You could all die with hiro.[BRK]
+You could all die with Hiro.[BRK]
 
 [POR02]
 It's our only chance. We've
-got to try...for hiro.[BRK]
+got to try...for Hiro.[BRK]
 
 You must be able to protect
 us somehow...[BRK]
 
 [POR08]
-I'm not certain, but i'll
+I'm not certain, but I'll
 try.[BRK]
 
 Come, then. Hiro's time
@@ -61,7 +61,7 @@ grows short.
 [END]
 
 === 4 | 10640 | d ===
-Blue spire 1f[END]
+Blue spire 1F[END]
 
 === 5 | 116fe | 8a ===
 [POR08]
@@ -69,8 +69,8 @@ If we have to fight our way
 in, it will take us too
 long.[BRK]
 
-Creatures of the blue spire,
-hear my voice. I, lucia,
+Creatures of the Blue Spire,
+hear my voice. I, Lucia,
 command you to scatter![END]
 
 === 6 | 1178c | 35 ===
@@ -79,7 +79,7 @@ Come...we must hurry. The
 way is now open to us...[END]
 
 === 7 | 117ca | d ===
-Blue spire 2f[END]
+Blue spire 2F[END]
 
 === 8 | 1238a | 96 ===
 [POR08]
@@ -87,8 +87,8 @@ We can't continue on like
 this. These monsters are
 slowing our advance.[BRK]
 
-Guardians of the blue spire,
-hear my voice. I, lucia, 
+Guardians of the Blue Spire,
+hear my voice. I, Lucia, 
 command you to rest![END]
 
 === 9 | 12424 | 45 ===
@@ -98,7 +98,7 @@ enough time to get where we
 need to go...[END]
 
 === a | 12472 | d ===
-Blue spire 3f[END]
+Blue spire 3F[END]
 
 === b | 12fa0 | 9a ===
 [POR08]
@@ -107,7 +107,7 @@ at this rate! The spire
 guardians are everywhere![BRK]
 
 Spire guardians, hear my
-voice. I, lucia, command you
+voice. I, Lucia, command you
 to cease attacking![END]
 
 === c | 1303e | 4a ===
@@ -117,7 +117,7 @@ enough time to get through
 here. Let's go...[END]
 
 === d | 13092 | d ===
-Blue spire 4f[END]
+Blue spire 4F[END]
 
 === e | 13c46 | 98 ===
 [POR08]
@@ -125,7 +125,7 @@ The spire guardian attacks
 are slowing us down too
 much. I have to stop them.[BRK]
 
-Guardians in the spire of
+Guardians in the Spire of
 blue, hear my command and
 cease your attacks![END]
 
@@ -136,16 +136,16 @@ before they resume. The
 command is not permanent![END]
 
 === 10 | 13d38 | d ===
-Blue spire 5f[END]
+Blue spire 5F[END]
 
 === 11 | 148d4 | 92 ===
 [POR08]
 We can't continue like this.
-Let me call off the spire
+Let me call off the Spire
 guardians.[BRK]
 
-Guardians of the blue spire,
-hear my voice. I, lucia,
+Guardians of the Blue Spire,
+hear my voice. I, Lucia,
 command you to scatter![END]
 
 === 12 | 1496a | 4c ===
@@ -155,5 +155,5 @@ quickly. The effect of my
 spell is only temporary.[END]
 
 === 13 | 149c0 | d ===
-Blue spire 6f[END]
+Blue spire 6F[END]
 

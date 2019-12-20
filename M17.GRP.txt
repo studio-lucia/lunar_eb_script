@@ -14,9 +14,9 @@ could use a little work.
 
 === 1 | 1974a | 73 ===
 [POR02]
-Hiro, i get the feeling this
+Hiro, I get the feeling this
 place is very much like the
-blue spire.[BRK]
+Blue Spire.[BRK]
 
 I wonder if this gate works
 the same way...[END]
@@ -24,7 +24,7 @@ the same way...[END]
 === 2 | 197d0 | 9c ===
 [POR02]
 Hiro, we're gonna have to
-find the dragon's eye jewels
+find the Dragon's Eye Jewels
 to put in here.[BRK]
 
 I'm certain that's the key
@@ -34,20 +34,20 @@ We'd better hurry and find
 it...[END]
 
 === 3 | 19886 | 27 ===
-[0xB][0][0xC]Inserted the right dragon
-eye jewel.[END]
+[0xB][0][0xC]Inserted the Right Dragon
+Eye Jewel.[END]
 
 === 4 | 198ca | 4b ===
 [POR02]
-Ha! Look, hiro! We did it!
+Ha! Look, Hiro! We did it!
 Now we can get inside.[BRK]
 
 We're some team, huh?
 [END]
 
 === 5 | 1995e | 26 ===
-[0xB][0][0xD]Inserted the left dragon
-eye jewel.[END]
+[0xB][0][0xD]Inserted the Left Dragon
+Eye Jewel.[END]
 
 === 6 | 199ac | 92 ===
 This mysterious tower is
@@ -56,7 +56,7 @@ wondrous treasures![BRK]
 
 I've been trying to figure
 out how to get inside, but
-i think it's impossible![END]
+I think it's impossible![END]
 
 === 7 | 19a4e | 132 ===
 Tell you what. You guys go
@@ -80,11 +80,11 @@ are...[END]
 
 === 8 | 19b90 | 90 ===
 I've heard rumors that the
-way to the blue star is
+way to the Blue Star is
 hidden within this tower![BRK]
 
 Do you think that's really
-true? The blue star looks so
+true? The Blue Star looks so
 far away...[END]
 
 === 9 | 19c2e | d ===
@@ -93,8 +93,8 @@ far away...[END]
 .....[END]
 
 === a | 19c4e | fd ===
-Black master zophar,
-goddess althena, lucia,
+Black Master Zophar,
+Goddess Althena, Lucia,
 baywatch popularity...[BRK]
 
 In this world there are many
@@ -105,21 +105,21 @@ those. It's been here for
 centuries.[BRK]
 
 Some say it is a way to
-travel to the blue star.
+travel to the Blue Star.
 Is that possible?[END]
 
 === b | 19d5a | c8 ===
 Our ancestors are rumored to
-have come from the blue
-star.[BRK]
+have come from the Blue
+Star.[BRK]
 
-One day, i hope we can
+One day, I hope we can
 travel back there and join
 our two worlds.[BRK]
 
 [POR02]
 If this tower is the link
-to the blue star, that just
+to the Blue Star, that just
 might be possible.[END]
 
 === c | 19e28 | 13 ===
@@ -132,8 +132,8 @@ Welcome, my intrepid adven-
 turers! Have you come
 looking for the way?[BRK]
 
-Ah, yes! The way to the blue
-star is sealed within this
+Ah, yes! The way to the Blue
+Star is sealed within this
 tower.[BRK]
 
 Try to find it if you think
@@ -151,7 +151,7 @@ to test fate![BRK]
 .....[BRK]
 
 [POR02]
-Uh, hiro...are you sure this
+Uh, Hiro...are you sure this
 is a good idea?[BRK]
 
 I mean...maybe you can get
@@ -164,28 +164,28 @@ Ruby![BRK]
 Just checking.....[END]
 
 === e | 1a7e0 | d ===
-Star tower 1f[END]
+Star tower 1F[END]
 
 === f | 1b004 | d ===
-Star tower 2f[END]
+Star tower 2F[END]
 
 === 10 | 1b81e | d ===
-Star tower 3f[END]
+Star tower 3F[END]
 
 === 11 | 1c038 | d ===
-Star tower 4f[END]
+Star tower 4F[END]
 
 === 12 | 1c8f4 | d ===
-Star tower 5f[END]
+Star tower 5F[END]
 
 === 13 | 1d29c | d ===
-Star tower 6f[END]
+Star tower 6F[END]
 
 === 14 | 1dd86 | 232 ===
 Ha ha ha ha![BRK]
 
 Are you the one seeking the
-blue star?[BRK]
+Blue Star?[BRK]
 
 The one impudent enough to
 test his mettle against my
@@ -204,8 +204,8 @@ of your tormentor soon
 enough.[BRK]
 
 For now, all you need know
-is that i am the star
-dragon.[BRK]
+is that I am the Star
+Dragon.[BRK]
 
 [POR01]
 ....
@@ -213,28 +213,28 @@ dragon.[BRK]
 
 [POR00]
 This tower is the only link
-between the blue star and
+between the Blue Star and
 this world.[BRK]
 
 There are yet many years
-left to pass before the blue
-star can awaken again.[BRK]
+left to pass before the Blue
+Star can awaken again.[BRK]
 
-Until that time, i will let
+Until that time, I will let
 no one use this tower to
 travel there.[BRK]
 
 Do you understand?[END]
 
 === 15 | 1dfbc | 2f ===
-[0x5]But i must get to lucia!
+[0x5]But I must get to Lucia!
 You must let me pass![END]
 
 === 16 | 1dffa | 1b1 ===
 [POR01]
 Don't you understand? I must
 find a way to get back to
-lucia! She needs me![BRK]
+Lucia! She needs me![BRK]
 
 [POR00]
 What could she possibly need
@@ -242,50 +242,50 @@ from a human?[BRK]
 
 [POR01]
 She's alone. Alone on a
-world i know nothing about.[BRK]
+world I know nothing about.[BRK]
 
-I know that if i were there,
-i could find a way to help
-her revive the blue star![BRK]
+I know that if I were there,
+I could find a way to help
+her revive the Blue Star![BRK]
 
 And then, some day in the
 future, our two worlds will
 come together again![BRK]
 
 But to make any of this a
-reality, i have to go there
-and find lucia![BRK]
+reality, I have to go there
+and find Lucia![BRK]
 
 Sir, you must let me pass![END]
 
 === 17 | 1e1ba | 1d1 ===
 [POR01]
 You must let me pass! I
-will get to the blue star
-and lucia at any cost![BRK]
+will get to the Blue Star
+and Lucia at any cost![BRK]
 
 [POR00]
 Why do you think you can
 help her, human?[BRK]
 
 She needs no help reviving
-the blue star. It is her
+the Blue Star. It is her
 assigned task.[BRK]
 
 [POR01]
-But that is why i must go.
+But that is why I must go.
 Her task is my task. We are
 as one...[BRK]
 
-...but i guess you wouldn't
+...but I guess you wouldn't
 understand that...[BRK]
 
-Suffice to say that i must
+Suffice to say that I must
 go to her.[BRK]
 
-Working together, i'm sure
-we will revive the blue
-star,[BRK]
+Working together, I'm sure
+we will revive the Blue
+Star,[BRK]
 
 and some day, maybe our two
 worlds will finally be
@@ -301,15 +301,15 @@ We fight for passage![END]
 
 === 19 | 1e3e4 | 1b3 ===
 You've won the right to use
-the transport to the blue
-star.[BRK]
+the transport to the Blue
+Star.[BRK]
 
 The strength of your resolve
 is admirable, young human.[BRK]
 
 I hope that it is enough to
 overcome the cold, bleak
-landscape of the blue star.[BRK]
+landscape of the Blue Star.[BRK]
 
 This is but the first step
 on a long road you have
@@ -327,14 +327,14 @@ that you have the power to
 make dreams a reality...[END]
 
 === 1a | 1e5a0 | d ===
-Star tower 7f[END]
+Star tower 7F[END]
 
 === 1b | 1edd4 | 8e ===
 [POR02]
-Look! Hiro...the star
-dragon crystal![BRK]
+Look! Hiro...the Star
+Dragon Crystal![BRK]
 
-The way to the blue star is
+The way to the Blue Star is
 before us![BRK]
 
 ...i...guess this is where
@@ -345,22 +345,22 @@ isn't it?
 === 1c | 1eeda | 138 ===
 [POR02]
 Promise me you'll...come
-back in one piece, hiro![BRK]
+back in one piece, Hiro![BRK]
 
-And tell lucia that i...said
+And tell Lucia that I...said
 she better take good care of
-you...or...or else...i'll...[BRK]
+you...or...or else...I'll...[BRK]
 
-Ooohhhh, hiro...
+Ooohhhh, Hiro...
 good-bye![BRK]
 
 [POR01]
-Oh, ruby! I know i'm going
+Oh, Ruby! I know I'm going
 to miss you most of all![BRK]
 
 Know that if there is a
 way to come back to see
-you, i'll find it![BRK]
+you, I'll find it![BRK]
 
 Take care of yourself!
 [END]
@@ -394,7 +394,7 @@ Lucia's waiting.[BRK]
 Go get her, tiger![BRK]
 
 [POR01]
-Uh...thanks, ronfar.
+Uh...thanks, Ronfar.
 
 
 
@@ -407,8 +407,8 @@ Uh...thanks, ronfar.
 Hiro, are you certain you
 want to try this alone?[BRK]
 
-I mean...i could go with
-...wait...what am i saying?[BRK]
+I mean...I could go with
+...wait...what am I saying?[BRK]
 
 This is probably something
 you want to do by yourself.[BRK]
@@ -418,40 +418,40 @@ and remember...[BRK]
 
 If you get in trouble...you
 can always dance your way
-out like i taught you![BRK]
+out like I taught you![BRK]
 
 [POR01]
-Hehe. Thanks, jean.
+Hehe. Thanks, Jean.
 [END]
 
 === 1f | 1f346 | 106 ===
 [POR07]
-Hiro, i wish you could stay
-and join the magic guild,[BRK]
+Hiro, I wish you could stay
+and join the Magic Guild,[BRK]
 
-but i know you have to
+but I know you have to
 follow your heart and your
 dream.[BRK]
 
-I hope lucia knows what a
+I hope Lucia knows what a
 find she has in you. You're
-worth your weight in silver![BRK]
+worth your weight in Silver![BRK]
 
-Take care, hiro. [BRK]
+Take care, Hiro. [BRK]
 
 [POR01]
-Oh, lemina...thanks. That
+Oh, Lemina...thanks. That
 means a lot to me.[END]
 
 === 20 | 1f474 | fe ===
 [POR09]
-While you're on the blue
-star, we've got our work
+While you're on the Blue
+Star, we've got our work
 cut out for us here.[BRK]
 
 One day, we will get back
 to the true teachings of
-althena.[BRK]
+Althena.[BRK]
 
 And when that day dawns,
 lasting peace will finally
@@ -461,7 +461,7 @@ I hope you come back to
 see it.[BRK]
 
 [POR01]
-I will, leo. I promise.
+I will, Leo. I promise.
 [END]
 
 === 21 | 1f582 | 4d ===

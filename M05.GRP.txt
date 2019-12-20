@@ -15,7 +15,7 @@ okay?
 === 1 | 1a790 | a8 ===
 [POR04]
 They are the guardians of
-the blue spire.[BRK]
+the Blue Spire.[BRK]
 
 They'll only be trouble if
 the tower is threatened.[BRK]
@@ -27,8 +27,8 @@ better step away...[END]
 === 2 | 1a858 | 41 ===
 [POR04]
 This is the entrance. Hiro,
-hand me back the dragon eye
-jewel.[END]
+hand me back the Dragon Eye
+Jewel.[END]
 
 === 3 | 1a89c | 80 ===
 [POR04]
@@ -38,8 +38,8 @@ door should...[BRK]
 
 [POR00]
 [0xB][0]
-Gwyn placed the dragon eye
-jewel in the left socket.[END]
+Gwyn placed the Dragon Eye
+Jewel in the left socket.[END]
 
 === 4 | 1a926 | 61 ===
 [POR04]
@@ -73,20 +73,20 @@ dragon's right eye![END]
 === 6 | 1aac4 | 35 ===
 [0xB][0][BRK]
 
-Hiro put the right dragon
-eye jewel in the socket.[END]
+Hiro put the Right Dragon
+Eye Jewel in the socket.[END]
 
 === 7 | 1ab02 | d9 ===
 [POR04]
 Eureka! The entrance to
-the blue spire![BRK]
+the Blue Spire![BRK]
 
 I didn't know you found
-another dragon's eye jewel,
-hiro.[BRK]
+another Dragon's Eye Jewel,
+Hiro.[BRK]
 
 What else haven't you told
-your grandpa, hmmm?[BRK]
+your Grandpa, hmmm?[BRK]
 
 Oh well, no time for that.
 Let's get inside while the
@@ -96,10 +96,10 @@ door beckons...[END]
 Blue spire entrance[END]
 
 === 9 | 1be32 | 11 ===
-Blue labyrinth b3[END]
+Blue labyrinth B3[END]
 
 === a | 1f72e | 10 ===
-Blue labrynth b2[END]
+Blue labrynth B2[END]
 
 === b | 20584 | 12 ===
 Blue lab star room[END]
@@ -118,12 +118,12 @@ Blue lab mystic rm[END]
 Oh, fiddle! I suspected this
 might happen.[BRK]
 
-Look, hiro! The guardian's
+Look, Hiro! The guardian's
 awake! Now we'll have to
 fight to get out![BRK]
 
 [POR02]
-Are you kidding, grandpa?!
+Are you kidding, Grandpa?!
 Look at the size of that
 thing's flail![BRK]
 
@@ -132,7 +132,7 @@ Uh-uh. No thanks. There's
 got to be a better way...[BRK]
 
 [POR04]
-Ruby, i wish there were, but
+Ruby, I wish there were, but
 there's not. We've just got
 to outsmart it.
 [END]
@@ -149,7 +149,7 @@ Just remember...[BRK]
 
 When he's tying our entrails
 into neat little packages,
-don't say i didn't warn you!
+don't say I didn't warn you!
 
 [END]
 
@@ -167,7 +167,7 @@ another guardian![BRK]
 
 Fortunately, we haven't done
 anything to threaten the
-spire![BRK]
+Spire![BRK]
 
 One hostile act on our part,
 and we'd be in a serious
@@ -178,5 +178,5 @@ We must keep moving!
 [END]
 
 === 13 | 2232e | 10 ===
-Blue labrynth b1[END]
+Blue labrynth B1[END]
 

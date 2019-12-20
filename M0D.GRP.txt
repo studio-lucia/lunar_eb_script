@@ -18,7 +18,7 @@ this time, and that makes
 it all worthwhile![BRK]
 
 Oop! We'd better be getting
-back to grandpa's house
+back to Grandpa's house
 before he worries...
 [END]
 
@@ -29,7 +29,7 @@ rock that almost ran us
 over![BRK]
 
 We can't get back into the
-dragon ruins...at least not
+Dragon Ruins...at least not
 this way. It's blocked.[BRK]
 
 [POR01]
@@ -40,7 +40,7 @@ this way. It's blocked.[BRK]
 [POR02]
 Besides, we'd better be
 getting back home to
-grandpa.[BRK]
+Grandpa.[BRK]
 
 He'll be worried if we're
 not home soon...[END]
@@ -73,7 +73,7 @@ this time, and that makes
 it all worthwhile![BRK]
 
 Oop! We'd better be getting
-back to grandpa's house
+back to Grandpa's house
 before he worries...
 [END]
 
@@ -84,7 +84,7 @@ rock that almost ran us
 over![BRK]
 
 We can't get back into the
-dragon ruins...at least not
+Dragon Ruins...at least not
 this way. It's blocked.[BRK]
 
 [POR01]
@@ -95,7 +95,7 @@ this way. It's blocked.[BRK]
 [POR02]
 Besides, we'd better be
 getting back home to
-grandpa.[BRK]
+Grandpa.[BRK]
 
 He'll be worried if we're
 not home soon...[END]
@@ -115,34 +115,34 @@ Dragon ruins entrance[END]
 === a | 1d700 | 27 ===
 [0xB][0][BRK]
 
-Received the right dragon
-eye jewel.[END]
+Received the Right Dragon
+Eye Jewel.[END]
 
 === b | 1d73e | 26 ===
-[0xB][0][0xD]Received the left dragon
-eye jewel.[END]
+[0xB][0][0xD]Received the Left Dragon
+Eye Jewel.[END]
 
 === c | 1d76e | 31 ===
 [POR02]
-Ha! We finally have the left
-dragon eye jewel![END]
+Ha! We finally have the Left
+Dragon Eye Jewel![END]
 
 === d | 1d7ac | 63 ===
 [POR02]
-Now that we have the left
-dragon eye jewel, i wonder
+Now that we have the Left
+Dragon Eye Jewel, I wonder
 where the right one is?[BRK]
 
-Do you know, hiro??[END]
+Do you know, Hiro??[END]
 
 === e | 1d81c | 77 ===
 [POR02]
 Now that we have both the
-dragon eye jewels, we can
-get into the star tower.[BRK]
+Dragon Eye Jewels, we can
+get into the Star Tower.[BRK]
 
 I think it's over in the
-salyan desert.[END]
+Salyan Desert.[END]
 
 === f | 1d8aa | 7c ===
 [POR02]
@@ -156,43 +156,43 @@ for us to take![END]
 === 10 | 1d934 | 2f ===
 [POR02]
 Hmmm...where is that other
-dragon eye jewel?[END]
+Dragon Eye Jewel?[END]
 
 === 11 | 1d974 | 5d ===
 [POR02]
-Okay, hiro, you've got both
+Okay, Hiro, you've got both
 the dragon eyes. Let's go
-to the star tower![BRK]
+to the Star Tower![BRK]
 
 Lucia is waiting![END]
 
 === 12 | 1d9d6 | f ===
-Dragon ruins 1f[END]
+Dragon ruins 1F[END]
 
 === 13 | 1e078 | f ===
-Dragon ruins 1f[END]
+Dragon ruins 1F[END]
 
 === 14 | 1eff6 | f ===
-Dragon ruins 2f[END]
+Dragon ruins 2F[END]
 
 === 15 | 1fd84 | f ===
-Dragon ruins 3f[END]
+Dragon ruins 3F[END]
 
 === 16 | 20c42 | f ===
-Dragon ruins 4f[END]
+Dragon ruins 4F[END]
 
 === 17 | 21bcc | f ===
-Dragon ruins 5f[END]
+Dragon ruins 5F[END]
 
 === 18 | 227dc | f ===
-Dragon ruins 6f[END]
+Dragon ruins 6F[END]
 
 === 19 | 2350a | f ===
-Dragon ruins 7f[END]
+Dragon ruins 7F[END]
 
 === 1a | 241ee | f ===
-Dragon ruins 8f[END]
+Dragon ruins 8F[END]
 
 === 1b | 24e68 | f ===
-Dragon ruins 9f[END]
+Dragon ruins 9F[END]
 

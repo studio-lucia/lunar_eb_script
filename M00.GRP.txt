@@ -6,13 +6,13 @@ Messages: 2
 [POR02]
 Lucia, what are you doing?
 We can't continue without
-hiro![BRK]
+Hiro![BRK]
 
 We've got to get back on
-the destiny and bring him
+the Destiny and bring him
 back.[BRK]
 
-C'mon, lucia. You know it's
+C'mon, Lucia. You know it's
 the right thing to do![END]
 
 === 1 | 12624 | d ===

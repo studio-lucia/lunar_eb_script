@@ -4,56 +4,56 @@ Messages: 122
 
 === 0 | 8402 | a0 ===
 [POR05]
-Hmm...just as i remember it.
+Hmm...just as I remember it.
 Nothing ever changes in this
 ol' town.[BRK]
 
-Ever since i was a kid
-growing up here with leo and
-mauri, it's been the same.[BRK]
+Ever since I was a kid
+growing up here with Leo and
+Mauri, it's been the same.[BRK]
 
 ...boring.[END]
 
 === 1 | 84bc | 7d ===
 Didja know this here was the
-village of raculi?[BRK]
+village of Raculi?[BRK]
 
 Yep! North of here ya got
-the serak palace, and across
-the sea is pentagulia![END]
+the Serak Palace, and across
+the sea is Pentagulia![END]
 
 === 2 | 8546 | 6f ===
 Hey there, kiddies, you look
-familiar. Have i seen you
+familiar. Have I seen you
 before?[BRK]
 
 [POR05]
-Grandpa, it's me, ronfar!
+Grandpa, it's me, Ronfar!
 Don't you remember?[END]
 
 === 3 | 85cc | 65 ===
 Raculi is in a perfect
 location.[BRK]
 
-North, we've got the serak
-palace, and across the sea
-is pentagulia.[END]
+North, we've got the Serak
+Palace, and across the sea
+is Pentagulia.[END]
 
 === 4 | 8642 | ba ===
 Say, you look like my
-grandson ronfar! The
+grandson Ronfar! The
 likeness is amazing![BRK]
 
 [POR05]
-That's because i am your
-grandson, grandpa![BRK]
+That's because I am your
+grandson, Grandpa![BRK]
 
 Have you been taking your
 medication lately? You seem
 a little out of it...[END]
 
 === 5 | 8714 | 62 ===
-Welcome to raculi.[BRK]
+Welcome to Raculi.[BRK]
 
 We have a little trouble
 every now 'n' then, but it's
@@ -62,26 +62,26 @@ usually pretty peaceful.
 
 === 6 | 878e | 109 ===
 This is the village of...
-...hey, ronfar! What are
+...hey, Ronfar! What are
 you doing?[BRK]
 
 I thought you finally
 decided to settle down with
-mauri?[BRK]
+Mauri?[BRK]
 
 Does she know you're gala-
 vanting around the country
 with these kooks?[BRK]
 
 [POR05]
-They're not kooks, grandpa!
-And i have good reason for
+They're not kooks, Grandpa!
+And I have good reason for
 being with them.[END]
 
 === 7 | 88a4 | e5 ===
 [POR09]
 If you do anything to make
-mauri cry, you'll have me
+Mauri cry, you'll have me
 to answer to![BRK]
 
 As your big brother-in-law,
@@ -96,7 +96,7 @@ being related![BRK]
 You're giving me a rash...[END]
 
 === 8 | 89a4 | 74 ===
-I knew mauri should have
+I knew Mauri should have
 chosen a more stable man![BRK]
 
 [POR05]
@@ -106,7 +106,7 @@ diapers, gramps![END]
 
 === 9 | 8a26 | 5b ===
 [POR09]
-Okay, ronfar, call me
+Okay, Ronfar, call me
 brother! I want to hear it![BRK]
 
 [POR05]
@@ -117,7 +117,7 @@ make me!
 
 === a | 8a9a | d2 ===
 Mauri is cleansing souls at
-serak palace.[BRK]
+Serak Palace.[BRK]
 
 I've heard reports that
 she's the one making people
@@ -128,7 +128,7 @@ her eyes...[BRK]
 
 And they're forcing us to
 go to her to cleanse our
-souls...i'm scared!
+souls...I'm scared!
 [END]
 
 === b | 8b70 | 43 ===
@@ -141,8 +141,8 @@ It's a miracle! The madness
 that descended on us has
 been lifted![BRK]
 
-Praise be to the goddess
-althena for her mercy![END]
+Praise be to the Goddess
+Althena for her mercy![END]
 
 === d | 8c5a | 30 ===
 Thank goodness everyone is
@@ -150,7 +150,7 @@ back to normal again![END]
 
 === e | 8c9e | 77 ===
 The people who were taken
-by madness because of mauri
+by madness because of Mauri
 don't remember a thing.[BRK]
 
 Actually, it's probably
@@ -167,7 +167,7 @@ I thought you said...[BRK]
 
 [POR08]
 Ah...oh, nothing...forget
-i said anything...
+I said anything...
 [END]
 
 === 10 | 8dc8 | ad ===
@@ -175,7 +175,7 @@ Zophar is gone, and peace
 has returned to our village.[BRK]
 
 Even so, there are some who
-relive the terror of mauri's
+relive the terror of Mauri's
 cleansings...[BRK]
 
 But thankfully, even that
@@ -184,15 +184,15 @@ will fade in time...
 
 === 11 | 8e88 | f4 ===
 There is a legend that says
-tears of the goddess can
+tears of the Goddess can
 heal any condition.[BRK]
 
 I wonder if they can cure
 the madness that overtakes
-those cleansed by mauri.[BRK]
+those cleansed by Mauri.[BRK]
 
 If it did work, we could
-never tell mauri what we
+never tell Mauri what we
 found out...[BRK]
 
 She'd probably have us
@@ -200,11 +200,11 @@ killed.[END]
 
 === 12 | 8f94 | 96 ===
 The legendary tears of
-althena are said to have
+Althena are said to have
 wonderful healing qualities.[BRK]
 
-If i could get some of
-those, i could heal those
+If I could get some of
+those, I could heal those
 that have gone insane...[END]
 
 === 13 | 903e | 78 ===
@@ -213,7 +213,7 @@ afflicted by madness have
 returned to normal![BRK]
 
 I wonder if someone used the
-tears of althena...[END]
+tears of Althena...[END]
 
 === 14 | 90d0 | 8f ===
 I have dedicated my life to
@@ -267,9 +267,9 @@ poopy fop! Hahahahahaha![END]
 === 1a | 9404 | c5 ===
 I haven't been able to sleep
 lately because of the weird
-dreams i keep having.[BRK]
+dreams I keep having.[BRK]
 
-I think mauri's cleansing
+I think Mauri's cleansing
 has somehow damaged me...[BRK]
 
 [POR02]
@@ -279,7 +279,7 @@ before![END]
 
 === 1b | 94e0 | 7c ===
 I keep having this dream
-where i'm insane...it's just
+where I'm insane...it's just
 so weird![BRK]
 
 It's just sapping all my
@@ -287,7 +287,7 @@ energy by keeping me up at
 night...[END]
 
 === 1c | 9570 | 123 ===
-Oh, what am i going to do?
+Oh, what am I going to do?
 It's my...my husband...he's
 been like this ever since...[BRK]
 
@@ -300,7 +300,7 @@ now that he's been cleansed,
 look at him![BRK]
 
 He's cuckoo for cocoa puffs!
-No...worse! What am i going
+No...worse! What am I going
 to do?
 
 
@@ -313,7 +313,7 @@ reverse the effects of the
 cleansing...[BRK]
 
 But how? If he stays like
-this, i'll have to have him
+this, I'll have to have him
 committed![END]
 
 === 1e | 9740 | 7e ===
@@ -330,10 +330,10 @@ dreams about his fit of
 insanity,[BRK]
 
 but he remembers nothing of
-serak palace or the time
+Serak Palace or the time
 after that.[BRK]
 
-Do you think mauri did that,
+Do you think Mauri did that,
 too?[END]
 
 === 20 | 987e | ac ===
@@ -342,7 +342,7 @@ distracted lately. I wonder
 what's wrong.[BRK]
 
 He won't talk about it, but
-i think it has to do with
+I think it has to do with
 that cleansing![BRK]
 
 I tell you, it's wrecked our
@@ -360,9 +360,9 @@ almost everyone here.[BRK]
 
 The only person that got the
 disease and survived to tell
-about it was mauri.[BRK]
+about it was Mauri.[BRK]
 
-Oh, and speaking of mauri,
+Oh, and speaking of Mauri,
 she left this letter for
 you, in case you came back.[BRK]
 
@@ -371,7 +371,7 @@ I hope it's good news...[BRK]
 [POR15]
 Ronfar, my love,[BRK]
 
-i sit here shrouded in a fog
+I sit here shrouded in a fog
 of despair, enslaved to the
 way of evil.[BRK]
 
@@ -393,12 +393,12 @@ cut my strings...[BRK]
 ...regardless of the cost.[BRK]
 
                 Love always,
-                       mauri[BRK]
+                       Mauri[BRK]
 
 [POR05]
-i will find a way to free
-you mauri. And the only one
-who will pay will be zophar!
+I will find a way to free
+you Mauri. And the only one
+who will pay will be Zophar!
 
 [END]
 
@@ -408,14 +408,14 @@ struck by madness is now
 sane again.[BRK]
 
 I wonder if our prayers to
-althena helped...[END]
+Althena helped...[END]
 
 === 24 | 9d2e | 71 ===
-Hopefully, raculi is done
+Hopefully, Raculi is done
 with catastrophes! We've
 had more than our share.[BRK]
 
-But i guess only time will
+But I guess only time will
 tell, eh?
 [END]
 
@@ -423,9 +423,9 @@ tell, eh?
 I snuck into the palace and
 saw the last cleansing![BRK]
 
-If mauri was cleansing the
-people for the goddess
-althena,[BRK]
+If Mauri was cleansing the
+people for the Goddess
+Althena,[BRK]
 
 why were they forced to
 drink that blood-red
@@ -433,12 +433,12 @@ potion?![BRK]
 
 [POR05]
 Blood-red potion? Holy cow!
-That's the same thing mauri
+That's the same thing Mauri
 drank when...[END]
 
 === 26 | 9eb6 | 87 ===
 Was it really a cleansing
-mauri was performing?[BRK]
+Mauri was performing?[BRK]
 
 It looked more like some
 sort of strange control
@@ -451,18 +451,18 @@ All the people driven crazy
 by the cleansing have
 suddenly become sane again.[BRK]
 
-I wonder if mauri is now
+I wonder if Mauri is now
 okay, too?[BRK]
 
 [POR05]
 I'm hoping that she is,
 sister.[BRK]
 
-Boy, am i hoping...[END]
+Boy, am I hoping...[END]
 
 === 28 | a018 | 34 ===
 Does anyone know who was
-actually controlling mauri?[END]
+actually controlling Mauri?[END]
 
 === 29 | a064 | b4 ===
 Mauri has returned to our
@@ -470,31 +470,31 @@ village, but...[BRK]
 
 Now her face looks kind and
 gentle. It's much different
-than at serak palace.[BRK]
+than at Serak Palace.[BRK]
 
 She looks like she did
 before she joined the
-althena cult...[END]
+Althena Cult...[END]
 
 === 2a | a134 | 4f ===
-I haven't seen mauri look
+I haven't seen Mauri look
 this happy since she and 
-ronfar...[BRK]
+Ronfar...[BRK]
 
-...oh, ronfar...
+...oh, Ronfar...
 [END]
 
 === 2b | a194 | 32 ===
 [POR05]
 You mean since the time she
-and i were in love?[END]
+and I were in love?[END]
 
 === 2c | a1da | 65 ===
-Ronfar and mauri truly
+Ronfar and Mauri truly
 belong together. [BRK]
 
-Hoohmmhmm...i wish i could
-find a man like ronfar
+Hoohmmhmm...I wish I could
+find a man like Ronfar
 someday...[END]
 
 === 2d | a24c | 90 ===
@@ -504,7 +504,7 @@ They're out there...[BRK]
 
 [POR02]
 Good thing they're not all
-just like ronfar, though.[BRK]
+just like Ronfar, though.[BRK]
 
 I don't think the world
 could take it.[END]
@@ -514,8 +514,8 @@ I don't understand why the
 grownups are so confused
 about the insanity.[BRK]
 
-The cleansing at serak
-palace is the cause![BRK]
+The cleansing at Serak
+Palace is the cause![BRK]
 
 I can tell the difference
 when people come back from
@@ -526,7 +526,7 @@ cleansing rites right away![END]
 
 === 2f | a3e6 | 70 ===
 When my turn comes to go to
-serak palace, i'm gonna
+Serak Palace, I'm gonna
 escape like logan did.[BRK]
 
 He wasn't gonna let them
@@ -541,16 +541,16 @@ wrong with it all along,
 but no one would listen![END]
 
 === 31 | a4f8 | 8b ===
-I think the cult of althena
+I think the Cult of Althena
 is actually going to change
 for the better.[BRK]
 
 Maybe now people will come
 to know the true teachings
-of althena...[END]
+of Althena...[END]
 
 === 32 | a596 | 5d ===
-Oh, ronfar! Thank althena
+Oh, Ronfar! Thank Althena
 you've returned![BRK]
 
 [POR05]
@@ -559,10 +559,10 @@ buddy? What's wrong?[END]
 
 === 33 | a60a | 99 ===
 There are those that say
-mauri is the high priestess
+Mauri is the high priestess
 of the cleansing.[BRK]
 
-But i don't think that mauri
+But I don't think that Mauri
 is capable of doing such a
 bad thing...[BRK]
 
@@ -579,7 +579,7 @@ Did you two have some sort
 of a fight?[BRK]
 
 [POR05]
-Oh no...leo! Don't do
+Oh no...Leo! Don't do
 anything stupid...
 
 [END]
@@ -594,7 +594,7 @@ crazy seemed normal again.[BRK]
 What was that light?[END]
 
 === 36 | a80c | cf ===
-Mauri came back to raculi
+Mauri came back to Raculi
 a while ago.[BRK]
 
 Gossip around town has it
@@ -602,30 +602,30 @@ that she's waiting for you
 to return.[BRK]
 
 You'd better not worry her,
-ronfar...[BRK]
+Ronfar...[BRK]
 
 [POR05]
 Thanks for the advice, but
-i think that's between mauri
+I think that's between Mauri
 and me![END]
 
 === 37 | a8f2 | 43 ===
 It's days like this that
 make me want to thank the
-goddess althena![END]
+Goddess Althena![END]
 
 === 38 | a948 | 90 ===
-You know, i've been
-wondering when ronfar and
-mauri are getting married.[BRK]
+You know, I've been
+wondering when Ronfar and
+Mauri are getting married.[BRK]
 
 Don't you think they've been
 engaged long enough? This
 is ridiculous...[END]
 
 === 39 | a9ec | d4 ===
-Hey, ronfar, don't you think
-you've kept mauri waiting
+Hey, Ronfar, don't you think
+you've kept Mauri waiting
 long enough?[BRK]
 
 Walk to the altar already!
@@ -634,7 +634,7 @@ woman slip your grip![BRK]
 
 [POR05]
 Hmm, gotcha, buddy. But ya
-know, i've gotta be ready
+know, I've gotta be ready
 for this...[END]
 
 === 3a | aace | 86 ===
@@ -654,7 +654,7 @@ cleansing.[BRK]
 
 He used to be nice, but now
 all he does is talk about
-some guy named zophar.[END]
+some guy named Zophar.[END]
 
 === 3c | ac0a | 79 ===
 My mom's got her hands full
@@ -680,7 +680,7 @@ came to that house.[BRK]
 
 Yep! She was a total babe,
 and she went in that house.
-Her name's mauri.[END]
+Her name's Mauri.[END]
 
 === 3f | add6 | f2 ===
 [POR10]
@@ -715,8 +715,8 @@ exhibitionist. Just what
 this town needs...[END]
 
 === 41 | afa4 | 13c ===
-I think i'm starting
-puberty, 'cause i got a big
+I think I'm starting
+puberty, 'cause I got a big
 zit.[BRK]
 
 [POR02]
@@ -739,13 +739,13 @@ hehe...really...um...nice.
 
 === 42 | b0f4 | 10a ===
 Oh my! Oh my! What will I
-do? What will i do?[BRK]
+do? What will I do?[BRK]
 
 Tomorrow's my cleansing! But
-if i go, i'm certain i'll
+if I go, I'm certain I'll
 return here insane![BRK]
 
-What shall i do?[BRK]
+What shall I do?[BRK]
 
 [POR02]
 Duh! I've got a brainstorm![BRK]
@@ -760,10 +760,10 @@ get you! Oh dear...
 
 === 43 | b216 | 87 ===
 This is just terrible...
-...terrible! What am i going
+...terrible! What am I going
 to do?[BRK]
 
-If i don't show up for my
+If I don't show up for my
 cleansing, the enforcers
 will come...oh dear...
 [END]
@@ -773,21 +773,21 @@ It was the strangest thing.
 There was this warm flash, 
 and everyone became normal.[BRK]
 
-I'm not sure, but i think
-the goddess may have saved
+I'm not sure, but I think
+the Goddess may have saved
 us...[END]
 
 === 45 | b35e | 42 ===
 I don't know how that light
-came about, but i am so very
+came about, but I am so very
 thankful![END]
 
 === 46 | b3b4 | 74 ===
 Did you hear? The cleansing
-at serak palace has been
+at Serak Palace has been
 abolished![BRK]
 
-It was just a way for zophar
+It was just a way for Zophar
 to brainwash followers![END]
 
 === 47 | b43c | 9d ===
@@ -796,35 +796,35 @@ speck on the map, but not
 any more.[BRK]
 
 This is the hometown of
-ronfar, leo, and mauri, who
+Ronfar, Leo, and Mauri, who
 saved our world![BRK]
 
 They made this town famous![END]
 
 === 48 | b4f0 | 44 ===
 Raculi is really popular now
-that ronfar, leo, and mauri
+that Ronfar, Leo, and Mauri
 are famous.[END]
 
 === 49 | b542 | 12d ===
 [POR07]
 Hey...this is perfect! If
-i can get those three to
-live in vane...[BRK]
+I can get those three to
+live in Vane...[BRK]
 
 ...it'll be a huge draw for
 tourists! I can see it now:[BRK]
 
-Mauri mugs, leo lights,
-ronfar rugs! It'll make a
+Mauri mugs, Leo lights,
+Ronfar rugs! It'll make a
 mint![BRK]
 
-And if i give them free
+And if I give them free
 rent...they'll come for
 sure![BRK]
 
 [POR02]
-Oh, lemina, don't you ever
+Oh, Lemina, don't you ever
 give up? Sheesh, give it a
 rest...
 [END]
@@ -835,7 +835,7 @@ Raculi [END]
 === 4b | c2be | 4d ===
 Hi! Hi! Come in! Come in!
 We've got many great things.
-What can i do for you?[END]
+What can I do for you?[END]
 
 === 4c | c314 | 2d ===
 Good-bye! Good-bye! Please
@@ -849,23 +849,23 @@ Oh, dear heavens! Ronfar, is
 it really you? You've been
 away so long![BRK]
 
-Have you seen mauri yet?
+Have you seen Mauri yet?
 She's changed a lot since
 you last saw her...[END]
 
 === 4f | ca3e | e3 ===
-Leo and mauri joined the
-althena cult. Leo seems
+Leo and Mauri joined the
+Althena Cult. Leo seems
 pretty much the same,[BRK]
 
-but mauri has changed quite
+but Mauri has changed quite
 radically, and not for the
-better, i'm afraid.[BRK]
+better, I'm afraid.[BRK]
 
 [POR05]
 Damn! This is all my fault.
 It's because of that potion
-i gave her, i'm sure!
+I gave her, I'm sure!
 [END]
 
 === 50 | cb34 | 67 ===
@@ -877,17 +877,17 @@ It's as if she just awoke
 from a bad dream...[END]
 
 === 51 | cbae | 78 ===
-If ronfar and mauri decide
-to live in raculi, this town
+If Ronfar and Mauri decide
+to live in Raculi, this town
 will be prosperous.[BRK]
 
 It seems both of them have
 very good luck...[END]
 
 === 52 | cc3a | cb ===
-Say, ronfar, how's things
+Say, Ronfar, how's things
 going between you and
-mauri?[BRK]
+Mauri?[BRK]
 
 [POR05]
 Like two lovebirds in a fur-
@@ -896,8 +896,8 @@ lined nest, buddy.[BRK]
 Heaven, man...heaven![BRK]
 
 She's paying so much
-attention to me i think
-leo's a little jealous.
+attention to me I think
+Leo's a little jealous.
 
 
 
@@ -915,15 +915,15 @@ you two![END]
 
 === 54 | cd58 | d1 ===
 Many of the people of the
-village have gone to serak
-palace to be cleansed.[BRK]
+village have gone to Serak
+Palace to be cleansed.[BRK]
 
 In fact, our daughter was
 called a short while ago.[BRK]
 
 I worry about her so much.
 Bad things are happening in
-that place...i've seen it.[END]
+that place...I've seen it.[END]
 
 === 55 | ce40 | 99 ===
 Our only daughter was called
@@ -945,9 +945,9 @@ I'm just beside myself with
 worry![END]
 
 === 57 | cf74 | 84 ===
-Thank althena! Our daughter
-finally came back from serak
-palace.[BRK]
+Thank Althena! Our daughter
+finally came back from Serak
+Palace.[BRK]
 
 She says she doesn't
 remember a thing after the
@@ -961,7 +961,7 @@ sound.[END]
 === 59 | d046 | ce ===
 The light that cured the
 villagers of their madness
-is the power of althena.[BRK]
+is the power of Althena.[BRK]
 
 My daughter says that is the
 power she would like to show
@@ -973,9 +973,9 @@ her...[END]
 
 === 5a | d128 | 80 ===
 After the cleansing ritual,
-i don't remember a thing.[BRK]
+I don't remember a thing.[BRK]
 
-All i remember was the warm,
+All I remember was the warm,
 gentle light that brought me
 back to reality.[END]
 
@@ -986,9 +986,9 @@ after the cleansing.[BRK]
 
 It was very strange...kind
 of like a blurry dream where
-i had no control.[BRK]
+I had no control.[BRK]
 
-Oohhh...i don't want to
+Oohhh...I don't want to
 think about it any more. I'm
 just glad to be back.
 [END]
@@ -999,23 +999,23 @@ astray for too long...[BRK]
 
 I've decided that my purpose
 is to tell others of the
-true teachings of althena.[END]
+true teachings of Althena.[END]
 
 === 5d | d334 | 11 ===
 Raculi mayor home[END]
 
 === 5e | d980 | 37f ===
 [POR05]
-...leo![BRK]
+...Leo![BRK]
 
 [POR00]
 [ROR09]
 I've been waiting for you,
-ronfar. It's good to see you
+Ronfar. It's good to see you
 again.[BRK]
 
 How many years has it been
-since you visited raculi?[BRK]
+since you visited Raculi?[BRK]
 
 I think the last time you
 were here was during the
@@ -1031,12 +1031,12 @@ The disease was terrible. It
 claimed the lives of every-
 one who caught it...[BRK]
 
-...except mauri.[BRK]
+...except Mauri.[BRK]
 
 [ROR00]
 [POR05]
 Leo...it was my fault...i
-...i gave her the potion
+...I gave her the potion
 that changed her...[BRK]
 
 [POR00]
@@ -1076,7 +1076,7 @@ Don't give me false hope![BRK]
 
 [ROR00]
 [POR05]
-But what, leo?! Don't leave
+But what, Leo?! Don't leave
 me hanging!!
 
 
@@ -1085,21 +1085,21 @@ me hanging!!
 
 === 5f | dd16 | 2f3 ===
 [POR05]
-Leo! Tell me how i can get
-mauri back to normal again![BRK]
+Leo! Tell me how I can get
+Mauri back to normal again![BRK]
 
 [POR00]
 [ROR09]
-Ronfar...you gave mauri the
+Ronfar...you gave Mauri the
 potion that would save her
 life...[BRK]
 
 But you couldn't have known
 what you gave her...[BRK]
 
-...so i'll tell you. Ronfar,
+...so I'll tell you. Ronfar,
 that drink was the blood
-of zophar.[BRK]
+of Zophar.[BRK]
 
 It saved her life, but made
 her a slave to the dark
@@ -1111,25 +1111,25 @@ enslaving them, too.[BRK]
 
 The only thing that can
 restore her to us is the
-power of althena.[BRK]
+power of Althena.[BRK]
 
-But now that mauri has
-sealed the power of the red
-dragon,[BRK]
+But now that Mauri has
+sealed the power of the Red
+Dragon,[BRK]
 
-althena's power cannot be
+Althena's power cannot be
 unleashed. The situation
 seems hopeless...[BRK]
 
 [ROR00]
 [POR05]
 There must be a way! I can't
-let mauri down again...[BRK]
+let Mauri down again...[BRK]
 
 [POR00]
 [ROR09]
 Unless you can unleash the
-red dragon's power, i don't
+Red Dragon's power, I don't
 see how you'll do it.[BRK]
 
 [ROR00]
@@ -1144,16 +1144,16 @@ and blocked it at the same
 time. Damn![BRK]
 
 There's got to be a way to
-unleash althena's power and
-save mauri![BRK]
+unleash Althena's power and
+save Mauri![BRK]
 
 [POR08]
-Ronfar, does the aura of
-althena really exist?[BRK]
+Ronfar, does the Aura of
+Althena really exist?[BRK]
 
 [POR05]
 Yes, it was rumored to be in
-serak palace...contained
+Serak Palace...contained
 within a stone.[BRK]
 
 It's supposed to be a very
@@ -1161,16 +1161,16 @@ powerful stone.[BRK]
 
 [POR08]
 Yes, the stone contains the
-essence of althena's power.[BRK]
+essence of Althena's power.[BRK]
 
 It might be enough to save
-mauri.[BRK]
+Mauri.[BRK]
 
 [POR05]
 Really? You think it's
 powerful enough?[BRK]
 
-And since althena's power
+And since Althena's power
 is sealed, will it work?[BRK]
 
 [POR08]
@@ -1178,33 +1178,33 @@ I don't know the answer to
 those questions.[BRK]
 
 But it's the only chance
-you've got, ronfar. You must
+you've got, Ronfar. You must
 at least try...[BRK]
 
-We must leave for serak
-palace at once!
+We must leave for Serak
+Palace at once!
 
 [END]
 
 === 61 | e2b6 | 152 ===
 [POR15]
-Oh, ronfar! I knew that you
+Oh, Ronfar! I knew that you
 would one day come to rescue
 me from that dark place.[BRK]
 
 Each day was an eternity as
-i was forced to do those
+I was forced to do those
 terrible things.[BRK]
 
-Believe me when i say that
-zophar's power is beyond
+Believe me when I say that
+Zophar's power is beyond
 description.[BRK]
 
 He can control minds![BRK]
 
 [POR05]
 We must find a way to defeat
-him, mauri. If he's allowed
+him, Mauri. If he's allowed
 to continue,[BRK]
 
 he'll destroy us all!
@@ -1213,10 +1213,10 @@ he'll destroy us all!
 
 === 62 | e428 | d4 ===
 [POR15]
-Ronfar, i pray for your safe
+Ronfar, I pray for your safe
 return to me one day.[BRK]
 
-Know that i will always love
+Know that I will always love
 you...[BRK]
 
 [POR05]
@@ -1224,8 +1224,8 @@ I'll be back for you in
 two shakes of an old dog's
 leg, sugar-snap![BRK]
 
-Once we defeat this zophar
-dude, i'm allllll yours![END]
+Once we defeat this Zophar
+dude, I'm allllll yours![END]
 
 === 63 | e514 | f3 ===
 [POR15]
@@ -1234,8 +1234,8 @@ victorious from this dark
 hour...[BRK]
 
 You have the light of
-althena to guide you through
-zophar's darkness.[BRK]
+Althena to guide you through
+Zophar's darkness.[BRK]
 
 He can try to cloud your
 vision, but he cannot darken
@@ -1249,11 +1249,11 @@ true to yourself...
 === 64 | e614 | 15 ===
 [POR08]
 ....
-.....mauri...[END]
+.....Mauri...[END]
 
 === 65 | e644 | 7e ===
 [POR15]
-Ha! Hiro...and ruby! You two
+Ha! Hiro...and Ruby! You two
 are certainly a sight for
 sore eyes![BRK]
 
@@ -1266,7 +1266,7 @@ world?[END]
 Leo...brother...[BRK]
 
 [POR09]
-Mauri, i know we've had our
+Mauri, I know we've had our
 differences in the past,
 but...[BRK]
 
@@ -1286,23 +1286,23 @@ I don't deserve the
 forgiveness you give so
 easily,[BRK]
 
-but i will accept it. Thank
+but I will accept it. Thank
 you...
 [END]
 
 === 67 | e846 | 2cf ===
 [POR15]
 Leo, please consider staying
-here with us in raculi.[BRK]
+here with us in Raculi.[BRK]
 
 We can always use another
 skilled hand in the village.[BRK]
 
 [POR09]
-Give me time, mauri.
+Give me time, Mauri.
 Adventuring is in my soul.[BRK]
 
-I don't know if i can give
+I don't know if I can give
 it all up and settle down.[BRK]
 
 [POR15]
@@ -1310,7 +1310,7 @@ it all up and settle down.[BRK]
 .....[BRK]
 
 [POR09]
-Oh, mauri! You're giving me
+Oh, Mauri! You're giving me
 that look again![BRK]
 
 Don't worry! I'm fine. I
@@ -1324,8 +1324,8 @@ all out...[BRK]
 I can promise you one thing,
 though.[BRK]
 
-If you and ronfar have a
-little one, i'll be back
+If you and Ronfar have a
+little one, I'll be back
 to baby-sit in a second![BRK]
 
 I want to see what kind of
@@ -1334,7 +1334,7 @@ Ha ha ha![BRK]
 
 [POR15]
 Well, if that's the best I
-can get, i'll take it.[BRK]
+can get, I'll take it.[BRK]
 
 Just know that we're always
 here for you...[BRK]
@@ -1354,11 +1354,11 @@ gambler's got any idea
 how...[BRK]
 
 [POR05]
-I'll make an effort, leo.[BRK]
+I'll make an effort, Leo.[BRK]
 
 [POR02]
 I think the biggest effort
-will be getting mauri to
+will be getting Mauri to
 buy his act...[BRK]
 
 ...when she finds out his
@@ -1369,22 +1369,22 @@ Ha ha ha![END]
 
 === 69 | ec88 | 15f ===
 [POR15]
-Hiro, i know that you and
-lucia care for one another.[BRK]
+Hiro, I know that you and
+Lucia care for one another.[BRK]
 
 And as one who was torn
-from her true love, i know
+from her true love, I know
 that pain.[BRK]
 
-If ronfar hadn't come in
-my darkest hour, i don't
-know if i...[BRK]
+If Ronfar hadn't come in
+my darkest hour, I don't
+know if I...[BRK]
 
 [POR05]
-...mauri.[BRK]
+...Mauri.[BRK]
 
 [POR15]
-Please, hiro, go to lucia.
+Please, Hiro, go to Lucia.
 You are the one she wants.[BRK]
 
 You hold the key to the
@@ -1399,14 +1399,14 @@ Go...
 === 6a | ee06 | bf ===
 [POR15]
 Say, have you any idea where
-my brother leo has run off
+my brother Leo has run off
 to?[BRK]
 
 I know he said he'd be fine,
-but i worry...[BRK]
+but I worry...[BRK]
 
 [POR05]
-Don't worry, mauri. He said
+Don't worry, Mauri. He said
 he'd be back, and he's never
 gone back on his word...[END]
 
@@ -1414,38 +1414,38 @@ gone back on his word...[END]
 [POR05]
 Hiro...buddy! Long time no
 see! Say, what brings you
-back to raculi?[BRK]
+back to Raculi?[BRK]
 
-Oh, i see...the old ruins,
+Oh, I see...the old ruins,
 hm? Why do you want to find
-them? And where's lucia?[BRK]
+them? And where's Lucia?[BRK]
 
 Holy cow! She left you? Well
-now, i never saw that one
+now, I never saw that one
 coming![BRK]
 
 You musta had some fight for
-her to go back to the blue
-star![BRK]
+her to go back to the Blue
+Star![BRK]
 
 You know, she loves you,
 kiddo.[BRK]
 
 And for the sake of true
-love, i'll help anyone out.
+love, I'll help anyone out.
 So are you asking for help?
 
 
 [END]
 
 === 6c | f0b0 | 2c ===
-[0x5]No, mauri needs you.
+[0x5]No, Mauri needs you.
 Yes! I need your help![END]
 
 === 6d | f0ec | a0 ===
 [POR05]
 Well, if you're concerned
-about mauri's welfare, why'd
+about Mauri's welfare, why'd
 you come here?[BRK]
 
 I mean, were you just
@@ -1457,19 +1457,19 @@ mind![END]
 
 === 6e | f1a2 | 158 ===
 [POR05]
-Okay, i'm ready to help you
+Okay, I'm ready to help you
 out. I just need to say bye
-to mauri.[BRK]
+to Mauri.[BRK]
 
 [POR15]
-Oh, ronfar, off again?[BRK]
+Oh, Ronfar, off again?[BRK]
 
 [POR05]
 Dumplin', if he wasn't the
 greatest guy in the world,
-i wouldn't go.[BRK]
+I wouldn't go.[BRK]
 
-But he is, and i've got to
+But he is, and I've got to
 help him out. I'll be back
 before you know it.[BRK]
 
@@ -1478,13 +1478,13 @@ Well then, good luck, sugar
 buns. I'll be waiting.[BRK]
 
 [POR05]
-Okay, hiro, ya got a hired
+Okay, Hiro, ya got a hired
 hand in your party![END]
 
 === 6f | f322 | 91 ===
 [POR05]
-Hey, kiddo, i want you to
-know mauri wouldn't have
+Hey, kiddo, I want you to
+know Mauri wouldn't have
 let me go if it wasn't...[BRK]
 
 ...for a very old friend.
@@ -1493,62 +1493,62 @@ Ha ha ha!
 [END]
 
 === 70 | f3bc | 13 ===
-Raculi mauri's home[END]
+Raculi Mauri's home[END]
 
 === 71 | fa02 | 75 ===
 Grrrr....ooooohhh...grrrr
-...ahhhh....lord zophar!
+...ahhhh....Lord Zophar!
 ...ooooo...[BRK]
 
 [POR08]
 This boy has been overtaken
-by the power of zophar![END]
+by the power of Zophar![END]
 
 === 72 | fa84 | 4f ===
 [POR08]
-If we don't find althena's
+If we don't find Althena's
 aura stone soon, his mind
 will be gone forever...[END]
 
 === 73 | faea | 99 ===
-Wha...what am i doing back
+Wha...what am I doing back
 here in my house?[BRK]
 
-The last thing i remember
-was that i was about to
+The last thing I remember
+was that I was about to
 start my cleansing...[BRK]
 
 ...after that, everything's
 a blank.[END]
 
 === 74 | fb9e | 7b ===
-I-it...was like i was in a
+I-it...was like I was in a
 bad dream. A voice kept
-saying 'zophar,' [BRK]
+saying 'Zophar,' [BRK]
 
-And all i could see was a
-dark fog wherever i looked.
+And all I could see was a
+dark fog wherever I looked.
 [END]
 
 === 75 | fc28 | 88 ===
-You know, even when i was
-under zophar's control, I
+You know, even when I was
+under Zophar's control, I
 was looking for light.[BRK]
 
-Maybe althena gave me the
+Maybe Althena gave me the
 desire to break free from
-zophar...[END]
+Zophar...[END]
 
 === 76 | fcc0 | fd ===
 My son is an eager follower
-of the althena cult members.[BRK]
+of the Althena Cult members.[BRK]
 
 But if you ask me, they're
 nothin' but trouble![BRK]
 
 There's somethin' wrong
 about that 'cleansing'
-ritual, i just know it...[BRK]
+ritual, I just know it...[BRK]
 
 After my son returned from
 his, he's been babbling
@@ -1556,7 +1556,7 @@ nothin' but nonsense...
 [END]
 
 === 77 | fdd0 | 66 ===
-Oh! Thank althena! My son is
+Oh! Thank Althena! My son is
 back to normal! This is a
 miracle![BRK]
 
@@ -1565,10 +1565,10 @@ to normal.[END]
 
 === 78 | fe46 | b3 ===
 My son hasn't given up
-believing in the goddess,[BRK]
+believing in the Goddess,[BRK]
 
 but he has sworn off the
-rites of the althena cult.[BRK]
+rites of the Althena Cult.[BRK]
 
 I sleep much better at night
 knowing he's not hanging

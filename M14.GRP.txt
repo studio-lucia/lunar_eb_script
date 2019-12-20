@@ -7,8 +7,8 @@ Katarina zone east[END]
 
 === 1 | 156e2 | 160 ===
 [POR07]
-In the days before ghaleon,
-vane used to float high
+In the days before Ghaleon,
+Vane used to float high
 above the land.[BRK]
 
 The only entrance was by
@@ -17,11 +17,11 @@ fountain of transfer.[BRK]
 
 Fortunately, it still works!
 We can use it as our own
-private backdoor into vane![BRK]
+private backdoor into Vane![BRK]
 
-I, lemina, junior premier
-of the magic guild of vane,
-daughter of miria, [BRK]
+I, Lemina, Junior Premier
+of the Magic Guild of Vane,
+daughter of Miria, [BRK]
 
 call upon the power of
 old to manifest itself
@@ -35,7 +35,7 @@ Ha! Mega-magical! It
 actually worked![BRK]
 
 This is the first
-opportunity i've had
+opportunity I've had
 to try that![END]
 
 === 3 | 158bc | 99 ===
@@ -51,10 +51,10 @@ even works anymore...[END]
 
 === 4 | 15968 | 8d ===
 The transport spring can
-lead you to vane,[BRK]
+lead you to Vane,[BRK]
 
 but it will first take you
-to the cave of trial.[BRK]
+to the Cave of Trial.[BRK]
 
 If your magic skills are
 weak, don't even try it![END]

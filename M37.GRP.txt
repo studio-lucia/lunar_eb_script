@@ -15,7 +15,7 @@ I'm sorry, but this room
 is off-limits to commoners.[BRK]
 
 You cannot enter this room
-without lord leo's direct
+without Lord Leo's direct
 order.[END]
 
 === 2 | 1707a | 5b ===
@@ -26,7 +26,7 @@ And i, for one, will not
 let him down.[END]
 
 === 3 | 170e4 | f2 ===
-Lord leo is relentless when
+Lord Leo is relentless when
 he has been given an
 assignment.[BRK]
 
@@ -48,7 +48,7 @@ already...
 I really need a vacation. [BRK]
 
 I've been working day and
-night helping leo for what
+night helping Leo for what
 seems like forever![BRK]
 
 His passion for his work is
@@ -59,55 +59,55 @@ I really don't have the
 mental fortitude to under-
 stand what's going on.[BRK]
 
-But i guess that's how
-lord leo likes it.[BRK]
+But I guess that's how
+Lord Leo likes it.[BRK]
 
 He only enlisted me because
-i'm an awesome swordsman.[END]
+I'm an awesome swordsman.[END]
 
 === 6 | 17350 | 9d ===
-Since i've been fighting 
-alongside leo, we've never
+Since I've been fighting 
+alongside Leo, we've never
 lost a battle.[BRK]
 
-In fact, i kinda have this
+In fact, I kinda have this
 superstition...[BRK]
 
 As long as we're winning,
-i don't take a bath.[END]
+I don't take a bath.[END]
 
 === 7 | 17414 | d ===
 Donated 100s![END]
 
 === 8 | 17446 | e ===
-White tower 1f[END]
+White tower 1F[END]
 
 === 9 | 17cc2 | e ===
-White tower 2f[END]
+White tower 2F[END]
 
 === a | 18556 | e ===
-White tower 3f[END]
+White tower 3F[END]
 
 === b | 18df4 | e ===
-White tower 4f[END]
+White tower 4F[END]
 
 === c | 19688 | e ===
-White tower 5f[END]
+White tower 5F[END]
 
 === d | 19f44 | 22 ===
 [POR02]
-...hiro! Are you 
+...Hiro! Are you 
 all right??!
 [END]
 
 === e | 19f86 | cd ===
 [POR02]
-Man, i guess ghaleon is more
+Man, I guess Ghaleon is more
 powerful than we thought![BRK]
 
-I knew that leo was a no-
+I knew that Leo was a no-
 good traitor! He's working
-for that evil althena![BRK]
+for that evil Althena![BRK]
 
 We've got to find a way to
 get out of here...[BRK]
@@ -117,20 +117,20 @@ get out of here...[BRK]
 
 === f | 1a06e | 162 ===
 [POR02]
-...lucia?[BRK]
+...Lucia?[BRK]
 
 I don't know what happened
-to lucia. [BRK]
+to Lucia. [BRK]
 
-The last time i saw her, she
+The last time I saw her, she
 was laid out on the floor of
-althena's audience chamber.[BRK]
+Althena's audience chamber.[BRK]
 
-Hiro...i hope she's all
+Hiro...I hope she's all
 right![BRK]
 
-If the goddess really is
-a fake like lucia said,
+If the Goddess really is
+a fake like Lucia said,
 we're all in big trouble![BRK]
 
 [POR01]
@@ -155,32 +155,32 @@ find the others![BRK]
 ...you there! Listen up![BRK]
 
 I've come to rescue you.
-Do as i say and we'll all
+Do as I say and we'll all
 get out of here alive![BRK]
 
 Now then, follow me![BRK]
 
 [POR02]
-L-le...leo! What are you
+L-le...Leo! What are you
 doing here?[BRK]
 
 I thought you were the
 servant of that no-good
-phony althena!?[BRK]
+phony Althena!?[BRK]
 
 What are you doing trying
 to help us?[BRK]
 
 [POR13]
-Uh...er...i am not white
-knight leo.[BRK]
+Uh...er...I am not White
+Knight Leo.[BRK]
 
 I...am...i...am...[BRK]
 
 ....
 .....uh....[BRK]
 
-...i'm mystere! Protector
+...I'm Mystere! Protector
 of the innocent and...uh...
 defender of truth![BRK]
 
@@ -192,13 +192,13 @@ or your lives will be lost![BRK]
 .....[BRK]
 
 [POR02]
-Come on, leo! Knock off the
+Come on, Leo! Knock off the
 party games and tell us
 what's really happening![BRK]
 
 [POR13]
-Silence, cat! I am mystere.
-I know not the 'leo' of
+Silence, cat! I am Mystere.
+I know not the 'Leo' of
 which you speak![BRK]
 
 [POR02]
@@ -207,32 +207,32 @@ get it. Whatever...[BRK]
 
 [POR13]
 My true identity shall
-remain a secret, but i have
+remain a secret, but I have
 knowledge to impart to you.[BRK]
 
 Listen very carefully...[BRK]
 
 There are four towers in
-pentagulia, each with a
+Pentagulia, each with a
 prison on the top floor.[BRK]
 
 They are connected by an
 underground network of
 passages.[BRK]
 
-You are in the white tower.
+You are in the White Tower.
 Your friends lie in the
 other towers.[BRK]
 
-But i have no information
-on the girl you call lucia.[BRK]
+But I have no information
+on the girl you call Lucia.[BRK]
 
 Since she tried to murder
-the goddess, her fate is
+the Goddess, her fate is
 probably execution.[BRK]
 
 I will help you release
-ronfar and the two girls
+Ronfar and the two girls
 from their cells.[BRK]
 
 What you do after that is
@@ -249,7 +249,7 @@ escapes us!
 [END]
 
 === 11 | 1a70c | e ===
-White tower 6f[END]
+White tower 6F[END]
 
 === 12 | 1b0a6 | 72 ===
 [POR09]
@@ -273,5 +273,5 @@ Yes! This is the secret
 exit![END]
 
 === 15 | 1b1c6 | 10 ===
-Under pentagulia[END]
+Under Pentagulia[END]
 

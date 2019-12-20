@@ -7,23 +7,23 @@ Messages: 23
 Man! This town is nothing
 but locked tower doors![BRK]
 
-Forget it, hiro. This door
+Forget it, Hiro. This door
 ain't budging.[END]
 
 === 1 | 18000 | 1ca ===
 [POR16]
 Ah! It's been some time
 since our last encounter,
-jean.[BRK]
+Jean.[BRK]
 
 What brings you all the
-way to pentagulia?[BRK]
+way to Pentagulia?[BRK]
 
 [POR00]
 [0xB][0][0x3][ROR10]
 ...it's this mask. I took
 it from the leader of the
-blue dragon cult.[BRK]
+Blue Dragon Cult.[BRK]
 
 [ROR00]
 [POR16]
@@ -34,7 +34,7 @@ look at the leader?[BRK]
 [POR00]
 [ROR10]
 No, he covered his face
-before i could get a look
+before I could get a look
 at it.[BRK]
 
 He was in such a hurry to
@@ -42,12 +42,12 @@ get away, though, that
 he dropped the mask.[BRK]
 
 His voice seemed so very
-familiar...but i can't
+familiar...but I can't
 put my finger on it...
 [END]
 
 === 2 | 181ea | 98 ===
-Master lunn is a very
+Master Lunn is a very
 busy man.[BRK]
 
 No one ever gets to spend
@@ -60,7 +60,7 @@ rest...[END]
 
 === 3 | 18296 | b0 ===
 With all the traveling that
-lunn does,[BRK]
+Lunn does,[BRK]
 
 he's earned enough frequent
 sailing miles to the travel
@@ -80,22 +80,22 @@ use them...???
 === 4 | 18356 | df ===
 Lunn uses us merely as
 sparring partners while
-he's here in pentagulia.[BRK]
+he's here in Pentagulia.[BRK]
 
 Just between you and me...[BRK]
 
 I'm tired of being a
 punching bag...[BRK]
 
-If this is what i've got
+If this is what I've got
 to do to be a member of
-lunn's karate team,[BRK]
+Lunn's karate team,[BRK]
 
-...i'm gonna quit![END]
+...I'm gonna quit![END]
 
 === 5 | 18448 | 88 ===
 I'm beginning to think that
-lunn likes beating up poor,
+Lunn likes beating up poor,
 weak slobs like myself...[BRK]
 
 ...he gets some kind of
@@ -103,7 +103,7 @@ perverse pleasure out of
 it...[END]
 
 === 6 | 184e0 | c3 ===
-Years ago, lunn was trying
+Years ago, Lunn was trying
 to develop a new type of
 martial art...[BRK]
 
@@ -130,11 +130,11 @@ them mercilessly.[END]
 === 8 | 1866c | 8b ===
 Many of the priests say
 they're interested in
-master lunn's honesty.[BRK]
+Master Lunn's honesty.[BRK]
 
 I think they're interested
 in the taxes he collects for
-the goddess...[END]
+the Goddess...[END]
 
 === 9 | 1870a | 30 ===
 Lunn sure has an impressive
@@ -144,34 +144,34 @@ physique up close...[END]
 Blue tower stairs[END]
 
 === b | 18fba | d ===
-Blue tower 2f[END]
+Blue tower 2F[END]
 
 === c | 19892 | d ===
-Blue tower 3f[END]
+Blue tower 3F[END]
 
 === d | 1a148 | d ===
-Blue tower 4f[END]
+Blue tower 4F[END]
 
 === e | 1aa32 | 2e7 ===
 [POR09]
 I've been following your
 progress. Good work![BRK]
 
-Don't worry, i won't tell
+Don't worry, I won't tell
 anyone that you've escaped.[BRK]
 
-In fact, i believe we must
+In fact, I believe we must
 work together to discover
 what's going on here.[BRK]
 
 I believe that an evil
-lurks within althena's
+lurks within Althena's
 organization,[BRK]
 
-and i must find it![BRK]
+and I must find it![BRK]
 
 Our first order of business
-must be to find lucia and
+must be to find Lucia and
 hear her story.[BRK]
 
 I believe that she is being
@@ -191,12 +191,12 @@ Let's go.[BRK]
 Leo, these costume changes
 are getting kind of old.[BRK]
 
-Are you going to be leo
+Are you going to be Leo
 for a while, now?[BRK]
 
 [POR09]
 What have you been sniffin',
-ronfar?[BRK]
+Ronfar?[BRK]
 
 There's never been any
 disguises...[BRK]
@@ -208,7 +208,7 @@ Lucia's life hangs in the
 balance![END]
 
 === f | 1ad28 | d ===
-Blue tower 5f[END]
+Blue tower 5F[END]
 
 === 10 | 1b5de | 23b ===
 [POR10]
@@ -221,54 +221,54 @@ me in that cell![BRK]
 I was hoping you were all
 okay![BRK]
 
-Say, what's leo doing with
+Say, what's Leo doing with
 you?[BRK]
 
 Isn't he working for the
-goddess?[BRK]
+Goddess?[BRK]
 
 [POR02]
 Uh, well, yes and no.[BRK]
 
 Near as we can tell, this
 is some sort of party game
-leo's playing.[BRK]
+Leo's playing.[BRK]
 
 He's dressed up and calls
-himself 'mystere.'[BRK]
+himself 'Mystere.'[BRK]
 
 He's the one that rescued
-hiro and me from the cell
+Hiro and me from the cell
 first![BRK]
 
 [POR10]
-All right, then, mystere it
+All right, then, Mystere it
 is![BRK]
 
 Listen, some really bad
 stuff is going on here.[BRK]
 
-When i went to see master
-lunn to report on the blue
-dragon cult,[BRK]
+When I went to see Master
+Lunn to report on the Blue
+Dragon Cult,[BRK]
 
-i discovered something very
+I discovered something very
 interesting...[END]
 
 === 11 | 1b826 | 7e7 ===
 [POR16]
 Ah! It's been some time
 since our last encounter,
-jean.[BRK]
+Jean.[BRK]
 
 What brings you all the
-way to pentagulia?[BRK]
+way to Pentagulia?[BRK]
 
 [POR00]
 [0xB][0][0x3][ROR10]
 ...it's this mask. I took
 it from the leader of the
-blue dragon cult.[BRK]
+Blue Dragon Cult.[BRK]
 
 [ROR00]
 [POR16]
@@ -279,7 +279,7 @@ look at the leader?[BRK]
 [POR00]
 [ROR10]
 No, he covered his face
-before i could get a look
+before I could get a look
 at it.[BRK]
 
 He was in such a hurry to
@@ -287,12 +287,12 @@ get away, though, that
 he dropped the mask.[BRK]
 
 His voice seemed so very
-familiar...but i can't
+familiar...but I can't
 put my finger on it...[BRK]
 
 [ROR00]
 [POR16]
-Ha, ha, ha...jean, you
+Ha, ha, ha...Jean, you
 always were my best student.[BRK]
 
 But you never knew when to
@@ -308,7 +308,7 @@ enough alone...[BRK]
 .....[BRK]
 
 ...it was you! You are the
-leader of the cult![BRK]
+leader of the Cult![BRK]
 
 [ROR00]
 [POR16]
@@ -335,7 +335,7 @@ assassin for your corrupt
 cause![BRK]
 
 You stole my childhood,
-lunn.[BRK]
+Lunn.[BRK]
 
 I'll never forgive you
 for that![BRK]
@@ -345,7 +345,7 @@ for that![BRK]
 'Never' is such a strong
 word.[BRK]
 
-Think about it, jean! I
+Think about it, Jean! I
 molded you into what you
 are today![BRK]
 
@@ -357,13 +357,13 @@ You molded me into what?[BRK]
 
 An emotional wreck who is
 always running from a past
-i don't understand?[BRK]
+I don't understand?[BRK]
 
 ...or maybe a trained
 killer who can never live
 a normal life?[BRK]
 
-You took everything i had,
+You took everything I had,
 and gave me nothing in
 return.[BRK]
 
@@ -379,7 +379,7 @@ away with no remorse.[BRK]
 
 [ROR00]
 [POR16]
-Jean...jean...you make it
+Jean...Jean...you make it
 sound so...harsh.[BRK]
 
 I did care about you. Your
@@ -406,7 +406,7 @@ You must be stopped.[BRK]
 
 [ROR00]
 [POR16]
-Well then, jean. The time
+Well then, Jean. The time
 has come for your final
 lesson.[BRK]
 
@@ -420,7 +420,7 @@ be...
 
 === 12 | 1c010 | 63 ===
 [ROR10]
-...i don't believe...[BRK]
+...I don't believe...[BRK]
 
 ...your karate has...grown
 ...so....strong...[BRK]
@@ -431,24 +431,24 @@ Lunn...you...you...can't...
 === 13 | 1c082 | e4 ===
 [POR10]
 ...and the next thing I
-knew, i was in this cell.[BRK]
+knew, I was in this cell.[BRK]
 
 We have to find a way to
-stop lunn![BRK]
+stop Lunn![BRK]
 
 He can't be allowed to
 continue stealing the
 innocence of children.[BRK]
 
-His newer, stronger black
-karate of death cannot be
+His newer, stronger Black
+Karate of Death cannot be
 allowed to spread.
 [END]
 
 === 14 | 1c17e | 85 ===
 [POR13]
 Okay, now that the tearful
-reunion is finished, i've
+reunion is finished, I've
 finished my task.[BRK]
 
 ....
@@ -460,8 +460,8 @@ up to you. Good luck![END]
 === 15 | 1c20c | 1b2 ===
 [POR02]
 I don't know what we would
-have done if leo...uh...
-mystere hadn't come.[BRK]
+have done if Leo...uh...
+Mystere hadn't come.[BRK]
 
 I'm certain he saved our
 lives.[BRK]
@@ -471,22 +471,22 @@ that he thinks he's fooling
 us with that mask.[BRK]
 
 [POR05]
-If members of althena's 
+If members of Althena's 
 cult knew that he was 
 helping us...[BRK]
 
 They would not only kill
-him, but mauri as well.[BRK]
+him, but Mauri as well.[BRK]
 
 I think he realized that
 this was the only way
 he could help us.[BRK]
 
 He has a good heart. I
-just hope he leaves the cult
+just hope he leaves the Cult
 before it's too late...
 [END]
 
 === 16 | 1c3f4 | d ===
-Blue tower 6f[END]
+Blue tower 6F[END]
 

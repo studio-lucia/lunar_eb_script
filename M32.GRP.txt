@@ -8,7 +8,7 @@ Donated 100s![END]
 === 1 | 15d56 | c2 ===
 [POR09]
 We must wait here for our
-audience with the goddess.
+audience with the Goddess.
 She will arrive shortly,[BRK]
 
 but there's no way of
@@ -23,10 +23,10 @@ seeing.[END]
 === 2 | 15e2c | 68 ===
 [POR09]
 I just received word that
-the goddess is prepared for
-your audience, lucia.[BRK]
+the Goddess is prepared for
+your audience, Lucia.[BRK]
 
-Shall i guide you inside?[END]
+Shall I guide you inside?[END]
 
 === 3 | 15e98 | 24 ===
 [0x5]No thank you!
@@ -35,33 +35,33 @@ Yes, please guide us.[END]
 === 4 | 15ecc | 163 ===
 [POR01]
 I think we can find the
-goddess ourselves. Thanks
-anyway, leo.[BRK]
+Goddess ourselves. Thanks
+anyway, Leo.[BRK]
 
 [POR02]
-Are you nuts, hiro? Half the
+Are you nuts, Hiro? Half the
 time you can't find the way
 outta your bedroom![BRK]
 
 [POR08]
-Don't worry, ruby, i believe
-that i can assist hiro in
-finding the goddess.[BRK]
+Don't worry, Ruby, I believe
+that I can assist Hiro in
+finding the Goddess.[BRK]
 
-Besides, i would like to see
-more of pentagulia anyway.[BRK]
+Besides, I would like to see
+more of Pentagulia anyway.[BRK]
 
-Once i've seen the goddess,
-i may not be able to come
+Once I've seen the Goddess,
+I may not be able to come
 back...[BRK]
 
 [POR01]
-...lucia?[END]
+...Lucia?[END]
 
 === 5 | 16040 | 132 ===
 [POR01]
 Leo, please take us to the
-goddess.[BRK]
+Goddess.[BRK]
 
 Lucia, aren't you happy?
 Your quest is nearly at an
@@ -71,32 +71,32 @@ end![BRK]
 ....
 .....[BRK]
 
-But if i do see...
-...then hiro and....
+But if I do see...
+...then Hiro and....
 no! I must go...[BRK]
 
 ....
 .....[BRK]
 
-This is the moment i have
-sought since i came to your
+This is the moment I have
+sought since I came to your
 world.[BRK]
 
 The time is upon us. Let's
 go...[BRK]
 
 [POR09]
-Hiro, lucia, please follow
+Hiro, Lucia, please follow
 me.
 [END]
 
 === 6 | 1617c | a4 ===
 [POR09]
-Goddess althena, your humble
+Goddess Althena, your humble
 servant has returned from
 afar.[BRK]
 
-And i have brought lucia
+And I have brought Lucia
 back with me.[BRK]
 
 She wishes to speak with
@@ -122,7 +122,7 @@ Perhaps a little...er...
 ...creative redirection is
 in order...[BRK]
 
-Hold on, dear lucia. I'm
+Hold on, dear Lucia. I'm
 afraid it's going to be a
 bumpy ride...[BRK]
 
@@ -136,13 +136,13 @@ Hm, hm, hm, hm, hm...
 
 === 8 | 16382 | e ===
 [POR01]
-...lucia!!
+...Lucia!!
 [END]
 
 === 9 | 1639a | 2df ===
 [POR18]
 Ha ha ha ha! Excellent work,
-ghaleon![BRK]
+Ghaleon![BRK]
 
 Your superb work is an honor
 to my name![BRK]
@@ -156,11 +156,11 @@ These humans are about as
 dangerous as raindrops.[BRK]
 
 [POR09]
-...ghaleon! What...what
+...Ghaleon! What...what
 just happened?[BRK]
 
 [POR18]
-Ah, leo! I am beginning to
+Ah, Leo! I am beginning to
 question your motivation.[BRK]
 
 This destroyer was clearly
@@ -173,7 +173,7 @@ intent?[BRK]
 No...i...![BRK]
 
 [POR14]
-Perhaps our good lord leo
+Perhaps our good Lord Leo
 is a bit too...er...good
 for his own welfare.[BRK]
 
@@ -189,14 +189,14 @@ loyalty![BRK]
 
 There is no one living that
 can turn me away from
-serving the goddess![BRK]
+serving the Goddess![BRK]
 
-Just wait...i will prove
+Just wait...I will prove
 my worth![BRK]
 
 [POR14]
 Hm, hm, hm, hm...oh,
-i can't wait to see this.
+I can't wait to see this.
 
 
 [END]
@@ -204,7 +204,7 @@ i can't wait to see this.
 === a | 16696 | d7 ===
 I've heard that you are
 thinking about relocating
-to pentagulia soon.[BRK]
+to Pentagulia soon.[BRK]
 
 Perhaps we can get together
 and discuss philosophy
@@ -217,7 +217,7 @@ to this creepy joint!
 [END]
 
 === b | 16780 | 49 ===
-Goddess althena watches out
+Goddess Althena watches out
 for all those that follow
 her pure teachings.[END]
 
@@ -228,15 +228,15 @@ to ward off the destroyer.[BRK]
 ....
 .....[BRK]
 
-You know, i've heard that
-zophar is trying to revive
+You know, I've heard that
+Zophar is trying to revive
 himself...[BRK]
 
 If that's true, we're all
 in for one wild ride![END]
 
 === d | 1688e | 6f ===
-Only ghaleon and althena
+Only Ghaleon and Althena
 are allowed to enter the
 second floor sanctuary.[BRK]
 
@@ -255,7 +255,7 @@ them.[END]
 === f | 16986 | 8c ===
 Hey...you![BRK]
 
-Where's lord leo?[BRK]
+Where's Lord Leo?[BRK]
 
 You shouldn't just walk 
 around here unsupervised.[BRK]
@@ -270,10 +270,10 @@ my meaning.
 === 10 | 16a22 | 8a ===
 The second floor of this
 sanctuary is the most secret
-place in pentagulia.[BRK]
+place in Pentagulia.[BRK]
 
 I'm dying to know what's up
-there, but i'm afraid I
+there, but I'm afraid I
 never will.[END]
 
 === 11 | 16ac0 | af ===
@@ -286,7 +286,7 @@ Pah! What do you take me
 for, a fool?!![BRK]
 
 I am under direct orders
-from the goddess to bring
+from the Goddess to bring
 them to her.[END]
 
 === 12 | 16b7e | 3e ===
@@ -301,20 +301,20 @@ Pentagulia shr. 1F[END]
 
 === 14 | 185de | 40e ===
 [POR18]
-How dare you say that i'm
-not the goddess althena![BRK]
+How dare you say that I'm
+not the Goddess Althena![BRK]
 
 Do you not know that I
-control the four dragons, 
+control the Four Dragons, 
 the four heroes,[BRK]
 
-and the dragonmaster? I have
+and the Dragonmaster? I have
 proven to all these people
-that i'm althena.[BRK]
+that I'm Althena.[BRK]
 
 I have youth and beauty.[BRK]
 
-I am the goddess![BRK]
+I am the Goddess![BRK]
 
 [POR08]
 Your actions are not those
@@ -325,14 +325,14 @@ Ha ha ha, you fool! How do
 know how a goddess is to
 act?[BRK]
 
-The fact that i stand before
+The fact that I stand before
 you should be proof enough.[BRK]
 
 [POR08]
 ....
 .....[BRK]
 
-...i won't believe it![BRK]
+...I won't believe it![BRK]
 
 [POR18]
 Oh, but darling...you have
@@ -340,11 +340,11 @@ no choice![BRK]
 
 And the time has come for
 me to show you how truly
-powerful i've become![BRK]
+powerful I've become![BRK]
 
-Even ghaleon has been 
+Even Ghaleon has been 
 reborn to protect and to
-serve the goddess...[BRK]
+serve the Goddess...[BRK]
 
 [POR08]
 Yes, but by whose authority?
@@ -356,23 +356,23 @@ copped an attitude...how
 endearing.[BRK]
 
 [POR18]
-Silence, ghaleon! I can
+Silence, Ghaleon! I can
 handle this.[BRK]
 
-...well, lucia.[BRK]
+...well, Lucia.[BRK]
 
 The time has come for you
 to give of yourself for the
-honor of althena.[BRK]
+honor of Althena.[BRK]
 
 Soon we will extract your
-power, and i will finally
+power, and I will finally
 achieve eternal youth![BRK]
 
 Unfortunately, your life
 will also end.[BRK]
 
-Enjoy this time, lucia. It's
+Enjoy this time, Lucia. It's
 all you have left...
 [END]
 
@@ -393,14 +393,14 @@ know will change...[BRK]
 ....
 .....[BRK]
 
-But...wasn't zophar the
+But...wasn't Zophar the
 one that brought you back?[BRK]
 
 I know that this fake
-althena did not,[BRK]
+Althena did not,[BRK]
 
-but i cannot think of a
-reason why zophar would![END]
+but I cannot think of a
+reason why Zophar would![END]
 
 === 16 | 18b40 | 2f ===
 [POR09]
@@ -410,11 +410,11 @@ But that can't be true....
 
 === 17 | 18b78 | ee ===
 [POR09]
-I can't believe that i've
+I can't believe that I've
 been such a fool![BRK]
 
 The cult is working to
-revive zophar, and i've
+revive Zophar, and I've
 been helping![BRK]
 
 But this doesn't make any
@@ -430,7 +430,7 @@ out of this mess!
 
 === 18 | 18c8a | 136 ===
 [POR08]
-Oh, hiro...thank you!
+Oh, Hiro...thank you!
 I knew you'd come![BRK]
 
 All of you are such good
@@ -440,16 +440,16 @@ friends![BRK]
 Lucia...[BRK]
 
 [POR08]
-Hiro, the althena in this
+Hiro, the Althena in this
 sanctuary is a fake.[BRK]
 
 We must find the real
-althena and put a stop
+Althena and put a stop
 to this madness![BRK]
 
 Every second we waste puts
 more power in the hands of
-zophar![BRK]
+Zophar![BRK]
 
 Oh, this is terrible! I
 don't know what to do![END]
@@ -460,20 +460,20 @@ Pentagulia shr. 2F[END]
 === 1a | 1a422 | 259 ===
 [POR08]
 There must be some way to
-sense althena's presence...[BRK]
+sense Althena's presence...[BRK]
 
 Some clue that can lead us
 to where she's being held![BRK]
 
 She simply must be around
 here somewhere...if only
-i could see![BRK]
+I could see![BRK]
 
 [POR02]
-Are you sure, lucia?[BRK]
+Are you sure, Lucia?[BRK]
 
 [POR08]
-Yes, the goddess is in the
+Yes, the Goddess is in the
 fifth tower![BRK]
 
 Ghaleon mentioned it
@@ -499,20 +499,20 @@ a fountain of transport![BRK]
 
 ...ahh, yes! This has to
 be the fountain of transport
-that leads to the goddess![BRK]
+that leads to the Goddess![BRK]
 
 It was before me the entire
-time, and yet i could not
+time, and yet I could not
 see![BRK]
 
-I must go...before zophar
+I must go...before Zophar
 returns fully![END]
 
 === 1b | 1a67e | 9e ===
 [POR02]
 Ahhhhhh![BRK]
 
-........lucia!?[BRK]
+........Lucia!?[BRK]
 
 ....
 .....[BRK]
@@ -521,10 +521,10 @@ I can't believe she jumped.[BRK]
 
 I hope she's right![BRK]
 
-...because i have a feeling
+...because I have a feeling
 we're going in after her...[BRK]
 
-...right, hiro?[END]
+...right, Hiro?[END]
 
 === 1c | 1a756 | 12 ===
 Pentagulia balcony[END]

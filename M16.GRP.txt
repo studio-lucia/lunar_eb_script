@@ -4,7 +4,7 @@ Messages: 50
 
 === 0 | 147ae | c6 ===
 [POR02]
-Look! Look, hiro! Over there!
+Look! Look, Hiro! Over there!
 It's some sort of strange
 runes or something...[BRK]
 
@@ -28,11 +28,11 @@ the hell was it?[BRK]
 
 [POR07]
 I think it was showing the
-time when...vane was
+time when...Vane was
 destroyed.[BRK]
 
 [POR02]
-Uh, hiro? I'm kinda gettin'
+Uh, Hiro? I'm kinda gettin'
 the creeps...how 'bout we
 get outta here?[BRK]
 
@@ -42,7 +42,7 @@ get outta here?[BRK]
 
 [POR08]
 ...his former self...
-althena...what does this
+Althena...what does this
 record mean?
 
 
@@ -54,9 +54,9 @@ Ghaleon???[BRK]
 
 In the distant past, there
 was a person named 'magic
-emperor ghaleon...'[BRK]
+emperor Ghaleon...'[BRK]
 
-He seized althena's power
+He seized Althena's power
 and tried to destroy the
 world.[BRK]
 
@@ -64,15 +64,15 @@ If this is the same person,
 we're all in big trouble.[BRK]
 
 [POR10]
-Oh, lemina! That was
+Oh, Lemina! That was
 centuries ago![BRK]
 
 [POR02]
 And besides, wasn't the
-magic emperor destroyed by
-dragonmaster alex?[BRK]
+Magic Emperor destroyed by
+Dragonmaster Alex?[BRK]
 
-That's what grandpa gwyn's
+That's what Grandpa Gwyn's
 history book said...[BRK]
 
 [POR01]
@@ -96,19 +96,19 @@ uneasy, but there's some-
 thing in his...eyes...[END]
 
 === 3 | 14c42 | f ===
-Mystic ruins 6f[END]
+Mystic ruins 6F[END]
 
 === 4 | 1562a | e2 ===
 You are the first visitors
 to come since dear, sweet
-ghaleon arrived.[BRK]
+Ghaleon arrived.[BRK]
 
 He made this place into a
 beautiful, lush garden. We
 think he's great.[BRK]
 
-What do you think of master
-ghaleon?
+What do you think of Master
+Ghaleon?
 [0x5]He gives me the creeps!
 He seems nice enough...[END]
 
@@ -126,20 +126,20 @@ the person inside, don't
 you?[END]
 
 === 7 | 157fa | 51 ===
-Welcome to ghaleon's secret
+Welcome to Ghaleon's secret
 garden. He seems quite fond
 of this place he created.[END]
 
 === 8 | 1585e | 7b ===
 Are you going up into the
-mystic ruins?[BRK]
+Mystic Ruins?[BRK]
 
 Funny, another person just
 went in ahead of you. If you
 hurry, you might catch him![END]
 
 === 9 | 158e8 | 32 ===
-Oh, i see now! All of you
+Oh, I see now! All of you
 are friends, aren't you?[END]
 
 === a | 1592e | 81 ===
@@ -148,7 +148,7 @@ exit of this garden.[BRK]
 
 But you must know how to
 open the magic lock, and
-only ghaleon knows the word.
+only Ghaleon knows the word.
 [END]
 
 === b | 159c6 | fa ===
@@ -165,7 +165,7 @@ incredible spell that guards
 his abba memoribilia...[BRK]
 
 [POR08]
-Hmm...i...i wonder if...[END]
+Hmm...i...I wonder if...[END]
 
 === c | 15ad8 | cf ===
 Ghaleon shuns nearly all
@@ -177,12 +177,12 @@ with the task of re-sorting
 his entire abba collection![BRK]
 
 He seems to really like
-them, though i don't know
+them, though I don't know
 why...
 [END]
 
 === d | 15bba | 1db ===
-Dear, sweet ghaleon has not
+Dear, sweet Ghaleon has not
 been here for many months.[BRK]
 
 I wonder why he neglects the
@@ -199,12 +199,12 @@ waiting for his appreciative
 ear...[BRK]
 
 [POR02]
-Since you don't have ghaleon
-around here any more, i'll
-ask nall to guard you!![BRK]
+Since you don't have Ghaleon
+around here any more, I'll
+ask Nall to guard you!![BRK]
 
 He'll probably have the blue
-and black dragons look out
+and Black Dragons look out
 for you, too![BRK]
 
 If you're lucky, maybe
@@ -217,12 +217,12 @@ You are too kind. I
 appreciate your love and
 concern.[BRK]
 
-Hopefully, master ghaleon
+Hopefully, Master Ghaleon
 will return to us someday...[END]
 
 === f | 15e2c | 52 ===
 [POR08]
-I believe i can detect and
+I believe I can detect and
 remove the spell binding
 this door.[BRK]
 
@@ -235,7 +235,7 @@ extreme in his security.[BRK]
 
 The only people that could
 break that spell are
-althena, ghaleon, and me.[BRK]
+Althena, Ghaleon, and me.[BRK]
 
 ...curious that he would use
 such strong measures for
@@ -246,29 +246,29 @@ this ancient ruin...
 [END]
 
 === 11 | 15f74 | 7f ===
-Master ghaleon possesses a
+Master Ghaleon possesses a
 wondrous magic power. How
 powerful is it?[BRK]
 
 Well, legend has it that
-althena herself once bowed
+Althena herself once bowed
 to it.[END]
 
 === 12 | 16000 | 4a ===
 [POR08]
-You mean to say that ghaleon
-defeated althena?!![BRK]
+You mean to say that Ghaleon
+defeated Althena?!![BRK]
 
 That cannot be true...[END]
 
 === 13 | 16066 | b8 ===
-Long, long ago, dear ghaleon
+Long, long ago, dear Ghaleon
 strived hard to rule the
 whole world.[BRK]
 
 But his plans were foiled
-by a dragonmaster named
-alex.[BRK]
+by a Dragonmaster named
+Alex.[BRK]
 
 Ghaleon himself told us
 that. He seemed very sad
@@ -276,7 +276,7 @@ about it...
 [END]
 
 === 14 | 1613a | 97 ===
-I don't like seeing ghaleon
+I don't like seeing Ghaleon
 with a sad face, but that's
 all he's had lately...[BRK]
 
@@ -287,7 +287,7 @@ What do you think?[END]
 === 15 | 161e0 | 86 ===
 You came from outside the
 ruins! Have you seen dear
-ghaleon anywhere?[BRK]
+Ghaleon anywhere?[BRK]
 
 He hasn't been here for oh
 so long, and we're starting
@@ -309,11 +309,11 @@ else she can do?
 [END]
 
 === 17 | 16334 | 33 ===
-G...ghaleon....zzzz....
+G...Ghaleon....zzzz....
 ...come...come back...zzz..[END]
 
 === 18 | 16376 | 81 ===
-I was dreaming that i was
+I was dreaming that I was
 controlled by a river filled
 with 1's and 0's...[BRK]
 
@@ -333,7 +333,7 @@ She's not a human, is she?[BRK]
 
 === 1a | 1648a | 58 ===
 You're not human, but you're
-not like ghaleon, either.[BRK]
+not like Ghaleon, either.[BRK]
 
 Where are you from, strange
 girl?[END]
@@ -346,7 +346,7 @@ liked her.[END]
 === 1c | 16540 | 6d ===
 So, the strange girl that
 was with you disappeared
-like master ghaleon...[BRK]
+like Master Ghaleon...[BRK]
 
 How heart-breaking...[BRK]
 
@@ -357,7 +357,7 @@ How heart-breaking...[BRK]
 === 1d | 165c0 | 62 ===
 I heard the strangest rumor![BRK]
 
-They say that dear ghaleon
+They say that dear Ghaleon
 was revived from the dead!
 Can it be true?[END]
 
@@ -367,28 +367,28 @@ You mean to say that he's
 some kind of undead zombie?[END]
 
 === 1f | 16680 | 7a ===
-Long, long ago, ghaleon was
-the magic emperor and sought
+Long, long ago, Ghaleon was
+the Magic Emperor and sought
 to rule the world.[BRK]
 
-In the process, he blew vane
+In the process, he blew Vane
 from the skies...[END]
 
 === 20 | 16708 | a3 ===
 [POR07]
-If he is the same ghaleon
-that destroyed vane once,
-i'll wring his neck![BRK]
+If he is the same Ghaleon
+that destroyed Vane once,
+I'll wring his neck![BRK]
 
 There is no excuse for what
 he did! None! Nada! Zippo![BRK]
 
-Oouughh! Now i'm really
+Oouughh! Now I'm really
 steamed![END]
 
 === 21 | 167c6 | 5b ===
 I don't understand how, but
-ghaleon was restored from
+Ghaleon was restored from
 death.[BRK]
 
 It's true! He said it
@@ -397,20 +397,20 @@ himself![END]
 === 22 | 1682e | be ===
 [POR07]
 Zophar must be behind
-ghaleon's return from the
+Ghaleon's return from the
 dead![BRK]
 
 It goes against all the laws
-of nature, so i know it
-can't be althena's doing...[BRK]
+of nature, so I know it
+can't be Althena's doing...[BRK]
 
 Besides, why would she want
 to do a thing like that?[END]
 
 === 23 | 16908 | 5e ===
-When ghaleon was the magic
-emperor, he used his power
-to destroy vane.[BRK]
+When Ghaleon was the Magic
+Emperor, he used his power
+to destroy Vane.[BRK]
 
 He must be very strong.[END]
 
@@ -419,8 +419,8 @@ He must be very strong.[END]
 Ouugh! Just thinking about
 that makes me mad![BRK]
 
-I'm gonna make that ghaleon
-contribute to restore vane!
+I'm gonna make that Ghaleon
+contribute to restore Vane!
 .........bet on it![BRK]
 
 [POR02]
@@ -434,10 +434,10 @@ you idiot!
 
 === 25 | 16a66 | a9 ===
 Ghaleon was resurrected by
-the power of zophar.[BRK]
+the power of Zophar.[BRK]
 
 Therefore, he could neither
-seal nor destroy zophar by
+seal nor destroy Zophar by
 himself.[BRK]
 
 I heard him talking about it
@@ -458,7 +458,7 @@ possible?
 
 === 27 | 16bda | 9b ===
 [POR10]
-If ghaleon is supposed to be
+If Ghaleon is supposed to be
 so evil, why'd he care about
 these fairies?[BRK]
 
@@ -470,23 +470,23 @@ Doesn't he protect you, too?[END]
 
 === 28 | 16c84 | ed ===
 Ghaleon was worried that a
-boy named hiro might fall
+boy named Hiro might fall
 in love with a girl he met.[BRK]
 
 He said if that happened,
 this world would not stand
-a chance against zophar...[BRK]
+a chance against Zophar...[BRK]
 
 I wonder what he meant?[BRK]
 
 [POR01]
-Ghaleon said that? But i'm
-sure he'd help lucia!
+Ghaleon said that? But I'm
+sure he'd help Lucia!
 [END]
 
 === 29 | 16d84 | 66 ===
-Dear, sweet ghaleon is one
-of the nicest men i've ever
+Dear, sweet Ghaleon is one
+of the nicest men I've ever
 known.[BRK]
 
 His heart is kinder than you
@@ -500,13 +500,13 @@ He says he will make things
 right again before he dies.[END]
 
 === 2b | 16e7a | dc ===
-Ghaleon deceived zophar into
-thinking he was on zophar's
+Ghaleon deceived Zophar into
+thinking he was on Zophar's
 side.[BRK]
 
 Ghaleon knew all along that
 human power could defeat
-zophar.[BRK]
+Zophar.[BRK]
 
 His ruse saved this world.[BRK]
 
@@ -519,17 +519,17 @@ where he is?
 My new secret grdn[END]
 
 === 2d | 17994 | f ===
-Mystic ruins 5f[END]
+Mystic ruins 5F[END]
 
 === 2e | 1934e | f ===
-Mystic ruins 4f[END]
+Mystic ruins 4F[END]
 
 === 2f | 1b11a | f ===
-Mystic ruins 3f[END]
+Mystic ruins 3F[END]
 
 === 30 | 1e3ba | f ===
-Mystic ruins 2f[END]
+Mystic ruins 2F[END]
 
 === 31 | 1fd94 | 11 ===
-Mystic ruins 5f-a[END]
+Mystic ruins 5F-a[END]
 

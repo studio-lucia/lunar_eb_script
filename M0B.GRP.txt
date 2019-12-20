@@ -8,17 +8,17 @@ Oh no! Lucia is...[BRK]
 
 [POR05]
 Leo is trained in the ways
-of althena's guard.[BRK]
+of Althena's Guard.[BRK]
 
-If we don't get lucia back
+If we don't get Lucia back
 right now, there's no
 telling what could happen.[BRK]
 
 ...except that it won't be
-good for lucia's health.[BRK]
+good for Lucia's health.[BRK]
 
 So, chief, the gameplan's to
-sneak onto the destiny and
+sneak onto the Destiny and
 rescue her, right?
 
 
@@ -30,8 +30,8 @@ rescue her, right?
 === 1 | 969c | 68 ===
 [POR02]
 ...what?!
-Hiro, the statue of goddess
-althena is broken!![BRK]
+Hiro, the statue of Goddess
+Althena is broken!![BRK]
 
 Now how are we going to
 restore our health?[END]
@@ -47,7 +47,7 @@ the meaning of respect
 anymore.[END]
 
 === 3 | 97b2 | 4f ===
-Welcome to dalton![BRK]
+Welcome to Dalton![BRK]
 
 Ships from all over the
 world come to this very
@@ -55,20 +55,20 @@ famous port.[END]
 
 === 4 | 9814 | 69 ===
 Welcome to the famous port
-town of dalton![BRK]
+town of Dalton![BRK]
 
 Are you just travelers, or
-are you members of althena's
-guard?[END]
+are you members of Althena's
+Guard?[END]
 
 === 5 | 9890 | 44 ===
 Dalton is the largest port
-bordering on the salyan
-desert, you know.[END]
+bordering on the Salyan
+Desert, you know.[END]
 
 === 6 | 98e4 | 4f ===
 Welcome to the port of
-dalton![BRK]
+Dalton![BRK]
 
 Now that the world is safe,
 we're partying down![END]
@@ -86,14 +86,14 @@ Who gives a rip? I don't.[END]
 === 8 | 9a00 | 7e ===
 Well, there is a statue just
 like it in the shrine of the
-althena cult.[BRK]
+Althena Cult.[BRK]
 
 It's kinda weird in there,
 but their statue does work.[END]
 
 === 9 | 9a90 | 91 ===
 This is exactly the kind of
-apathetic reaction that i'm
+apathetic reaction that I'm
 talking about![BRK]
 
 Is nothing sacred to you
@@ -103,20 +103,20 @@ no meaning?[BRK]
 Heretic![END]
 
 === a | 9b34 | ae ===
-The cult of althena has said
+The Cult of Althena has said
 they will fix the statue,
 free of charge.[BRK]
 
 I think they're a little
-extreme, but i appreciate
+extreme, but I appreciate
 their offer.[BRK]
 
-I think i'll let them do
+I think I'll let them do
 the work, too.[END]
 
 === b | 9bfa | 51 ===
 Althena must be pleased. I
-know i'm just tickled pink
+know I'm just tickled pink
 now that everything's okay![END]
 
 === c | 9c5e | 95 ===
@@ -131,7 +131,7 @@ mighty keen...[END]
 === d | 9d06 | eb ===
 There's a weird tower north-
 east of here named after
-some star dragon.[BRK]
+some Star Dragon.[BRK]
 
 Place is s'posed to be full
 of mysterious stuff no one
@@ -143,16 +143,16 @@ day explorin' that place.[END]
 
 === e | 9e04 | c5 ===
 Say, kiddies, didn't ya get
-my hint about the star
-tower?[BRK]
+my hint about the Star
+Tower?[BRK]
 
 It's loaded with all sorts
 uh weird monsters an' great
 treasure.[BRK]
 
 [POR02]
-Hiro, i bet that's the tower
-grandpa was talking about!
+Hiro, I bet that's the tower
+Grandpa was talking about!
 Let's go!
 
 
@@ -163,16 +163,16 @@ Let's go!
 
 === f | 9edc | 81 ===
 There's s'posed to be some
-fancy-schmancy star tower
+fancy-schmancy Star Tower
 northeast of here.[BRK]
 
 I done never been there, but
-i heard it's mighty unusual.[END]
+I heard it's mighty unusual.[END]
 
 === 10 | 9f70 | 6a ===
 Hey!...hey! Do ya know
-the names of the four
-heroes of althena?
+the names of the Four
+Heroes of Althena?
 [0x5]Yep! Saw the movie.
 No, tell me about it![END]
 
@@ -193,23 +193,23 @@ them!
 
 === 13 | a05e | 155 ===
 The first of the four heroes
-is white knight leo, lord
-of althena's guard.[BRK]
+is White Knight Leo, lord
+of Althena's Guard.[BRK]
 
-Second is saint lunn, master
-of blue dragon karate.[BRK]
+Second is Saint Lunn, master
+of Blue Dragon Karate.[BRK]
 
-Third is grand black wizard
-borgan.[BRK]
+Third is Grand Black Wizard
+Borgan.[BRK]
 
 And last is...is...hmm...[BRK]
 
 ...oh yeah! The last hero is
-red priest mauri.[BRK]
+Red Priest Mauri.[BRK]
 
 I learned all about them at
-the school of the althena
-cult.[BRK]
+the school of the Althena
+Cult.[BRK]
 
 Memorized them myself.
 Aren'cha proud of me?
@@ -217,17 +217,17 @@ Aren'cha proud of me?
 
 === 14 | a1ca | 75 ===
 Hey there, have you heard
-the names of the four
-heroes of althena?
+the names of the Four
+Heroes of Althena?
 [0x5]You told me, ya dumb kid!
-Uh, i don't remember...[END]
+Uh, I don't remember...[END]
 
 === 15 | a24e | 8b ===
-Oh...yeah, i told you about
+Oh...yeah, I told you about
 them already, didn't i? I
 spaced and forgot...[BRK]
 
-You probably think i'm the
+You probably think I'm the
 world's youngest alzheimer's
 patient.[END]
 
@@ -240,14 +240,14 @@ Oh well, listen up![END]
 
 === 17 | a35a | 1fe ===
 My daddy said that he heard
-the four heroes of althena
+the Four Heroes of Althena
 don't control the dragons.[BRK]
 
 He said they lost control
 when the dragons were
 released.[BRK]
 
-I wish i could see one of
+I wish I could see one of
 the dragons. They must be
 awesome![BRK]
 
@@ -259,56 +259,56 @@ on me![BRK]
 [POR00]
 Is this some kind of a sick
 joke? You're not one of the
-four dragons![BRK]
+Four Dragons![BRK]
 
 You're just some stinkin'...
-stinkin'...well, i don't
+stinkin'...well, I don't
 know what you are...[BRK]
 
 But you're too small to be
 a dragon.[BRK]
 
 [POR02]
-Well, i'm big enough to
+Well, I'm big enough to
 toast your impudent butt,
 junior!
 [END]
 
 === 18 | a570 | 99 ===
 It would be so cool if I
-got to see one of the four
-dragons![BRK]
+got to see one of the Four
+Dragons![BRK]
 
 My dad would never believe
 me, though.[BRK]
 
-'Specially if i told him I
+'Specially if I told him I
 saw it on mulberry street.[END]
 
 === 19 | a620 | 95 ===
 [POR05]
-When we leave dalton, we'd
+When we leave Dalton, we'd
 better head north, toward
-illusion woods.[BRK]
+Illusion Woods.[BRK]
 
 After we clear the woods, we
 can make tracks for the holy
-city of pentagulia.[END]
+city of Pentagulia.[END]
 
 === 1a | a6c4 | c6 ===
-One of the four heroes of
-althena is white knight leo.[BRK]
+One of the Four Heroes of
+Althena is White Knight Leo.[BRK]
 
 Have you seen him? He's just
 so cute. I could eat him
 alive![BRK]
 
 Ooh! And that horn! Oh baby,
-i bet he knows exactly how
+I bet he knows exactly how
 to use that monster! Whoo![END]
 
 === 1b | a79e | 87 ===
-Lord leo was just here! Did
+Lord Leo was just here! Did
 you get to see him?[BRK]
 
 He had on the complete hunk
@@ -318,7 +318,7 @@ a cool red cape.[BRK]
 I'm in heaven![END]
 
 === 1c | a838 | 6f ===
-Lord leo left way too soon
+Lord Leo left way too soon
 for my taste. He had to go
 fight monsters or something.[BRK]
 
@@ -326,7 +326,7 @@ I hope he comes back soon...[END]
 
 === 1d | a8ba | 78 ===
 There's a rumor floating
-around that lord leo's been
+around that Lord Leo's been
 thrown out of the guard![BRK]
 
 How can that be?[BRK]
@@ -334,9 +334,9 @@ How can that be?[BRK]
 Do you know if it's true?[END]
 
 === 1e | a942 | b0 ===
-When leo found out that the
-althena cult was trying to
-revive zophar, he left.[BRK]
+When Leo found out that the
+Althena Cult was trying to
+revive Zophar, he left.[BRK]
 
 Good looks and principled,
 too! Is this guy too good to
@@ -346,11 +346,11 @@ Come to mama, big boy![END]
 
 === 1f | aa00 | e2 ===
 [POR09]
-While i'd like to honor your
-request, i'm afraid you may
+While I'd like to honor your
+request, I'm afraid you may
 not let me go.[BRK]
 
-So, i must respectfully deny
+So, I must respectfully deny
 your request and just blow
 you a kiss from here.[BRK]
 
@@ -359,40 +359,40 @@ of valor' beefcake calendar
 when it comes out.[END]
 
 === 20 | aaf2 | b2 ===
-Have you heard of the cult
-of althena? They have a
+Have you heard of the Cult
+of Althena? They have a
 shrine up there.[BRK]
 
 They're saying that the
-goddess has come back to
+Goddess has come back to
 save the world.[BRK]
 
-But i really don't see how
+But I really don't see how
 that can be true.
 [END]
 
 === 21 | abb8 | b1 ===
 Did you see how immense the
-dragonship destiny was?![BRK]
+Dragonship Destiny was?![BRK]
 
-The power of althena is
+The power of Althena is
 truly a wonderful thing,[BRK]
 
-but i don't know about her
+but I don't know about her
 followers. They're a little
 weird for my taste.
 [END]
 
 === 22 | ac7c | af ===
-The members of althena's
-cult keep inviting me to go
+The members of Althena's
+Cult keep inviting me to go
 to their shrine.[BRK]
 
 I've been turning them down,
 but maybe now it wouldn't be
 a bad idea.[BRK]
 
-I could pray to althena for
+I could pray to Althena for
 help...[END]
 
 === 23 | ad3a | 7e ===
@@ -401,30 +401,30 @@ members were doing?[BRK]
 
 Those evil little weasels
 were praying for the return
-of zophar![BRK]
+of Zophar![BRK]
 
 Isn't that sick?[END]
 
 === 24 | adc8 | 95 ===
-When i grow up, i want to
+When I grow up, I want to
 be a strong man that can
 protect our world.[BRK]
 
-I really look up to the four
-heroes of althena. They're
+I really look up to the Four
+Heroes of Althena. They're
 sorta my role models...[END]
 
 === 25 | ae70 | 79 ===
-When i grow up, i want to
-be a member of althena's
-guard.[BRK]
+When I grow up, I want to
+be a member of Althena's
+Guard.[BRK]
 
-Lord leo is so cool! He must
+Lord Leo is so cool! He must
 be the greatest guy to work
 under![END]
 
 === 26 | aefc | cf ===
-Lately, i've been having
+Lately, I've been having
 nightmares where numbers
 keep attacking me.[BRK]
 
@@ -441,20 +441,20 @@ I heard that because people
 all worked together, our
 world was saved.[BRK]
 
-When i grow up, i want to
+When I grow up, I want to
 be able to save the world
 from evil, too![END]
 
 === 28 | b072 | 66 ===
 Work, eat, sleep. Work, eat
-sleep. That's all i ever
+sleep. That's all I ever
 seem to do anymore.[BRK]
 
 I tell ya, it's a dog's
 life![END]
 
 === 29 | b0ec | 86 ===
-I heard lord leo captured a
+I heard Lord Leo captured a
 destroyer! Can you believe
 that?[BRK]
 
@@ -468,8 +468,8 @@ members are really gettin'
 on my nerves.[BRK]
 
 Yesterday, they had the gall
-to ask me if i'd donate my
-paycheck to althena![BRK]
+to ask me if I'd donate my
+paycheck to Althena![BRK]
 
 Can you believe that? I
 mean, a donation's one
@@ -483,9 +483,9 @@ own good.[END]
 I tell ya. Each day that
 goes by,[BRK]
 
-i'm doubtin' more that
-althena is supportin' the
-cult.[BRK]
+I'm doubtin' more that
+Althena is supportin' the
+Cult.[BRK]
 
 I think it's just a big scam
 to get money...[END]
@@ -497,8 +497,8 @@ Dalton[END]
 Donated 100s![END]
 
 === 2e | c81a | 91 ===
-If you donate to the goddess
-althena, all your strength
+If you donate to the Goddess
+Althena, all your strength
 will be renewed.[BRK]
 
 Try it, won't you? It's so
@@ -523,11 +523,11 @@ Donations are up 1000% over
 last month. It's wonderful![END]
 
 === 31 | c9fc | 96 ===
-I wonder if one of the cult
+I wonder if one of the Cult
 members broke the statue to
 bring the townspeople here.[BRK]
 
-While i don't condone the
+While I don't condone the
 method, the result is
 certainly welcome![END]
 
@@ -543,7 +543,7 @@ I think it'll stay broken
 a while longer...ha ha ha![END]
 
 === 33 | cb5c | 87 ===
-The holy city of pentagulia
+The holy city of Pentagulia
 is off-limits to outsiders.[BRK]
 
 Supposedly, a terrible evil
@@ -551,11 +551,11 @@ has been sealed there that
 could destroy our world.[END]
 
 === 34 | cbf2 | 9f ===
-I just heard that pentagulia
+I just heard that Pentagulia
 was reduced to rubble![BRK]
 
-And they say that zophar
-tried to seize althena's
+And they say that Zophar
+tried to seize Althena's
 power![BRK]
 
 Are these rumors true?! Did
@@ -564,10 +564,10 @@ that really happen??!
 
 === 35 | cca0 | 72 ===
 This is my annual hobble-a-
-thon for althena.[BRK]
+thon for Althena.[BRK]
 
-Can i put you down for 10s
-a lap? It's for the goddess,
+Can I put you down for 10s
+a lap? It's for the Goddess,
 you know....[END]
 
 === 36 | cd24 | 40 ===
@@ -582,23 +582,23 @@ past should be freely
 admitted.[BRK]
 
 We were misled by the fake
-althena. Please forgive us.[BRK]
+Althena. Please forgive us.[BRK]
 
 [POR02]
-Hiro, i think he's serious!
-Maybe some of the cult
+Hiro, I think he's serious!
+Maybe some of the Cult
 members are good![END]
 
 === 38 | ce42 | 6e ===
-The goddess althena comes
+The Goddess Althena comes
 to our world in human form
 to save it from destruction.[BRK]
 
 They say she has come again.[END]
 
 === 39 | cec8 | 47 ===
-If the goddess has returned,
-lord leo has direct contact
+If the Goddess has returned,
+Lord Leo has direct contact
 with her.
 
 
@@ -607,16 +607,16 @@ with her.
 [END]
 
 === 3a | cf1e | 90 ===
-The goddess althena was an
+The Goddess Althena was an
 impostor! I wonder if the
 four heroes are too?![BRK]
 
 Now that this has come to
-light, i'm beginning to
+light, I'm beginning to
 doubt everything...[END]
 
 === 3b | cfbe | 85 ===
-Only the goddess althena
+Only the Goddess Althena
 can save our world from
 destruction.[BRK]
 
@@ -627,7 +627,7 @@ possible. Give freely...
 
 === 3c | d050 | 74 ===
 [POR08]
-But....what...will althena
+But....what...will Althena
 do with the money? Isn't she
 a goddess?[BRK]
 
@@ -650,7 +650,7 @@ world was saved by humans.[END]
 
 === 3f | d1aa | 7e ===
 Perhaps we have misread the
-teachings of althena.[BRK]
+teachings of Althena.[BRK]
 
 If it is possible for humans
 to save our world, anything
@@ -659,15 +659,15 @@ becomes possible...[END]
 === 40 | d238 | 8a ===
 The fine people of this town
 are finally comprehending
-the teachings of althena.[BRK]
+the teachings of Althena.[BRK]
 
 I wish the villagers of
-larpa would follow their 
+Larpa would follow their 
 lead...[END]
 
 === 41 | d2d6 | 78 ===
-We are grateful to althena
-that her servant leo caught
+We are grateful to Althena
+that her servant Leo caught
 the destroyer.[BRK]
 
 If he had not, our world
@@ -675,8 +675,8 @@ would be in great danger.[END]
 
 === 42 | d362 | cc ===
 Compared with the residents
-of dalton, the people of
-larpa are dullards.[BRK]
+of Dalton, the people of
+Larpa are dullards.[BRK]
 
 Their skulls are so thick,
 no teachings of light can
@@ -689,14 +689,14 @@ our cause.[END]
 === 43 | d43e | 119 ===
 We have seen the error of
 our ways and are trying to
-rediscover the real althena.[BRK]
+rediscover the real Althena.[BRK]
 
 We want to understand her
 real teachings and tell them
 to the people.[BRK]
 
 But you're not gonna get
-some tearful, fake 'i have
+some tearful, fake 'I have
 sinned' speech.[BRK]
 
 We're just gonna try really
@@ -722,13 +722,13 @@ taining impure thoughts![END]
 
 === 45 | d662 | 99 ===
 I've heard that the real
-althena no longer exists.[BRK]
+Althena no longer exists.[BRK]
 
 I tell you, man, it's a
 total shame that a bod like
 that died out.[BRK]
 
-That alex dude was one
+That Alex dude was one
 lucky guy...[END]
 
 === 46 | d700 | d ===
@@ -739,12 +739,12 @@ Ahhh! Nothin' like a tall
 cold one to knock the edge
 off a long workday.[BRK]
 
-Lord leo's given us shore-
+Lord Leo's given us shore-
 leave since we found that
 girl.[END]
 
 === 48 | e5ee | dc ===
-Tomorrow, lord leo is going
+Tomorrow, Lord Leo is going
 to execute the girl we
 captured.[BRK]
 
@@ -752,9 +752,9 @@ She's so cute, though. I
 have a hard time buying the
 fact she's a destroyer.[BRK]
 
-I dunno. I'm just glad i'm
-not leo. But i guess he's
-got his orders from althena.
+I dunno. I'm just glad I'm
+not Leo. But I guess he's
+got his orders from Althena.
 [END]
 
 === 49 | e6de | 2c ===
@@ -762,12 +762,12 @@ Oh man! I think that ale
 just hit me! Whooo![END]
 
 === 4a | e71e | ab ===
-Say, i must be more wasted
-than i thought, 'cause you
-look like that girl lucia...[BRK]
+Say, I must be more wasted
+than I thought, 'cause you
+look like that girl Lucia...[BRK]
 
-...but i know she's in the
-jail on the destiny.[BRK]
+...but I know she's in the
+jail on the Destiny.[BRK]
 
 ....
 .....[BRK]
@@ -776,7 +776,7 @@ This is some good stuff,
 man![END]
 
 === 4b | e7dc | 69 ===
-I'm sure glad lord leo saw
+I'm sure glad Lord Leo saw
 fit to finally give us a
 break.[BRK]
 
@@ -784,15 +784,15 @@ I mean, we've been working
 for weeks straight![END]
 
 === 4c | e858 | b4 ===
-I really don't think leo is
+I really don't think Leo is
 going to execute that girl.[BRK]
 
-Orders or not, i just don't
+Orders or not, I just don't
 think he's got the balls to
 do it. She's innocent.[BRK]
 
 If that girl's a destroyer,
-i'm june cleaver.[END]
+I'm june cleaver.[END]
 
 === 4d | e920 | 69 ===
 Have you tried the ale here?
@@ -803,18 +803,18 @@ I'm glad we found this
 little dive...[END]
 
 === 4e | e99c | a4 ===
-I respect lord leo more than
+I respect Lord Leo more than
 almost anyone else.[BRK]
 
 In my experience, he's
 always been fair.[BRK]
 
-That's why i don't think
+That's why I don't think
 he'll kill the girl until
 he's absolutely sure...[END]
 
 === 4f | ea54 | 7c ===
-Man, i'm just having a hard
+Man, I'm just having a hard
 time believing that the girl
 we captured is a destroyer.[BRK]
 
@@ -823,7 +823,7 @@ I mean she looks...so...so
 
 === 50 | eae4 | 6e ===
 Ever since we went in that
-blue spire, i've had weird
+Blue Spire, I've had weird
 dreams.[BRK]
 
 Ya think it's post-traumatic
@@ -834,7 +834,7 @@ stress disorder?
 
 === 51 | eb62 | 70 ===
 Hi there! Welcome to the
-blue note tavern.[BRK]
+Blue Note Tavern.[BRK]
 
 We've got a kiddie menu
 right here...take your time
@@ -863,17 +863,17 @@ drinks are only 10s![END]
 10S! Hiro, let's buy a ton
 of 'em and take them out.[BRK]
 
-We can sell them in larpa
+We can sell them in Larpa
 for a small fortune![BRK]
 
 [POR02]
 You dingbat! By the time we
-get to larpa, they'll be
+get to Larpa, they'll be
 undrinkable! Get real![END]
 
 === 55 | edc2 | 6d ===
 Business here is down these
-days because the cult looks
+days because the Cult looks
 down on drinking.[BRK]
 
 I wonder if it's the same
@@ -881,7 +881,7 @@ all over?[END]
 
 === 56 | ee42 | c4 ===
 If it weren't for the men of
-althena's guard, this place
+Althena's Guard, this place
 would be deserted.[BRK]
 
 I keep tellin' the owner he
@@ -892,22 +892,22 @@ He'd make a mint on steamed
 milk and coffee...[END]
 
 === 57 | ef1a | df ===
-I think i'm going to stop
+I think I'm going to stop
 coming here pretty soon if
 things don't pick up.[BRK]
 
-I mean, i'm not getting any
+I mean, I'm not getting any
 younger. I've got to go
 where the action is.[BRK]
 
 Good men are not easy to
-find, and i have to go where
-i have the best odds![END]
+find, and I have to go where
+I have the best odds![END]
 
 === 58 | f008 | 7f ===
 Since the world was saved
 from destruction at the hand
-of zophar, we're partying![BRK]
+of Zophar, we're partying![BRK]
 
 C'mon, drink up! All the
 drinks are only 10s![END]
@@ -929,7 +929,7 @@ This place is deserted, but
 the shrine is jumpin'![BRK]
 
 I think a lot of people in
-dalton are joining the
+Dalton are joining the
 shrine to find meaning.[BRK]
 
 [POR02]
@@ -940,18 +940,18 @@ You know, meaning in their
 dead-end lives and miserable
 relationships.[BRK]
 
-...i hope they find what
+...I hope they find what
 they're looking for. But
-i don't think they will...
+I don't think they will...
 [END]
 
 === 5c | f28c | 81 ===
 I'm so glad the world is
 safe from destruction![BRK]
 
-Now i can continue working
+Now I can continue working
 toward my goal of becoming
-miss dalton in the pageant![END]
+miss Dalton in the pageant![END]
 
 === 5d | f31c | 5b ===
 After a hard day's work,
@@ -962,8 +962,8 @@ Ahhh! That hit the spot!
 [END]
 
 === 5e | f38a | d4 ===
-The priests of althena's
-cult said that even though
+The priests of Althena's
+Cult said that even though
 the girl looks innocent,[BRK]
 
 she's a destroyer, and to be
@@ -978,28 +978,28 @@ Bottoms up![END]
 === 5f | f476 | a1 ===
 Oh boy! The girl they say is 
 a destroyer has escaped from
-the destiny![BRK]
+the Destiny![BRK]
 
 Now we've got some sort of a
 world-wrecker walking among
 us![BRK]
 
-...oh man!...i need a drink![END]
+...oh man!...I need a drink![END]
 
 === 60 | f532 | 68 ===
 If it's not one thing, it's
 another...[BRK]
 
-Now the priests of the cult
+Now the priests of the Cult
 are saying it's the end of
 the world![END]
 
 === 61 | f5ae | 8c ===
 Whew! I'm glad to hear the
 world was saved from that
-evil maniac zophar.[BRK]
+evil maniac Zophar.[BRK]
 
-You know what...i think i'm
+You know what...I think I'm
 gonna have another drink in
 your honor![END]
 
@@ -1008,8 +1008,8 @@ Dalton tavern[END]
 
 === 63 | fdc2 | 4e ===
 Hello there! Welcome to
-the dalton general store.
-What can i do for you today?[END]
+the Dalton General Store.
+What can I do for you today?[END]
 
 === 64 | fe1a | 2d ===
 Thank you. Please tell your
@@ -1028,80 +1028,80 @@ giving our wares a look![END]
 Dalton general shop[END]
 
 === 68 | 10558 | 6e ===
-The people of larpa are
+The people of Larpa are
 ignorant pigs.[BRK]
 
 They cannot even see the
 truth of the words the
-cult of althena speaks![END]
+Cult of Althena speaks![END]
 
 === 69 | 105da | 7f ===
-Lord leo is a wonderful
+Lord Leo is a wonderful
 leader and an honorable man.[BRK]
 
-If i were ten years younger,
-i'd enlist to serve under
+If I were ten years younger,
+I'd enlist to serve under
 him in a heartbeat![END]
 
 === 6a | 1066c | 6d ===
 Althena's guard is keeping
 our world from anarchy.[BRK]
 
-But i think it would fall
-apart were it not for lord
-leo.
+But I think it would fall
+apart were it not for Lord
+Leo.
 [END]
 
 === 6b | 106ec | ca ===
-Hmmm...i've heard that the
-cult of althena was teaching
+Hmmm...I've heard that the
+Cult of Althena was teaching
 the wrong message.[BRK]
 
 But that still doesn't
-change my opinion of lord
-leo.[BRK]
+change my opinion of Lord
+Leo.[BRK]
 
-That's why i'm worried that
-since the zophar ordeal,
+That's why I'm worried that
+since the Zophar ordeal,
 he's been missing...[END]
 
 === 6c | 107ca | 45 ===
 Whew! Leo! When you
-disappeared, i was worried
+disappeared, I was worried
 you wouldn't be found.[END]
 
 === 6d | 1081e | 6a ===
 All of my friends have
-joined the cult of althena.[BRK]
+joined the Cult of Althena.[BRK]
 
-I was thinking i should also
-join so i won't be lonely.[END]
+I was thinking I should also
+join so I won't be lonely.[END]
 
 === 6e | 10898 | 79 ===
 Ha! Now all my friends are
-out of the cult since
-althena is gone.[BRK]
+out of the Cult since
+Althena is gone.[BRK]
 
-I'm glad i didn't join the
-cult like my sucker friends.[END]
+I'm glad I didn't join the
+Cult like my sucker friends.[END]
 
 === 6f | 10920 | 79 ===
 Hey, if you'll promise not
-to repeat it, i'll tell you
+to repeat it, I'll tell you
 a secret story. Promise?
-[0x5]Okay, i promise.
-Sorry, i can't promise.[END]
+[0x5]Okay, I promise.
+Sorry, I can't promise.[END]
 
 === 70 | 109a8 | ae ===
 I saw the priests from the
-althena cult breaking the
+Althena Cult breaking the
 statue in front of the city![BRK]
 
 But since my mom and dad
-like the cult priests,
+like the Cult priests,
 they'll never believe me.[BRK]
 
-What should i do?
+What should I do?
 [END]
 
 === 71 | 10a68 | 12 ===
@@ -1124,22 +1124,22 @@ I listened to the teaching
 of the priests at the
 shrine.[BRK]
 
-Now i'm convinced that
-althena has returned to our
+Now I'm convinced that
+Althena has returned to our
 world.[END]
 
 === 75 | 11262 | 90 ===
-Lord leo is the captain of
-the dragonship destiny.[BRK]
+Lord Leo is the captain of
+the Dragonship Destiny.[BRK]
 
 He's kind to his friends and
 relentless with his enemies.[BRK]
 
-I'm glad i'm not on his bad
+I'm glad I'm not on his bad
 side...[END]
 
 === 76 | 11306 | 60 ===
-I think the goddess althena
+I think the Goddess Althena
 is absolutely beautiful![BRK]
 
 I would like to meet her in
@@ -1147,23 +1147,23 @@ person someday.[END]
 
 === 77 | 11376 | 95 ===
 You mean to tell me that the
-goddess the althena cult was
+Goddess the Althena Cult was
 serving was a fake?[BRK]
 
-Great! Just great! Now i'll
+Great! Just great! Now I'll
 never get to meet the real
-goddess althena.[END]
+Goddess Althena.[END]
 
 === 78 | 1141a | 73 ===
 After listening to the
 priests of the shrine talk,[BRK]
 
-i'm convinced that the
-goddess really has returned
+I'm convinced that the
+Goddess really has returned
 to our world.[END]
 
 === 79 | 114a0 | 5c ===
-The dragonship destiny is
+The Dragonship Destiny is
 one fine piece of work.[BRK]
 
 It can be maneuvered on both
@@ -1174,51 +1174,51 @@ Leo is single-minded, kind,
 and strong-willed.[BRK]
 
 I admire the qualities that
-man possesses. I wish i was
+man possesses. I wish I was
 more like him.[END]
 
 === 7b | 11598 | 67 ===
-I always looked up to lord
-leo,[BRK]
+I always looked up to Lord
+Leo,[BRK]
 
 but now that he's not in
-althena's guard anymore,
-i wonder about him...[END]
+Althena's Guard anymore,
+I wonder about him...[END]
 
 === 7c | 1160e | 90 ===
 I feel like a fool for
 believing those charlatans
 at the shrine.[BRK]
 
-And to think that i actually
+And to think that I actually
 gave them money while they
-tried to revive zophar![END]
+tried to revive Zophar![END]
 
 === 7d | 116a4 | e ===
 Dalton house 2[END]
 
 === 7e | 11e96 | 11 ===
-Dalton passage 1f[END]
+Dalton passage 1F[END]
 
 === 7f | 1272c | 11 ===
-Dalton passage 2f[END]
+Dalton passage 2F[END]
 
 === 80 | 13082 | 90 ===
 I've asked the priests of
 the shrine to fix the statue
-of goddess althena,[BRK]
+of Goddess Althena,[BRK]
 
 but they never get it fixed.
 I think they want to see it
 stay broken.[END]
 
 === 81 | 13126 | 7e ===
-Is the girl that lord leo
+Is the girl that Lord Leo
 captured really a destroyer?[BRK]
 
 I hope he isn't making a
 mistake by executing her
-as althena commanded.[END]
+as Althena commanded.[END]
 
 === 82 | 131b8 | bc ===
 I guess the statue is going
@@ -1234,22 +1234,22 @@ simple.[END]
 
 === 83 | 13284 | 83 ===
 Now that the truth about
-althena has come out, i feel
+Althena has come out, I feel
 much better.[BRK]
 
 I always suspected something
-fishy about that cult of
-althena...[END]
+fishy about that Cult of
+Althena...[END]
 
 === 84 | 1330c | 68 ===
-   The last dragonmaster[BRK]
+   The last Dragonmaster[BRK]
 
 A long time ago, a boy named
-alex left the village of
-burg to seek his dream...[END]
+Alex left the village of
+Burg to seek his dream...[END]
 
 === 85 | 1337a | 11 ===
-Dalton passage 3f[END]
+Dalton passage 3F[END]
 
 === 86 | 13c12 | 10 ===
 Dalton breezeway[END]
@@ -1264,9 +1264,9 @@ is locked.[END]
 
 === 88 | 1444a | 96 ===
 The doorway to the right
-leads to the dalton pier.[BRK]
+leads to the Dalton Pier.[BRK]
 
-The dragonship destiny is
+The Dragonship Destiny is
 currently docked there.[BRK]
 
 You should go see it. The
@@ -1277,23 +1277,23 @@ Have you seen the dragon-
 ship destiny?[BRK]
 
 That is the most incredible
-ship i've ever seen![END]
+ship I've ever seen![END]
 
 === 8a | 1456c | 6a ===
-I heard that the dragonship
-destiny was in the area.[BRK]
+I heard that the Dragonship
+Destiny was in the area.[BRK]
 
 It would be such an honor
 if they docked in our port![END]
 
 === 8b | 145ea | c8 ===
-Hmmm....pentagulia. Yes, you
+Hmmm....Pentagulia. Yes, you
 can get there by way of this
 port.[BRK]
 
 But since only members of
-althena's guard and the
-priesthood can enter,[BRK]
+Althena's Guard and the
+Priesthood can enter,[BRK]
 
 why would you want to go
 there? You'll never be able
@@ -1302,7 +1302,7 @@ to get in!
 
 === 8c | 146c6 | 88 ===
 I heard that you were going
-to try to get into penta-
+to try to get into Penta-
 gulia.[BRK]
 
 You know, that place is
@@ -1313,37 +1313,37 @@ essence of evil itself!
 === 8d | 1475c | 38 ===
 [POR02]
 Essence of evil? You think
-he's talking about zophar?[END]
+he's talking about Zophar?[END]
 
 === 8e | 147a6 | c6 ===
 [POR08]
 Then it is possible that
-althena may also be in
-pentagulia...[BRK]
+Althena may also be in
+Pentagulia...[BRK]
 
 [POR05]
 I knew that something
 powerful was sealed in
-pentagulia,[BRK]
+Pentagulia,[BRK]
 
-but i never would have
-guessed it was zophar! Holy
+but I never would have
+guessed it was Zophar! Holy
 cow! If that's true...[END]
 
 === 8f | 14884 | 94 ===
 Rumors floating about speak
 of evil sealed within the
-walls of pentagulia.[BRK]
+walls of Pentagulia.[BRK]
 
 [POR02]
 That's not true! The only
-thing sealed within penta-
-gulia is althena![END]
+thing sealed within Penta-
+gulia is Althena![END]
 
 === 90 | 14928 | 76 ===
 We heard news here that some
 incredible heroes destroyed
-pentagulia![BRK]
+Pentagulia![BRK]
 
 Was it necessary to destroy
 it to save our world?[END]
@@ -1351,50 +1351,50 @@ it to save our world?[END]
 === 91 | 149ac | 73 ===
 [POR05]
 The choice was destroy
-pentagulia, or be torched to
-cinders by zophar.[BRK]
+Pentagulia, or be torched to
+cinders by Zophar.[BRK]
 
 I think we made the right
 choice, mister.[END]
 
 === 92 | 14a24 | 14 ===
-Dalton dock tower 1f[END]
+Dalton dock tower 1F[END]
 
 === 93 | 15164 | a3 ===
 Oh my! You startled me![BRK]
 
 Say, that girl with you
 looks very sick. Have you
-tried to find ronfar?[BRK]
+tried to find Ronfar?[BRK]
 
 He used to be a priest,
 but now he's rumored to be
-living in larpa.[END]
+living in Larpa.[END]
 
 === 94 | 1520a | 85 ===
-Priests of althena's cult
+Priests of Althena's Cult
 say that they'll fix our
 statue if we donate to them.[BRK]
 
 Unfortunately, most of the
-people of dalton are poor.[END]
+people of Dalton are poor.[END]
 
 === 95 | 152a6 | 123 ===
-Those soldiers of althena's
-guard are making too much
+Those soldiers of Althena's
+Guard are making too much
 noise![BRK]
 
-Now i can't get a decent
+Now I can't get a decent
 night's sleep around here![BRK]
 
 And since the statue's
 broken,[BRK]
 
-i can't even use it to make
+I can't even use it to make
 up for the lack of sleep![BRK]
 
 I hope the priests of the
-cult come through and fix
+Cult come through and fix
 it soon.[BRK]
 
 They promised to a while
@@ -1404,7 +1404,7 @@ back...[END]
 Trying to sleep around here
 is doing me no good at all.[BRK]
 
-I'm so desperate, i'm
+I'm so desperate, I'm
 thinking of donating to use
 the statue in the shrine![BRK]
 
@@ -1412,19 +1412,19 @@ I hate to give money to
 those money-grubbing cult
 members,[BRK]
 
-but i need my rest![END]
+but I need my rest![END]
 
 === 97 | 154be | b8 ===
-You know, i've heard that
+You know, I've heard that
 some of the priests are real
 lookers![BRK]
 
 Maybe it's not such a bad
 idea to use the statue of
-althena in the shrine.[BRK]
+Althena in the shrine.[BRK]
 
 I can do some hunk-hunting
-while i'm there...[END]
+while I'm there...[END]
 
 === 98 | 1557c | 42 ===
    Abdominal discomfort
@@ -1433,9 +1433,9 @@ while i'm there...[END]
 
 === 99 | 155d0 | 29 ===
 [POR02]
-Hiro! I think grandpa needs
+Hiro! I think Grandpa needs
 this book![END]
 
 === 9a | 155fe | 14 ===
-Dalton dock tower 2f[END]
+Dalton dock tower 2F[END]
 

@@ -19,10 +19,10 @@ The exit is now clear![BRK]
 That is good news, indeed![BRK]
 
 We were successful in part
-because i was able to modify
+because I was able to modify
 my dance steps for combat...[BRK]
 
-...but...giban, the time
+...but...Giban, the time
 has come for me to...[BRK]
 
 [POR00]
@@ -32,20 +32,20 @@ matter?[BRK]
 You seem troubled, dear...[BRK]
 
 [POR10]
-I've decided that i'm going
+I've decided that I'm going
 to leave the carnival for
 a while.[BRK]
 
 I've got to face some
-problems i've been running
+problems I've been running
 away from...[BRK]
 
-I wish i could tell you 
+I wish I could tell you 
 more...just know that it's
-something i must do.[BRK]
+something I must do.[BRK]
 
 [POR00]
-Jean, i know your demons
+Jean, I know your demons
 haunt you.[BRK]
 
 If the time to face them
@@ -55,8 +55,8 @@ You'll never be at peace
 until you put an end to 
 what's troubling you.[BRK]
 
-Perhaps karate master lunn
-in meribia will help you
+Perhaps Karate Master Lunn
+in Meribia will help you
 through this.[BRK]
 
 [POR10]
@@ -85,7 +85,7 @@ Now get out of here...
 
 === 1 | 82a8 | 46 ===
 [POR02]
-Listen, hiro! It sounds
+Listen, Hiro! It sounds
 like music...[BRK]
 
 What's going on over
@@ -102,16 +102,16 @@ followed...[BRK]
 [POR02]
 Relax, we're just passing
 through. Let's get going,
-hiro.[END]
+Hiro.[END]
 
 === 3 | 8388 | 206 ===
 [POR10]
 Hiro...hmm, that's the
-strangest name i've ever
+strangest name I've ever
 heard...[BRK]
 
 And this is the most rag-
-tag party i've ever seen...[BRK]
+tag party I've ever seen...[BRK]
 
 A weird flying creature,
 a lady in a strange red
@@ -122,7 +122,7 @@ I'm not strange! Why don't
 you take a look at yourself?[BRK]
 
 [POR05]
-I'll show you what i really
+I'll show you what I really
 want to be remembered for.[BRK]
 
 It'll just take five 
@@ -150,10 +150,10 @@ Hiro, where are you and
 your companions headed?[BRK]
 
 What?...the holy city of
-pentagulia! Are you going
-to go see the goddess?[BRK]
+Pentagulia! Are you going
+to go see the Goddess?[BRK]
 
-I thought that the goddess
+I thought that the Goddess
 was just a legend...[BRK]
 
 I wonder if she really does
@@ -161,7 +161,7 @@ exist?[BRK]
 
 [POR08]
 Why do so many people doubt
-the existence of althena?[BRK]
+the existence of Althena?[BRK]
 
 It is so very strange...[END]
 
@@ -200,29 +200,29 @@ Oh great! This is the part
 where she asks us to help
 her...[BRK]
 
-Just watch...i know it's
+Just watch...I know it's
 coming...
 [END]
 
 === 7 | 893c | 29f ===
 [POR10]
-If only i knew exactly where
+If only I knew exactly where
 the sounds were coming from![BRK]
 
-Maybe then i could find the
+Maybe then I could find the
 monster and get back the
 kidnapped...[BRK]
 
 [POR02]
-What did i say!? Looks like
+What did I say!? Looks like
 they need our help.[BRK]
 
-Say, jean, the voices are
+Say, Jean, the voices are
 coming from the hole in the
 eastern tree over there...[BRK]
 
 [POR10]
-...what hole!? I...i don't
+...what hole!? I...I don't
 see any hole in the tree
 over there....???[BRK]
 
@@ -253,23 +253,23 @@ my friends back...[END]
 
 === 8 | 8be4 | 74 ===
 [POR10]
-Okay, ruby, show me the
+Okay, Ruby, show me the
 way.[BRK]
 
 [POR02]
-Come on, hiro, we'd better
+Come on, Hiro, we'd better
 hurry and get that monster
 before it gets anyone else![END]
 
 === 9 | 8c70 | 1fb ===
 [POR00]
 Howdy, strangers! My name is
-giban. I'm in charge of this
+Giban. I'm in charge of this
 little caravan.[BRK]
 
 We were on our way to the
-carnival in the madoria
-plains area.[BRK]
+carnival in the Madoria
+Plains area.[BRK]
 
 But we seem to be unable
 to exit from this part
@@ -280,12 +280,12 @@ practicing for a carnival
 we may never reach...[BRK]
 
 [POR02]
-Is that what jean was doing?
+Is that what Jean was doing?
 Practicing? It was awfully
 good...[BRK]
 
 [POR00]
-Oh, you saw jean dancing?
+Oh, you saw Jean dancing?
 She's the best dancer we
 have.[BRK]
 
@@ -298,7 +298,7 @@ earlier...[END]
 
 === a | 8e82 | 108 ===
 [POR00]
-I met jean when she was a
+I met Jean when she was a
 scared and lonely young
 lady.[BRK]
 
@@ -312,11 +312,11 @@ her dark secrets.[BRK]
 
 I've grown quite attached
 to the girl...don't know
-what i'd do without her...[END]
+what I'd do without her...[END]
 
 === b | 8f9e | 74 ===
 [POR00]
-You mark my words, jean is
+You mark my words, Jean is
 going to be the best dancer
 in the whole world...[BRK]
 
@@ -331,11 +331,11 @@ monster that did this, hm?[BRK]
 Jean, are you sure you're
 making the right decision?[BRK]
 
-I'd die if i lost you...[BRK]
+I'd die if I lost you...[BRK]
 
 [POR10]
-Yes, giban. I have to go.
-If i don't, soon we'll all
+Yes, Giban. I have to go.
+If I don't, soon we'll all
 be captives of this thing.[END]
 
 === d | 910a | d3 ===
@@ -344,7 +344,7 @@ Well, it looks like we're
 ready to get out of this
 forest.[BRK]
 
-...jean, you know that you
+...Jean, you know that you
 can always come with us...[BRK]
 
 I know, you have to take 
@@ -355,12 +355,12 @@ hurry back...[BRK]
 ....
 .....[BRK]
 
-Thank you, giban.[END]
+Thank you, Giban.[END]
 
 === e | 91ec | 76 ===
 Hey?! How did you get here?[BRK]
 
-If i was you, i would go
+If I was you, I would go
 back the way you came.[BRK]
 
 I've got a bad feeling about
@@ -376,7 +376,7 @@ of terrible monster...[BRK]
 
 [POR02]
 I heard those voices, too.
-Come on hiro! Let's find
+Come on Hiro! Let's find
 a way outta this place![BRK]
 
 [POR00]
@@ -407,7 +407,7 @@ be somewhere nearby...[END]
 
 === 11 | 94a0 | 39 ===
 [POR02]
-Oh no, hiro! Did you see
+Oh no, Hiro! Did you see
 that? What're we gonna
 do???![END]
 
@@ -418,7 +418,7 @@ debt.[BRK]
 
 [POR10]
 No, you're not. You should
-be thanking hiro and the
+be thanking Hiro and the
 others for saving your life.[END]
 
 === 13 | 958c | d0 ===
@@ -455,10 +455,10 @@ thank you.[BRK]
 
 If we hurry, we'll be able
 to get to the carnival
-before it's over, jean.[BRK]
+before it's over, Jean.[BRK]
 
 [POR10]
-I'm sorry, but i've got
+I'm sorry, but I've got
 to take care of something
 first...[END]
 
@@ -467,7 +467,7 @@ first...[END]
 the world! You'll have an
 adventure!' They all said.[BRK]
 
-Now i'm probably stuck in
+Now I'm probably stuck in
 these creepy woods forever![BRK]
 
 Some life...
@@ -479,19 +479,19 @@ I hate it here. This
 carnival is no fun at
 all.[BRK]
 
-I knew i should've been an
+I knew I should've been an
 undertaker...but nooooooo,[BRK]
 
 'try the carnival,' they all
 said. Ha! Some fun![END]
 
 === 18 | 9936 | 7e ===
-I tell ya, if althena cared
+I tell ya, if Althena cared
 at all about us, we wouldn't
 be stuck here.[BRK]
 
 [POR08]
-Why do people blame althena
+Why do people blame Althena
 for all their problems?[END]
 
 === 19 | 99c4 | 99 ===
@@ -517,11 +517,11 @@ You'll love my friendly,
 quality service.[BRK]
 
 I'm even endorsed by a 
-former star of miami vice.[END]
+former star of Miami vice.[END]
 
 === 1b | 9b50 | f0 ===
 I knew that you were going
-to come and save me, jean.
+to come and save me, Jean.
 I read it in the cards...[BRK]
 
 [POR10]
@@ -530,16 +530,16 @@ that the end of the world
 was coming five years ago.[BRK]
 
 And the time when you said
-that i was going to meet
+that I was going to meet
 a handsome stranger...
 [END]
 
 === 1c | 9c58 | 77 ===
 I've just read in the cards
-that jean will be leaving
+that Jean will be leaving
 the carnival...[BRK]
 
-And i also predict that
+And I also predict that
 you will return to us...
 [END]
 
@@ -548,11 +548,11 @@ Ahhh...what a beautiful
 day to be alive...[BRK]
 
 The clean, fresh air...
-i think i've found paradise!
+I think I've found paradise!
 [END]
 
 === 1e | 9d5a | 53 ===
-I think i'm going to skip
+I think I'm going to skip
 practice today and just take
 in the beauty of this place.[END]
 
@@ -565,12 +565,12 @@ ground cave thing. I wish I
 was still there.[BRK]
 
 [POR10]
-Uh...i'm sorry...i think...?[END]
+Uh...I'm sorry...I think...?[END]
 
 === 20 | 9e5e | 86 ===
-Of all the people i have 
+Of all the people I have 
 taught how to dance, only 
-jean has mastered the art.[BRK]
+Jean has mastered the art.[BRK]
 
 She is, without a doubt, the
 best dancer in the world.[END]
@@ -592,14 +592,14 @@ way to get them all back![END]
 Jean! You're still alive!![BRK]
 
 This is great! Now everyone
-will know that i'm the best
+will know that I'm the best
 teacher in the world.[BRK]
 
 There is nobody that can
 dance, sing, and fight as
 well as you.[BRK]
 
-And i taught you![BRK]
+And I taught you![BRK]
 
 [POR10]
 I'm grateful for all that
@@ -609,10 +609,10 @@ are an excellent teacher.
 
 === 24 | a0e0 | d9 ===
 I'm going to make sure that
-everyone knows that i 
-trained you, jean...[BRK]
+everyone knows that I 
+trained you, Jean...[BRK]
 
-They must know that i 
+They must know that I 
 trained the best fighter 
 and dancer in the world.[BRK]
 
@@ -638,7 +638,7 @@ I've had women tattoo my
 name all over their butts![BRK]
 
 [POR02]
-I'd tattoo hiro's name on
+I'd tattoo Hiro's name on
 my butt![END]
 
 === 26 | a2d6 | ec ===
@@ -652,7 +652,7 @@ souls are in danger...[BRK]
 ...still you appreciate my
 smashing good looks.[BRK]
 
-I'm glad that i could bring
+I'm glad that I could bring
 some joy to your life in
 this dark moment...[END]
 
@@ -673,20 +673,20 @@ again be able to shudder at
 the sight of perfection...[BRK]
 
 [POR10]
-I'm thinking i should've let
+I'm thinking I should've let
 the monster eat you.[END]
 
 === 29 | a4ee | 198 ===
 I saw you guys talking with
-jean. Please don't drag her
+Jean. Please don't drag her
 into any trouble![BRK]
 
-I don't think i could live 
+I don't think I could live 
 with myself if anything 
 ever happened to her...[BRK]
 
 I remember the first day I
-saw jean...[BRK]
+saw Jean...[BRK]
 
 She looked as if she was 
 dead. Her clothes were torn
@@ -697,16 +697,16 @@ she even had the strength
 to open her eyes.[BRK]
 
 Jean has never told me what
-she ran away from, but i 
+she ran away from, but I 
 know it still haunts her.[END]
 
 === 2a | a69e | 6f ===
-It was rumored that jean
+It was rumored that Jean
 used to be a trained 
 assassin...[BRK]
 
-But i just can't imagine
-dear jean hurting a fly...
+But I just can't imagine
+dear Jean hurting a fly...
 [END]
 
 === 2b | a720 | 48 ===
@@ -720,22 +720,22 @@ Jean, you aren't going to go
 fight, are you?[BRK]
 
 [POR10]
-...i'll be back. I have to
+...I'll be back. I have to
 save my friends![END]
 
 === 2d | a804 | 95 ===
-Jean, i've prayed for your
+Jean, I've prayed for your
 safe return...[BRK]
 
 ...and now you're thinking
-about leaving again, i hear.[BRK]
+about leaving again, I hear.[BRK]
 
 [POR10]
 I must. I can't run away
 from my past forever...[END]
 
 === 2e | a8ac | 64 ===
-Jean and i are going to 
+Jean and I are going to 
 dance together soon at the
 world finals.[BRK]
 
@@ -744,8 +744,8 @@ the best![END]
 
 === 2f | a928 | b1 ===
 I will admit that some-
-times, i get a bit jealous
-of jean's talent.[BRK]
+times, I get a bit jealous
+of Jean's talent.[BRK]
 
 Usually it's when people are
 gaga over her and ignoring
@@ -758,7 +758,7 @@ hey! I'm only human...[END]
 Oh no, what's happening to
 us?[BRK]
 
-Goddess althena! Please save
+Goddess Althena! Please save
 us from the evil that is
 upon us![END]
 
@@ -767,15 +767,15 @@ Jean, is it true that you're
 going to join forces with
 these outsiders?[BRK]
 
-Does giban know about this?[BRK]
+Does Giban know about this?[BRK]
 
 [POR10]
 Yes, so don't worry about
 it, okay?[END]
 
 === 32 | ab02 | 9a ===
-Hey, jean, if you're leaving,
-that means i'm the new head
+Hey, Jean, if you're leaving,
+that means I'm the new head
 dancer![BRK]
 
 [POR10]
@@ -802,7 +802,7 @@ thicket up ahead.[BRK]
 I hope they find a way
 around this thing.[BRK]
 
-Otherwise, i think we're
+Otherwise, I think we're
 all stuck.[END]
 
 === 34 | acd8 | 6a ===
@@ -820,7 +820,7 @@ in the carnival.[BRK]
 
 [POR02]
 Now that half your troupe
-got sucked away, i bet you
+got sucked away, I bet you
 are...
 
 
@@ -830,13 +830,13 @@ are...
 
 === 36 | adf0 | 108 ===
 Thank you for saving my 
-life! I thought i was going
+life! I thought I was going
 to die down there.[BRK]
 
-Jean, i didn't know you
+Jean, I didn't know you
 could fight like that.[BRK]
 
-Say, i'm going to work out a
+Say, I'm going to work out a
 new act with you and some of
 the wild animals, okay?[BRK]
 
@@ -851,12 +851,12 @@ ku ke...ku...ke
 ka ka...ka...ka![BRK]
 
 [POR08]
-I don't think i've ever
+I don't think I've ever
 seen anything like this
 before. What is it?[BRK]
 
 [POR02]
-Uh, hello, lucia? It's a
+Uh, hello, Lucia? It's a
 bird. Just a dumb old bird.[BRK]
 
 Sheesh...
@@ -889,7 +889,7 @@ monster just did? We gotta
 get outta here![BRK]
 
 [POR02]
-I think i liked you better
+I think I liked you better
 when you didn't talk...[END]
 
 === 3a | b17a | 112 ===
@@ -918,23 +918,23 @@ idea?[END]
 Ill woods clearing[END]
 
 === 3c | cf52 | 13e ===
-My big sister jean is a fan
-dancer now, but i heard she
+My big sister Jean is a fan
+dancer now, but I heard she
 used to be a karate master![BRK]
 
 Okay, so she's not my real
 sister, but we were raised
 together.[BRK]
 
-One day, i want to grow up
+One day, I want to grow up
 to be a strong karate
 fighter![BRK]
 
-I've asked jean to teach me
+I've asked Jean to teach me
 karate, but she always gets
-sad when i mention it.[BRK]
+sad when I mention it.[BRK]
 
-I wish i knew why she did
+I wish I knew why she did
 that...[END]
 
 === 3d | d0a8 | 75 ===
@@ -953,9 +953,9 @@ takes any more people![END]
 
 === 3f | d188 | 4e ===
 [POR10]
-I'll do what i can, little
-brother. But i don't think
-i need to use karate.[END]
+I'll do what I can, little
+brother. But I don't think
+I need to use karate.[END]
 
 === 40 | d1e6 | 15d ===
 Jean...you're going to leave
@@ -970,7 +970,7 @@ Don't worry, little brother.
 I'll be back soon to teach
 you what you need to know.[BRK]
 
-But i won't teach you the
+But I won't teach you the
 aggressive karate of death,
 only the defensive moves.[BRK]
 
@@ -981,10 +981,10 @@ of our troupe.
 [END]
 
 === 41 | d352 | 11e ===
-That jean! Always pretending
+That Jean! Always pretending
 no one notices her![BRK]
 
-Before she came, i was the
+Before she came, I was the
 best dancer in our caravan![BRK]
 
 Then, we had to go and
@@ -995,7 +995,7 @@ just a poor urchin in torn
 karate rags![BRK]
 
 Hah! I wish she had never
-joined us. Then i would
+joined us. Then I would
 still be the best![END]
 
 === 42 | d484 | 43 ===
@@ -1013,7 +1013,7 @@ tough for me to admit...[BRK]
 .....[BRK]
 
 But you saved our caravan,
-and i owe you my deepest
+and I owe you my deepest
 thanks.
 [END]
 
@@ -1022,8 +1022,8 @@ I've been jealous of your
 talent. I want that to
 change.[BRK]
 
-Jean, i know we haven't been
-the best of friends, but i'd
+Jean, I know we haven't been
+the best of friends, but I'd
 like to try.[BRK]
 
 [POR10]
@@ -1035,12 +1035,12 @@ From now on, we're nothing
 but the best of friends![END]
 
 === 45 | d678 | 1f8 ===
-...oh, jean! Do you know the
-affection i feel for you?[BRK]
+...oh, Jean! Do you know the
+affection I feel for you?[BRK]
 
-Ever since i first saw your
+Ever since I first saw your
 flowing skirt rise in tempo
-to the music...i knew.[BRK]
+to the music...I knew.[BRK]
 
 I don't care that your past
 is shrouded in secrecy. I
@@ -1055,23 +1055,23 @@ Whew! Is it getting hot in
 here? I think it's getting
 hotter in here...[BRK]
 
-You know, i think this jean
+You know, I think this Jean
 gal needs to be warned about
 this guy.[BRK]
 
 [POR00]
 Warned? Why? Why would you
-have to warn jean of the
+have to warn Jean of the
 depth of my love?[END]
 
 === 46 | d888 | 8c ===
-Jean, jean, jelly bean. Let
+Jean, Jean, jelly bean. Let
 me wrap my tongue around
 your gourmet sweets...[BRK]
 
 [POR02]
 Have you said this stuff to
-jean's face?[BRK]
+Jean's face?[BRK]
 
 I bet she'd slap it![END]
 
@@ -1080,8 +1080,8 @@ What? A monster is attacking
 our caravan?! Oh, why'd it
 have to be today!!??[BRK]
 
-If i didn't have diarrhea, 
-i'd be able to show jean
+If I didn't have diarrhea, 
+I'd be able to show Jean
 my brave skill![BRK]
 
 [POR02]
@@ -1099,26 +1099,26 @@ Hehe...or better yet...your
 stinky weapon...[END]
 
 === 48 | da9a | bd ===
-Oh jean! I knew you would
+Oh Jean! I knew you would
 be able to defeat that
 terrible, terrible monster.[BRK]
 
 Jean...sweetheart, come to
-me so i can hold you close.[BRK]
+me so I can hold you close.[BRK]
 
 [POR10]
-Excuse me? Do i know you?[BRK]
+Excuse me? Do I know you?[BRK]
 
 There must be some mistake.
 [END]
 
 === 49 | db6e | a1 ===
 I've heard you're leaving
-the caravan, jean.[BRK]
+the caravan, Jean.[BRK]
 
 Just know that anytime you
 need a shoulder to cry on,
-i'll be here waiting.[BRK]
+I'll be here waiting.[BRK]
 
 [POR10]
 Excuse me? Where is this
@@ -1135,12 +1135,12 @@ I just love to sing. It does
 something to my spirit, my
 soul...[BRK]
 
-But the head of the althena
-cult doesn't allow any song
+But the head of the Althena
+Cult doesn't allow any song
 in his shrine![BRK]
 
 I thought that was strange,
-since the althena of legend
+since the Althena of legend
 was known for her singing...[BRK]
 
 [POR08]
@@ -1170,7 +1170,7 @@ stops![END]
 
 === 4e | e474 | 169 ===
 In return for you helping
-our little caravan, i'll
+our little caravan, I'll
 make a song for you.[BRK]
 
 It starts out like this...[BRK]
@@ -1195,19 +1195,19 @@ on it, but that sounds
 awfully familiar...[END]
 
 === 4f | e5ec | 103 ===
-I'm afraid i'm not a very
+I'm afraid I'm not a very
 good dancer. Especially
-compared to jean.[BRK]
+compared to Jean.[BRK]
 
-But i keep trying. Someday
-i hope to dance in one of
-the festivals to althena.[BRK]
+But I keep trying. Someday
+I hope to dance in one of
+the festivals to Althena.[BRK]
 
 [POR08]
 Why do they dance at these
-festivals to althena?[BRK]
+festivals to Althena?[BRK]
 
-Did althena tell them to?
+Did Althena tell them to?
 I don't understand any of
 this...
 [END]
@@ -1236,7 +1236,7 @@ Caravan coach 2[END]
 Have you ever seen something
 like this baby?[BRK]
 
-It's called a magic arrow.
+It's called a Magic Arrow.
 It'll be one of our most
 popular attractions.[BRK]
 
@@ -1246,7 +1246,7 @@ an accident waiting to
 happen to me![BRK]
 
 [POR00]
-Oh no! It's quite safe, i'm
+Oh no! It's quite safe, I'm
 certain.[BRK]
 
 I've got it all worked out
@@ -1256,12 +1256,12 @@ sent monkeys up in it![BRK]
 Aside from a little brain
 swelling, they're fine.[BRK]
 
-Besides, i think i've fixed
+Besides, I think I've fixed
 the thing that caused that
 anyway...[END]
 
 === 54 | efdc | 95 ===
-If only this magic arrow
+If only this Magic Arrow
 were bigger! Then everyone
 could fly away in it.[BRK]
 
@@ -1278,13 +1278,13 @@ I was toying with the idea
 of settling down and giving
 up this job.[BRK]
 
-But i'm the only person
+But I'm the only person
 that knows how to work the
-magic arrow...[BRK]
+Magic Arrow...[BRK]
 
 ...and it's our number one
-attraction! Oh...i don't
-know what i'm gonna do...
+attraction! Oh...I don't
+know what I'm gonna do...
 [END]
 
 === 56 | f18e | 44 ===

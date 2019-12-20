@@ -3,33 +3,33 @@ File: M27.GRP
 Messages: 19
 
 === 0 | 17436 | f ===
-Sunken tower 1f[END]
+Sunken tower 1F[END]
 
 === 1 | 1824e | f ===
-Sunken tower 2f[END]
+Sunken tower 2F[END]
 
 === 2 | 19016 | f ===
-Sunken tower 3f[END]
+Sunken tower 3F[END]
 
 === 3 | 19dec | f ===
-Sunken tower 4f[END]
+Sunken tower 4F[END]
 
 === 4 | 1abb8 | f ===
-Sunken tower 5f[END]
+Sunken tower 5F[END]
 
 === 5 | 1b9d0 | f ===
-Sunken tower 6f[END]
+Sunken tower 6F[END]
 
 === 6 | 1c7aa | 1f ===
-[0xB][0][0xC]Took the right dragon's
-eye![END]
+[0xB][0][0xC]Took the Right Dragon's
+Eye![END]
 
 === 7 | 1c7dc | 64 ===
 [POR02]
 Hiro, we've finally got one
-of the dragon eye jewels![BRK]
+of the Dragon Eye Jewels![BRK]
 
-...i wonder what happened to
+...I wonder what happened to
 the other one?[END]
 
 === 8 | 1c84e | 7e ===
@@ -40,7 +40,7 @@ jewel![BRK]
 Now we've got both![BRK]
 
 Let's make tracks for the
-star dragon tower! I bet
+Star Dragon Tower! I bet
 these get us in![END]
 
 === 9 | 1c8e0 | 96 ===
@@ -71,8 +71,8 @@ Lucia's waiting![END]
 
 === b | 1ca46 | 3f ===
 [POR02]
-Come on, hiro, we've got to
-go to the star dragon's 
+Come on, Hiro, we've got to
+go to the Star Dragon's 
 tower!
 [END]
 
@@ -80,7 +80,7 @@ tower!
 [POR02]
 Hiro, this socket's empty.[BRK]
 
-I think grandpa gwyn took
+I think Grandpa Gwyn took
 that jewel a long time ago.[END]
 
 === d | 1caf4 | dc ===
@@ -90,11 +90,11 @@ Your daring will be your
 downfall.[BRK]
 
 I cannot allow you to take
-the dragon jewel to open
-the star dragon tower.[BRK]
+the Dragon Jewel to open
+the Star Dragon Tower.[BRK]
 
 There can be no travel to
-the blue star until the
+the Blue Star until the
 appointed time.[BRK]
 
 I will stop you at any
@@ -115,7 +115,7 @@ You have not won...[BRK]
 
 [POR02]
 Hey, that's the guy we met
-in bandit butte, isn't it?[BRK]
+in Bandit Butte, isn't it?[BRK]
 
 He must be some sort of
 guardian or something.[BRK]
@@ -124,10 +124,10 @@ I wish there was some way
 to let him know that our
 intentions are good,[BRK]
 
-just like althena...[END]
+just like Althena...[END]
 
 === f | 1cd16 | f ===
-Sunken tower 7f[END]
+Sunken tower 7F[END]
 
 === 10 | 1da74 | e ===
 Secret room #1[END]

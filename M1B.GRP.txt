@@ -4,42 +4,42 @@ Messages: 242
 
 === 0 | 96b6 | 71 ===
 [POR07]
-Pooh! This isn't vane!
+Pooh! This isn't Vane!
 Vane is north of here![BRK]
 
 Come on, let's get going.[BRK]
 
 This town is nothing
-compared to vane![END]
+compared to Vane![END]
 
 === 1 | 973a | 95 ===
 [POR07]
 Hiro! I need your help to
-drive borgan out of vane
+drive Borgan out of Vane
 and rescue my mother![BRK]
 
-Please, i've helped you on
+Please, I've helped you on
 your quest. Now it's time 
 for you to help me![END]
 
 === 2 | 97e2 | 84 ===
 [POR02]
 Hiro, you're not really
-going to make lemina face
-down borgan all alone...[BRK]
+going to make Lemina face
+down Borgan all alone...[BRK]
 
 ...are you?[BRK]
 
 C'mon! Let's go back to
-vane and help her![END]
+Vane and help her![END]
 
 === 3 | 987e | 60 ===
 [POR05]
-If i remember correctly,[BRK]
+If I remember correctly,[BRK]
 
 there was a transport device
-here that connects azado to
-pentagulia.[END]
+here that connects Azado to
+Pentagulia.[END]
 
 === 4 | 98f6 | 41 ===
 [POR05]
@@ -56,12 +56,12 @@ sanctuary tower.[BRK]
 It's gotta still be there![BRK]
 
 If it works, it'll transfer
-us to pentagulia in no
+us to Pentagulia in no
 time![END]
 
 === 6 | 99f8 | 14c ===
 Welcome! Welcome!! This
-is azado, the good-time
+is Azado, the good-time
 port![BRK]
 
 This is a great town. You're
@@ -78,7 +78,7 @@ pleasures![BRK]
 
 Oh, and don't forget to
 check out the awesomeness of
-azado tower!
+Azado Tower!
 [END]
 
 === 7 | 9b5c | b8 ===
@@ -126,7 +126,7 @@ public!
 
 === a | 9d7a | c5 ===
 Dang! I just missed it!!
-The gate to althena's 
+The gate to Althena's 
 sanctuary just closed.[BRK]
 
 It totally sucks because
@@ -150,7 +150,7 @@ sells the anti-monster
 beads![BRK]
 
 My kids are scared, and
-without those beads, i can't
+without those beads, I can't
 protect them![END]
 
 === d | 9f52 | 140 ===
@@ -174,18 +174,18 @@ Or, then again, maybe we'll
 find some decent dice action
 in this town...[BRK]
 
-...either way, i'm happy![END]
+...either way, I'm happy![END]
 
 === e | a0ae | d2 ===
 It seems as if the only ones
 making money off the monster
-crisis is althena's cult.[BRK]
+crisis is Althena's Cult.[BRK]
 
 I'm starting to get the
 feeling that we're being
-had by the cult![BRK]
+had by the Cult![BRK]
 
-But i just don't know how
+But I just don't know how
 they're controlling the
 monsters!
 [END]
@@ -210,10 +210,10 @@ Just my luck![END]
 === 11 | a27e | 141 ===
 The greatest of the four
 heroes is the legendary
-white knight leo.[BRK]
+White Knight Leo.[BRK]
 
 Since my dad died from the
-last monster attack, i had
+last monster attack, I had
 no money to buy the beads.[BRK]
 
 But the white knight took
@@ -231,10 +231,10 @@ how impolite it is to beg?
 === 12 | a3d6 | 7d ===
 Silence! You stand in the
 presence of the legendary
-white knight leo jr.[BRK]
+White Knight Leo jr.[BRK]
 
-I've decided that i'm gonna
-adopt leo as my new dad.[END]
+I've decided that I'm gonna
+adopt Leo as my new dad.[END]
 
 === 13 | a46a | 80 ===
 Hey, hey, hey, guess what?
@@ -247,29 +247,29 @@ their buttskies![BRK]
 You heard wrong, troll-boy![END]
 
 === 14 | a506 | 33 ===
-Lord leo is the strongest
+Lord Leo is the strongest
 guy on the planet, huh?!![END]
 
 === 15 | a54c | d2 ===
-Lord leo isn't the white
+Lord Leo isn't the white
 knight anymore...[BRK]
 
 That doesn't matter, though.
 I'm still gonna grow up and
 be just like him![BRK]
 
-People will read how leo and
+People will read how Leo and
 me saved this world. I'll be
-just as famous as leo!![BRK]
+just as famous as Leo!![BRK]
 
 Cool, huh?[END]
 
 === 16 | a632 | 71 ===
-I don't believe it! Oh lord
-leo, please let me be your 
+I don't believe it! Oh Lord
+Leo, please let me be your 
 follower![BRK]
 
-I promise i'll do everything
+I promise I'll do everything
 you command me to![END]
 
 === 17 | a6b0 | 6d ===
@@ -292,7 +292,7 @@ Those blasted monsters
 destroyed my beautiful
 home![BRK]
 
-I knew i should've gotten
+I knew I should've gotten
 monster-raid insurance.[END]
 
 === 19 | a816 | b3 ===
@@ -321,13 +321,13 @@ The carpenter was just here.
 He said he's gonna cut me a
 deal on materials.[BRK]
 
-And i just signed the loan
+And I just signed the loan
 papers today. It's only
 gonna be a 45-year loan!
 [END]
 
 === 1c | a9fc | 1b7 ===
-If i were you, i would stay
+If I were you, I would stay
 at the inn here in town.[BRK]
 
 They have magic beads that
@@ -376,11 +376,11 @@ Wah ha ha ha ha ha![END]
 
 === 1f | ace2 | 139 ===
 Whew! For a while there,
-i was totally insane![BRK]
+I was totally insane![BRK]
 
-I'm glad i got my sanity
+I'm glad I got my sanity
 back just in time to hear
-about leo's victory![BRK]
+about Leo's victory![BRK]
 
 I couldn't believe it! There 
 he was...all alone. Evil 
@@ -389,8 +389,8 @@ surrounded him. [BRK]
 Nowhere to run. Nowhere to
 hide...[BRK]
 
-But leo fearlessly thrust
-his saber into zophar's
+But Leo fearlessly thrust
+his saber into Zophar's
 black heart![BRK]
 
 Talk about brave...wow![END]
@@ -406,7 +406,7 @@ those that are shared.[END]
 === 21 | ae8c | 9f ===
 The only thing worth having
 around here is the beads
-of althena.[BRK]
+of Althena.[BRK]
 
 But hey, my husband made
 some that work just as
@@ -424,7 +424,7 @@ but now they're discounted.[BRK]
 They're only 253,001s![END]
 
 === 23 | afb4 | c9 ===
-I see you destroyed zophar
+I see you destroyed Zophar
 without using my special
 beads.[BRK]
 
@@ -434,12 +434,12 @@ weren't such a cheap-o![BRK]
 
 [POR02]
 ...your beads are about
-as useless as lemina's
+as useless as Lemina's
 guild memberships![END]
 
 === 24 | b08a | 58 ===
 [POR05]
-Hey, ruby! There's no call
+Hey, Ruby! There's no call
 for picking on the li'l
 lady![BRK]
 
@@ -447,18 +447,18 @@ At least she's a go-getter!
 [END]
 
 === 25 | b0f6 | 1ac ===
-The gals and i've been
+The gals and I've been
 talking lately.[BRK]
 
-It seems the goddess has
+It seems the Goddess has
 sealed some evil god in
-or around pentagulia![BRK]
+or around Pentagulia![BRK]
 
-They say his name is zophar
+They say his name is Zophar
 or something...[BRK]
 
 And just between you and
-me...i think zophar just
+me...I think Zophar just
 might be a hunk.[BRK]
 
 He just needs the right
@@ -472,20 +472,20 @@ Zophar is the essence of
 evil![BRK]
 
 There's no telling how long
-althena's power can keep
+Althena's power can keep
 him sealed![BRK]
 
 Hiro, we must hurry and get
-to pentagulia.[END]
+to Pentagulia.[END]
 
 === 26 | b2ba | c0 ===
 Margery was tellin' me that
 her and her husband have
 been playing a new game.[BRK]
 
-She pretends she's goddess
-althena, and he pretends
-he's the mighty zophar.[BRK]
+She pretends she's Goddess
+Althena, and he pretends
+he's the mighty Zophar.[BRK]
 
 Her goal is to seal his 
 unholy power.[END]
@@ -494,11 +494,11 @@ unholy power.[END]
 I heard that the god of
 destruction was...[BRK]
 
-Oh, goddess althena! Have
+Oh, Goddess Althena! Have
 mercy on our souls![END]
 
 === 28 | b3f6 | 75 ===
-I heard that zophar was
+I heard that Zophar was
 defeated by mere mortals![BRK]
 
 I didn't think humans
@@ -508,25 +508,25 @@ possessed such a power![BRK]
 Well, guess again![END]
 
 === 29 | b47e | 6a ===
-Have you heard about white
-knight leo and red priest
-mauri?
+Have you heard about White
+Knight Leo and Red Priest
+Mauri?
 [0x5]I don't think so.
 Only about a hundred times.[END]
 
 === 2a | b4f8 | fb ===
-Leo and mauri are two of the
+Leo and Mauri are two of the
 four heroes.[BRK]
 
-Lord leo is the head of 
-althena's guard, and the
-chief of the destiny.[BRK]
+Lord Leo is the head of 
+Althena's Guard, and the
+chief of the Destiny.[BRK]
 
-Mauri is leo's sister, and
-high priestess to goddess
-althena.[BRK]
+Mauri is Leo's sister, and
+high priestess to Goddess
+Althena.[BRK]
 
-Although i haven't ever seen
+Although I haven't ever seen
 her, she's supposed to be
 absolutely stunning.[END]
 
@@ -549,16 +549,16 @@ Quick! Turn to page 42![BRK]
 
 ...ohhhh yeah...[BRK]
 
-...see what i mean? That's
-mauri![BRK]
+...see what I mean? That's
+Mauri![BRK]
 
 Oh baby! Just look at her
 standing there in that red
 lace ceremonial uniform![BRK]
 
-I'm the goddess althena![BRK]
+I'm the Goddess Althena![BRK]
 
-Come and serve me, mauri!
+Come and serve me, Mauri!
 
 [END]
 
@@ -566,23 +566,23 @@ Come and serve me, mauri!
 I heard that the four heroes
 have gone their own ways.[BRK]
 
-And that althena herself is
+And that Althena herself is
 no more![BRK]
 
 But the best rumor is that
-black wizard borgan's going
+black wizard Borgan's going
 to take a bride![END]
 
 === 2f | b860 | 60 ===
 [POR07]
 Pooh! Over my dead body![BRK]
 
-There's no chance that i'm
+There's no chance that I'm
 going to be that fat turd's
 stepdaughter![END]
 
 === 30 | b8d4 | a8 ===
-Say leo, since you and mauri
+Say Leo, since you and Mauri
 are no longer considered 
 part of the four heroes,[BRK]
 
@@ -597,11 +597,11 @@ I'd pay.....[BRK]
 .....[END]
 
 === 31 | b990 | b9 ===
-Lord leo is so devoted to 
-his work that i don't think
+Lord Leo is so devoted to 
+his work that I don't think
 he's ever been in love.[BRK]
 
-In fact, i don't think he
+In fact, I don't think he
 really knows what love is.[BRK]
 
 I'd be honored if he would
@@ -621,12 +621,12 @@ iron![END]
 === 33 | bafc | 5f ===
 I just can't stop thinking
 about how wonderful it would
-be to be leo's wife![BRK]
+be to be Leo's wife![BRK]
 
 Talk about heaven![END]
 
 === 34 | bb76 | 40 ===
-I sure hope leo still comes
+I sure hope Leo still comes
 around.[BRK]
 
 He can tame my beast anyday![END]
@@ -634,7 +634,7 @@ He can tame my beast anyday![END]
 === 35 | bbca | 78 ===
 I don't think anyone can
 capture the true essence
-of manliness like leo.[BRK]
+of manliness like Leo.[BRK]
 
 He has an unspoken power
 that just pulls me in![END]
@@ -656,55 +656,55 @@ Hey! Save some of that
 polish for me, toots![END]
 
 === 37 | bd0a | 96 ===
-I've heard that a dragon-
+I've heard that a Dragon-
 master has returned to 
-serve the goddess althena.[BRK]
+serve the Goddess Althena.[BRK]
 
-The position of dragonmaster
+The position of Dragonmaster
 is the highest rank that
 anyone can achieve.[END]
 
 === 38 | bdae | 87 ===
 [POR08]
-Why would the goddess in
+Why would the Goddess in
 all her power rely on a
 simple human to protect her?[BRK]
 
-These dragonmasters must 
+These Dragonmasters must 
 possess extraordinary power![END]
 
 === 39 | be4c | 5f ===
-The goddess althena has 
+The Goddess Althena has 
 once again been reborn to
 us...[BRK]
 
 I wonder who her new 
-dragonmaster is?[END]
+Dragonmaster is?[END]
 
 === 3a | beba | 4c ===
-The dragonmaster is not a 
+The Dragonmaster is not a 
 god, but merely a human with
 extraordinary power.[END]
 
 === 3b | bf16 | 89 ===
 Some believe that the
-four dragons and the dragon-
+Four Dragons and the Dragon-
 master...[BRK]
 
 Are powerful enough to
-protect althena forever.[BRK]
+protect Althena forever.[BRK]
 
 I find that hard to believe.[END]
 
 === 3c | bfb2 | 9c ===
 I can't believe what people
-say about althena, the four
-dragons,[BRK]
+say about Althena, the Four
+Dragons,[BRK]
 
-...and the dragonmaster![BRK]
+...and the Dragonmaster![BRK]
 
-I mean, if i believed that,
-i could believe that vane
+I mean, if I believed that,
+I could believe that Vane
 used to fly![END]
 
 === 3d | c05c | 50 ===
@@ -712,25 +712,25 @@ used to fly![END]
 Why wouldn't you believe
 that, nimrod?[BRK]
 
-Of course vane used to
+Of course Vane used to
 fly in the sky![END]
 
 === 3e | c0c0 | 145 ===
 I'm going back to school
-so that i can learn about
+so that I can learn about
 our history.[BRK]
 
-The blue star, the goddess,
-dragons and heroic dragon-
+The Blue Star, the Goddess,
+dragons and heroic Dragon-
 masters...[BRK]
 
-...i need to learn more
+...I need to learn more
 about all of this. Maybe
 some of it is true.[BRK]
 
 I must know, because only
 by understanding the past
-can i build a bright future.[BRK]
+can I build a bright future.[BRK]
 
 [POR02]
 What do you know? Dinglenut
@@ -741,7 +741,7 @@ Man, you've just got to read
 these ancient books![BRK]
 
 They contain some of the
-greatest adventures i've
+greatest adventures I've
 ever heard about![BRK]
 
 Some of it is just so
@@ -756,7 +756,7 @@ neighbor is all right.[BRK]
 I think he's more interested
 in checking her out...[BRK]
 
-But if i catch him oogling,
+But if I catch him oogling,
 it's bobbitt time!
 [END]
 
@@ -768,7 +768,7 @@ husband![BRK]
 ...men are pigs![END]
 
 === 42 | c410 | 7b ===
-Hey, i've got a piece of
+Hey, I've got a piece of
 advice for you women.[BRK]
 
 Don't ever give your
@@ -782,7 +782,7 @@ million pieces.[END]
 Hiro would never do that![END]
 
 === 44 | c4d4 | 4c ===
-I've heard that lord leo
+I've heard that Lord Leo
 might come here. I hope so![BRK]
 
 His buns are legendary![END]
@@ -804,11 +804,11 @@ strong arms and plant
 a passionate one on me![BRK]
 
 [POR09]
-I'm sorry, i cannot stray
+I'm sorry, I cannot stray
 from my path of redemption.[BRK]
 
 [POR02]
-Oh leo! Honey lips! Tame me![BRK]
+Oh Leo! Honey lips! Tame me![BRK]
 
 Hehehe...[BRK]
 
@@ -816,40 +816,40 @@ Gag me with a jackhammer![END]
 
 === 47 | c6d2 | da ===
 One of the priests from the
-cult was here the other 
+Cult was here the other 
 day.[BRK]
 
-He said that pentagulia has
+He said that Pentagulia has
 been sealed to protect the
-goddess.[BRK]
+Goddess.[BRK]
 
-But i also heard that a
+But I also heard that a
 fearsome evil is already in
-pentagulia![BRK]
+Pentagulia![BRK]
 
 [POR08]
-Then...althena and zophar...
+Then...Althena and Zophar...
 [END]
 
 === 48 | c7c4 | 90 ===
 Why can't ordinary citizens
-go to pentagulia, even for
+go to Pentagulia, even for
 a visit?[BRK]
 
 I donate good money to the
-cult...[BRK]
+Cult...[BRK]
 
-...and now i want to see
-what i'm paying for.[END]
+...and now I want to see
+what I'm paying for.[END]
 
 === 49 | c868 | 8e ===
 These priests never give up.[BRK]
 
 One was here the other day
 saying if he didn't receive
-eight million silver,[BRK]
+eight million Silver,[BRK]
 
-the goddess was gonna take
+the Goddess was gonna take
 him away![END]
 
 === 4a | c90a | 8c ===
@@ -896,7 +896,7 @@ I'll sell it to you cheap![BRK]
 === 4d | cb28 | 94 ===
 Ah! You've seen the value
 of this fine structure,
-i see![BRK]
+I see![BRK]
 
 ...just can't find another
 one quite like her, can ya?[BRK]
@@ -908,7 +908,7 @@ financing...[END]
 Don't keep denying it,
 friend![BRK]
 
-You and i both know you're
+You and I both know you're
 never gonna find another
 one quite like her.[BRK]
 
@@ -916,7 +916,7 @@ Just sign here and she's
 all yours![END]
 
 === 4f | cc7a | 44 ===
-Blast! I don't think i'm
+Blast! I don't think I'm
 ever gonna get my commission
 on this one...[END]
 
@@ -944,7 +944,7 @@ Me khno lake it hare khno
 mo'....[END]
 
 === 53 | ce1c | 47 ===
-Mastah leo gonna save mhe
+Mastah Leo gonna save mhe
 sam day.[BRK]
 
 He uh better man than
@@ -953,7 +953,7 @@ yull evah bhe.[END]
 === 54 | ce7e | 4e ===
 I so happy that thuh magik
 monstah don' appear no more!
-Lord leo is thuh bes'![END]
+Lord Leo is thuh bes'![END]
 
 === 55 | cee4 | 7e ===
 I don' need no dum beed
@@ -963,7 +963,7 @@ I's gonna find me uh man
 and settle down.[BRK]
 
 Haay! Eyu look kinda haut!
-Maabee i keen marry you.[END]
+Maabee I keen marry you.[END]
 
 === 56 | cf76 | e4 ===
 Leo!! Me wanna marry you.
@@ -973,12 +973,12 @@ You wanna marry me?[BRK]
 Although your offer touches
 my...uh...heart,[BRK]
 
-i'm afraid i'm already
+I'm afraid I'm already
 married to my work and must
 respectfully decline.[BRK]
 
 [POR00]
-Kum on leo! I kuud maak yew
+Kum on Leo! I kuud maak yew
 barry haapee! <Wink> <snort>
 
 [END]
@@ -1007,7 +1007,7 @@ to spend all that money
 for nothing!![END]
 
 === 5a | d214 | 45 ===
-I've decided that i'm
+I've decided that I'm
 going to spend my bead
 reserve money on myself![END]
 
@@ -1019,7 +1019,7 @@ beast![BRK]
 I'm gonna call them
 beasties![BRK]
 
-If this catches on, i'm
+If this catches on, I'm
 going to be filthy rich!![BRK]
 
 [POR02]
@@ -1042,22 +1042,22 @@ constipated some time...[BRK]
 ....
 .....[BRK]
 
-Maybe i didn't advertise
+Maybe I didn't advertise
 enough....[END]
 
 === 5d | d44e | 7f ===
-The priests of the cult use
-the name of althena to do
+The priests of the Cult use
+the name of Althena to do
 anything they want.[BRK]
 
 I think they're the ones
 that need their souls saved.[END]
 
 === 5e | d4e4 | 5f ===
-The members of the cult are
+The members of the Cult are
 so two-faced.[BRK]
 
-I wonder what althena really
+I wonder what Althena really
 thinks of their service?[END]
 
 === 5f | d55a | 6d ===
@@ -1070,22 +1070,22 @@ were controlling them...[END]
 
 === 60 | d5e2 | 73 ===
 The priests should learn
-from the example of lord
-leo.[BRK]
+from the example of Lord
+Leo.[BRK]
 
 He truly cares about people
-and althena more than him-
+and Althena more than him-
 self![END]
 
 === 61 | d668 | 69 ===
-Lord leo hasn't been seen
-since he defeated zophar.[BRK]
+Lord Leo hasn't been seen
+since he defeated Zophar.[BRK]
 
 I think he went off to a
 quiet place to find himself.[END]
 
 === 62 | d6e4 | b3 ===
-Lord leo! Have you come to
+Lord Leo! Have you come to
 take control of this
 wicked town?[BRK]
 
@@ -1101,7 +1101,7 @@ for your town.[END]
 Azado[END]
 
 === 64 | f734 | 69 ===
-At night i can hear the
+At night I can hear the
 screams of frightened
 children...[BRK]
 
@@ -1122,7 +1122,7 @@ the most, the sounds that
 keep me awake at night...[BRK]
 
 Are the sounds of music
-that i hear in the 
+that I hear in the 
 distance.[END]
 
 === 67 | f8c4 | 7c ===
@@ -1130,10 +1130,10 @@ The sounds have stopped
 and the night is now silent.[BRK]
 
 We owe this all to the great
-lord leo.[BRK]
+Lord Leo.[BRK]
 
 He is truly a gift from
-althena![END]
+Althena![END]
 
 === 68 | f94e | 9e ===
 [POR09]
@@ -1172,10 +1172,10 @@ stake![END]
 
 === 6b | fb2a | 5a ===
 Now that the beast has been
-killed, i can enjoy the
+killed, I can enjoy the
 sunsets.[BRK]
 
-Before, i used to dread
+Before, I used to dread
 them.[END]
 
 === 6c | fb94 | 8a ===
@@ -1200,7 +1200,7 @@ time with me.[BRK]
 
 I'm beginning to think that
 he thinks his work is more
-important than i am.[END]
+important than I am.[END]
 
 === 6f | 10388 | 9f ===
 I can understand that he
@@ -1208,7 +1208,7 @@ wants to be financially
 stable before we marry,[BRK]
 
 but doesn't he understand
-that i'm not interested in
+that I'm not interested in
 his money?[BRK]
 
 I only care about him![END]
@@ -1222,16 +1222,16 @@ I think there might be a
 chance for us after all.[END]
 
 === 71 | 104e2 | 7b ===
-My fiance and i are going
+My fiance and I are going
 to be married next week![BRK]
 
 We're going to take our
 honeymoon in the carnival
-on the madoria plains.[END]
+on the Madoria Plains.[END]
 
 === 72 | 1056a | 77 ===
 [POR10]
-That's great! Maybe i'll be
+That's great! Maybe I'll be
 able to dance for you![BRK]
 
 [POR02]
@@ -1243,7 +1243,7 @@ married![END]
 That woman is driving me
 crazy![BRK]
 
-Doesn't she know that i only
+Doesn't she know that I only
 want the best for her?![END]
 
 === 74 | 10658 | 1d3 ===
@@ -1254,7 +1254,7 @@ Now she tells me that she
 wants me to spend time at
 some shrink's office.[BRK]
 
-That's all i want!...have
+That's all I want!...have
 some clown tell me how
 to solve my problems.[BRK]
 
@@ -1272,7 +1272,7 @@ I'm sure people are lined
 up at the gate waiting to
 buy beads...[BRK]
 
-And i show up late to open
+And I show up late to open
 the gate! Just...great![BRK]
 
 I gotta go...see ya!
@@ -1289,8 +1289,8 @@ a mess, but he's the gate-
 keeper![BRK]
 
 Now we can get to the
-transport device in azado
-tower![END]
+transport device in Azado
+Tower![END]
 
 === 76 | 108fc | 60 ===
 I think that we're beginning
@@ -1340,7 +1340,7 @@ children.[END]
 The kids now seem like they
 are happy,[BRK]
 
-but i don't think anything
+but I don't think anything
 will be able to erase their
 pain.[END]
 
@@ -1366,7 +1366,7 @@ you if you make sounds.[BRK]
 You'd better be quiet.[END]
 
 === 80 | 113b2 | 71 ===
-I wish i could've watched 
+I wish I could've watched 
 you kill the beast.[BRK]
 
 I would've like to have seen
@@ -1387,7 +1387,7 @@ am a good person.'[END]
 
 === 82 | 11500 | 4f ===
 Again, repeat. 'The world is
-my friend and i want to be
+my friend and I want to be
 a friend of the world.'[END]
 
 === 83 | 1155e | bc ===
@@ -1400,7 +1400,7 @@ just a victim, just like
 me.'[BRK]
 
 There now. Don't you feel
-better? I know i do![BRK]
+better? I know I do![BRK]
 
 1000S, please.[END]
 
@@ -1414,7 +1414,7 @@ What have you come to do?[END]
 
 === 86 | 11d22 | 44 ===
 It's still a dangerous world
-out there. What can i do for
+out there. What can I do for
 you today?[END]
 
 === 87 | 11d70 | 17 ===
@@ -1426,12 +1426,12 @@ the best armor to protect
 you from monster attacks.[BRK]
 
 But you know that. Say,
-what can i do for you?[END]
+what can I do for you?[END]
 
 === 89 | 11e22 | 43 ===
 Ah! I'm glad that you came
 in from the cold! What can
-i do for you?[END]
+I do for you?[END]
 
 === 8a | 11e6e | b ===
 Come again![END]
@@ -1440,9 +1440,9 @@ Come again![END]
 Azado bazaar[END]
 
 === 8c | 12604 | 41 ===
-The items i sell are known
+The items I sell are known
 the world over. What can
-i do for you?[END]
+I do for you?[END]
 
 === 8d | 12652 | 4c ===
 I think you'll find what
@@ -1459,10 +1459,10 @@ Azado item shop[END]
 
 === 90 | 12de4 | 7c ===
 There's no way in <hick>
-hell that i'm gonna give
+hell that I'm gonna give
 my money to the priests...[BRK]
 
-When i could <hick> use
+When I could <hick> use
 it to buy another brew![END]
 
 === 91 | 12e78 | 44 ===
@@ -1486,20 +1486,20 @@ could get you all cleaned
 up![BRK]
 
 We're starting a sobriety
-house in vane![END]
+house in Vane![END]
 
 === 94 | 12fdc | 79 ===
-You know, i'm finding that
+You know, I'm finding that
 it's a lot harder to clean
 your life up...[BRK]
 
 ...once it's messed up.[BRK]
 
-But i'm gonna keep trying!
+But I'm gonna keep trying!
 [END]
 
 === 95 | 13064 | 9e ===
-This time, i mean it. I'm
+This time, I mean it. I'm
 definitely goin' to turn
 my life around![BRK]
 
@@ -1507,7 +1507,7 @@ I know...it sounds like
 another pitiful drunk's
 redemption speech.[BRK]
 
-But this time i mean it![END]
+But this time I mean it![END]
 
 === 96 | 13112 | a3 ===
 Take it from someone who
@@ -1541,7 +1541,7 @@ This time my husband is
 going to have to change
 his ways.[BRK]
 
-We just found out that i'm
+We just found out that I'm
 pregnant with our first
 child.[END]
 
@@ -1549,7 +1549,7 @@ child.[END]
 This joint is filled with
 nothing but losers.[BRK]
 
-I mean, i've been here for
+I mean, I've been here for
 over two hours, and not one
 guy has approached me![BRK]
 
@@ -1558,7 +1558,7 @@ these men have forgotten how
 to pick up a woman.[BRK]
 
 I remember the old days when
-i heard a good pickup
+I heard a good pickup
 line...[BRK]
 
 ...before the first drink
@@ -1573,7 +1573,7 @@ if he's interested in me.[BRK]
 .....[BRK]
 
 ...well, fine then! See if
-i ever do anything for you![BRK]
+I ever do anything for you![BRK]
 
 And besides! What are a 
 buncha kids doing in a bar?![BRK]
@@ -1590,37 +1590,37 @@ You know, for the last 15
 minutes that guy's been
 starin' at me.[BRK]
 
-I think i may have just
+I think I may have just
 found my date for tonight![END]
 
 === 9c | 1360a | 68 ===
 Mauri is such a babe![BRK]
 
-From the moment i first laid
-eyes on her, i knew that
+From the moment I first laid
+eyes on her, I knew that
 she was the only one for me![END]
 
 === 9d | 13680 | 62 ===
 [POR02]
 Looks like you got some
-competition, ronfar![BRK]
+competition, Ronfar![BRK]
 
 [POR05]
-Yeah, like mauri would
+Yeah, like Mauri would
 go for a pathetic drunk![END]
 
 === 9e | 136fa | 86 ===
 They say that the guy who
-was mauri's sweetheart just
+was Mauri's sweetheart just
 abandoned her.[BRK]
 
-Jeez! If i had a woman like
-that, i would never leave
+Jeez! If I had a woman like
+that, I would never leave
 home again![END]
 
 === 9f | 13790 | 73 ===
 Sheesh! I just heard that
-mauri and her good-for-
+Mauri and her good-for-
 nothin' lover...[BRK]
 
 Just got back together.
@@ -1628,12 +1628,12 @@ Man, my life just sucks![END]
 
 === a0 | 13814 | 8c ===
 [POR05]
-Hehehehe...i wonder who
-mauri's shacked up with
+Hehehehe...I wonder who
+Mauri's shacked up with
 now...[BRK]
 
 [POR09]
-Ronfar and mauri are
+Ronfar and Mauri are
 together again.[BRK]
 
 And watch your mouth! He's
@@ -1645,7 +1645,7 @@ drinks on the house![BRK]
 
 Drinks! Drinks! Drinks![BRK]
 
-If i keep this up, maybe the
+If I keep this up, maybe the
 bartender will give me a
 free drink to shut me up![END]
 
@@ -1658,7 +1658,7 @@ later!
 [END]
 
 === a3 | 139c8 | 84 ===
-Hey, i don't believe it!
+Hey, I don't believe it!
 It took me three days, four
 hours, and ten minutes...[BRK]
 
@@ -1667,20 +1667,20 @@ have a free drinky! Hehe...
 [END]
 
 === a4 | 13a60 | 72 ===
-If leo ever comes here, i 
+If Leo ever comes here, I 
 think he should buy us all
 free drinks![BRK]
 
 After all, he is the leader
-of althena's guard.[END]
+of Althena's Guard.[END]
 
 === a5 | 13ae6 | 9a ===
-Hey leo! Do you think you
+Hey Leo! Do you think you
 could buy a round of drinks
 for your ol' buddy here?[BRK]
 
 [POR09]
-Hmm...no, but i could put
+Hmm...no, but I could put
 you in jail for pandering.[BRK]
 
 ...how about that?
@@ -1691,12 +1691,12 @@ Should we really care about
 our future?[BRK]
 
 No one cares about me. So
-why should i care about
+why should I care about
 them?[BRK]
 
 Buuuuttt...[BRK]
 
-Maybe i would care about you
+Maybe I would care about you
 a little more if you bought
 me a drink.
 
@@ -1708,21 +1708,21 @@ could afford to have
 some kind of entertainment![END]
 
 === a8 | 13cc0 | 68 ===
-I think that maybe i should
+I think that maybe I should
 be a rock 'n' roll star.[BRK]
 
 I betcha people are just
 beggin' to buy 'em drinks![END]
 
 === a9 | 13d44 | 4c ===
-I think that althena's cult
+I think that Althena's Cult
 is about as worthless as 
 a two-horned gilmblat.[END]
 
 === aa | 13da0 | 61 ===
 I think it would be so
 great to be a famous leader
-of althena's cult![BRK]
+of Althena's Cult![BRK]
 
 But that's only a dream...
 [END]
@@ -1747,7 +1747,7 @@ have been thrown out a long
 time ago![END]
 
 === ad | 13f4c | a2 ===
-I think i really should
+I think I really should
 stop drinking.[BRK]
 
 My liver's probably bigger'n
@@ -1757,7 +1757,7 @@ jerry garcia's.[BRK]
 .....[BRK]
 
 ...well, at least the one
-he thrashed. Maybe i need
+he thrashed. Maybe I need
 a new one, too![END]
 
 === ae | 1400a | 41 ===
@@ -1774,7 +1774,7 @@ Promise!
 I'm tired of sitting here
 all day and night.[BRK]
 
-My butt's so big i have to
+My butt's so big I have to
 use two stools![BRK]
 
 [POR02]
@@ -1788,7 +1788,7 @@ your wicked ways![BRK]
 
 Only by repenting can you
 have the hope of a pure
-standing before althena![END]
+standing before Althena![END]
 
 === b1 | 141a0 | 95 ===
 ....
@@ -1806,44 +1806,44 @@ gone...
 [END]
 
 === b2 | 1424c | 4f ===
-The goddess althena will 
+The Goddess Althena will 
 forgive you if you offer her
 all your worldly wealth![END]
 
 === b3 | 142b6 | 66 ===
 Won't anyone listen to me?
 This is important! A
-message from the goddess![BRK]
+message from the Goddess![BRK]
 
 Repent before it's too late![END]
 
 === b4 | 14330 | 96 ===
-I think i'm going to start
+I think I'm going to start
 a new faith. One that the
 people will like.[BRK]
 
 People just don't care about
 serving a fake goddess.[BRK]
 
-...and i don't blame them.[END]
+...and I don't blame them.[END]
 
 === b5 | 143de | b0 ===
-I'm not a priest of althena
+I'm not a priest of Althena
 anymore. I've decided that
-i'm gonna be a lawyer.[BRK]
+I'm gonna be a lawyer.[BRK]
 
 It's not too big of a
 life change. I still screw
 people out of money.[BRK]
 
-But now i get paid to do
+But now I get paid to do
 it![END]
 
 === b6 | 14494 | c ===
 Azado tavern[END]
 
 === b7 | 14bda | d3 ===
-May goddess althena smile
+May Goddess Althena smile
 upon you, my son![BRK]
 
 Have you come to buy the
@@ -1867,7 +1867,7 @@ and we keep the profits.[END]
 
 === b9 | 14d6c | 67 ===
 Have you come to pray to
-althena?[BRK]
+Althena?[BRK]
 
 If you are a true believer,
 then we will welcome you 
@@ -1875,19 +1875,19 @@ with open arms.[END]
 
 === ba | 14de2 | 69 ===
 It seems we've strayed from
-althena's original
+Althena's original
 teachings.[BRK]
 
 I don't know if we'll ever
 find our way back...[END]
 
 === bb | 14e5e | da ===
-When i was walking through
-town last night, i heard a
+When I was walking through
+town last night, I heard a
 strange voice.[BRK]
 
 It said, 'go buy the beads
-before i return to claim
+before I return to claim
 your soul.'[BRK]
 
 And it called out my name![BRK]
@@ -1897,7 +1897,7 @@ How is it that it knew my
 name?[END]
 
 === bc | 14f50 | 4c ===
-If the goddess is so 
+If the Goddess is so 
 powerful, then why must we
 rely on men for protection?[END]
 
@@ -1905,15 +1905,15 @@ rely on men for protection?[END]
 Congratulate me![BRK]
 
 I've decided to convert. I'm
-going to follow althena's
-cult![END]
+going to follow Althena's
+Cult![END]
 
 === be | 1500c | 76 ===
 Congratulate me! I've           
 renounced the ways of the
-cult![BRK]
+Cult![BRK]
 
-That althena was so fake!
+That Althena was so fake!
 I should have known better![END]
 
 === bf | 15096 | 39 ===
@@ -1923,7 +1923,7 @@ tower![END]
 
 === c0 | 150e6 | 45 ===
 No one except the high
-priest of althena's cult
+priest of Althena's Cult
 can enter this tower![END]
 
 === c1 | 1513e | a7 ===
@@ -1939,12 +1939,12 @@ be a priest. You'll never
 make any money.[END]
 
 === c2 | 151f4 | 73 ===
-I had no idea that i was 
+I had no idea that I was 
 promoting the teachings of
-zophar![BRK]
+Zophar![BRK]
 
 I should have been promoting
-the teachings of althena.[END]
+the teachings of Althena.[END]
 
 === c3 | 1527a | ae ===
 The only way for you to
@@ -1956,7 +1956,7 @@ expensive--only 1000s.[BRK]
 
 The money goes to further
 beautify our shrine to the
-goddess![END]
+Goddess![END]
 
 === c4 | 15340 | 33 ===
 Hurry and get inside
@@ -1969,18 +1969,18 @@ is destroyed.[BRK]
 
 Now we can concentrate on
 teaching the people about
-althena.[BRK]
+Althena.[BRK]
 
 The bead sales always seemed
 like a racket to me.[END]
 
 === c6 | 1542c | 7c ===
-Huh...i don't remember ever
+Huh...I don't remember ever
 selling any beads for
 profit.[BRK]
 
 You should know that a
-true priest of althena
+true priest of Althena
 would never do that![END]
 
 === c7 | 154ae | c ===
@@ -1990,15 +1990,15 @@ Azado bridge[END]
 [POR05]
 You know, this really hasn't
 changed in all the years
-i've been away.[BRK]
+I've been away.[BRK]
 
 [POR02]
-But ronfar, do you think you
+But Ronfar, do you think you
 can open it?[BRK]
 
 [POR05]
 Hrmph. Care to place a
-little wager before i try?[END]
+little wager before I try?[END]
 
 === c9 | 1636e | e4 ===
 [POR05]
@@ -2032,7 +2032,7 @@ open this thing?[BRK]
 Give me a break![BRK]
 
 [POR05]
-Well, i got the door open,
+Well, I got the door open,
 didn't i?[BRK]
 
 Just shut your hole and
@@ -2051,7 +2051,7 @@ door that leads to the
 top of this tower?[BRK]
 
 [POR00]
-Yes, but i've never seen
+Yes, but I've never seen
 that door open![BRK]
 
 It's locked with a seal
@@ -2066,7 +2066,7 @@ I told you before...only
 the high priest can open it![BRK]
 
 [POR02]
-Hey, ronfar! Do you think you
+Hey, Ronfar! Do you think you
 can open it?[BRK]
 
 [POR05]
@@ -2074,7 +2074,7 @@ Without a doubt, little one.[END]
 
 === cd | 16706 | 9b ===
 [POR02]
-Geez, ronfar! What other
+Geez, Ronfar! What other
 hidden talents do you
 have?[BRK]
 
@@ -2091,7 +2091,7 @@ Have you no shame?[BRK]
 
 Your presence on this
 holy ground defiles the
-good name of althena![BRK]
+good name of Althena![BRK]
 
 Your intent is not that
 of one true of heart![BRK]
@@ -2117,19 +2117,19 @@ shaken to the core![END]
 
 === d0 | 16918 | 98 ===
 You know, nowadays, the
-goddess althena exists only
+Goddess Althena exists only
 in one's heart.[BRK]
 
 [POR02]
 But there's only one goddess
-for hiro and her name is
-lucia![BRK]
+for Hiro and her name is
+Lucia![BRK]
 
 [POR01]
 Boy, you said it![END]
 
 === d1 | 169c8 | 108 ===
-The goddess althena has
+The Goddess Althena has
 blessed these charms with
 her power.[BRK]
 
@@ -2142,7 +2142,7 @@ sell them for only 1000s![BRK]
 Hey! This is obviously some
 kind of scam![BRK]
 
-Believe me, i can spot 'em
+Believe me, I can spot 'em
 a mile away.[BRK]
 
 I wouldn't be surprised if
@@ -2178,8 +2178,8 @@ cost you 29s. Want one?
 
 === d4 | 16c9c | 33 ===
 [POR05]
-I hope that the goddess is
-as forgiving as i am![END]
+I hope that the Goddess is
+as forgiving as I am![END]
 
 === d5 | 16cea | df ===
 Come on, it's only 29s, and
@@ -2213,13 +2213,13 @@ these things we could sell
 them in another town.[BRK]
 
 We could inscribe them with
-the seal of the vane magic
-guild to make souvenirs![BRK]
+the seal of the Vane Magic
+Guild to make souvenirs![BRK]
 
 I bet we'd make a fortune![BRK]
 
 [POR02]
-Give it a rest, lemina!
+Give it a rest, Lemina!
 
 [END]
 
@@ -2250,7 +2250,7 @@ worthless.[BRK]
 ....
 .....[BRK]
 
-Say, mister, can i 
+Say, mister, can I 
 interest you in some nice
 jewelery for the ladies?
 
@@ -2261,7 +2261,7 @@ jewelery for the ladies?
 Look, sir, shiny...it's 
 shiny![BRK]
 
-Hey! Come on, i know you'll
+Hey! Come on, I know you'll
 like it! Please, just buy it
 from me![BRK]
 
@@ -2270,7 +2270,7 @@ Pleeeeeaaaaassee??!![END]
 === dc | 1717a | a6 ===
 It is written in the
 fourth book of the
-goddess...[BRK]
+Goddess...[BRK]
 
 ...that whoever enters this
 sanctuary must bequeath
@@ -2284,7 +2284,7 @@ Need a pen?
 
 === dd | 17238 | 61 ===
 If you give me all your
-money, i'll tell you how
+money, I'll tell you how
 to get past that door![BRK]
 
 [POR02]
@@ -2310,7 +2310,7 @@ eternal damnation![END]
 
 === e0 | 173e2 | 5d ===
 Are you familiar with the
-duties of a dragonmaster?
+duties of a Dragonmaster?
 [0x5]Man, who isn't?!
 Could you enlighten me?[END]
 
@@ -2319,32 +2319,32 @@ Heathen! Leave this
 holy place immediately![END]
 
 === e2 | 1748a | 91 ===
-The dragonmaster lives not
+The Dragonmaster lives not
 for himself,[BRK]
 
 but to protect and serve
-the goddess althena.[BRK]
+the Goddess Althena.[BRK]
 
 He holds ultimate power
-over the four dragons of
+over the Four Dragons of
 our world.[END]
 
 === e3 | 17528 | 39 ===
 [POR08]
-Why would althena rely on
-the power of a dragonmaster?[END]
+Why would Althena rely on
+the power of a Dragonmaster?[END]
 
 === e4 | 17578 | 6a ===
-The dragonmaster has no
+The Dragonmaster has no
 equal.[BRK]
 
 Since he controls the power
-of the four dragons, he 
+of the Four Dragons, he 
 is amazingly powerful.[END]
 
 === e5 | 175f2 | 9d ===
-I can't believe that zophar
-revived ghaleon from the
+I can't believe that Zophar
+revived Ghaleon from the
 dead![BRK]
 
 If he hadn't been stopped, 
@@ -2364,7 +2364,7 @@ come, first served.[BRK]
 Where have you been?[END]
 
 === e7 | 1771e | 49 ===
-I was here first. So i 
+I was here first. So I 
 should be allowed to buy
 the beads first, dipwad![END]
 
@@ -2374,7 +2374,7 @@ give me a complimentary set
 of beads?[BRK]
 
 I've spent all my money
-on a bad hair weave, but i'm
+on a bad hair weave, but I'm
 not ready to die![END]
 
 === e9 | 1781a | 4a ===
@@ -2400,7 +2400,7 @@ bought cool swords you could
 kick some dumb monster butt![END]
 
 === ec | 179a8 | 3d ===
-Man, i really want a
+Man, I really want a
 sword![BRK]
 
 But my mom won't let me
@@ -2409,21 +2409,21 @@ have one![END]
 === ed | 179f8 | cf ===
 Wait until these priests
 get a load of the heat
-i'm packin'![BRK]
+I'm packin'![BRK]
 
 We've passed a new law 
 requiring that priests pay
 taxes on their money.[BRK]
 
-And i'm the new tax auditor.[BRK]
+And I'm the new tax auditor.[BRK]
 
 Say, what is your primary
 source of revenue?[END]
 
 === ee | 17ade | ab ===
 You should've seen the high
-priest when i told him that
-i needed to look at his...[BRK]
+priest when I told him that
+I needed to look at his...[BRK]
 
 ...financial statement for
 the last seven years.[BRK]
@@ -2432,7 +2432,7 @@ I thought he was going to
 drop a brick![END]
 
 === ef | 17b9c | 9e ===
-Man, i'm really cleanin' up
+Man, I'm really cleanin' up
 in here![BRK]
 
 I've taken enough hush money

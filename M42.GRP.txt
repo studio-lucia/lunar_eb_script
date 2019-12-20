@@ -24,7 +24,7 @@ Let me lay it out for you
 in the simplest possible
 terms...[BRK]
 
-Now that i control althena's
+Now that I control Althena's
 power, you are condemned to
 death.[BRK]
 
@@ -44,10 +44,10 @@ sting of my kiss...
 [POR07]
 Wa...wait a minute.[BRK]
 
-I...i think we're still
+I...I think we're still
 alive![BRK]
 
-D...did we defeat zophar?[BRK]
+D...did we defeat Zophar?[BRK]
 
 [POR05]
 Yep! We laid the big kahuna
@@ -60,7 +60,7 @@ myself![BRK]
 Ha! What were we afraid of?
 He wasn't that hard![BRK]
 
-I mean, borgan was way
+I mean, Borgan was way
 tougher, don't you think?[BRK]
 
 [POR01]
@@ -110,7 +110,7 @@ Let me lay it out for you
 in the simplest possible
 terms...[BRK]
 
-Now that i control althena's
+Now that I control Althena's
 power, you are condemned to
 death.[BRK]
 
@@ -130,10 +130,10 @@ sting of my kiss...
 [POR07]
 Wa...wait a minute.[BRK]
 
-I...i think we're still
+I...I think we're still
 alive![BRK]
 
-D...did we defeat zophar?[BRK]
+D...did we defeat Zophar?[BRK]
 
 [POR05]
 Yep! We laid the big kahuna
@@ -146,7 +146,7 @@ myself![BRK]
 Ha! What were we afraid of?
 He wasn't that hard![BRK]
 
-I mean, borgan was way
+I mean, Borgan was way
 tougher, don't you think?[BRK]
 
 [POR01]

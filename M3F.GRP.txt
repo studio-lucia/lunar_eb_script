@@ -14,7 +14,7 @@ dragonpower.
 === 1 | ed88 | 3d7 ===
 [POR02]
 What are you waiting for,
-lucia? Pentagulia awaits.[BRK]
+Lucia? Pentagulia awaits.[BRK]
 
 Now you can finish the
 mission that cost you your
@@ -25,7 +25,7 @@ Yes, my mission nears its
 end.[BRK]
 
 But instead of joy, all
-i feel is pain...[BRK]
+I feel is pain...[BRK]
 
 As if a burning knife twists
 within my heart, scraping
@@ -38,15 +38,15 @@ away my soul, my life...[BRK]
 Well, duh![BRK]
 
 Your pain is because you've
-abandoned hiro.[BRK]
+abandoned Hiro.[BRK]
 
 It's your choice: antacids
 and guilt forever, or turn
-around now and rescue hiro.[BRK]
+around now and rescue Hiro.[BRK]
 
 [POR08]
-But if i don't go to penta-
-gulia now, zophar will take
+But if I don't go to Penta-
+gulia now, Zophar will take
 control and the world will--[BRK]
 
 [POR02]
@@ -54,7 +54,7 @@ Will what? Explode? Implode?
 Turn into a giant tin of
 sardines?[BRK]
 
-C'mon, lucia! You're placing
+C'mon, Lucia! You're placing
 true love on the altar of
 trust and spitting on it![BRK]
 
@@ -69,15 +69,15 @@ the danger is...[BRK]
 [POR02]
 ...still gonna be there when
 we get back, so let's go
-revive hiro now![BRK]
+revive Hiro now![BRK]
 
 [POR08]
-Oh, ruby, i hope hiro knows
+Oh, Ruby, I hope Hiro knows
 what a true friend you are.[BRK]
 
 All right, let's go to
-the blue spire so i can
-resurrect hiro.
+the Blue Spire so I can
+resurrect Hiro.
 
 
 
@@ -96,7 +96,7 @@ resurrect hiro.
 
 === 2 | f17e | 14b ===
 [POR10]
-Oouuhh, i can feel the evil
+Oouuhh, I can feel the evil
 coursing through this place.
 Zophar is here. I know it.[BRK]
 
@@ -108,14 +108,14 @@ revived?[BRK]
 [POR08]
 Not completely. We may still
 have time, if we can find
-althena.[BRK]
+Althena.[BRK]
 
 But first we must summon
 the dragons to help destroy
 the barrier.[BRK]
 
 That will open the way to
-the goddess tower...
+the Goddess Tower...
 
 [END]
 

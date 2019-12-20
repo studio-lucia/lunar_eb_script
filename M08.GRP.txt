@@ -4,14 +4,14 @@ Messages: 218
 
 === 0 | 87b0 | b7 ===
 Welcome to the town of
-horam! We're located in
+Horam! We're located in
 western katarina.[BRK]
 
 South of here lies the
-maruis zone.[BRK]
+Maruis Zone.[BRK]
 
 I'd stay away from there, if
-i were you. Why don't you
+I were you. Why don't you
 stay here and learn karate?[END]
 
 === 1 | 887e | 113 ===
@@ -40,16 +40,16 @@ alone.[BRK]
 I don't want to get on your
 bad side, okay?[BRK]
 
-...i can't believe you won 
-against lunn.[BRK]
+...I can't believe you won 
+against Lunn.[BRK]
 
-The only person i would've
+The only person I would've
 thought could beat him was
 otto...[END]
 
 === 3 | 8a88 | 7b ===
 Only the best karate masters
-stay in horam.[BRK]
+stay in Horam.[BRK]
 
 If you're not able to defend
 yourself, you better walk
@@ -59,7 +59,7 @@ out the way you came in.[END]
 ....
 .....???[BRK]
 
-I...i'm not scared![BRK]
+I...I'm not scared![BRK]
 
 [POR02]
 Hiro, look at this guy. He's
@@ -79,10 +79,10 @@ You know, the fear of
 heights.[BRK]
 
 [POR02]
-Well, i'm not aco...
+Well, I'm not aco...
 acropohob....[BRK]
 
-I mean, i'm not scared of
+I mean, I'm not scared of
 heights.[END]
 
 === 6 | 8c76 | 6b ===
@@ -90,12 +90,12 @@ Man, just standing here is
 making me dizzy...[BRK]
 
 I must control my fear! 
-Oh no! I think i'm going
+Oh no! I think I'm going
 to be sick.[END]
 
 === 7 | 8cfc | 47 ===
 I must conquer my fear.
-Otherwise, i'll never become
+Otherwise, I'll never become
 a karate master.
 
 [END]
@@ -103,7 +103,7 @@ a karate master.
 === 8 | 8d56 | f4 ===
 I've got a great idea!![BRK]
 
-Why don't i get on that 
+Why don't I get on that 
 cat's back, and it can fly
 up to the top of that house.[BRK]
 
@@ -111,13 +111,13 @@ I'll stay there and try to
 get over my fear of heights![BRK]
 
 [POR02]
-No, i've got a better idea.[BRK]
+No, I've got a better idea.[BRK]
 
-How 'bout i fly you over
+How 'bout I fly you over
 to the sea and drop you in?[END]
 
 === 9 | 8e62 | 32 ===
-Man, i don't know if i'll
+Man, I don't know if I'll
 ever get over this fear![END]
 
 === a | 8ea8 | cf ===
@@ -129,7 +129,7 @@ This is going to be a tough
 decision. I wish there 
 weren't so many choices.[BRK]
 
-Maybe i should find out
+Maybe I should find out
 which dojo won the com-
 petition last year...[END]
 
@@ -138,7 +138,7 @@ Did you pick a school to
 join? [BRK]
 
 Maybe you can give me a
-tip on one...i'm lost
+tip on one...I'm lost
 in this place![END]
 
 === c | 9002 | 4e ===
@@ -150,11 +150,11 @@ dojo![END]
 
 === d | 905e | 30 ===
 [POR10]
-I'm sorry, but i don't train
+I'm sorry, but I don't train
 people to fight![END]
 
 === e | 90aa | 61 ===
-Come on! I promise i'll go
+Come on! I promise I'll go
 to practice everyday.[BRK]
 
 Please, please, pleeeaaase.[BRK]
@@ -169,7 +169,7 @@ to your humble student?[BRK]
 [POR10]
 Listen you little annoyance,
 there's no chance in hell
-that i'm going to teach you.[BRK]
+that I'm going to teach you.[BRK]
 
 [POR00]
 But you don't have to teach
@@ -182,7 +182,7 @@ to face that corner.
 [END]
 
 === 10 | 9242 | 52 ===
-I'm sorry, but i thought
+I'm sorry, but I thought
 you forgot about me![BRK]
 
 I just went and joined
@@ -204,7 +204,7 @@ and you were great. What
 dojo do you attend?[BRK]
 
 [POR10]
-...i don't endorse any
+...I don't endorse any
 dojo.[BRK]
 
 [POR00]
@@ -223,7 +223,7 @@ bank today and get the
 loan for my dojo.[END]
 
 === 14 | 9498 | 99 ===
-Geez, i thought i would 
+Geez, I thought I would 
 never get out of the bank.[BRK]
 
 I spent over three hours 
@@ -273,11 +273,11 @@ man in this town, honey![END]
 
 === 18 | 977a | 8e ===
 I'm thinking about joining
-one of these dojos, so i can
+one of these dojos, so I can
 be closer to the men.[BRK]
 
 [POR05]
-Care to join ronfar's huggy,
+Care to join Ronfar's huggy,
 touchy-feely dojo, sugar-
 cakes?[END]
 
@@ -285,7 +285,7 @@ cakes?[END]
 I'm going to marry whoever
 wins the competition.[BRK]
 
-Then i'm sure i'll get the
+Then I'm sure I'll get the
 toughest man here...[BRK]
 
 [POR10]
@@ -296,7 +296,7 @@ have to find someone else.[END]
 === 1a | 98f4 | 79 ===
 I can't believe you won the
 competition. You're the
-only one for me, jean![BRK]
+only one for me, Jean![BRK]
 
 [POR10]
 I don't think so!
@@ -304,18 +304,18 @@ I'm a woman...not a man! [END]
 
 === 1b | 9984 | 71 ===
 Sorry about the comment
-i made when you came here
+I made when you came here
 last time.[BRK]
 
 I guess the emotion of you
 winning just overcame me.[END]
 
 === 1c | 9a08 | 62 ===
-Say jean, do you have a
+Say Jean, do you have a
 brother, or maybe a dad?[BRK]
 
 [POR10]
-No!! And if i did, i 
+No!! And if I did, I 
 wouldn't let you know!!
 [END]
 
@@ -324,13 +324,13 @@ Jean, please see if you
 can find someone for me
 to marry.[BRK]
 
-I just don't think i'll
+I just don't think I'll
 ever find someone...[END]
 
 === 1e | 9af4 | 55 ===
-I have no idea why i was
-kicked out of the fat boy
-dojo![BRK]
+I have no idea why I was
+kicked out of the Fat Boy
+Dojo![BRK]
 
 I was the biggest pig there![END]
 
@@ -339,29 +339,29 @@ You know, those fat jerks
 are prejudiced![BRK]
 
 They have no right even
-calling it the fat boy dojo![BRK]
+calling it the Fat Boy Dojo![BRK]
 
 All of them look like twiggy
 compared to me![BRK]
 
-I think i'm gonna sue![END]
+I think I'm gonna sue![END]
 
 === 20 | 9c08 | 4f ===
 I'm thinking of starting my
 own dojo.[BRK]
 
-I think i'll call it the
+I think I'll call it the
 porky boar dojo![END]
 
 === 21 | 9c6a | 4c ===
-Tell me, do you think i'm
+Tell me, do you think I'm
 to blame?
 [0x5]Of course you are!
 I don't have a clue.[END]
 
 === 22 | 9cc6 | 99 ===
 Liar! I was nowhere near
-the bunny karate dojo.[BRK]
+the Bunny Karate Dojo.[BRK]
 
 There's no proof that I
 was in the showers taking
@@ -371,12 +371,12 @@ Say, you're not the
 coppers, are you?[END]
 
 === 23 | 9d74 | b6 ===
-Good! Well, i just heard 
+Good! Well, I just heard 
 that some guy, probably
 whacked-out of his mind,[BRK]
 
-snuck into the bunny karate
-dojo and took some pictures
+snuck into the Bunny Karate
+Dojo and took some pictures
 of its members.[BRK]
 
 That guy must really be 
@@ -384,15 +384,15 @@ a pervert![END]
 
 === 24 | 9e3e | 72 ===
 They won't let me join the
-bunny karate dojo.[BRK]
+Bunny Karate Dojo.[BRK]
 
-I think i'm going to file
+I think I'm going to file
 a lawsuit. This is reverse
 discrimination![END]
 
 === 25 | 9ec8 | 113 ===
-I'm in! I'm in the bunny
-karate dojo![BRK]
+I'm in! I'm in the Bunny
+Karate Dojo![BRK]
 
 I just loooove these 
 costumes![BRK]
@@ -404,7 +404,7 @@ and look what it does for
 my chest! [BRK]
 
 [POR02]
-Hiro, remember grandpa gwyn
+Hiro, remember Grandpa Gwyn
 said to run like hell if you
 ever saw one of these guys![BRK]
 
@@ -418,17 +418,17 @@ costume does for my
 figure, don't you?[END]
 
 === 27 | a048 | 15f ===
-You know, i just looove your
-costume, hiro.[BRK]
+You know, I just looove your
+costume, Hiro.[BRK]
 
 The cape! Whoo![BRK]
 
-It just says 'i'm going to
+It just says 'I'm going to
 come and bite your neck,
 baby!'[BRK]
 
 And then the boomerang! Oh
-yeah, you know i'll be
+yeah, you know I'll be
 coming back to you, big boy.[BRK]
 
 Your costume gets one twirl,
@@ -436,7 +436,7 @@ a lick, a grab, a grope, and
 two snaps in the air.[BRK]
 
 [POR02]
-...please, hiro! Let me fry
+...please, Hiro! Let me fry
 this guy's face off! Please?[BRK]
 
 [POR01]
@@ -477,7 +477,7 @@ more time to form![END]
 I am practicing how to
 tune out the world...[BRK]
 
-The images that i see 
+The images that I see 
 are too frightening...[BRK]
 
 There's too much crime, 
@@ -492,7 +492,7 @@ It's easy just to tune
 out the world...[BRK]
 
 Someday it'll get better...
-i hope.[BRK]
+I hope.[BRK]
 
 ....
 .....[END]
@@ -555,7 +555,7 @@ thinking that'll occur
 down there.[END]
 
 === 32 | a72a | b6 ===
-Jean, i'm sorry. I only
+Jean, I'm sorry. I only
 wanted a strong woman that
 could stand up to...[BRK]
 
@@ -572,7 +572,7 @@ mother about letting me
 live on my own...[END]
 
 === 34 | a84c | da ===
-Jean, i've talked it over
+Jean, I've talked it over
 with my mother and she
 said you can stay with us.[BRK]
 
@@ -586,7 +586,7 @@ talk to me when you get
 a spine![END]
 
 === 35 | a93a | a0 ===
-Jean, i love you!! Mother
+Jean, I love you!! Mother
 loves you too...[BRK]
 
 Please come and stay with
@@ -600,23 +600,23 @@ sleep on...[BRK]
 Is this guy for real?[END]
 
 === 36 | a9ee | 6e ===
-All my life, i've sat here
+All my life, I've sat here
 thinking about the past...[BRK]
 
-You know, i just don't know
+You know, I just don't know
 how we survived this long...[END]
 
 === 37 | aa74 | 55 ===
 I think we owe it all to
-people like master lunn.[BRK]
+people like Master Lunn.[BRK]
 
 They know how to take care
 of us...[END]
 
 === 38 | aae0 | 97 ===
 I've sat here thinking about
-my life and i just don't
-like what i see.[BRK]
+my life and I just don't
+like what I see.[BRK]
 
 I've got to get off my lazy
 butt and do something about
@@ -644,13 +644,13 @@ the beginning.[BRK]
 I'm thinking that you need
 a life.[BRK]
 
-And i think you spend too
+And I think you spend too
 much time thinking instead
 of doing something!
 [END]
 
 === 3c | ad14 | 8b ===
-I don't understand why lunn
+I don't understand why Lunn
 was expelled for trying to
 teach his karate...[BRK]
 
@@ -660,16 +660,16 @@ teaching has no place in
 this world...[END]
 
 === 3d | adb6 | 4c ===
-I'm on lunn's side. We 
+I'm on Lunn's side. We 
 don't need to learn this
 sissy karate that you like.[END]
 
 === 3e | ae1a | 80 ===
 All right, either you
-restore lunn to his place
+restore Lunn to his place
 or...[BRK]
 
-Or...i'll do something 
+Or...I'll do something 
 really awful to you.[BRK]
 
 ....
@@ -678,18 +678,18 @@ really awful to you.[BRK]
 I'm not kidding...[END]
 
 === 3f | aeb6 | 30 ===
-We want lunn![BRK]
+We want Lunn![BRK]
 
 Not no karate dunce![BRK]
 
-We want lunn![END]
+We want Lunn![END]
 
 === 40 | aefe | 70 ===
 Say, if you're not going
-to let lunn come back and
+to let Lunn come back and
 beat you...[BRK]
 
-Then i guess i'll just have
+Then I guess I'll just have
 to kick your butts...[END]
 
 === 41 | af7c | 45 ===
@@ -699,16 +699,16 @@ mouth write a check your
 fist can't cash![END]
 
 === 42 | afdc | 28 ===
-Master lunn....
+Master Lunn....
 what's happened to you??[END]
 
 === 43 | b018 | 65 ===
 I just can't accept that
 a wimp like you can beat
-someone like lunn.[BRK]
+someone like Lunn.[BRK]
 
 He was the strongest man
-i knew.[END]
+I knew.[END]
 
 === 44 | b08a | 41 ===
 [POR10]
@@ -725,8 +725,8 @@ I hate you so much. Just
 beat it, okay?[END]
 
 === 46 | b152 | 9b ===
-Master lunn is one of the
-four heroes of althena...[BRK]
+Master Lunn is one of the
+Four Heroes of Althena...[BRK]
 
 Some say he's the toughest
 one of them.[BRK]
@@ -735,35 +735,35 @@ I just think he's so
 dreamy...[BRK]
 
 [POR02]
-I think i'm going to
+I think I'm going to
 puke...[END]
 
 === 47 | b204 | 5f ===
-Some say i'm too infatuated
-with lunn...[BRK]
+Some say I'm too infatuated
+with Lunn...[BRK]
 
 I think they're all jealous
-of what lunn and i have...[END]
+of what Lunn and I have...[END]
 
 === 48 | b27a | 77 ===
 Lunn has stopped answering
 my letters...[BRK]
 
-If i find out that he's 
+If I find out that he's 
 going out with another 
 woman,[BRK]
 
-i'm going to kill him![END]
+I'm going to kill him![END]
 
 === 49 | b30c | 92 ===
 I just got out of the 
-slammer. They say i've 
-been stalking lunn...[BRK]
+slammer. They say I've 
+been stalking Lunn...[BRK]
 
 ....
 .....[BRK]
 
-Oh, i've got to go. Lunn
+Oh, I've got to go. Lunn
 usually has his morning 
 tea about now...[END]
 
@@ -777,11 +777,11 @@ bottle of chianti...[BRK]
 
 Then maybe you'll think
 twice about what you've
-done to lunn...[END]
+done to Lunn...[END]
 
 === 4b | b46e | 94 ===
 This wall was built to
-keep people out of horam.[BRK]
+keep people out of Horam.[BRK]
 
 We don't have time to wage
 war with anybody.[BRK]
@@ -808,7 +808,7 @@ This wall was built a very
 long time ago...[BRK]
 
 I'm glad, too! I don't think
-i'd have the energy to build
+I'd have the energy to build
 something like this.[END]
 
 === 4f | b670 | 8e ===
@@ -826,7 +826,7 @@ I think he will...[END]
 
 === 51 | b734 | bd ===
 I've heard that this god
-'zophar' is going to be
+'Zophar' is going to be
 revived from the dead.[BRK]
 
 I'd pay good money to see
@@ -834,7 +834,7 @@ something like that.[BRK]
 
 [POR08]
 You poor soul. You don't
-know what zophar will do 
+know what Zophar will do 
 to this place...[END]
 
 === 52 | b808 | 48 ===
@@ -846,7 +846,7 @@ eclipse?![END]
 
 === 53 | b868 | 9c ===
 I've been practicing so
-hard that i haven't even
+hard that I haven't even
 seen my wife and kids.[BRK]
 
 I wonder if they still
@@ -862,7 +862,7 @@ priorities.[END]
 
 === 55 | b942 | 50 ===
 [POR07]
-Say, mister, i'll find you
+Say, mister, I'll find you
 a family - for a small fee![BRK]
 
 [POR02]
@@ -875,7 +875,7 @@ your karate?[END]
 
 === 57 | b9fc | 25 ===
 Jean has become famous
-here in horam![END]
+here in Horam![END]
 
 === 58 | ba34 | 77 ===
 Jean, did you come back
@@ -887,13 +887,13 @@ Nope, sorry!! I want to get
 back to the carnival![END]
 
 === 59 | baba | 95 ===
-Hey, i'm going to win the
+Hey, I'm going to win the
 competition this year![BRK]
 
 What are you laughing at!?[BRK]
 
-After i kick lunn's butt,
-i'm going to come and pay
+After I kick Lunn's butt,
+I'm going to come and pay
 you a little visit...[END]
 
 === 5a | bb66 | 8a ===
@@ -902,7 +902,7 @@ day! I almost broke a
 piece of wood...[BRK]
 
 Well...no...not with my
-hand. But i almost chopped
+hand. But I almost chopped
 it in two with this axe!
 [END]
 
@@ -911,15 +911,15 @@ I'm getting stronger each
 and every day.[BRK]
 
 I've rented all the 'rocky' 
-movies and i think i'm 
+movies and I think I'm 
 going to win![END]
 
 === 5c | bc8e | 72 ===
 Why do you keep disturbing
 my training?[BRK]
 
-If i don't get in my full
-two hours of training i'll
+If I don't get in my full
+two hours of training I'll
 never be able to win![END]
 
 === 5d | bd1c | c5 ===
@@ -927,10 +927,10 @@ I've started training up
 to four hours everyday.[BRK]
 
 Well, it's not a true four
-hours, 'cause i take a break
+hours, 'cause I take a break
 every twenty minutes...[BRK]
 
-But at least i'm working
+But at least I'm working
 out, which is more than I
 can say for you!
 [END]
@@ -940,7 +940,7 @@ This is the best place to
 train in the world![BRK]
 
 I've been peeking into the
-bunny dojo, and man! Am i 
+bunny dojo, and man! Am I 
 telling you....[BRK]
 
 It's well worth getting your
@@ -949,7 +949,7 @@ a glimpse![END]
 
 === 5f | bebe | eb ===
 I can't believe that the
-blue dragon cult was 
+Blue Dragon Cult was 
 kidnapping children...[BRK]
 
 I wonder how something like
@@ -987,7 +987,7 @@ I hope that the strongest
 man wins the tournament![END]
 
 === 63 | c13e | 63 ===
-I think master lunn has
+I think Master Lunn has
 been acting strange lately.[BRK]
 
 I hope everything is going
@@ -1017,20 +1017,20 @@ since he was defeated in
 the tournament.[BRK]
 
 I think he's become a
-kinder, gentler lunn...[END]
+kinder, gentler Lunn...[END]
 
 === 67 | c352 | 90 ===
-I wanna be like master lunn
+I wanna be like Master Lunn
 and just beat the crap out
 of people.[BRK]
 
 And then they'll all come
-to me for training, and i'll
+to me for training, and I'll
 charge them mega-bucks.[END]
 
 === 68 | c3fa | 8e ===
-Of course, one day i'll 
-have to fight lunn.[BRK]
+Of course, one day I'll 
+have to fight Lunn.[BRK]
 
 But that doesn't mean I
 have to fight fairly.[BRK]
@@ -1040,10 +1040,10 @@ spiked brass knuckles!
 [END]
 
 === 69 | c4a0 | 83 ===
-Once i'm the most feared
+Once I'm the most feared
 man in all the world,[BRK]
 
-i'll fight fair. But i'll
+I'll fight fair. But I'll
 never give up my iron
 codpiece...[BRK]
 
@@ -1069,7 +1069,7 @@ Usually on sunset...
 [END]
 
 === 6c | c628 | 69 ===
-I've heard that lunn is 
+I've heard that Lunn is 
 teaching a new kind of
 karate.[BRK]
 
@@ -1088,11 +1088,11 @@ Don't you know there's a
 martial arts tournament
 to prepare for?[BRK]
 
-...lunn? You're looking for
-lunn? There's no one here
+...Lunn? You're looking for
+Lunn? There's no one here
 by that name.[BRK]
 
-Go ask wong-lee in the back
+Go ask Wong-Lee in the back
 room if he knows anyone by
 that name.[BRK]
 
@@ -1100,11 +1100,11 @@ You might get lucky. Now
 leave me alone![END]
 
 === 6f | f6b8 | b6 ===
-Didn't i say that i don't
-know anybody named lunn?[BRK]
+Didn't I say that I don't
+know anybody named Lunn?[BRK]
 
 I also said to ask the old
-wise man wong-lee if he
+wise man Wong-Lee if he
 might know. [BRK]
 
 Were those instructions too
@@ -1127,12 +1127,12 @@ The dancer takes a self-
 defense course, and now
 she's a karate whiz...[BRK]
 
-That's the best joke i've
+That's the best joke I've
 heard all day...[BRK]
 
 [POR10]
 We'll see who the joke's
-on when i finish the
+on when I finish the
 tournament, pinhead.[END]
 
 === 72 | f8f8 | 54 ===
@@ -1140,7 +1140,7 @@ I'm tellin' you. This
 tournament is no place for
 a girl.[BRK]
 
-I'd drop out if i were you.[END]
+I'd drop out if I were you.[END]
 
 === 73 | f964 | 66 ===
 What'd you do? Pay those
@@ -1152,7 +1152,7 @@ fair and square, girlie.[END]
 
 === 74 | f9e2 | 13e ===
 I can't believe that you
-beat lunn! Your skill is
+beat Lunn! Your skill is
 quite impressive.[BRK]
 
 Y-you're not going to...
@@ -1161,7 +1161,7 @@ b-before...are you?[BRK]
 
 I-i'm all for the equal
 rights thing...see....
-i even know the chant![BRK]
+I even know the chant![BRK]
 
 ...what do we want?[BRK]
 
@@ -1191,7 +1191,7 @@ Will wonders never cease?![BRK]
 
 You guys are amazing![BRK]
 
-I thought that zophar was
+I thought that Zophar was
 invincible, and you guys
 thumped him![BRK]
 
@@ -1201,7 +1201,7 @@ that you should never
 judge by looks alone.[BRK]
 
 If that were the only
-criteria, i'd have thought
+criteria, I'd have thought
 you were an inbred hick![BRK]
 
 ....
@@ -1213,10 +1213,10 @@ Wait a minute...you are!
 === 76 | fc66 | 253 ===
 [POR10]
 I've heard that you may
-know where lunn is.[BRK]
+know where Lunn is.[BRK]
 
-Please, sensei, i must find
-lunn and gain entry into
+Please, Sensei, I must find
+Lunn and gain entry into
 the tournament.[BRK]
 
 [POR00]
@@ -1225,7 +1225,7 @@ yours before. What
 discipline did you study?[BRK]
 
 [POR10]
-Blue dragon karate, sensei.
+Blue dragon karate, Sensei.
 My knowledge comes from a
 master of long ago.[BRK]
 
@@ -1239,7 +1239,7 @@ No. I tried once to deny the
 power instilled in me by
 my master.[BRK]
 
-But now i can escape my
+But now I can escape my
 destiny no longer. I must
 fight to know...[BRK]
 
@@ -1257,11 +1257,11 @@ talking about?
 === 77 | fec6 | 261 ===
 [POR10]
 My new skill combines the
-power of blue dragon karate
+power of Blue Dragon Karate
 and the grace of dance.[BRK]
 
 [POR00]
-Mmmm...i sense that all
+Mmmm...I sense that all
 doubt has been cleared from
 your mind, grasshopper.[BRK]
 
@@ -1282,7 +1282,7 @@ him that power comes in
 many forms.[BRK]
 
 [POR10]
-I understand, sensei. I am
+I understand, Sensei. I am
 ready to take my place.[BRK]
 
 [POR00]
@@ -1298,14 +1298,14 @@ tournament without it.[BRK]
 === 78 | 10148 | d5 ===
 The tournament takes place
 in the hidden city to the
-southeast of horam.[BRK]
+southeast of Horam.[BRK]
 
 If you have trouble finding
-it, i will send a guide with
+it, I will send a guide with
 you, grasshopper.[BRK]
 
 [POR10]
-Thank you, sensei. I know
+Thank you, Sensei. I know
 the way.[BRK]
 
 It was my home, long ago...[END]
@@ -1333,11 +1333,11 @@ You have served your purpose
 well, grasshopper.[BRK]
 
 Now my dojo can have the
-shame of lunn's misuse of
+shame of Lunn's misuse of
 power lifted from it.[BRK]
 
-....yes, i am the master
-who taught lunn, before
+....yes, I am the master
+who taught Lunn, before
 he became drunk with power.[BRK]
 
 Thank you for showing him
@@ -1346,7 +1346,7 @@ honor.[END]
 
 === 7c | 1047e | d4 ===
 I will be satisfied only
-when lunn learns that karate
+when Lunn learns that karate
 should flow through us all.[BRK]
 
 It is not to be misused to
@@ -1358,7 +1358,7 @@ grasshopper. Thank you.[END]
 
 === 7d | 10566 | 71 ===
 Say, are you not companions
-of jean?[BRK]
+of Jean?[BRK]
 
 She is not here. She spoke
 of returning to a carnival.[BRK]
@@ -1366,19 +1366,19 @@ of returning to a carnival.[BRK]
 Perhaps she is there.[END]
 
 === 7e | 105ee | 101 ===
-Ah, young jean. I see that
+Ah, young Jean. I see that
 you have returned to finish
 your training.[BRK]
 
 The martial arts are never
-fully mastered, but i will
+fully mastered, but I will
 help you learn more...[BRK]
 
 [POR10]
-Sorry, sensei. I am only
+Sorry, Sensei. I am only
 helping my friend here.[BRK]
 
-When this is over, i will
+When this is over, I will
 return to being merely a
 dancer.[END]
 
@@ -1394,34 +1394,34 @@ you never dreamed possible![BRK]
 ....
 .....[BRK]
 
-You know...i wrote the kama-
+You know...I wrote the kama-
 sutra...[END]
 
 === 80 | 107dc | c4 ===
-I heard that wong-lee was
+I heard that Wong-Lee was
 behind the secret tournament
 that has been called.[BRK]
 
 He called it to find someone
 who is strong enough to beat
-lunn.[BRK]
+Lunn.[BRK]
 
 Wong-lee was his master, but
-now he fears lunn's power.[END]
+now he fears Lunn's power.[END]
 
 === 81 | 108b8 | 83 ===
 Oh, are you looking for
 the wight dojo?[BRK]
 
-No, i'm sorry, you've got
-the wong dojo.[BRK]
+No, I'm sorry, you've got
+the Wong Dojo.[BRK]
 
 The wight dojo has been
 closed for many years now.[END]
 
 === 82 | 10956 | 60 ===
-What? That girl named jean
-beat lunn? I can't believe
+What? That girl named Jean
+beat Lunn? I can't believe
 it...[BRK]
 
 She didn't seem to be that
@@ -1429,7 +1429,7 @@ powerful.[END]
 
 === 83 | 109d6 | 68 ===
 Regardless how you did
-it, jean, i must give you
+it, Jean, I must give you
 my sincerest thanks![BRK]
 
 Lunn deserved everything he
@@ -1446,11 +1446,11 @@ taking their place at the
 helm.[END]
 
 === 85 | 10ac2 | b1 ===
-Even though i have trained
-extensively, i am no match
-for zophar's power.[BRK]
+Even though I have trained
+extensively, I am no match
+for Zophar's power.[BRK]
 
-To him, i am as insig-
+To him, I am as insig-
 nificant as a fly trapped
 in a pool of urine.[BRK]
 
@@ -1460,9 +1460,9 @@ man![END]
 
 === 86 | 10b82 | b4 ===
 This is the storehouse
-for horam's weapons.[BRK]
+for Horam's weapons.[BRK]
 
-In horam, there are two
+In Horam, there are two
 dojos of combat. Dojos
 of hand-to-hand combat,[BRK]
 
@@ -1475,29 +1475,29 @@ Ahh! Have you come to
 examine our wares?[BRK]
 
 You know, there are many
-dojos in horam.[BRK]
+dojos in Horam.[BRK]
 
 Some are for weapons combat,
 and some are for hand-to-
 hand combat.[BRK]
 
 Any student of the dojos in
-horam can enter the
+Horam can enter the
 tournament.[END]
 
 === 88 | 10d32 | 50 ===
 It's almost like a dream!
 I can't believe you beat
-lunn![BRK]
+Lunn![BRK]
 
 Thank you, one and all![END]
 
 === 89 | 10d9e | 6f ===
 I just can't thank you guys
 enough for showing that
-brute lunn his place![BRK]
+brute Lunn his place![BRK]
 
-Just know that i'll never
+Just know that I'll never
 forget you![END]
 
 === 8a | 10e1c | 56 ===
@@ -1510,14 +1510,14 @@ Is that true?[END]
 === 8b | 10e86 | be ===
 Wong-lee over there is the
 master of this dojo, and
-leader of horam.[BRK]
+leader of Horam.[BRK]
 
 He is also the one who
-taught lunn everything he
+taught Lunn everything he
 knows.[BRK]
 
 Wong-lee has announced a
-tournament to gauge lunn's
+tournament to gauge Lunn's
 true power...[END]
 
 === 8c | 10f5c | 10e ===
@@ -1533,7 +1533,7 @@ And that using karate as a
 defensive tool is proof of
 one's weak mind.[BRK]
 
-The only way to beat lunn
+The only way to beat Lunn
 is by using karate, but no
 one is strong enough...[END]
 
@@ -1553,11 +1553,11 @@ Cuckoo for cocoa puffs...[END]
 
 === 8e | 1115a | e1 ===
 Are you the girl that knows
-blue dragon karate?[BRK]
+Blue Dragon Karate?[BRK]
 
 You are probably the only
 one that stands a chance
-against lunn.[BRK]
+against Lunn.[BRK]
 
 Your heart is pure, and your
 skills refined.[BRK]
@@ -1582,23 +1582,23 @@ purpose,[BRK]
 our land will prosper and
 anything becomes possible![BRK]
 
-Maybe now lunn understands
-this...thank you, jean.[END]
+Maybe now Lunn understands
+this...thank you, Jean.[END]
 
 === 91 | 113ae | 26 ===
 My gratitude to you is
 beyond words...[END]
 
 === 92 | 113ec | 79 ===
-Say, if the althena cult was
-using lunn, knowing his
+Say, if the Althena Cult was
+using Lunn, knowing his
 heart was bad,[BRK]
 
 why did they do it? It...
 ...it doesn't make sense...[END]
 
 === 93 | 11474 | 4f ===
-Thanks to you, lunn has seen
+Thanks to you, Lunn has seen
 the error of his ways and is
 working for good now.[END]
 
@@ -1609,7 +1609,7 @@ happened to us...[END]
 
 === 95 | 1152c | 76 ===
 The students of this dojo
-have been losing to lunn
+have been losing to Lunn
 for months now...[BRK]
 
 It seems that we are no
@@ -1617,7 +1617,7 @@ match for his evil power.[END]
 
 === 96 | 115ba | 74 ===
 Lunn was once a pupil of
-wong-lee.[BRK]
+Wong-Lee.[BRK]
 
 Because of that, he knows
 all the secrets of our
@@ -1628,7 +1628,7 @@ We are no match for him.[END]
 === 97 | 11642 | 8c ===
 You are entering the special
 tournament? Are you sure you
-want to fight lunn?[BRK]
+want to fight Lunn?[BRK]
 
 He's very strong...battles
 with him seem to last only
@@ -1636,7 +1636,7 @@ seconds![END]
 
 === 98 | 116e6 | c0 ===
 I'm very impressed! I heard
-that you beat lunn.[BRK]
+that you beat Lunn.[BRK]
 
 What have you been eating?
 It seems to have made you
@@ -1644,7 +1644,7 @@ very strong![BRK]
 
 [POR02]
 I'd like to say wheaties,
-but i'm embarrassed to say
+but I'm embarrassed to say
 it's...[BRK]
 
 ...spam.
@@ -1657,13 +1657,13 @@ it's...[BRK]
 
 === 99 | 117c2 | 43 ===
 I guess it took one master
-of blue dragon karate to
+of Blue Dragon Karate to
 beat another...[END]
 
 === 9a | 11814 | 12e ===
-Say, i heard that you used
-a secret blue dragon karate
-technique to beat lunn![BRK]
+Say, I heard that you used
+a secret Blue Dragon Karate
+technique to beat Lunn![BRK]
 
 It's the one where you copy
 every move your opponent
@@ -1677,12 +1677,12 @@ the hell out of them in one
 easy step...pure genius![BRK]
 
 [POR02]
-Uh, i don't think you got
+Uh, I don't think you got
 that exactly right...[END]
 
 === 9b | 11956 | cb ===
 Lunn taught me the way of
-blue dragon karate before
+Blue Dragon Karate before
 he went awry.[BRK]
 
 Everyone in the dojo used
@@ -1695,14 +1695,14 @@ betrayed us all...
 [END]
 
 === 9c | 11a38 | 3a ===
-I can't believe that lunn
+I can't believe that Lunn
 used to be my idol![BRK]
 
 Never again![END]
 
 === 9d | 11a8e | aa ===
 I'm glad you were able to 
-defeat lunn. Maybe now
+defeat Lunn. Maybe now
 he'll get a clue...[BRK]
 
 His way was not benefiting
@@ -1712,9 +1712,9 @@ We must all use karate to
 work for the common good...[END]
 
 === 9e | 11b54 | 44 ===
-I'm sure i speak for every
+I'm sure I speak for every
 student of this dojo when
-i say 'thanks!'[END]
+I say 'thanks!'[END]
 
 === 9f | 11ba8 | 7e ===
 Lunn was born with a gift
@@ -1726,11 +1726,11 @@ once again from the start
 in the great hall...[END]
 
 === a0 | 11c3a | b5 ===
-The karate that lunn has
+The karate that Lunn has
 perfected is purely evil.[BRK]
 
-I can't believe that wong-
-lee has invited him to the
+I can't believe that Wong-
+Lee has invited him to the
 tournament![BRK]
 
 I'm certain there will be
@@ -1738,17 +1738,17 @@ trouble of some sort. Mark
 my words...[END]
 
 === a1 | 11d06 | 6e ===
-There is no one i know of
+There is no one I know of
 that can stand against
-lunn's skill![BRK]
+Lunn's skill![BRK]
 
-His blue dragon karate is
+His Blue Dragon Karate is
 too strong, too evil![END]
 
 === a2 | 11d8c | be ===
-It seems that wong-lee had
+It seems that Wong-Lee had
 faith in your ability. I'm
-sorry i did not.[BRK]
+sorry I did not.[BRK]
 
 I will go behind the
 building and practice self-
@@ -1767,7 +1767,7 @@ If he went bad, anyone can.[END]
 
 === a4 | 11ebe | 9c ===
 We are all sworn to remember
-what happened to lunn so we
+what happened to Lunn so we
 don't repeat his mistake.[BRK]
 
 Because those that do not
@@ -1775,7 +1775,7 @@ learn from history are
 destined to repeat it...[END]
 
 === a5 | 11f60 | f ===
-Horam wong dojo[END]
+Horam Wong Dojo[END]
 
 === a6 | 12dde | 22 ===
 Come on in! What can I
@@ -1796,7 +1796,7 @@ Horam bazaar[END]
 
 === ab | 136e0 | 3e ===
 Come in! Come in! What fine
-thing can i assist you with
+thing can I assist you with
 today?[END]
 
 === ac | 13728 | 15 ===
@@ -1810,7 +1810,7 @@ The more you drink, the
 better you will perform.[BRK]
 
 This is the motto of our
-drunken dojo.[BRK]
+Drunken Dojo.[BRK]
 
 Admission is 500s and a
 bottle of hooch.[END]
@@ -1852,7 +1852,7 @@ Don't you guys have an 'aa'
 chapter around here?[END]
 
 === b1 | 140e0 | 62 ===
-Miisss, i'll hav' uh ham on
+Miisss, I'll hav' uh ham on
 rye, wiff a biigg piiggle
 on toop![BRK]
 
@@ -1873,19 +1873,19 @@ Sleep it off, mister![END]
 
 === b3 | 14208 | c5 ===
 Urp!....blaaaah! This...
-...drunken karate stuff
+...Drunken Karate stuff
 isn't for me.[BRK]
 
-I wanted to go to fat boy
-dojo and eat cake all day.[BRK]
+I wanted to go to Fat Boy
+Dojo and eat cake all day.[BRK]
 
 But my father said this
 was much better...he...was..
 ...wrong...urp...blaaaaaaah![END]
 
 === b4 | 142e4 | 33 ===
-Ohhh, if only i'd gone to
-the fat boy dojo instead![END]
+Ohhh, if only I'd gone to
+the Fat Boy Dojo instead![END]
 
 === b5 | 14326 | 92 ===
 This dojo has made my body
@@ -1894,11 +1894,11 @@ don't like the mornings...[BRK]
 
 [POR02]
 Well, hehe, you could be a
-big cow at the fat boy
-dojo instead...[END]
+big cow at the Fat Boy
+Dojo instead...[END]
 
 === b6 | 143be | 12 ===
-Horam drunken dojo[END]
+Horam Drunken Dojo[END]
 
 === b7 | 14f48 | a1 ===
 This is the dojo with the
@@ -1907,7 +1907,7 @@ technique.[BRK]
 
 We never lose. Our special
 technique is called
-'wind karate.'[BRK]
+'Wind Karate.'[BRK]
 
 It'll cost you 1000s to
 attend our dojo.[END]
@@ -1916,7 +1916,7 @@ attend our dojo.[END]
 This dojo is the strongest
 in the world.[BRK]
 
-Our 'wind karate' technique
+Our 'Wind Karate' technique
 is perfect.[BRK]
 
 That is, it's perfect for
@@ -1925,7 +1925,7 @@ fight a lot.[END]
 
 === b9 | 150a4 | 69 ===
 If you want to attend our
-dojo and learn wind karate,
+dojo and learn Wind Karate,
 it'll cost you 1000s.[BRK]
 
 [POR02]
@@ -1933,7 +1933,7 @@ Uh, thanks, but no thanks.[END]
 
 === ba | 15120 | d5 ===
 I am the owner of the
-wind karate dojo.[BRK]
+Wind Karate Dojo.[BRK]
 
 If you want to fight me,
 come on! Charge at me![BRK]
@@ -1944,12 +1944,12 @@ Ha ha! Our motto is 'he who
 fights and runs away, lives
 to fight another day.'[BRK]
 
-See, i won by running away!
+See, I won by running away!
 Cool, huh?[END]
 
 === bb | 1520c | e5 ===
 I have fought 1000 times,
-and i have won 1000 straight
+and I have won 1000 straight
 victories![BRK]
 
 Some have become fearful of
@@ -1969,7 +1969,7 @@ our skill in thousands of
 battles,[BRK]
 
 there are some that say
-wind karate is a fraud.[BRK]
+Wind Karate is a fraud.[BRK]
 
 [POR02]
 Well, they're on the right
@@ -1980,14 +1980,14 @@ your door, be very afraid.[END]
 
 === bd | 153dc | ad ===
 I have worked hard to master
-wind karate, but it seems
+Wind Karate, but it seems
 so...wrong.[BRK]
 
 Do you think that it's the
 technique of cowards?[BRK]
 
 [POR02]
-You said it, i didn't.[BRK]
+You said it, I didn't.[BRK]
 
 ....
 .....[BRK]
@@ -2008,10 +2008,10 @@ My master was right. All
 his training paid off for
 me.[BRK]
 
-When zophar appeared, I
-ran away as fast as i could.[BRK]
+When Zophar appeared, I
+ran away as fast as I could.[BRK]
 
-I'm not dead, so i guess I
+I'm not dead, so I guess I
 won the battle![BRK]
 
 [POR02]
@@ -2024,7 +2024,7 @@ Horam wind dojo[END]
 === c1 | 15cf2 | 8c ===
 I am the master of this
 dojo. I can beat anyone,
-including that wimp lunn![BRK]
+including that wimp Lunn![BRK]
 
 But unfortunately, I
 have a cold and can't go
@@ -2032,28 +2032,28 @@ outside right now.
 [END]
 
 === c2 | 15d96 | 46 ===
-I wish i wasn't so sick.
-Then i'd show that lunn
+I wish I wasn't so sick.
+Then I'd show that Lunn
 character who's boss![END]
 
 === c3 | 15df4 | 62 ===
-You beat lunn? Good job!
+You beat Lunn? Good job!
 I hope you whipped him
-as good as i would have.[BRK]
+as good as I would have.[BRK]
 
-If i was well, that is...[END]
+If I was well, that is...[END]
 
 === c4 | 15e72 | 59 ===
-I'm glad you got to lunn
+I'm glad you got to Lunn
 first.[BRK]
 
-If i had got ahold of him,
-i'd have ripped him to
+If I had got ahold of him,
+I'd have ripped him to
 shreds![END]
 
 === c5 | 15eda | 81 ===
-Say, i heard that you beat
-that zophar fellow, too.[BRK]
+Say, I heard that you beat
+that Zophar fellow, too.[BRK]
 
 I'd say you guys are really
 on a roll. You're saving me
@@ -2061,14 +2061,14 @@ lots of work! Hahaha![END]
 
 === c6 | 15f6e | 9b ===
 If our master was well, he
-could beat lunn![BRK]
+could beat Lunn![BRK]
 
 [POR02]
 Well, since he's sick, why
-don't you fight lunn?[BRK]
+don't you fight Lunn?[BRK]
 
 [POR00]
-Me? Oh, i'm sick, too...
+Me? Oh, I'm sick, too...
 <hack> <hack>...can't you
 tell?[END]
 
@@ -2077,13 +2077,13 @@ Pretty much everyone in this
 dojo is sick just about all
 the time.[BRK]
 
-...i'm not lying! We are!
+...I'm not lying! We are!
 It's so sad. We could really
 kick butt if we were well...[END]
 
 === c8 | 160ce | 8d ===
 I heard that you healthy
-folks beat lunn. It's
+folks beat Lunn. It's
 probably better this way.[BRK]
 
 If we had gotten hold of
@@ -2103,7 +2103,7 @@ better work on my health.
 [END]
 
 === ca | 16222 | 6f ===
-When i feel better, watch
+When I feel better, watch
 out, minions of evil![BRK]
 
 [POR02]
@@ -2121,7 +2121,7 @@ easily kicked his butt![BRK]
 
 [POR02]
 You are the most amazing
-liar i have ever met. You
+liar I have ever met. You
 actually believe yourself![END]
 
 === cc | 16380 | 72 ===
@@ -2147,7 +2147,7 @@ after all?[BRK]
 that we are karate masters?[BRK]
 
 [POR02]
-The only thing i believe is
+The only thing I believe is
 that your dojo is full of
 whining cowards...[END]
 
@@ -2157,7 +2157,7 @@ the tournaments, we could
 be village champions![END]
 
 === cf | 16584 | 47 ===
-When zophar appeared, I
+When Zophar appeared, I
 wanted to fight, but our
 master got sick again.[END]
 
@@ -2166,7 +2166,7 @@ Horam sickly dojo[END]
 
 === d1 | 16c94 | 6b ===
 It's pretty hard to believe,
-but lunn quit wong-lee's
+but Lunn quit Wong-Lee's
 dojo![BRK]
 
 I think he's going to make
@@ -2178,15 +2178,15 @@ lots of trouble around here
 lately.[BRK]
 
 He is misusing the power of
-karate. Ohhh, i feel sick...[END]
+karate. Ohhh, I feel sick...[END]
 
 === d3 | 16daa | 98 ===
 We have reduced training
 hours because we have to
 serve the meals 'round here.[BRK]
 
-If i didn't have to serve
-this slop, i'd be the best
+If I didn't have to serve
+this slop, I'd be the best
 martial artist ever![END]
 
 === d4 | 16e52 | 58 ===
@@ -2194,7 +2194,7 @@ I'm really sick of working
 in this dojo.[BRK]
 
 I was thinking of joining
-the blue dragon dojo.[END]
+the Blue Dragon dojo.[END]
 
 === d5 | 16ebe | 4d ===
 This dojo is the best
@@ -2209,7 +2209,7 @@ that's making everyone
 sick?[END]
 
 === d7 | 16f6c | 87 ===
-I heard that lunn lost the
+I heard that Lunn lost the
 tournament. Maybe he didn't
 eat a good breakfast.[BRK]
 
@@ -2218,7 +2218,7 @@ important meal of the
 day, you know.[END]
 
 === d8 | 17002 | 71 ===
-Don't get me wrong, i love
+Don't get me wrong, I love
 cooking for the pupils of
 the dojo,[BRK]
 

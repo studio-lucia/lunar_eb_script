@@ -4,14 +4,14 @@ Messages: 19
 
 === 0 | 17e36 | 44 ===
 [POR02]
-Um, i don't think this door
+Um, I don't think this door
 is going to budge.[BRK]
 
 It's locked tight.[END]
 
 === 1 | 17e8e | 1cd ===
 [POR15]
-My dear ronfar, why have
+My dear Ronfar, why have
 you come all this way to
 see me?[BRK]
 
@@ -21,14 +21,14 @@ grown cold.[BRK]
 
 [POR00]
 [ROR05]
-Oh, mauri! Don't say that![BRK]
+Oh, Mauri! Don't say that![BRK]
 
 I've been running from my
 true self. I realized some
-things when i last saw you.[BRK]
+things when I last saw you.[BRK]
 
-I realized that i can't live
-without you...that i need
+I realized that I can't live
+without you...that I need
 you in my life.[BRK]
 
 But we have to find a way to
@@ -36,14 +36,14 @@ free you from this evil
 spell you're under.[BRK]
 
 [POR15]
-But ronfar, i am this way
+But Ronfar, I am this way
 because of you.[BRK]
 
 Don't you see? We can never
 go back...[END]
 
 === 2 | 18070 | b6 ===
-Lady mauri hasn't been
+Lady Mauri hasn't been
 herself lately.[BRK]
 
 It seems that she's being 
@@ -58,7 +58,7 @@ I'm worried...[END]
 
 === 3 | 1812c | a9 ===
 Have you noticed that even
-when mauri smiles, you can
+when Mauri smiles, you can
 see the pain in her eyes?[BRK]
 
 In the past, she used to
@@ -68,38 +68,38 @@ she's just so...so...[BRK]
 .........empty....[END]
 
 === 4 | 181da | 9c ===
-Lord leo and lady mauri have
+Lord Leo and lady Mauri have
 devoted their lives to 
-further althena's cause.[BRK]
+further Althena's cause.[BRK]
 
-But ever since lord leo was
-granted the destiny, he
-never sees mauri anymore.
+But ever since Lord Leo was
+granted the Destiny, he
+never sees Mauri anymore.
 [END]
 
 === 5 | 1827c | a2 ===
 Rumor has it that lady
-mauri has been granted the
-power of the red dragon.[BRK]
+Mauri has been granted the
+power of the Red Dragon.[BRK]
 
 That's why she can throw
 fire at will.[BRK]
 
 [POR02]
 Ha! That's nothing compared
-to what i can do![END]
+to what I can do![END]
 
 === 6 | 18324 | c ===
-Red tower 1f[END]
+Red tower 1F[END]
 
 === 7 | 18b9a | c ===
-Red tower 2f[END]
+Red tower 2F[END]
 
 === 8 | 1942a | c ===
-Red tower 3f[END]
+Red tower 3F[END]
 
 === 9 | 19cb8 | c ===
-Red tower 4f[END]
+Red tower 4F[END]
 
 === a | 1a55a | 28d ===
 [POR09]
@@ -108,14 +108,14 @@ that you were talking about.[BRK]
 
 I will keep the fact that
 you have escaped a secret
-from the cult.[BRK]
+from the Cult.[BRK]
 
 I must find out what is
 really happening with the
-goddess.[BRK]
+Goddess.[BRK]
 
 In any case, we must find 
-lucia and hear her story.[BRK]
+Lucia and hear her story.[BRK]
 
 So then, our first stop
 should be the shrine where
@@ -134,53 +134,53 @@ bottom of this mystery.[BRK]
 .....[BRK]
 
 <Wink> uh, don't ya mean
-'bottom of this mystere?'[BRK]
+'bottom of this Mystere?'[BRK]
 
 ...psst! Say old buddy,
 where'd ya stash your
 mask?[BRK]
 
 [POR09]
-Are you drunk, ronfar?
+Are you drunk, Ronfar?
 I have no disguise stashed![BRK]
 
-Why would i have a disguise?[END]
+Why would I have a disguise?[END]
 
 === b | 1a7f6 | c ===
-Red tower 5f[END]
+Red tower 5F[END]
 
 === c | 1b092 | 14e ===
 [POR05]
-Man, i thought the calvary
+Man, I thought the calvary
 would never get here![BRK]
 
 I can't tell ya how glad
-i am to see you guys![BRK]
+I am to see you guys![BRK]
 
 ....
 .....[BRK]
 
-...uh, hey leo, what's with
+...uh, hey Leo, what's with
 the mask?[BRK]
 
 [POR02]
 He's pretending to be some
 kind of supernut called
-'mystere.'[BRK]
+'Mystere.'[BRK]
 
 Go figure...[BRK]
 
 [POR05]
 Ha ha ha! Okay, then,
-mystere it is...[BRK]
+Mystere it is...[BRK]
 
 Now then, get a load of
-this...i'm in a serious load
+this...I'm in a serious load
 of poo-poo...[END]
 
 === d | 1b1ee | 8ce ===
 [POR15]
-My dear ronfar, why have
+My dear Ronfar, why have
 you come all this way to
 see me?[BRK]
 
@@ -190,14 +190,14 @@ grown cold.[BRK]
 
 [POR00]
 [ROR05]
-Oh mauri! Don't say that![BRK]
+Oh Mauri! Don't say that![BRK]
 
 I've been running from my
 true self. I realized some
-things when i last saw you.[BRK]
+things when I last saw you.[BRK]
 
-I realized that i can't live
-without you...that i need
+I realized that I can't live
+without you...that I need
 you in my life.[BRK]
 
 But we have to find a way to
@@ -205,45 +205,45 @@ free you from this evil
 spell you're under.[BRK]
 
 [POR15]
-But ronfar...i am this way
+But Ronfar...I am this way
 because of you.[BRK]
 
 Don't you see? We can never
 go back...[BRK]
 
-Love me the way i am, and
-embrace the way of goddess
-althena.[BRK]
+Love me the way I am, and
+embrace the way of Goddess
+Althena.[BRK]
 
 [POR00]
 [ROR05]
-Mauri, i know that you're
+Mauri, I know that you're
 this way because of me,
-but i want to fix that![BRK]
+but I want to fix that![BRK]
 
 I had no choice back then.
 It was the only way you
 could survive![BRK]
 
-Every time i think about
+Every time I think about
 that day, it drives a knife
 through my heart![BRK]
 
-But i can't join you here!
+But I can't join you here!
 Don't you see that the
-goddess is a fraud?[BRK]
+Goddess is a fraud?[BRK]
 
 She's imprisoned you in
 some kind of eternal dark-
 ness.[BRK]
 
 I'm here to get you out. To
-find the real mauri once
+find the real Mauri once
 again![BRK]
 
 [ROR00]
 [POR15]
-Oh, ronfar, let's not talk
+Oh, Ronfar, let's not talk
 about that right now...[BRK]
 
 Let's talk about the times
@@ -256,7 +256,7 @@ are in.[BRK]
 
 [POR00]
 [ROR05]
-Mauri, i wish i could. But
+Mauri, I wish I could. But
 more is at stake here than
 us...[BRK]
 
@@ -271,17 +271,17 @@ Why is it you never show the
 sweet smile of innocence I
 fell in love with?[BRK]
 
-All i see now when you smile
+All I see now when you smile
 is the fire of hate in your
 eyes.[BRK]
 
 Mauri, you have to tell me
-before i can help you![BRK]
+before I can help you![BRK]
 
 [ROR00]
 [POR15]
 ...enough of this nonsense,
-ronfar![BRK]
+Ronfar![BRK]
 
 Nothing has changed except
 you. I'm the same person
@@ -289,24 +289,24 @@ you fell in love with.[BRK]
 
 [POR00]
 [ROR05]
-But mauri...you...have
+But Mauri...you...have
 ...changed![BRK]
 
 [ROR00]
 [POR15]
 If you cannot accept me for
-who i am and join me in
-althena's glorious service,[BRK]
+who I am and join me in
+Althena's glorious service,[BRK]
 
-then i'm afraid i will have
+then I'm afraid I will have
 to end your pathetic life
 along with the others.[BRK]
 
-At least once i've taken
+At least once I've taken
 your life, you will be mine
 forever...[BRK]
 
-And that is what i've....[BRK]
+And that is what I've....[BRK]
 
 ....
 .....[BRK]
@@ -324,7 +324,7 @@ Help! I...am awash in a sea
 I-i...am...right here...
 ....please, hurry...[BRK]
 
-Release me...before i.....
+Release me...before I.....
 i....disappear forever....[BRK]
 
 I...[BRK]
@@ -334,10 +334,10 @@ I...[BRK]
 ............you![BRK]
 
 [ROR05]
-...m...mauri, what in the
+...m...Mauri, what in the
 world is going on!?[BRK]
 
-Are you in there, mauri?
+Are you in there, Mauri?
 Wait! Come back!!!!!
 [END]
 
@@ -360,24 +360,24 @@ this wretched mind...[END]
 
 === f | 1bb70 | 160 ===
 [POR05]
-...and when i woke up, i was
+...and when I woke up, I was
 in this comfy little cell
 countin' hash marks.[BRK]
 
-I can't believe that i could
+I can't believe that I could
 have been such a fool.[BRK]
 
 Mauri is obviously under
 some kind of black spell
-from the goddess...[BRK]
+from the Goddess...[BRK]
 
 ...and has been ever since
-the day i cured her of the
+the day I cured her of the
 disease.[BRK]
 
 The fake goddess will pay
 for what she's done to
-mauri...[BRK]
+Mauri...[BRK]
 
 Believe me...she will
 pay!!!
@@ -387,7 +387,7 @@ pay!!!
 === 10 | 1bce8 | ad ===
 [POR13]
 I've accomplished all that
-i can.[BRK]
+I can.[BRK]
 
 From here on, you're on
 your own.[BRK]
@@ -396,24 +396,24 @@ When you speak of this day
 remember that you were saved
 by the deeds of...[BRK]
 
-...................mystere![END]
+...................Mystere![END]
 
 === 11 | 1bd9e | 194 ===
 [POR02]
-Okay, leo...uh, i mean
-mystere![BRK]
+Okay, Leo...uh, I mean
+Mystere![BRK]
 
 ....
 .....[BRK]
 
-...i wonder why leo couldn't
+...I wonder why Leo couldn't
 just help us without going
 through this charade...[BRK]
 
 [POR05]
 I think it has something to
-do with the fact that leo
-is in althena's service.[BRK]
+do with the fact that Leo
+is in Althena's service.[BRK]
 
 I'm guessing he has his
 doubts about her, but not
@@ -428,5 +428,5 @@ help us...
 [END]
 
 === 12 | 1bf68 | c ===
-Red tower 6f[END]
+Red tower 6F[END]
 

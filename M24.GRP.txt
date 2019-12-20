@@ -5,7 +5,7 @@ Messages: 21
 === 0 | 164fe | df ===
 [POR08]
 This is the fifth tower
-of pentagulia.[BRK]
+of Pentagulia.[BRK]
 
 [POR02]
 But...where's the lake?
@@ -17,48 +17,48 @@ transport fountain...a
 doorway to this place...[BRK]
 
 We must hurry. The real
-althena must be locked
+Althena must be locked
 inside this tower.
 [END]
 
 === 1 | 165fe | c6 ===
 [POR18]
-Oh, pentagulia...what has
+Oh, Pentagulia...what has
 become of you?[BRK]
 
-How in the name of zophar
-have althena's dragons
+How in the name of Zophar
+have Althena's dragons
 found release?[BRK]
 
-Zophar...i must make master
-zophar hear my plea![BRK]
+Zophar...I must make Master
+Zophar hear my plea![BRK]
 
-Master zophar...master
-zophar.........!!![END]
+Master Zophar...master
+Zophar.........!!![END]
 
 === 2 | 166dc | 233 ===
 [POR10]
 Is everybody all right?[BRK]
 
 [POR05]
-Dang!...why did lucia
+Dang!...why did Lucia
 take our magic?[BRK]
 
 [POR07]
 Pooh! This is a fine fix![BRK]
 
-Now the junior premier of
-the vane magic guild doesn't
+Now the Junior Premier of
+the Vane Magic Guild doesn't
 even have any magic![BRK]
 
-Thanks a lot, lucia![BRK]
+Thanks a lot, Lucia![BRK]
 
 [POR01]
 ....
 .....[BRK]
 
 [POR02]
-Why did lucia do this?[BRK]
+Why did Lucia do this?[BRK]
 
 Althena herself said that
 humanity's power is the
@@ -70,12 +70,12 @@ spades![BRK]
 
 [POR02]
 But she's going to try to
-face down zophar on her
+face down Zophar on her
 own...[BRK]
 
 But what will happen when
 she tries to use the power
-of althena herself??[BRK]
+of Althena herself??[BRK]
 
 ....
 .....[BRK]
@@ -99,14 +99,14 @@ powerful before.[BRK]
 I'm certain it is not of
 human origin.[BRK]
 
-In fact, i'm fairly certain
-it is the work of zophar...[BRK]
+In fact, I'm fairly certain
+it is the work of Zophar...[BRK]
 
 [POR18]
-My, lucia! You do have a
+My, Lucia! You do have a
 keen sense of the obvious![BRK]
 
-Of course this is zophar's
+Of course this is Zophar's
 seal![BRK]
 
 It was created to keep tripe
@@ -115,12 +115,12 @@ like you out!
 
 === 4 | 16a9a | 249 ===
 [POR18]
-Ahh, the goddess tower! It
+Ahh, the Goddess Tower! It
 seems to be such a pure,
 tranquil place...[BRK]
 
 And that's why the city of
-pentagulia was erected in
+Pentagulia was erected in
 front of it.[BRK]
 
 Its power and purity could
@@ -128,18 +128,18 @@ not be allowed to escape
 into this world.[BRK]
 
 Fortunately, the power of
-the four dragons was easy to
-mold to zophar's will.[BRK]
+the Four Dragons was easy to
+mold to Zophar's will.[BRK]
 
 ....
 .....[BRK]
 
-Funny, the one thing althena
+Funny, the one thing Althena
 depended on most for
 protection...[BRK]
 
 ...was what helped create this
-seal on the goddess tower.[BRK]
+seal on the Goddess Tower.[BRK]
 
 ....
 .....[BRK]
@@ -147,8 +147,8 @@ seal on the goddess tower.[BRK]
 Oh, and one last confession
 before you...um, go.[BRK]
 
-I must admit that i did not
-create this seal for zophar
+I must admit that I did not
+create this seal for Zophar
 alone.[BRK]
 
 I had a little help from my
@@ -158,7 +158,7 @@ dear friends...[END]
 [POR18]
 Your miserable souls will
 enable us to finally revive
-our great leader...zophar![BRK]
+our great leader...Zophar![BRK]
 
 You know, you should look
 upon it as a great hon...[BRK]
@@ -186,10 +186,10 @@ What...what's happening?!![BRK]
 
 Althena...i-is...that you?[BRK]
 
-I...i don't understand...[BRK]
+I...I don't understand...[BRK]
 
 [POR02]
-Look, hiro! The dragon wings
+Look, Hiro! The dragon wings
 are beginning to glow!![BRK]
 
 But what's causing it???[BRK]
@@ -215,15 +215,15 @@ Ghaleon!? Show yourself![END]
 
 === 8 | 16f7a | 1db ===
 [POR18]
-Why did you allow lucia to
+Why did you allow Lucia to
 escape?[BRK]
 
 I will hold you personally
-accountable to zophar![BRK]
+accountable to Zophar![BRK]
 
 [POR14]
 What a poor imitation of 
-althena you are, goddess. [BRK]
+Althena you are, goddess. [BRK]
 
 You don't even have the 
 power to capture a little 
@@ -251,31 +251,31 @@ Goddess tower ent.[END]
 === a | 17f90 | c5 ===
 [POR08]
 She was a fool to believe
-that zophar would honor any
+that Zophar would honor any
 promises he made.[BRK]
 
 He will use anyone and any-
 thing to gain what he
 desires.[BRK]
 
-We must hurry to althena's
+We must hurry to Althena's
 chamber so she can help us
 stop him![END]
 
 === b | 1805e | 10 ===
-Goddess tower 1f[END]
+Goddess tower 1F[END]
 
 === c | 18b7e | 10 ===
-Goddess tower 2f[END]
+Goddess tower 2F[END]
 
 === d | 19684 | 10 ===
-Goddess tower 3f[END]
+Goddess tower 3F[END]
 
 === e | 1a18e | 10 ===
-Goddess tower 4f[END]
+Goddess tower 4F[END]
 
 === f | 1ac98 | 10 ===
-Goddess tower 5f[END]
+Goddess tower 5F[END]
 
 === 10 | 1b7d8 | 45 ===
 [POR11]
@@ -294,23 +294,23 @@ You must never forget what
 you are about to hear.[BRK]
 
 Althena knows how to defeat
-zophar, if you only heed her
+Zophar, if you only heed her
 words![BRK]
 
-Just know that i'll always
+Just know that I'll always
 believe in you.[BRK]
 
 I've waited for this day for
 so long![BRK]
 
 ...the day that my promise
-to luna is finally
+to Luna is finally
 fulfilled.[BRK]
 
 Seeing her brings back so
 many memories...[BRK]
 
-Memories of alex, nash, mia,
+Memories of Alex, Nash, Mia,
 jessica, and...[BRK]
 
 ....
@@ -322,32 +322,32 @@ the 'remember when?' Number![BRK]
 
 All that matters now is that
 you've got a job to do, and
-althena can help you.[BRK]
+Althena can help you.[BRK]
 
-I'm sorry, but i can't stay
+I'm sorry, but I can't stay
 any longer...[BRK]
 
-I don't want ruby to see
+I don't want Ruby to see
 me like this. She would
 never let me live it down.[BRK]
 
 ...so long!![BRK]
 
-......remember althena's
+......remember Althena's
 words! That's the key to
-stopping zophar forever![BRK]
+stopping Zophar forever![BRK]
 
-...i'm counting on you!!![BRK]
+...I'm counting on you!!![BRK]
 
 [POR08]
-...wait!...nall!!!?
+...wait!...Nall!!!?
 
 [END]
 
 === 12 | 1bb78 | bc ===
 [POR08]
 At last, the power of
-althena lies in my hand.[BRK]
+Althena lies in my hand.[BRK]
 
 Zophar will not be able to
 stand in the face of this
@@ -362,7 +362,7 @@ worl.....[BRK]
 ....
 .....[BRK]
 
-Oh, forgive me, hiro.
+Oh, forgive me, Hiro.
 [END]
 
 === 13 | 1bc38 | 14a ===
@@ -373,7 +373,7 @@ power!![BRK]
 
 [POR05]
 My magic has disappeared, 
-too! Why would lucia do
+too! Why would Lucia do
 this to us!?[BRK]
 
 [POR10]
@@ -384,14 +384,14 @@ out of this tower![BRK]
 [POR02]
 Count me in on that plan!
 Let's get outta this place,
-hiro![BRK]
+Hiro![BRK]
 
 [POR01]
-...oh, lucia...why?!![BRK]
+...oh, Lucia...why?!![BRK]
 
-Didn't you hear what althena
+Didn't you hear what Althena
 said???[END]
 
 === 14 | 1bd90 | 10 ===
-Goddess tower 6f[END]
+Goddess tower 6F[END]
 

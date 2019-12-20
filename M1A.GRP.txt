@@ -7,7 +7,7 @@ Messages: 239
 Ha! I found you![BRK]
 
 [POR11]
-Back in the forest, i warned
+Back in the forest, I warned
 you to turn around and leave
 this place![BRK]
 
@@ -21,8 +21,8 @@ Hey, will you look at that!
 I guess you can't escape now
 even if you wanted to![BRK]
 
-My dragon kids will keep you
-here until i decide what to
+My Dragon Kids will keep you
+here until I decide what to
 do with you.[BRK]
 
 Kids, keep these people from
@@ -30,7 +30,7 @@ escaping at any cost. That's
 an order![BRK]
 
 [POR00]
-Yes, nall!...it won't be
+Yes, Nall!...it won't be
 any problem.[BRK]
 
 They look too stupid and
@@ -39,7 +39,7 @@ weak to cause any trouble.[BRK]
 [POR11]
 Don't judge them by their
 appearance. They're agents
-of the blue dragon cult!
+of the Blue Dragon Cult!
 
 [END]
 
@@ -51,7 +51,7 @@ going on?[BRK]
 
 [POR07]
 These must be the bandits of
-taben's peak! But this dump
+Taben's Peak! But this dump
 is their hideout?[BRK]
 
 [POR05]
@@ -68,7 +68,7 @@ enforces this rule? I have
 never heard of it.[BRK]
 
 [POR02]
-Oh, come on! Geez, lucia! Do
+Oh, come on! Geez, Lucia! Do
 ya have to take everything
 so literally??!![BRK]
 
@@ -84,7 +84,7 @@ Get with the program![BRK]
 Yes, yes! I'd like to join
 the program very much![BRK]
 
-Where do i sign up?[BRK]
+Where do I sign up?[BRK]
 
 [POR02]
 Oh, puhlease![BRK]
@@ -94,21 +94,21 @@ Just...forget it!
 
 === 3 | b9f2 | 120 ===
 Sorry, the gondola's closed
-to everyone 'cept dragon
-kids right now.[BRK]
+to everyone 'cept Dragon
+Kids right now.[BRK]
 
-If i took you down to the
+If I took you down to the
 bottom and you escaped,
-nall'd have my head.[BRK]
+Nall'd have my head.[BRK]
 
 He just promoted me from
-garbage duty, and i ain't
+garbage duty, and I ain't
 goin' back![BRK]
 
-No way i'm riskin' my butt
+No way I'm riskin' my butt
 for you guys![BRK]
 
-If you want out, ask nall
+If you want out, ask Nall
 yourself![BRK]
 
 [POR02]
@@ -138,11 +138,11 @@ Oh, it's you again. Why do
 you keep bothering me?[BRK]
 
 [POR02]
-Oh, i don't know...maybe
+Oh, I don't know...maybe
 because you know how to
 operate the gondola?[BRK]
 
-Stop me if i'm going too
+Stop me if I'm going too
 fast for you...[BRK]
 
 [POR00]
@@ -153,10 +153,10 @@ No, we were just funnin'![END]
 
 === 6 | bd2c | 31 ===
 Okay, okay...get on. I guess
-i can take you down.[END]
+I can take you down.[END]
 
 === 7 | bd78 | f0 ===
-Hey! What do you think i am,
+Hey! What do you think I am,
 some sort of weird toy for
 your own amusement?[BRK]
 
@@ -190,7 +190,7 @@ Come back and visit, huh?[END]
 Please don't try to escape
 through my post![BRK]
 
-If you succeed, nall will
+If you succeed, Nall will
 yell at me and make me cry![END]
 
 === b | bfda | 66 ===
@@ -221,10 +221,10 @@ We're bad muthas!
 === e | c14c | 81 ===
 I'm w-warning you! Keep
 back! If you try to escape,
-i'll h-have to...[BRK]
+I'll h-have to...[BRK]
 
 [POR02]
-Hey, hiro! This kid's scared
+Hey, Hiro! This kid's scared
 to death of us! Hahahaha!
 
 [END]
@@ -242,7 +242,7 @@ force!
 [POR11]
 I'm very impressed! You
 rescued all the kidnapped
-dragon kids![BRK]
+Dragon Kids![BRK]
 
 To tell you the truth, I
 thought they were all
@@ -256,16 +256,16 @@ we have a great team![BRK]
 [POR11]
 Do you think this kind of
 adventuring is appropriate
-for a red dragon?[BRK]
+for a Red Dragon?[BRK]
 
 [POR02]
-Red dragon? But...i didn't
+Red dragon? But...I didn't
 say anything about being a
-red dragon.[BRK]
+Red Dragon.[BRK]
 
 [POR11]
 You didn't have to. Believe
-me, i can tell.[BRK]
+me, I can tell.[BRK]
 
 [POR02]
 How! How can you tell?!!
@@ -281,7 +281,7 @@ something to tell you.
 [END]
 
 === 11 | c46e | 10 ===
-Taben's peak 7fe[END]
+Taben's peak 7Fe[END]
 
 === 12 | cf02 | 22b ===
 [POR11]
@@ -295,8 +295,8 @@ you enough for rescuing our
 friends![BRK]
 
 You must be very powerful to
-have defeated the blue
-dragon cult![BRK]
+have defeated the Blue
+Dragon Cult![BRK]
 
 I'd like to hear the story
 of how you did it! Will you
@@ -311,8 +311,8 @@ You've expressed your
 thanks, so leave the good
 people alone now.[BRK]
 
-...hiro, you said you wanted
-to know where lucia was...[BRK]
+...Hiro, you said you wanted
+to know where Lucia was...[BRK]
 
 I saw her around here a
 while ago. If you look hard,
@@ -322,7 +322,7 @@ you should find her...
 
 === 13 | d15a | 127 ===
 [POR05]
-Hey, chief, you found lucia!
+Hey, chief, you found Lucia!
 ...say, why do both of you
 look like you're blushing?[BRK]
 
@@ -335,9 +335,9 @@ and hot because you're
 embarrassed...[BRK]
 
 [POR07]
-I bet hiro was putting the
+I bet Hiro was putting the
 mega-moves on her...right,
-lucia?[BRK]
+Lucia?[BRK]
 
 [POR08]
 ....
@@ -355,9 +355,9 @@ where...try upstairs...[END]
 [POR11]
 Since you helped us get the
 kidnapped kids back from the
-blue dragon cult,[BRK]
+Blue Dragon Cult,[BRK]
 
-i swear i will find a way to
+I swear I will find a way to
 pay you back...[END]
 
 === 16 | d36e | b1 ===
@@ -366,7 +366,7 @@ Why are you hanging around
 here? Don't you have more
 important things to do?[BRK]
 
-I mean, i know my hideout is
+I mean, I know my hideout is
 cool, but you'd better hit
 the road.[BRK]
 
@@ -376,7 +376,7 @@ We're going...we're going...[END]
 === 17 | d436 | d4 ===
 [POR05]
 Hey there, chief. Have you
-found lucia yet? I heard
+found Lucia yet? I heard
 she's looking for you...[BRK]
 
 [POR02]
@@ -391,10 +391,10 @@ somewhere. Go find her.[END]
 === 18 | d526 | 77 ===
 [POR05]
 What's the matter? Don't
-you want to find lucia?[BRK]
+you want to find Lucia?[BRK]
 
 She was asking for you, you
-know. If i were you, i'd
+know. If I were you, I'd
 go find her...[END]
 
 === 19 | d5b0 | b9 ===
@@ -404,22 +404,22 @@ reminds me of my childhood.[BRK]
 
 But luckily, they'll never
 have to endure the horror
-of the blue dragon cult.[BRK]
+of the Blue Dragon Cult.[BRK]
 
 That's a chapter of my life
-i wish i could erase...[END]
+I wish I could erase...[END]
 
 === 1a | d680 | b5 ===
 [POR07]
 Hey, kids, let's play 'pin
-the cash on lemina', ok?[BRK]
+the cash on Lemina', ok?[BRK]
 
 It's really fun! You just
 try to pin as much cash on
 me as you can![BRK]
 
 Go break your piggy banks,
-i wanna get this game
+I wanna get this game
 started!
 [END]
 
@@ -431,7 +431,7 @@ you grow up?[BRK]
 
 Well, study hard and maybe
 you'll be strong enough to
-enter the vane magic guild![BRK]
+enter the Vane Magic Guild![BRK]
 
 By the time you grow up,
 it'll be fully restored![END]
@@ -444,16 +444,16 @@ Hey...wait up!
 === 1d | d848 | 93 ===
 [POR11]
 I heard that you were headed
-to pentagulia to find
-goddess althena.[BRK]
+to Pentagulia to find
+Goddess Althena.[BRK]
 
-Before you left, i wanted to
+Before you left, I wanted to
 give you something as thanks
 for all your help.[END]
 
 === 1e | d8e7 | 167 ===
-Received the white dragon
-wings from nall.[BRK]
+Received the White Dragon
+wings from Nall.[BRK]
 
 [0xB][0][0][POR11]
 I think you'll find these
@@ -471,25 +471,25 @@ of the time.  I hope they
 serve you well![BRK]
 
 The barricade on the road
-to vane is now open. Good
+to Vane is now open. Good
 luck on your quest![END]
 
 === 1f | da70 | 39 ===
 Thank you for rescuing me
-from the evil blue dragon
-cult![END]
+from the evil Blue Dragon
+Cult![END]
 
 === 20 | daac | 4c ===
 Know what? Huh? Wanna know
 what?[BRK]
 
-When i grow up, i'm gonna
+When I grow up, I'm gonna
 be just like you![END]
 
 === 21 | db0c | 47 ===
-Please save the goddess from
+Please save the Goddess from
 the bad people that want to
-revive zophar![END]
+revive Zophar![END]
 
 === 22 | db64 | 93 ===
 Didja ever wonder why trix
@@ -506,12 +506,12 @@ to save our world from
 destruction.[BRK]
 
 I definitely want to be like
-you when i grow up...[BRK]
+you when I grow up...[BRK]
 
 Well, that or a rock star. I
 haven't really decided.[BRK]
 
-And ya know, i really could
+And ya know, I really could
 go for being a game
 counselor.[BRK]
 
@@ -534,12 +534,12 @@ would have happened to us
 if you hadn't come along.[END]
 
 === 25 | ddd8 | 8e ===
-If nall doesn't show his
+If Nall doesn't show his
 full appreciation for what
 you did for him,[BRK]
 
 just chalk it up to him
-being nall.[BRK]
+being Nall.[BRK]
 
 He doesn't always show
 what he feels.[END]
@@ -549,24 +549,24 @@ Nall isn't really good at
 showing his feelings, but he
 seems to care for you.[BRK]
 
-In fact, i've caught him
+In fact, I've caught him
 wondering aloud what you
 guys were up to...[END]
 
 === 27 | df20 | 7d ===
-The goddess althena is fake?
+The Goddess Althena is fake?
 This is amazing![BRK]
 
 So, does that mean that she
-was tied in with the blue
-dragon cult somehow, too?[END]
+was tied in with the Blue
+Dragon Cult somehow, too?[END]
 
 === 28 | dfb0 | 6f ===
-The blue dragon cult has
+The Blue Dragon Cult has
 disappeared?[BRK]
 
 That's great news! At least
-i can finally get a good
+I can finally get a good
 night's sleep again![END]
 
 === 29 | e030 | 53 ===
@@ -578,30 +578,30 @@ He'll get over it.[END]
 
 === 2a | e092 | 97 ===
 I have to remain strong,
-especially now that nall is
+especially now that Nall is
 ready to move on...[BRK]
 
-He told me that i should run
+He told me that I should run
 this place when he finally
-became a white dragon.[END]
+became a White Dragon.[END]
 
 === 2b | e146 | 94 ===
 I always knew that someone
 would rescue me from the
-blue dragon cult.[BRK]
+Blue Dragon Cult.[BRK]
 
-That's why i wasn't scared.
-But i never guessed nall
+That's why I wasn't scared.
+But I never guessed Nall
 wouldn't be with them...
 [END]
 
 === 2c | e1de | ac ===
-When i grow up, i want to
-be nall's bride. Tee hee
+When I grow up, I want to
+be Nall's bride. Tee hee
 hee.[BRK]
 
 [POR02]
-Um, i don't think you know
+Um, I don't think you know
 everything you need to about
 your dreamcake...[BRK]
 
@@ -609,20 +609,20 @@ I'm certain he has some dark
 secrets...[END]
 
 === 2d | e2b6 | 7c ===
-I didn't know that nall was
-really a white dragon! Can
+I didn't know that Nall was
+really a White Dragon! Can
 humans and dragons marry?[BRK]
 
 [POR02]
 Only in special cases...
-...right, hiro?[END]
+...right, Hiro?[END]
 
 === 2e | e346 | d4 ===
-Now that i know nall is a
-white dragon, i'm so very
+Now that I know Nall is a
+White Dragon, I'm so very
 confused![BRK]
 
-Should i still pursue him?[BRK]
+Should I still pursue him?[BRK]
 
 [POR02]
 It's probably better to just
@@ -634,11 +634,11 @@ heartbreak...[END]
 
 === 2f | e42a | 11e ===
 I've decided not to marry
-nall. I think each should
+Nall. I think each should
 marry their own kind.[BRK]
 
-Besides, i don't want to be
-an old bag when nall still
+Besides, I don't want to be
+an old bag when Nall still
 looks like a kid![BRK]
 
 It'd look like a bad episode
@@ -648,30 +648,30 @@ of talk soup![BRK]
 That's probably the right
 decision.[BRK]
 
-Besides, i think nall is
+Besides, I think Nall is
 kinda sweet on me now! He
 he he![END]
 
 === 30 | e55c | 1ad ===
-The blue dragon cult has
+The Blue Dragon Cult has
 kidnapped many of my
 friends...[BRK]
 
 [POR10]
-The blue dragon cult is
+The Blue Dragon Cult is
 evil. They teach innocent
 children to be killers.[BRK]
 
 Once trained in the ways of
 black death karate, they 
-can never leave the cult.[BRK]
+can never leave the Cult.[BRK]
 
 I am the only one ever
 trained that successfully
 escaped.[BRK]
 
 It's a chapter of my life
-i'd just as soon forget...[BRK]
+I'd just as soon forget...[BRK]
 
 ....
 .....[BRK]
@@ -688,12 +688,12 @@ more of my friends! Please,
 you have to help us![END]
 
 === 32 | e778 | 7b ===
-Please, i'm begging you!
+Please, I'm begging you!
 Help rescue my friends from
-the blue dragon cult![BRK]
+the Blue Dragon Cult![BRK]
 
-I'll...i'll give you all
-the tinkertoys i have!
+I'll...I'll give you all
+the tinkertoys I have!
 [END]
 
 === 33 | e806 | 38 ===
@@ -709,7 +709,7 @@ good person.[END]
 
 === 35 | e8a6 | 66 ===
 I can't believe that the
-goddess in pentagulia was a
+Goddess in Pentagulia was a
 fake![BRK]
 
 I-i'm scared! What are you
@@ -717,11 +717,11 @@ gonna do now?!!
 [END]
 
 === 36 | e924 | cc ===
-If the goddess in pentagulia
+If the Goddess in Pentagulia
 is fake, what happened to
-the real althena?[BRK]
+the real Althena?[BRK]
 
-I...i'm really getting
+I...I'm really getting
 scared! Too much is going
 on behind the scenes...[BRK]
 
@@ -731,7 +731,7 @@ everywhere![END]
 
 === 37 | ea0c | 65 ===
 Can you rescue the real
-althena like you saved my
+Althena like you saved my
 friends?[BRK]
 
 Please? She must be out
@@ -752,7 +752,7 @@ hiring...
 [END]
 
 === 39 | eb4e | 65 ===
-How did the blue dragon cult
+How did the Blue Dragon Cult
 get in if we made another
 barricade?[BRK]
 
@@ -761,12 +761,12 @@ magic...[END]
 
 === 3a | ebca | 50 ===
 If our barricades can't keep
-the blue dragon cult out,
+the Blue Dragon Cult out,
 we're all in big trouble![END]
 
 === 3b | ec2e | 66 ===
-Please stop the blue dragon
-cult![BRK]
+Please stop the Blue Dragon
+Cult![BRK]
 
 Once we're safe, we can take
 down all the barricades we
@@ -784,48 +784,48 @@ If you just wait a little
 longer, the barricades will
 be cleared from the road.[BRK]
 
-Then you can get to vane.[END]
+Then you can get to Vane.[END]
 
 === 3e | edb0 | 68 ===
-Now that the blue dragon
-cult has been taken care of,
+Now that the Blue Dragon
+Cult has been taken care of,
 we took down the barricade.[BRK]
 
 The road is now clear.[END]
 
 === 3f | ee2c | 9f ===
-Is it true that the althena
-cult is trying to revive an
-evil spirit named zophar?[BRK]
+Is it true that the Althena
+Cult is trying to revive an
+evil spirit named Zophar?[BRK]
 
 If he's stronger than the
-blue dragon cult, we're all
+Blue Dragon Cult, we're all
 in a mess of trouble...[END]
 
 === 40 | eede | 75 ===
 Of all the surprises! I had
-no idea nall was the white
-dragon![BRK]
+no idea Nall was the White
+Dragon![BRK]
 
 I'll have to have a few
-words with him when i see
+words with him when I see
 him.[END]
 
 === 41 | ef62 | 86 ===
-Hi, ruby! I'm glad you came
+Hi, Ruby! I'm glad you came
 back to play again.
 Everyone's waiting for you.[BRK]
 
 [POR02]
-Sorry i didn't come back to
+Sorry I didn't come back to
 play. Maybe next time...
 
 
 [END]
 
 === 42 | eff8 | 38 ===
-Oh no!...the blue dragon
-cult?[BRK]
+Oh no!...the Blue Dragon
+Cult?[BRK]
 
 What are we going to do?
 [END]
@@ -836,13 +836,13 @@ board and a slide for us to
 play on.[BRK]
 
 But now that many of the
-kids are missing, i don't
+kids are missing, I don't
 feel like playing.[END]
 
 === 44 | f0e8 | 49 ===
 You have to find some way
 to rescue my friends from
-the blue dragon cult![END]
+the Blue Dragon Cult![END]
 
 === 45 | f144 | 3c ===
 Everyone here is my best
@@ -856,9 +856,9 @@ Best friend? What...
 [END]
 
 === 47 | f1ba | 9d ===
-Hey, tell me, is this zophar
-guy worse than the blue
-dragon cult?[BRK]
+Hey, tell me, is this Zophar
+guy worse than the Blue
+Dragon Cult?[BRK]
 
 If he is, does that mean
 we're all in danger? I hope
@@ -868,15 +868,15 @@ I just got over the
 nightmares...[END]
 
 === 48 | f26e | 72 ===
-I can't believe that nall
-was really the white dragon
+I can't believe that Nall
+was really the White Dragon
 all along![BRK]
 
 That means he's the oldest
 dude here, doesn't it?[END]
 
 === 49 | f2fc | 3d ===
-Next time i see nall, i'm
+Next time I see Nall, I'm
 gonna ask him how old he
 really is![END]
 
@@ -895,7 +895,7 @@ beauty secret...[END]
 
 === 4b | f400 | 51 ===
 Ahhhhh! Naaaallll! Help me!
-It's the blue dragon cult!
+It's the Blue Dragon Cult!
 They've come for me! Ahhh![END]
 
 === 4c | f45e | 49 ===
@@ -906,8 +906,8 @@ little girl...
 [END]
 
 === 4d | f4c4 | 63 ===
-I'm sorry i mistook you for
-the blue dragon cult members
+I'm sorry I mistook you for
+the Blue Dragon Cult members
 a while ago.[BRK]
 
 I'm just really jumpy
@@ -918,7 +918,7 @@ Can you help get my friends
 back?...please?[BRK]
 
 I'll pay you with all the
-barbie clothes i have![BRK]
+barbie clothes I have![BRK]
 
 I'll even throw in her
 dream house and a ken
@@ -932,14 +932,14 @@ over and play with us![END]
 === 50 | f610 | 76 ===
 [POR08]
 I would like to learn how to
-play, but i do not have the
+play, but I do not have the
 time now.[BRK]
 
-Maybe i'll come back later
+Maybe I'll come back later
 and you can teach me.[END]
 
 === 51 | f69a | 7f ===
-If the goddess is a fraud,
+If the Goddess is a fraud,
 then the four heroes must
 be in on it![BRK]
 
@@ -950,13 +950,13 @@ stop them![END]
 === 52 | f72c | 5c ===
 Nall says that you have the
 power to help stop the
-althena cult, too.[BRK]
+Althena Cult, too.[BRK]
 
 Are you going to help?[END]
 
 === 53 | f798 | dd ===
-Where is lucia? She said
-she'd come back so i could
+Where is Lucia? She said
+she'd come back so I could
 teach her how to play.[BRK]
 
 It's been so long, and she
@@ -965,18 +965,18 @@ think she's coming...[BRK]
 
 [POR02]
 Don't worry, she's coming
-back with hiro real soon!
-......i promise![END]
+back with Hiro real soon!
+......I promise![END]
 
 === 54 | f888 | 43 ===
-I...i'm so scared! The blue
-dragon cult is stealing all
+I...I'm so scared! The Blue
+Dragon Cult is stealing all
 my friends![END]
 
 === 55 | f8e2 | 4b ===
 I'm even afraid to walk
-outside now that the blue
-dragon cult is so active![END]
+outside now that the Blue
+Dragon Cult is so active![END]
 
 === 56 | f944 | 76 ===
 Please, please, please! You
@@ -986,7 +986,7 @@ friends...will you?
 We'll certainly try.[END]
 
 === 57 | f9ca | 6c ===
-Really? Oh, i was hoping
+Really? Oh, I was hoping
 you'd say that![BRK]
 
 You'd better hurry and get
@@ -994,7 +994,7 @@ started. No telling where
 they're going![END]
 
 === 58 | fa4c | 40 ===
-That's all i can ask you to
+That's all I can ask you to
 do...try. But please try
 your best.
 [END]
@@ -1029,44 +1029,44 @@ next story time he would
 tell us about the old days.[BRK]
 
 He said he'd tell us a story
-about dragonmaster alex and
-goddess althena.[END]
+about Dragonmaster Alex and
+Goddess Althena.[END]
 
 === 5d | fcc4 | 72 ===
 Nall said that he was the
-closest friend to dragon-
-master alex.[BRK]
+closest friend to Dragon-
+master Alex.[BRK]
 
 I wonder what happened to
-alex and the goddess...[END]
+Alex and the Goddess...[END]
 
 === 5e | fd4a | 7b ===
 I heard that the barricade
-was removed, but i got lost
+was removed, but I got lost
 and ended up here.[BRK]
 
 These crazy kids have built
 some tree house, huh?[END]
 
 === 5f | fdd8 | bc ===
-I was on my way from nota
+I was on my way from Nota
 to here and got lost.[BRK]
 
 But the master of this
 place asked me to stay and
 open a snack concession.[BRK]
 
-I think i can make a pretty
+I think I can make a pretty
 good buck sellin' junk to
 these kids.[END]
 
 === 60 | fea4 | 2e ===
 I hope the kids that went to
-meribia are safe.[END]
+Meribia are safe.[END]
 
 === 61 | feea | a8 ===
 Please be careful if you go
-to meribia.[BRK]
+to Meribia.[BRK]
 
 My friend went to look for
 the ones that were kidnapped
@@ -1076,7 +1076,7 @@ If you go down there, you
 should make a map.[END]
 
 === 62 | ffae | 4c ===
-No one that went to meribia
+No one that went to Meribia
 came back. Are they lost...
 ...or kidnapped too?[END]
 
@@ -1094,26 +1094,26 @@ you guys properly. You've
 done so much...[END]
 
 === 65 | 100ea | 6c ===
-You guys knew that nall
-knew the goddess personally,
+You guys knew that Nall
+knew the Goddess personally,
 right?[BRK]
 
 For some reason, he wants
 to keep that a secret.[END]
 
 === 66 | 1016e | 70 ===
-I think it's funny that nall
-is actually the white
-dragon.[BRK]
+I think it's funny that Nall
+is actually the White
+Dragon.[BRK]
 
 I like to tease him by
 calling him an old white
 fart.[END]
 
 === 67 | 101fa | 68 ===
-Nall may be the great white
-dragon, but he's still just
-nall to us.[BRK]
+Nall may be the great White
+Dragon, but he's still just
+Nall to us.[BRK]
 
 We know him too well to be
 in awe...[END]
@@ -1176,7 +1176,7 @@ I can't believe you're
 acting like you did at the
 carnival.[BRK]
 
-Geez, hiro, you really need
+Geez, Hiro, you really need
 to take a cold shower.
 
 
@@ -1185,7 +1185,7 @@ to take a cold shower.
 
 === 6e | 11b12 | 98 ===
 [POR08]
-Hiro, i...i...[BRK]
+Hiro, I...i...[BRK]
 
 [POR01]
 ....
@@ -1210,10 +1210,10 @@ help the children. I have
 to finish my mission.[BRK]
 
 Just promise you'll 
-hurry, hiro.[BRK]
+hurry, Hiro.[BRK]
 
-I must see the goddess
-althena before all is
+I must see the Goddess
+Althena before all is
 lost.
 [END]
 
@@ -1242,12 +1242,12 @@ children![BRK]
 
 I must leave here and
 continue my mission before
-i go insane![END]
+I go insane![END]
 
 === 71 | 11e08 | e1 ===
 Do you guys like to sing?[BRK]
 
-Music is all i live for![BRK]
+Music is all I live for![BRK]
 
 [POR08]
 It is wonderful, isn't it?[BRK]
@@ -1269,7 +1269,7 @@ together sometime.
 Music is my favoritest thing
 in the whole world.[BRK]
 
-If someone took it away, i'd
+If someone took it away, I'd
 just die.[BRK]
 
 ....
@@ -1278,13 +1278,13 @@ just die.[BRK]
 ...really! I would![END]
 
 === 73 | 11f8a | 89 ===
-I'm going to teach lucia
+I'm going to teach Lucia
 some new songs.[BRK]
 
 Whaddaya think? Maybe a
 country ditty to start?[BRK]
 
-...or should i just fast 
+...or should I just fast 
 forward to some metal?[END]
 
 === 74 | 12026 | 67 ===
@@ -1307,19 +1307,19 @@ within. It's so strange...
 ...and wonderful...[END]
 
 === 76 | 12152 | 5a ===
-Nall said the goddess
-althena enjoyed singing.[BRK]
+Nall said the Goddess
+Althena enjoyed singing.[BRK]
 
 If that's true. I'm gonna
 be just like her![END]
 
 === 77 | 121ba | 4b ===
 Please! You must help
-althena. If her songs are
+Althena. If her songs are
 lost, then so is our hope. [END]
 
 === 78 | 12220 | 36 ===
-I heard that althena's best
+I heard that Althena's best
 songs came from her heart.[END]
 
 === 79 | 12266 | 97 ===
@@ -1337,32 +1337,32 @@ music videos!
 === 7a | 12310 | d1 ===
 All right, you little blue
 devils! Make one more move
-and i cut you in two!!![BRK]
+and I cut you in two!!![BRK]
 
 [POR02]
 We're not members of the
-blue dragon cult. We came
+Blue Dragon Cult. We came
 to kick their butts.[BRK]
 
 [POR00]
-Oh! Thank the goddess! My
+Oh! Thank the Goddess! My
 prayers have been answered![END]
 
 === 7b | 123f8 | 8e ===
 I'm so scared. All of my
 friends have disappeared.[BRK]
 
-I know the cult kidnaps kids
+I know the Cult kidnaps kids
 and turns them into cold-
 blooded killers.[BRK]
 
 Ya gotta stop them![END]
 
 === 7c | 1249a | 78 ===
-I like lucia. She seems to
-be just as scared as i am.[BRK]
+I like Lucia. She seems to
+be just as scared as I am.[BRK]
 
-But i wonder what's wrong
+But I wonder what's wrong
 with her. She seems so...
 so...sad...
 
@@ -1373,34 +1373,34 @@ so...sad...
 Lucia has really been there
 for me the last couple days.[BRK]
 
-When i was scared and crying
-last night, lucia came in 
+When I was scared and crying
+last night, Lucia came in 
 and sang me to sleep.[BRK]
 
-I wish that i had a mother
+I wish that I had a mother
 that cared for me the way
 she does.[END]
 
 === 7e | 125f8 | 81 ===
 Lucia, promise me that
 you'll always be there
-when i get scared.[BRK]
+when I get scared.[BRK]
 
 [POR08]
-I wish i could, but i have
-a mission that i must 
+I wish I could, but I have
+a mission that I must 
 accomplish.[END]
 
 === 7f | 12690 | 143 ===
-What!? The goddess althena
+What!? The Goddess Althena
 was a fake? Ohhh noooo...
-now i'm scared.[BRK]
+now I'm scared.[BRK]
 
 What's going to happen to 
 our world if we can't
-even believe in the goddess?    [BRK]
+even believe in the Goddess?    [BRK]
 
-If the goddess is fake,
+If the Goddess is fake,
 then maybe you're fake, too.
 Maybe we're all fake![BRK]
 
@@ -1417,19 +1417,19 @@ No worries, kid. We're
 as real as it gets.[END]
 
 === 81 | 12828 | 3d ===
-I get so scared when i think
+I get so scared when I think
 about our world without
-althena.[END]
+Althena.[END]
 
 === 82 | 12874 | fd ===
-Why isn't lucia with you?[BRK]
+Why isn't Lucia with you?[BRK]
 
-She said that if i ever got
+She said that if I ever got
 scared, she would be there
 for me.[BRK]
 
 But she let me down. I knew
-i shouldn't have trusted
+I shouldn't have trusted
 her. She lied to me.[BRK]
 
 [POR01]
@@ -1443,29 +1443,29 @@ promise. She'll come back.[BRK]
 ....
 .....[BRK]
 
-Right, hiro?[END]
+Right, Hiro?[END]
 
 === 83 | 12984 | ee ===
-I'm sorry, i can't talk to
+I'm sorry, I can't talk to
 strangers. [BRK]
 
-If nall knew i was talking
+If Nall knew I was talking
 to you, he'd kill me![BRK]
 
 [POR05]
-I'm ronfar and these are my
+I'm Ronfar and these are my
 friends. I guess now we're
 not strangers anymore?[BRK]
 
 [POR00]
 Ha! Like that's gonna
 convince me! What do you
-think i am? Stupid?[END]
+think I am? Stupid?[END]
 
 === 84 | 12a8a | 50 ===
 Don't you know we don't 
 trust adults anymore? Get 
-out of here before i scream![END]
+out of here before I scream![END]
 
 === 85 | 12aee | 72 ===
 I can't believe these kids![BRK]
@@ -1474,12 +1474,12 @@ All they do is cry
 themselves to sleep.[BRK]
 
 I'm too big for that. I...
-i never cry...ever![END]
+I never cry...ever![END]
 
 === 86 | 12b74 | 96 ===
 Lucia is just like us. She 
 was abandoned and left all
-alone on the blue star.[BRK]
+alone on the Blue Star.[BRK]
 
 We've adopted her, and made
 her an honorary member of
@@ -1493,14 +1493,14 @@ Please, you must stay here
 and live with us forever...[BRK]
 
 [POR08]
-I wish i could, but i must
+I wish I could, but I must
 finish my mission.
 
 [END]
 
 === 88 | 12cc2 | 70 ===
-I can't believe the goddess
-althena was a fake...[BRK]
+I can't believe the Goddess
+Althena was a fake...[BRK]
 
 Just goes to show ya that
 you can't trust anyone these
@@ -1528,31 +1528,31 @@ bozos.
 [END]
 
 === 8a | 12db2 | 75 ===
-Where is lucia? Don't tell
+Where is Lucia? Don't tell
 me you left her all alone?[BRK]
 
 [POR01]
 ....
 .....[BRK]
 
-...i will find her, if it
-is the last thing i do![END]
+...I will find her, if it
+is the last thing I do![END]
 
 === 8b | 12e36 | 76 ===
 Hey, buttmunch! Move away 
-from the lady or i'll...
-i'll...kick your butt![BRK]
+from the lady or I'll...
+I'll...kick your butt![BRK]
 
 Women like a man who can
 stand up for them![END]
 
 === 8c | 12eca | 3e ===
 Hey! Just between you and
-me, i think the chick kinda
+me, I think the chick kinda
 digs me.[END]
 
 === 8d | 12f0c | 74 ===
-Stay away from lucia.  The
+Stay away from Lucia.  The
 babe can't keep her hands
 off of me![BRK]
 
@@ -1568,8 +1568,8 @@ hormone![END]
 Hey! I got the best luck in
 the world.[BRK]
 
-I was saved from the cult
-and i get a hot babe to 
+I was saved from the Cult
+and I get a hot babe to 
 watch over me. What a life![END]
 
 === 8f | 1301e | 4d ===
@@ -1583,7 +1583,7 @@ your man![BRK]
 
 === 90 | 13086 | 99 ===
 Hey, big boy, have you
-kissed lucia yet?[BRK]
+kissed Lucia yet?[BRK]
 
 Come on! You can tell me.
 Oh! You have! Your red face
@@ -1599,8 +1599,8 @@ Hey, want to know a secret?[BRK]
 Come closer. I don't want
 to broadcast it![BRK]
 
-Nall is really the white
-dragon! Isn't that the
+Nall is really the White
+Dragon! Isn't that the
 coolest thing you've heard?[BRK]
 
 [POR02]
@@ -1609,34 +1609,34 @@ have you been lately?[BRK]
 
 I'll tell you a secret...[BRK]
 
-...i'm a red dragon![BRK]
+...I'm a Red Dragon![BRK]
 
 [POR00]
 Oh really! Hehehe...sure...
-a red dragon...hehe...more
+a Red Dragon...hehe...more
 like a flying red cat![BRK]
 
 [POR02]
-...i'm not a cat!![END]
+...I'm not a cat!![END]
 
 === 92 | 132c2 | 7c ===
 It's so cool that our boss
-is the white dragon![BRK]
+is the White Dragon![BRK]
 
-I think i'm going to make a
-white dragon karate team or
+I think I'm going to make a
+White Dragon karate team or
 something like that.[END]
 
 === 93 | 13352 | ba ===
-Gee, i guess ruby is a
-real red dragon...that's
+Gee, I guess Ruby is a
+real Red Dragon...that's
 so cool![BRK]
 
-I'm sorry that i called you
+I'm sorry that I called you
 a cat.[BRK]
 
 Hey, tell me something. Are
-you and nall gonna get
+you and Nall gonna get
 hitched?[BRK]
 
 [POR02]
@@ -1648,13 +1648,13 @@ Oough! I think there's some
 kissy-faced dragons 'round
 here![BRK]
 
-Are you and nall married
+Are you and Nall married
 yet? Nee ner nee ner nee 
 ner![BRK]
 
 [POR02]
 No, you fool! Don't you
-understand that i hate 
+understand that I hate 
 that guy?![END]
 
 === 95 | 134ea | 99 ===
@@ -1663,13 +1663,13 @@ entered the compound!
 Evacuate immediately![BRK]
 
 ...what? You aren't members
-of the blue dragon cult. 
+of the Blue Dragon Cult. 
 Don't scare me like that!
 [END]
 
 === 96 | 1359a | 62 ===
 You guys are so different
-from the cult...[BRK]
+from the Cult...[BRK]
 
 I'll rest so much easier
 when they're stopped for
@@ -1677,25 +1677,25 @@ good![END]
 
 === 97 | 13610 | 53 ===
 I would rescue my friends,
-but, uh...nall says i can't
-...yeah, that's it, i can't.[END]
+but, uh...Nall says I can't
+...yeah, that's it, I can't.[END]
 
 === 98 | 13676 | 49 ===
 Now that you've rescued the
-kids, nall said we can play
+kids, Nall said we can play
 anywhere we want![END]
 
 === 99 | 136d2 | 55 ===
 Lucia, what's the matter?
 You seem kinda bummed.
-Didja fight with hiro?[BRK]
+Didja fight with Hiro?[BRK]
 
 [POR08]
 ....
 .....[END]
 
 === 9a | 1373e | 79 ===
-Nall told me that althena
+Nall told me that Althena
 was a fake![BRK]
 
 But he said he is powerless
@@ -1705,26 +1705,26 @@ What's going to happen to
 us?[END]
 
 === 9b | 137d2 | 43 ===
-Since nall lost his power,
+Since Nall lost his power,
 it's up to you to stop the
-fake althena![END]
+fake Althena![END]
 
 === 9c | 13822 | 5a ===
 [POR02]
 Don't worry. That's part
 of our master plan.[BRK]
 
-Right, lucia?[BRK]
+Right, Lucia?[BRK]
 
 [POR08]
-...that's right, ruby!
+...that's right, Ruby!
 
 
 [END]
 
 === 9d | 1388c | 6e ===
-It seems like all nall talks
-about anymore is ruby. I 
+It seems like all Nall talks
+about anymore is Ruby. I 
 think he really likes you.[BRK]
 
 [POR02]
@@ -1732,19 +1732,19 @@ Really?  Nall...likes me?[END]
 
 === 9e | 13908 | 99 ===
 [POR05]
-I'll make a bet that ruby
-and nall lock lips before
+I'll make a bet that Ruby
+and Nall lock lips before
 all this is over![BRK]
 
 [POR02]
-Zip your hole, ronfar![BRK]
+Zip your hole, Ronfar![BRK]
 
 I'll fry the hair off
 your butt if you say
 that again![END]
 
 === 9f | 139b4 | 57 ===
-The blue dragon team has
+The Blue Dragon team has
 infiltrated our hideout!
 Nall, help us![BRK]
 
@@ -1755,24 +1755,24 @@ Ahhhhhh! Get away!
 [END]
 
 === a0 | 13a22 | 40 ===
-Ohhh, i'm so scared that
-i'll be the next one taken
-by the cult.[END]
+Ohhh, I'm so scared that
+I'll be the next one taken
+by the Cult.[END]
 
 === a1 | 13a7a | 86 ===
-Actually, nall is the best
+Actually, Nall is the best
 thing that's ever happened
 to us.[BRK]
 
 He's become like a hero to
 me. I want to be just like
-him when i grow up![END]
+him when I grow up![END]
 
 === a2 | 13b1c | 5e ===
-Please! You must help nall![BRK]
+Please! You must help Nall![BRK]
 
 If anything ever happens to
-him i just couldn't live
+him I just couldn't live
 with myself!![END]
 
 === a3 | 13b8e | 5d ===
@@ -1784,7 +1784,7 @@ Thank you for helping us![END]
 
 === a4 | 13bfe | 63 ===
 I just love playing with
-everyone again. But nall
+everyone again. But Nall
 seems so sad.[BRK]
 
 Do you know what's wrong
@@ -1800,24 +1800,24 @@ the games he used to love![END]
 
 === a6 | 13cf2 | 5d ===
 Nall seems so happy now that
-ruby has come back.[BRK]
+Ruby has come back.[BRK]
 
 Say, is something going 
 on between you two?[END]
 
 === a7 | 13d62 | 3b ===
-I wish i was strong enough
+I wish I was strong enough
 to protect everybody in 
 here...[END]
 
 === a8 | 13db4 | 25 ===
-Why does the cult only
+Why does the Cult only
 want children?[END]
 
 === a9 | 13df0 | 7c ===
 Please! You gotta take me
 with you.  I'm strong! I
-can help stop the cult![BRK]
+can help stop the Cult![BRK]
 
 [POR10]
 It's just too risky. You'd
@@ -1829,12 +1829,12 @@ without my friends?! You
 promised to free them.[BRK]
 
 [POR10]
-And i intend to keep that
+And I intend to keep that
 promise![END]
 
 === ab | 13f0c | 42 ===
 Jean is the only grown-
-up besides nall that has
+up besides Nall that has
 never lied to me.[END]
 
 === ac | 13f5c | 4f ===
@@ -1845,25 +1845,25 @@ knowingly do that to others.[END]
 
 === ad | 13fc6 | 48 ===
 I'm strong enough to fight 
-the cult. Take me with you!
+the Cult. Take me with you!
 I'll crush them![END]
 
 === ae | 14036 | 77 ===
 What? You're gonna save
-the goddess?[BRK]
+the Goddess?[BRK]
 
 You gotta take me with you.
 Look at these muscles. I 
-could easily crush the cult![END]
+could easily crush the Cult![END]
 
 === af | 140bc | 97 ===
-Ha! The blue dragon cult
+Ha! The Blue Dragon Cult
 disappeared once they found
-out how strong i was.[BRK]
+out how strong I was.[BRK]
 
 Nall says he doesn't need my
 help anymore since he's a 
-great white dragon. [END]
+great White Dragon. [END]
 
 === b0 | 14160 | 7b ===
 [POR10]
@@ -1878,16 +1878,16 @@ have to fight at all.[END]
 Spies![BRK]
 
 You can't fool me! I know
-members of the cult when I
+members of the Cult when I
 see them.[BRK]
 
 [POR10]
-We're not the cult. We've
+We're not the Cult. We've
 come to stop them![END]
 
 === b2 | 1426c | 91 ===
-Why does the blue dragon
-cult kidnap innocent 
+Why does the Blue Dragon
+Cult kidnap innocent 
 children?[BRK]
 
 [POR10]
@@ -1914,39 +1914,39 @@ old times since all my
 friends have returned.[END]
 
 === b5 | 14432 | 7a ===
-I've heard that penta-
+I've heard that Penta-
 gulia is a horrible place.[BRK]
 
 But how can that be? Isn't
-the goddess althena supposed
+the Goddess Althena supposed
 to reside there?[END]
 
 === b6 | 144c0 | d5 ===
 I just can't believe that
-nall is the legendary white
-dragon...[BRK]
+Nall is the legendary White
+Dragon...[BRK]
 
 It's just beyond belief! In
-fact, he says ruby is the
-red dragon![BRK]
+fact, he says Ruby is the
+Red Dragon![BRK]
 
 Can you believe that?[BRK]
 
 [POR02]
 Uh...hello? That's what
-i've been trying to tell
+I've been trying to tell
 everyone.[END]
 
 === b7 | 145a4 | c3 ===
-Let's see, we have nall the 
-white dragon and ruby the
-red dragon...[BRK]
+Let's see, we have Nall the 
+White Dragon and Ruby the
+Red Dragon...[BRK]
 
 Maybe you two should get 
 together and make some baby
 pink dragons.[BRK]
 
-Then i could have one as
+Then I could have one as
 a pet.[BRK]
 
 [POR02]
@@ -1958,7 +1958,7 @@ Taben's peak kid room[END]
 === b9 | 15478 | 374 ===
 [POR11]
 Dragon kids, maintain your
-perimeter around the cult
+perimeter around the Cult
 members![BRK]
 
 You killers makes me sick! I 
@@ -1970,14 +1970,14 @@ destroy you![BRK]
 
 [POR10]
 We're not members of the
-blue dragon cult![BRK]
+Blue Dragon Cult![BRK]
 
 Nall! Our mission is the
 same. We've come here to
 find out who's behind this.[BRK]
 
 I was once a member of the 
-cult, and i know there is no
+cult, and I know there is no
 way you can defeat them...[BRK]
 
 Especially if you're going
@@ -1989,22 +1989,22 @@ You don't know what you're
 talking about.[BRK]
 
 I can crush this cult at
-will...if i can find them![BRK]
+will...if I can find them![BRK]
 
 I've decided to give you a
 chance to prove yourselves.[BRK]
 
 Return the kidnapped
-children to me, and i'll
+children to me, and I'll
 spare your lives.[BRK]
 
 But to make sure you don't
-pull a double-cross, i need
+pull a double-cross, I need
 a hostage...[BRK]
 
 Let me think...[BRK]
 
-You...lucia! You will stay
+You...Lucia! You will stay
 here.[BRK]
 
 [POR08]
@@ -2018,7 +2018,7 @@ Guards...forward!
 [END]
 
 === ba | 157f6 | 155 ===
-Yes, nall! First admiral
+Yes, Nall! First admiral
 fludgy at your will![BRK]
 
 [POR11]
@@ -2057,7 +2057,7 @@ play room.
 Hiro, you must find the
 kidnapped children![BRK]
 
-Every second i waste here
+Every second I waste here
 brings your world closer to
 destruction.[BRK]
 
@@ -2081,12 +2081,12 @@ to play this game.[END]
 [POR11]
 Now...down to business.[BRK]
 
-In order to find the blue
-dragon cult you must go
-to meribia.[BRK]
+In order to find the Blue
+Dragon Cult you must go
+to Meribia.[BRK]
 
 We think their hideout is
-somewhere in the meribian
+somewhere in the Meribian
 sewers.[BRK]
 
 You might want to start your
@@ -2103,21 +2103,21 @@ Silence![BRK]
 [POR02]
 Who is this brat?! He's
 got to be the rudest person
-i've ever met!![BRK]
+I've ever met!![BRK]
 
 [POR11]
-Enough talk! Go to meribia
-and locate the blue dragon
-cult, understand?
+Enough talk! Go to Meribia
+and locate the Blue Dragon
+Cult, understand?
 [END]
 
 === bd | 15c4a | 132 ===
 [POR11]
-Okay, i'll say it slower
-this time, and i hope that
+Okay, I'll say it slower
+this time, and I hope that
 you pay attention![BRK]
 
-Go...to...meribia. Find...
+Go...to...Meribia. Find...
 ...the...underground...
 sewers.[BRK]
 
@@ -2125,11 +2125,11 @@ Get...back...the...
 kidnapped...children.[BRK]
 
 If...i...was...you...i...
-would...look...in...ramus'
+would...look...in...Ramus'
 ...store...and...i...[BRK]
 
 Would...also...search...
-lunn's...gym. Now beat it!
+Lunn's...gym. Now beat it!
 
 
 
@@ -2155,22 +2155,22 @@ Brat![END]
 [POR08]
 Nall, you must help us break
 the barrier surrounding
-pentagulia.[BRK]
+Pentagulia.[BRK]
 
 We're wasting too much time,
-and zophar's power grows
+and Zophar's power grows
 stronger by the minute.[BRK]
 
 You have an obligation to
 help me, just as you helped
-althena, don't you?[BRK]
+Althena, don't you?[BRK]
 
-Nall, i know your true
-identity is the white
-dragon.[BRK]
+Nall, I know your true
+identity is the White
+Dragon.[BRK]
 
 You must assist us...for
-althena, if no one else.[BRK]
+Althena, if no one else.[BRK]
 
 [POR01]
 ....
@@ -2186,26 +2186,26 @@ secret? Who told you?[BRK]
 [POR08]
 In times past,[BRK]
 
-althena has always relied
-on the power of the four
-dragons for protection.[BRK]
+Althena has always relied
+on the power of the Four
+Dragons for protection.[BRK]
 
 The time has come for the
 dragons to help her once
 again.[BRK]
 
 We must use the power of the
-four dragons to break the 
-barrier at pentagulia.[BRK]
+Four Dragons to break the 
+barrier at Pentagulia.[BRK]
 
 That should free her from
 confinement, and give us
-access to the goddess tower.[BRK]
+access to the Goddess Tower.[BRK]
 
-Will you help us, nall?[BRK]
+Will you help us, Nall?[BRK]
 
 [POR11]
-I wish i could, but the
+I wish I could, but the
 power of the dragons has
 been sealed and locked away.[BRK]
 
@@ -2214,9 +2214,9 @@ Nall, how could you, as a
 powerful dragon, lose all
 your power?[BRK]
 
-I don't believe even zophar
-himself could seal the four
-dragons.[BRK]
+I don't believe even Zophar
+himself could seal the Four
+Dragons.[BRK]
 
 [POR11]
 ....
@@ -2226,7 +2226,7 @@ Zophar enlisted the aid of
 a powerful ally to
 accomplish that.[BRK]
 
-His name is...ghaleon!
+His name is...Ghaleon!
 
 
 [END]
@@ -2237,10 +2237,10 @@ His name is...ghaleon!
 
 [POR14]
 Hm, hm, hm...it's been a
-long time, hasn't it, nall?[BRK]
+long time, hasn't it, Nall?[BRK]
 
 I see you no longer have
-the boy or the goddess
+the boy or the Goddess
 to protect you.[BRK]
 
 I can't tell you how happy
@@ -2255,17 +2255,17 @@ Ghaleon...how can this be?[BRK]
 
 [POR14]
 I won't trouble you with the
-details. Suffice to say i've
+details. Suffice to say I've
 all the right connections.[BRK]
 
 Now, dear boy, to the crux
 of the matter. You have
-something i require.[BRK]
+something I require.[BRK]
 
-Surrender your dragon aura
+Surrender your Dragon Aura
 to me.[BRK]
 
-Oh, and i sincerely hope you
+Oh, and I sincerely hope you
 won't entertain any heroic
 thoughts at this moment.[BRK]
 
@@ -2274,9 +2274,9 @@ They can be so.....messy.[BRK]
 ....
 ...hm hm hm hm...[BRK]
 
-But i killed your father.[BRK]
+But I killed your father.[BRK]
 
-And i have no qualms about
+And I have no qualms about
 shooting for a matched
 set...[BRK]
 
@@ -2287,7 +2287,7 @@ I'll never surrender my
 power to you, pig![BRK]
 
 [POR14]
-Hohoommnn....i expected no
+Hohoommnn....I expected no
 less of you, foolish boy.
 
 
@@ -2305,14 +2305,14 @@ Aaaaaaahhhhhhh![END]
 
 === c2 | 1658a | 27c ===
 [POR11]
-...i barely escaped with my
+...I barely escaped with my
 life...[BRK]
 
 Ghaleon's power has grown
 exponentially![BRK]
 
 [POR02]
-Some white dragon you are!
+Some White Dragon you are!
 You lost your power to 
 a human. I'd be ashamed.[BRK]
 
@@ -2326,7 +2326,7 @@ What are you talking about?
 My power?[BRK]
 
 [POR11]
-Your dragon aura, stupid!
+Your Dragon Aura, stupid!
 Ghaleon stole yours before
 you even claimed it![BRK]
 
@@ -2338,17 +2338,17 @@ help us![BRK]
 [POR11]
 Bingo.[BRK]
 
-I suppose i have to stop
+I suppose I have to stop
 underestimating your
 intelligence...[BRK]
 
 But enough of that...[BRK]
 
 I don't have the power to
-counter ghaleon and return
+counter Ghaleon and return
 the dragonpower...[BRK]
 
-...but you do, lucia. With
+...but you do, Lucia. With
 your help, we might be able
 to do it.[END]
 
@@ -2356,30 +2356,30 @@ to do it.[END]
 [POR11]
 Listen, there is really only
 one shot at saving the
-goddess.[BRK]
+Goddess.[BRK]
 
 First, you must find the
-four dragon auras.[BRK]
+four Dragon Auras.[BRK]
 
 They will not be easy to
 recover, for each is guarded
-by one of althena's heroes.[BRK]
+by one of Althena's heroes.[BRK]
 
 Lucia will not be able to
 accomplish the task by
 herself.[BRK]
 
 She must have help. What are
-you going to do, hiro?[END]
+you going to do, Hiro?[END]
 
 === c4 | 16950 | 38 ===
-[0x5]I think i'll take a break.
+[0x5]I think I'll take a break.
 Adventure is my middle name.[END]
 
 === c5 | 16998 | e4 ===
 [POR01]
-Lucia, i'd really like to
-help you, but i'm kinda
+Lucia, I'd really like to
+help you, but I'm kinda
 lookin' for a break...[BRK]
 
 [POR08]
@@ -2387,12 +2387,12 @@ Hiro...[BRK]
 
 [POR11]
 I knew you lacked the heart
-of a true dragonmaster,
+of a true Dragonmaster,
 coward.[BRK]
 
-Buddy, i knew alex, alex
+Buddy, I knew Alex, Alex
 was a friend of mine, and 
-you, sir, are no alex!
+you, sir, are no Alex!
 
 
 
@@ -2400,7 +2400,7 @@ you, sir, are no alex!
 
 === c6 | 16a92 | 1fd ===
 [POR01]
-I will stand by lucia's side
+I will stand by Lucia's side
 and help her until her
 mission is complete.[BRK]
 
@@ -2409,9 +2409,9 @@ I will not back away from
 it, despite the odds![BRK]
 
 [POR08]
-Oh, thank you, hiro![BRK]
+Oh, thank you, Hiro![BRK]
 
-Know that i appreciate your
+Know that I appreciate your
 actions more than words can
 express.[BRK]
 
@@ -2430,19 +2430,19 @@ best there is![BRK]
 .....[BRK]
 
 [POR02]
-Come on, hiro, tell lucia
+Come on, Hiro, tell Lucia
 you're more interested in me
 than her!![BRK]
 
 [POR11]
-Man, ruby, can't you see
+Man, Ruby, can't you see
 what's really going on
 here?[END]
 
 === c7 | 16caa | 66 ===
 [POR11]
 Lucia can't recover the
-dragon auras alone. She
+Dragon Auras alone. She
 needs your help.[BRK]
 
 Will you lend her your
@@ -2454,12 +2454,12 @@ Great! Now listen up! You
 must first defeat the person
 who holds my aura...[BRK]
 
-...white knight leo![BRK]
+...White Knight Leo![BRK]
 
 [POR02]
-...what?...leo?[BRK]
+...what?...Leo?[BRK]
 
-But....i thought he was
+But....I thought he was
 on our side...
 
 
@@ -2468,7 +2468,7 @@ on our side...
 === c9 | 16de8 | c9 ===
 [POR11]
 Don't underestimate the
-strength of leo. He is a
+strength of Leo. He is a
 skilled swordsman.[BRK]
 
 And far too powerful for me
@@ -2482,8 +2482,8 @@ have much time![END]
 === ca | 16ed2 | 44 ===
 [POR11]
 Now, the next aura lies 
-to the south of the white
-dragon cavern.[END]
+to the south of the White
+Dragon Cavern.[END]
 
 === cb | 16f1a | 18e ===
 [POR11]
@@ -2500,7 +2500,7 @@ dragons?[BRK]
 
 [POR11]
 You just don't understand
-yet, do you ruby?[BRK]
+yet, do you Ruby?[BRK]
 
 Dragonpower cannot be used
 against dragons.[BRK]
@@ -2518,14 +2518,14 @@ disastrous![END]
 === cc | 170c4 | 1a3 ===
 [POR11]
 Hiro, take good care of
-our little red dragon.[BRK]
+our little Red Dragon.[BRK]
 
 She just might be the trump
 card we need to win this
 war.[BRK]
 
 [POR02]
-But how can i help in this
+But how can I help in this
 battle? I'm not even full-
 grown yet![BRK]
 
@@ -2534,7 +2534,7 @@ That's right...you are a bit
 slow...[BRK]
 
 Too bad you're not as quick
-as i was in picking all
+as I was in picking all
 this up.[BRK]
 
 [POR02]
@@ -2552,17 +2552,17 @@ that, huh?[BRK]
 === cd | 1727e | ef ===
 [POR11]
 Great! You've recovered the
-black dragon's aura![BRK]
+Black Dragon's aura![BRK]
 
-Now, ruby, it's time for you
+Now, Ruby, it's time for you
 to release your aura.[BRK]
 
 [POR02]
-I know, nall...but i don't
-think i'm ready for the
+I know, Nall...but I don't
+think I'm ready for the
 responsibility.[BRK]
 
-I know if i don't do this,
+I know if I don't do this,
 all is lost,[BRK]
 
 but...
@@ -2578,15 +2578,15 @@ Ruby...?
 [POR11]
 Ruby, accepting your 
 birthright is the only
-way to stop zophar.[BRK]
+way to stop Zophar.[BRK]
 
 If you don't become an adult
-red dragon, then zophar has
+Red Dragon, then Zophar has
 already won![BRK]
 
 [POR02]
-I don't know nall...
-i...i'm just scared!
+I don't know Nall...
+i...I'm just scared!
 [END]
 
 === cf | 17452 | e9 ===
@@ -2598,7 +2598,7 @@ factor in our struggle![BRK]
 What's it gonna be?[BRK]
 
 [POR02]
-You're right, nall. I'm
+You're right, Nall. I'm
 ready.[BRK]
 
 [POR11]
@@ -2612,15 +2612,15 @@ You must release your aura!
 === d0 | 1754e | 95 ===
 [POR11]
 What!?
-Damn that ghaleon![BRK]
+Damn that Ghaleon![BRK]
 
-Lucia, you must rescue hiro!
+Lucia, you must rescue Hiro!
 Only by joining forces can
-zophar be defeated![BRK]
+Zophar be defeated![BRK]
 
 [POR02]
-You heard him, lucia! Let's
-rescue hiro!
+You heard him, Lucia! Let's
+rescue Hiro!
 [END]
 
 === d1 | 175f6 | 1c3 ===
@@ -2628,25 +2628,25 @@ rescue hiro!
 Hey, guys, great to see ya!
 How's everything going?[BRK]
 
-Say what's wrong with hiro?
+Say what's wrong with Hiro?
 He seems kinda bummed...[BRK]
 
 [POR02]
-Hiro's down because lucia
-went back to the blue star![BRK]
+Hiro's down because Lucia
+went back to the Blue Star![BRK]
 
 [POR11]
 So what are you gonna do
-about it, hiro?[BRK]
+about it, Hiro?[BRK]
 
 Hmmm...[BRK]
 
 That's a gutsy move. Gonna
-attempt to go to the blue
-star, eh?[BRK]
+attempt to go to the Blue
+Star, eh?[BRK]
 
-Since i'm such a great guy,
-tell ya what i'm gonna do.[BRK]
+Since I'm such a great guy,
+tell ya what I'm gonna do.[BRK]
 
 I'll give you this sword
 to aid you in your quest.[BRK]
@@ -2655,24 +2655,24 @@ Use it well.[BRK]
 
 [POR00]
 [0xB][0]Lhiro received the legendary
-sword of althena!
+sword of Althena!
 [END]
 
 === d2 | 177c2 | 102 ===
 [POR11]
 Hiro, you're the only one
-i trust with this sword.[BRK]
+I trust with this sword.[BRK]
 
 It belonged to the last
-true dragonmaster, and
-my best friend, alex.[BRK]
+true Dragonmaster, and
+my best friend, Alex.[BRK]
 
 [POR01]
 ....
 .....[BRK]
 
 I don't know what to
-say, nall.[BRK]
+say, Nall.[BRK]
 
 [POR11]
 Just promise me you'll
@@ -2680,21 +2680,21 @@ use it as he would have.[BRK]
 
 [POR01]
 You have my word. Thank
-you, nall.
+you, Nall.
 [END]
 
 === d3 | 178f4 | d8 ===
 [POR11]
-In order to get to the blue
-star, you're going to have
-to outsmart the star dragon![BRK]
+In order to get to the Blue
+Star, you're going to have
+to outsmart the Star Dragon![BRK]
 
 He guards the way to the
 crystal that connects
-lunar to the blue star.[BRK]
+Lunar to the Blue Star.[BRK]
 
 I sincerely hope you're
-strong enough, hiro.[BRK]
+strong enough, Hiro.[BRK]
 
 Good luck!
 
@@ -2713,9 +2713,9 @@ Oh yeah...since you came
 back, there's just one
 more thing...[BRK]
 
-You'll need two dragon eye
-jewels to get into the star
-tower.[BRK]
+You'll need two Dragon Eye
+Jewels to get into the Star
+Tower.[BRK]
 
 You can probably find one in
 the ice tower near my cave, 
@@ -2725,7 +2725,7 @@ I'll make the tower visible
 to you.[BRK]
 
 Hey, and while you're gone,
-why not leave ruby here?[BRK]
+why not leave Ruby here?[BRK]
 
 I'll take good care of her
 for you. We had a blast last
@@ -2733,14 +2733,14 @@ time...[BRK]
 
 [POR02]
 Sheah, right! Remember, bud,
-i have pepper spray![END]
+I have pepper spray![END]
 
 === d5 | 17bd0 | 109 ===
 [POR11]
 You're still a brat, aren't
-you, ruby?[BRK]
+you, Ruby?[BRK]
 
-But i kinda like the fiery
+But I kinda like the fiery
 type.[BRK]
 
 [POR01]
@@ -2752,10 +2752,10 @@ Ya think? Hehe...[BRK]
 
 [POR02]
 Hey! This is our problem,
-hiro. So stay out of it![BRK]
+Hiro. So stay out of it![BRK]
 
 [POR01]
-Oh, um...sorry, ruby.[BRK]
+Oh, um...sorry, Ruby.[BRK]
 
 ....
 .....[BRK]
@@ -2773,8 +2773,8 @@ Taben's peak!
 
 === d7 | 17d2e | 48 ===
 [POR11]
-See i told you those white
-dragon wings would come in
+See I told you those White
+Dragon wings would come in
 handy![BRK]
 
 [POR02]
@@ -2794,15 +2794,15 @@ Fake chicks gross me out!
 Hey, you two can count me
 in on this adventure![BRK]
 
-I can't let althena's cult
+I can't let Althena's Cult
 continue to brainwash those
 poor people![BRK]
 
-Besides, i just might be
-able to rescue mauri.[BRK]
+Besides, I just might be
+able to rescue Mauri.[BRK]
 
 I know a good bet when I
-see one, and i'm gonna bet
+see one, and I'm gonna bet
 we kick their butts.[END]
 
 === da | 17f1e | 100 ===
@@ -2811,7 +2811,7 @@ we kick their butts.[END]
 Hey, we're the lookout team.[BRK]
 
 Watch your backs. We just 
-heard that the destiny is
+heard that the Destiny is
 coming this way.[BRK]
 
 Be careful![BRK]
@@ -2819,10 +2819,10 @@ Be careful![BRK]
 [POR11]
 Great work, men! Hiro, it's
 up to you to recover the
-dragon aura from leo.[BRK]
+Dragon Aura from Leo.[BRK]
 
 I'll wait for you in the
-white dragon cave.
+White Dragon Cave.
 
 
 
@@ -2831,30 +2831,30 @@ white dragon cave.
 === db | 18022 | c9 ===
 [POR02]
 I don't think we need to
-fight leo since he helped
-us in pentagulia.[BRK]
+fight Leo since he helped
+us in Pentagulia.[BRK]
 
 He should be willing to 
-give us the white dragon
-aura.[BRK]
+give us the White Dragon
+Aura.[BRK]
 
 He's already our friend.
 This oughtta be a piece
-of cake. Let's go, hiro![END]
+of cake. Let's go, Hiro![END]
 
 === dc | 18102 | 76 ===
 [POR10]
 I thought my journey would
-end at pentagulia.[BRK]
+end at Pentagulia.[BRK]
 
-But now i'm beginning to
+But now I'm beginning to
 get the feeling it's going
 to go on forever![END]
 
 === dd | 1818c | 7e ===
 [POR10]
 Lucia's going to take on
-althena's cult, isn't she?[BRK]
+Althena's Cult, isn't she?[BRK]
 
 Count me in! I want to even
 the score for what those 
@@ -2864,7 +2864,7 @@ creeps did to me.[END]
 [POR07]
 This story just seems to
 be getting bigger, doesn't
-it hiro?[END]
+it Hiro?[END]
 
 === df | 18292 | e0 ===
 [POR07]
@@ -2872,9 +2872,9 @@ Count me in on this battle![BRK]
 
 I've got a mega-grudge to
 settle with that fat turd
-borgan,[BRK]
+Borgan,[BRK]
 
-and i have a feeling this
+and I have a feeling this
 battle will allow me to do
 just that![BRK]
 
@@ -2883,7 +2883,7 @@ would never pass up an
 opportunity like this![END]
 
 === e0 | 1839a | 15 ===
-Taben's peak nall rm.[END]
+Taben's peak Nall rm.[END]
 
 === e1 | 18c0c | 13c ===
 [POR07]
@@ -2913,7 +2913,7 @@ orders...
 
 === e2 | 18d7a | 1ad ===
 [POR11]
-Ouch! Bite me again and i'll
+Ouch! Bite me again and I'll
 have you for dinner![BRK]
 
 [POR02]
@@ -2930,14 +2930,14 @@ Listen here! You are
 trespassers on my property,
 not the other way around.[BRK]
 
-If i were in your shoes, i'd
+If I were in your shoes, I'd
 tread lightly![BRK]
 
 Anyway, you seem harmless
-enough, and i don't have 
+enough, and I don't have 
 time to fool with you.[BRK]
 
-So i'd recommend that you
+So I'd recommend that you
 turn right around and leave
 while you can![BRK]
 
@@ -2949,10 +2949,10 @@ That boy is nothing but a
 rude pain in the butt![BRK]
 
 I wonder if he's a member of
-the blue dragon cult![BRK]
+the Blue Dragon Cult![BRK]
 
 [POR10]
-Hmm...i don't think so...i
+Hmm...I don't think so...i
 don't remember ever seeing
 him...[BRK]
 
@@ -2979,7 +2979,7 @@ there! That looks like some
 sort of elevator![BRK]
 
 Maybe it can take us over
-taben's peak to vane! We're
+Taben's Peak to Vane! We're
 so close![BRK]
 
 I'm sure we can make it![BRK]
@@ -3006,7 +3006,7 @@ I'll bet those bandits did
 this![BRK]
 
 Pooh! This was the path to
-vane, too! Maybe we can find
+Vane, too! Maybe we can find
 some other way...[END]
 
 === e5 | 192ce | 9b ===
@@ -3033,7 +3033,7 @@ Here we go...[END]
 === e8 | 19432 | 6b ===
 Yeah! You should be sorry![BRK]
 
-What? You think i have time
+What? You think I have time
 to sit around talking to you
 all day? Geez! Go away![END]
 
@@ -3042,14 +3042,14 @@ Taben's peak base[END]
 
 === ea | 1ac66 | 1f5 ===
 [POR07]
-We're almost to vane! Aren't
+We're almost to Vane! Aren't
 you excited? [BRK]
 
-Now, i want to warn you that
+Now, I want to warn you that
 the city might look a little
 run-down at first glance,[BRK]
 
-but once we get the guild
+but once we get the Guild
 back up and running,[BRK]
 
 the town will be ship-shape
@@ -3066,7 +3066,7 @@ draining us for?[BRK]
 .....[BRK]
 
 [POR07]
-Oh pooh, ruby! You always
+Oh pooh, Ruby! You always
 take something good and see
 the bad in it![BRK]
 

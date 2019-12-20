@@ -4,7 +4,7 @@ Messages: 14
 
 === 0 | 1ab7e | 5e ===
 [POR11]
-...i can't believe you
+...I can't believe you
 finally made it...[BRK]
 
 I was beginning to think
@@ -12,7 +12,7 @@ you were a lost cause...[END]
 
 === 1 | 1abe0 | 13b ===
 [POR02]
-What??...nall!?![BRK]
+What??...Nall!?![BRK]
 
 How did you do that!?[BRK]
 
@@ -24,8 +24,8 @@ Now that you're finally
 here, my dragonpower can
 be released at last.[BRK]
 
-You must throw the dragon
-aura directly at the
+You must throw the Dragon
+Aura directly at the
 crystal.[BRK]
 
 Once the aura touches the
@@ -38,52 +38,52 @@ be released!!
 [END]
 
 === 2 | 1ad32 | 2e ===
-[0xB][0][0x4]Threw the white dragon
-aura at the crystal![END]
+[0xB][0][0x4]Threw the White Dragon
+Aura at the crystal![END]
 
 === 3 | 1ad70 | 20d ===
 [POR08]
 Nall, you make quite a
-handsome white dragon.[BRK]
+handsome White Dragon.[BRK]
 
 Say, can the other seals be
 broken in this same manner?[BRK]
 
 [POR24]
 Yes, but you must have the
-correct dragon aura for
+correct Dragon Aura for
 each seal.[BRK]
 
 Ghaleon made certain that
-the dragon aura was the only
+the Dragon Aura was the only
 way to unlock them.[BRK]
 
-You should unlock the blue
-dragon's power next.[BRK]
+You should unlock the Blue
+Dragon's power next.[BRK]
 
 Lunn is guarding its aura
 at the training city of
-horam to the south.[BRK]
+Horam to the south.[BRK]
 
 The way is treacherous, but
-i will melt some of the ice-
+I will melt some of the ice-
 bergs blocking your path.[BRK]
 
-Oh, and here...i'll leave
+Oh, and here...I'll leave
 you something to help you
 on your way...[BRK]
 
 Good luck...[END]
 
 === 4 | 1af83 | 20 ===
-Received the white dragon
-crest.[END]
+Received the White Dragon
+Crest.[END]
 
 === 5 | 1afac | db ===
 [POR02]
 Lucia, you're right. Nall
 is really quite a handsome
-white dragon.[BRK]
+White Dragon.[BRK]
 
 Too bad he's such a pain
 in the butt...[BRK]
@@ -94,7 +94,7 @@ in the butt...[BRK]
 Hmmmm...maybe there is hope
 for him...[BRK]
 
-But i can't leave hiro....
+But I can't leave Hiro....
 what would he do without
 me...??[END]
 
@@ -103,11 +103,11 @@ White dragon lair[END]
 
 === 7 | 1b864 | 1a8 ===
 [POR11]
-Ha! You got the white dragon
-aura from leo at last![BRK]
+Ha! You got the White Dragon
+Aura from Leo at last![BRK]
 
 [POR02]
-Hey, nall! Where in the heck
+Hey, Nall! Where in the heck
 are you?[BRK]
 
 [POR11]
@@ -131,7 +131,7 @@ be waiting...[BRK]
 ....
 .....[BRK]
 
-And i don't like waiting.
+And I don't like waiting.
 [END]
 
 === 8 | 1ba16 | 11 ===
@@ -150,5 +150,5 @@ White dragon ne room[END]
 White dragon se room[END]
 
 === d | 29f00 | f ===
-White dragon b1[END]
+White dragon B1[END]
 

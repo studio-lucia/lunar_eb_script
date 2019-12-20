@@ -4,21 +4,21 @@ Messages: 42
 
 === 0 | 199f2 | c6 ===
 Are you lost, folks? This is
-the entrance to illusion
-woods.[BRK]
+the entrance to Illusion
+Woods.[BRK]
 
 People have been known to
 go in there and never be
 seen again![BRK]
 
 Unless you're desperate to
-get to the madoria plains,
-i would turn back...[END]
+get to the Madoria Plains,
+I would turn back...[END]
 
 === 1 | 19abc | 88 ===
 Say, folks, you'd be crazy to
-try to cross the illusion
-woods![BRK]
+try to cross the Illusion
+Woods![BRK]
 
 Only the most skilled can
 find their way through the
@@ -31,7 +31,7 @@ What are you doing here?
 Feeling guilty?[BRK]
 
 [POR05]
-No, buddy, i'll only feel
+No, buddy, I'll only feel
 guilty if you're dumb enough
 to gamble against me again.[BRK]
 
@@ -41,9 +41,9 @@ listen? Noooo...[END]
 
 === 3 | 19c48 | 4c ===
 [POR05]
-C'mon, hiro! We don't have 
+C'mon, Hiro! We don't have 
 time to spare. Let's get
-going toward dalton![END]
+going toward Dalton![END]
 
 === 4 | 19cac | 2a5 ===
 Ronfar, you lying dog! I
@@ -51,11 +51,11 @@ want a chance to win back
 my money![BRK]
 
 [POR05]
-C'mon...i don't have
+C'mon...I don't have
 time for this![BRK]
 
 I know you know the way
-through the illusion woods.
+through the Illusion Woods.
 Tell me how to get through![BRK]
 
 [POR00]
@@ -71,7 +71,7 @@ Geez, this guy's not too
 bright, is he?[BRK]
 
 Hasn't he figured out
-ronfar's dice are loaded?[BRK]
+Ronfar's dice are loaded?[BRK]
 
 [POR05]
 Okay, but remember, you
@@ -91,14 +91,14 @@ have all day! What is it,
 odd or even?[BRK]
 
 [POR00]
-Uh...uh...uh...okay...i'll
-...i'll bet odd![END]
+Uh...uh...uh...okay...I'll
+...I'll bet odd![END]
 
 === 5 | 19f5a | ba ===
 [POR05]
 [0x4] [0x3] [0x4] [0x3] 
 Ha! Even! Sorry buddy,
-it looks like i won.[BRK]
+it looks like I won.[BRK]
 
 [POR00]
 Ouuuggg! I know you cheated
@@ -118,15 +118,15 @@ Ha ha ha! Pretty impressive,
 huh?[BRK]
 
 Without my special spell, 
-the path i've cut through
+the path I've cut through
 the woods is invisible![BRK]
 
 These tunnels will lead you
-through illusion woods with
+through Illusion Woods with
 a minimum of fuss.[BRK]
 
 ...and when you have time,
-remember, ronfar...i want a
+remember, Ronfar...I want a
 rematch using my dice![BRK]
 
 [POR05]
@@ -140,17 +140,17 @@ here? I thought you had
 important business![BRK]
 
 If you've got time to dally
-around here, i want a
+around here, I want a
 rematch![BRK]
 
 [POR05]
-Sorry, old pal, i do have
+Sorry, old pal, I do have
 important business. I won't
 bother you...[BRK]
 
 [POR00]
 Well, carry on, then. But
-remember: i want a rematch!
+remember: I want a rematch!
 
 
 
@@ -167,7 +167,7 @@ end up on the other side...[END]
 
 === 9 | 1a378 | 91 ===
 Are you lost again? Didn't
-i tell you how to get
+I tell you how to get
 through last time?[BRK]
 
 Listen! Follow the path
@@ -176,8 +176,8 @@ you right to the other side![END]
 
 === a | 1a424 | dd ===
 You know, members of
-althena's guard were here
-looking for ronfar.[BRK]
+Althena's Guard were here
+looking for Ronfar.[BRK]
 
 What did you do to get those
 boys mad? I mean, that's
@@ -193,19 +193,19 @@ Just a misunderstanding...[BRK]
 ...really![END]
 
 === b | 1a518 | 6f ===
-Hmmm, where is ronfar? Did
-the soldiers of althena's
-guard catch him?[BRK]
+Hmmm, where is Ronfar? Did
+the soldiers of Althena's
+Guard catch him?[BRK]
 
 Ha! Well it serves him right
 if they did![END]
 
 === c | 1a59e | bc ===
 You still outwitting those
-soldiers from althena's
-guard?[BRK]
+soldiers from Althena's
+Guard?[BRK]
 
-I'm tellin' you ronfar, your
+I'm tellin' you Ronfar, your
 time's runnin' out![BRK]
 
 [POR05]
@@ -214,12 +214,12 @@ backwoods pal! They're not
 even close to catchin' me![END]
 
 === d | 1a66e | 9a ===
-If ronfar was strong enough
+If Ronfar was strong enough
 to save the world, no wonder
-i couldn't beat him...[BRK]
+I couldn't beat him...[BRK]
 
 [POR02]
-Um, i think you have the
+Um, I think you have the
 facts a little mixed up.
 Hiro saved the world![END]
 
@@ -255,9 +255,9 @@ and her cohorts![END]
 === 10 | 1a8f0 | 72 ===
 [POR09]
 I won't forget you betrayed
-me, ronfar![BRK]
+me, Ronfar![BRK]
 
-When i catch up to you and
+When I catch up to you and
 that destroyer, there'll be
 hell to pay!
 
@@ -266,7 +266,7 @@ hell to pay!
 [END]
 
 === 11 | 1a966 | 39 ===
-Sir, i've completed my
+Sir, I've completed my
 search and found no trace
 of them.[END]
 
@@ -289,49 +289,49 @@ here somewhere! I will find
 them![BRK]
 
 All right, men! Back to the
-destiny...double-speed![END]
+Destiny...double-speed![END]
 
 === 14 | 1aace | 10 ===
-Illusion wood 1f[END]
+Illusion wood 1F[END]
 
 === 15 | 1c18e | 11 ===
-Illusion woods 2f[END]
+Illusion woods 2F[END]
 
 === 16 | 1d7f0 | 11 ===
-Illusion woods 3f[END]
+Illusion woods 3F[END]
 
 === 17 | 1f31a | 11 ===
-Illusion woods 4f[END]
+Illusion woods 4F[END]
 
 === 18 | 20ef8 | 11 ===
-Illusion woods 5f[END]
+Illusion woods 5F[END]
 
 === 19 | 22990 | 11 ===
-Illusion woods 6f[END]
+Illusion woods 6F[END]
 
 === 1a | 24602 | 11 ===
-Illusion woods 7f[END]
+Illusion woods 7F[END]
 
 === 1b | 26198 | 11 ===
-Illusion woods 8f[END]
+Illusion woods 8F[END]
 
 === 1c | 277f0 | 11 ===
-Illusion woods 9f[END]
+Illusion woods 9F[END]
 
 === 1d | 28f06 | 11 ===
-Illusion woods b1[END]
+Illusion woods B1[END]
 
 === 1e | 29990 | 11 ===
-Illusion woods b2[END]
+Illusion woods B2[END]
 
 === 1f | 2ab3a | 11 ===
-Illusion woods b3[END]
+Illusion woods B3[END]
 
 === 20 | 2bb82 | 11 ===
-Illusion woods b4[END]
+Illusion woods B4[END]
 
 === 21 | 2cc1c | 11 ===
-Illusion woods b5[END]
+Illusion woods B5[END]
 
 === 22 | 2e240 | a1 ===
 [POR02]
@@ -363,17 +363,17 @@ enough to act as a bridge.[BRK]
 Let's continue...[END]
 
 === 25 | 2e3da | 11 ===
-Illusion woods b6[END]
+Illusion woods B6[END]
 
 === 26 | 2f4bc | 11 ===
-Illusion woods b7[END]
+Illusion woods B7[END]
 
 === 27 | 30720 | 11 ===
-Illusion woods b8[END]
+Illusion woods B8[END]
 
 === 28 | 317f2 | 11 ===
-Illusion woods b9[END]
+Illusion woods B9[END]
 
 === 29 | 32498 | 12 ===
-Illusion woods b10[END]
+Illusion woods B10[END]
 

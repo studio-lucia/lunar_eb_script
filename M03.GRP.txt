@@ -4,11 +4,11 @@ Messages: 96
 
 === 0 | 8f38 | ad ===
 [POR04]
-All right now, hiro...[BRK]
+All right now, Hiro...[BRK]
 
 Before you start your
 adventure, be sure to touch
-the statue of althena.[BRK]
+the statue of Althena.[BRK]
 
 If you do, it will wipe
 fatigue from your body and
@@ -16,9 +16,9 @@ give you strength anew.[END]
 
 === 1 | 9030 | 9c ===
 [POR04]
-Well then, hiro, let's get
-started toward the blue
-spire.[BRK]
+Well then, Hiro, let's get
+started toward the Blue
+Spire.[BRK]
 
 We need to see what's going
 on around here.[BRK]
@@ -30,13 +30,13 @@ bridge and to the north.[END]
      \[Weekly meal duty\][BRK]
 
    Blue/silver/white days
-            gwyn[BRK]
+            Gwyn[BRK]
 
     Gold/green/black days
-            hiro[BRK]
+            Hiro[BRK]
 
           Red days
-            ruby[END]
+            Ruby[END]
 
 === 3 | 9168 | d ===
 [0xE0]Hiro's yard[0xE0][END]
@@ -48,10 +48,10 @@ all ready.[BRK]
 
 Hopefully you'll be able
 to find a way to help
-lucia...[BRK]
+Lucia...[BRK]
 
 [POR02]
-But grandpa gwyn! Aren't
+But Grandpa Gwyn! Aren't
 you going with us?[BRK]
 
 [POR04]
@@ -60,7 +60,7 @@ just too old for this sort
 of thing now.[BRK]
 
 [POR01]
-But grandpa![BRK]
+But Grandpa![BRK]
 
 [POR04]
 No 'buts' about it, young
@@ -71,41 +71,41 @@ You'll do fine. I've taught
 you well, and you're a
 bright boy.[BRK]
 
-Besides, i've got a million
+Besides, I've got a million
 books to catch up on...now
 get moving![BRK]
 
-Remember, seek out ronfar
-when you get to larpa!
+Remember, seek out Ronfar
+when you get to Larpa!
 [END]
 
 === 5 | 9f3a | 91 ===
      \[Weekly meal duty\][BRK]
 
    Blue/silver/white days
-            gwyn[BRK]
+            Gwyn[BRK]
 
     Gold/green/black days
-            hiro[BRK]
+            Hiro[BRK]
 
           Red days
-            ruby[END]
+            Ruby[END]
 
 === 6 | 9fd0 | d ===
 [0xE0]Hiro's yard[0xE0][END]
 
 === 7 | abc0 | 344 ===
 [POR04]
-...but the blue spire has
+...but the Blue Spire has
 been a mystery for decades,
 even hundreds of years...[BRK]
 
 You can't possibly expect
-that i know all its secrets![BRK]
+that I know all its secrets![BRK]
 
 Besides, what interest could
 you possibly have at the
-spire?[BRK]
+Spire?[BRK]
 
 [POR09]
 Blue stars, secret riddles!
@@ -116,22 +116,22 @@ My work is much more serious
 than that. A destroyer is
 coming to our world.[BRK]
 
-...and the blue spire is
+...and the Blue Spire is
 the point at which it will
 originate![BRK]
 
-Goddess althena has given me
+Goddess Althena has given me
 direct orders to eradicate
 the destroyer.[BRK]
 
 [POR04]
-The goddess althena? A devil
-at the tower of blue? Bah!
+The Goddess Althena? A devil
+at the Tower of Blue? Bah!
 Nonsense...[BRK]
 
 [POR09]
 Regardless of whether you
-believe me or not, i need
+believe me or not, I need
 your help...[BRK]
 
 We attempted to enter the
@@ -139,13 +139,13 @@ tower, but it was sealed
 with some kind of magic.[BRK]
 
 We must find a way to
-enter the blue spire.[BRK]
+enter the Blue Spire.[BRK]
 
 And since you are the
 'expert' on it,[BRK]
 
 you and you alone can
-provide the answers i seek.
+provide the answers I seek.
 
 [END]
 
@@ -157,8 +157,8 @@ her down somewhere...[END]
 === 9 | af6a | 90 ===
 [POR04]
 Ah, this will do nicely!
-Ok, hiro, you stay here
-with lucia.[BRK]
+Ok, Hiro, you stay here
+with Lucia.[BRK]
 
 I'll go downstairs and see
 if there's a book that shows
@@ -167,12 +167,12 @@ how to break the curse.
 
 === a | b00e | 42 ===
 Althena created the
-priesthood to govern the
+Priesthood to govern the
 world in her absence.[END]
 
 === b | b068 | 75 ===
-Lord leo is the top crusader
-for goddess althena.[BRK]
+Lord Leo is the top crusader
+for Goddess Althena.[BRK]
 
 He is one of her four
 heroes. The destroyer
@@ -181,17 +181,17 @@ doesn't stand a chance![END]
 === c | b0f4 | b7 ===
 It is foretold that the
 destroyer will appear north
-of the salyan desert.[BRK]
+of the Salyan Desert.[BRK]
 
-Goddess althena said it was
-coming to the blue spire.[BRK]
+Goddess Althena said it was
+coming to the Blue Spire.[BRK]
 
 Even if the destroyer
-escapes, lord leo will find
+escapes, Lord Leo will find
 it...[END]
 
 === d | b1c2 | 92 ===
-The blue spire is rumored to
+The Blue Spire is rumored to
 be filled with all kinds of
 frightening monsters.[BRK]
 
@@ -201,26 +201,26 @@ face and live![END]
 
 === e | b26c | be ===
 [POR09]
-Ah! Hiro, i knew i'd run
+Ah! Hiro, I knew I'd run
 into you again.[BRK]
 
-Say, your grandfather gwyn
+Say, your grandfather Gwyn
 says he doesn't know any-
 thing about a destroyer.[BRK]
 
 Being such a skilled arch-
-aeologist, i find that hard
+aeologist, I find that hard
 to believe...[END]
 
 === f | b342 | ec ===
 [POR09]
 Doesn't it seem odd that
-gwyn doesn't know anything
+Gwyn doesn't know anything
 about a destroyer,[BRK]
 
 when he's devoted his life
 to unlocking the secrets of
-the blue spire?[BRK]
+the Blue Spire?[BRK]
 
 [POR02]
 No odder than you being
@@ -232,25 +232,25 @@ talk...[END]
 
 === 10 | b442 | 237 ===
 [POR09]
-Hiro, i know a good man
-when i see one...[BRK]
+Hiro, I know a good man
+when I see one...[BRK]
 
 [POR02]
 I bet you do...[BRK]
 
 [POR09]
-Was i talking to you?[BRK]
+Was I talking to you?[BRK]
 
-Anyway, as i was saying, I
-know a good man when i see
+Anyway, as I was saying, I
+know a good man when I see
 one.[BRK]
 
 Why don't you quit this old
 archaeology thing and come
-to work in althena's guard?[BRK]
+to work in Althena's Guard?[BRK]
 
 [POR02]
-Why would hiro want to trade
+Why would Hiro want to trade
 freedom for servitude? He
 won't work for you![BRK]
 
@@ -266,7 +266,7 @@ just keep it in mind.[BRK]
 
 Oh, for your safety, you
 should stay away from the
-blue spire.[BRK]
+Blue Spire.[BRK]
 
 A big battle's coming. I can
 feel it...[END]
@@ -277,11 +277,11 @@ My, my! He was an arrogant
 fop, wasn't he?[BRK]
 
 I can't believe that the
-goddess has come to us
+Goddess has come to us
 again as a human...[BRK]
 
 ...and is giving orders
-directly to lord leo...[BRK]
+directly to Lord Leo...[BRK]
 
 ...very strange, it's not
 s'posed to...and this...
@@ -312,22 +312,22 @@ the...the...[BRK]
 
 === 13 | b870 | 2a9 ===
 [POR02]
-We're home, grandpa gwyn![BRK]
+We're home, Grandpa Gwyn![BRK]
 
 [POR04]
 Ah, yes...welcome back,
 kids! We have guests today![BRK]
 
-This is lord leo, chief of
-althena's guard. He wants to
-know about the blue spire.[BRK]
+This is Lord Leo, chief of
+Althena's Guard. He wants to
+know about the Blue Spire.[BRK]
 
 [POR09]
-Yes, and as i was about to
-explain, i don't have time
+Yes, and as I was about to
+explain, I don't have time
 for a history lesson.[BRK]
 
-All i want to know is one
+All I want to know is one
 simple thing...how does one
 enter the tower?[BRK]
 
@@ -336,7 +336,7 @@ been sealed for generations.[BRK]
 
 [POR04]
 Ah, yes, well...that is...
-that's the million silver
+that's the million Silver
 question, isn't it?[BRK]
 
 I'm not exactly sure, but
@@ -348,14 +348,14 @@ I don't have the time to
 act on hunches, old man! If
 you don't know the way in,[BRK]
 
-i'll just have to destroy
+I'll just have to destroy
 the whole spire with the
-destiny's dragon cannon![END]
+Destiny's Dragon Cannon![END]
 
 === 14 | bb34 | c7 ===
 [POR04]
 Hiro, have you been off at
-the dragon ruins again?[BRK]
+the Dragon Ruins again?[BRK]
 
 I've told you time and again
 to stay away from that
@@ -367,12 +367,12 @@ unsure of what you're doing.[END]
 
 === 15 | bc16 | cb ===
 [POR04]
-Hiro, i'm telling you to
-stay away from those dragon
-ruins![BRK]
+Hiro, I'm telling you to
+stay away from those Dragon
+Ruins![BRK]
 
 [POR02]
-...uhmm, hiro, let's not
+...uhmm, Hiro, let's not
 tell him about the jewel we
 found, okay?[BRK]
 
@@ -383,7 +383,7 @@ did at the ruins...[END]
 === 16 | bcf8 | 105 ===
 [POR04]
 Hmmm...oh, bother! What did
-i do with that...jewel?[BRK]
+I do with that...jewel?[BRK]
 
 ...it's got to be...around
 here....somewhere...ah! 
@@ -391,11 +391,11 @@ Hiro...[BRK]
 
 Go down into the basement
 and get some weapons while
-i look for the jewel...[BRK]
+I look for the jewel...[BRK]
 
 And don't dally! We've got
-to get over to the blue
-spire immediately![END]
+to get over to the Blue
+Spire immediately![END]
 
 === 17 | be18 | d2 ===
 [POR04]
@@ -409,11 +409,11 @@ to take along.[BRK]
 
 And be mindful of the time!
 Don't dawdle! We've got to
-get to the blue spire![END]
+get to the Blue Spire![END]
 
 === 18 | befe | e2 ===
 [POR04]
-Ah! I knew i put it away for
+Ah! I knew I put it away for
 safekeeping, and here it is![BRK]
 
 If we put this jewel in the
@@ -421,12 +421,12 @@ eye of the dragon at the
 entrance, it should open![BRK]
 
 Here, put this in your bag,
-hiro.[BRK]
+Hiro.[BRK]
 
 [POR00]
 [0xB][0]
 Received the left dragon 
-eye jewel from gwyn.[END]
+eye jewel from Gwyn.[END]
 
 === 19 | bfea | af ===
 [POR04]
@@ -437,7 +437,7 @@ It's no use to us in your
 bag, m'boy.[BRK]
 
 Okay, let's get moving. The
-blue spire's to the north,
+Blue Spire's to the north,
 after we cross the bridge.[END]
 
 === 1a | c0ba | 84 ===
@@ -446,7 +446,7 @@ I...ahhhh...oooo...
 ......nooooo...![BRK]
 
 [POR02]
-Hiro, leo says that lucia
+Hiro, Leo says that Lucia
 is a destroyer. Do you think
 she really is?[BRK]
 
@@ -462,14 +462,14 @@ she really is?[BRK]
 
 === 1b | c148 | a4 ===
 [POR02]
-L...lucia...?[BRK]
+L...Lucia...?[BRK]
 
 [POR08]
 ....
 .....[BRK]
 
 ...this world will cease to
-exist if zophar...is...not
+exist if Zophar...is...not
 ...stopped...[BRK]
 
 ...for the sake of the
@@ -501,16 +501,16 @@ We're going to have to find
 a priest with special
 training to dispel it.[BRK]
 
-...i think that there's a
-priest by the name of ronfar
-in the village of larpa.[BRK]
+...I think that there's a
+priest by the name of Ronfar
+in the village of Larpa.[BRK]
 
 Used to know his father...
 he's a good kid. Maybe he
 can help us.[BRK]
 
-You must take lucia to him,
-hiro. Since larpa is on the
+You must take Lucia to him,
+Hiro. Since Larpa is on the
 other side of the sea,[BRK]
 
 you'll need my boat. I've
@@ -520,9 +520,9 @@ me outside...
 
 === 1e | c442 | 255 ===
 [POR02]
-Okay, lucia, just so we're
+Okay, Lucia, just so we're
 straight on a few things,
-i'll tell you this:[BRK]
+I'll tell you this:[BRK]
 
 Hiro is helping you out
 'cause he's a nice guy, but
@@ -533,16 +533,16 @@ moving in on my territory.[BRK]
 
 [POR08]
 ...what...what do you mean
-by that? I...i don't un...
+by that? I...I don't un...
 understand...[BRK]
 
 [POR02]
 I mean you shouldn't get too
-close to hiro, because you'd
+close to Hiro, because you'd
 set yourself up for a fall.[BRK]
 
 [POR08]
-Oh...does hiro...trip
+Oh...does Hiro...trip
 people that...get too close?[BRK]
 
 I'll remember to...walk ten
@@ -550,11 +550,11 @@ paces...behind him.[BRK]
 
 [POR02]
 No, no, no! That's not what
-i'm talking about![BRK]
+I'm talking about![BRK]
 
 You're so dense, you can't
 possibly be a threat to my
-love for hiro.[BRK]
+love for Hiro.[BRK]
 
 Let's just go!
 
@@ -565,32 +565,32 @@ Let's just go!
 
 === 1f | c6a6 | 48 ===
 Salyan desert
-madoria plain
-eastern katarina[BRK]
+Madoria Plain
+Eastern Katarina[BRK]
 
 Salyan desert
-larpa  dalton[END]
+Larpa  Dalton[END]
 
 === 20 | c6f4 | 60 ===
     Ruins research list[BRK]
 
 Dragon tower ruins
-star dragon tower
-goddess tower[BRK]
+Star Dragon Tower
+Goddess Tower[BRK]
 
-And...the blue spire.[END]
+And...the Blue Spire.[END]
 
 === 21 | c75a | c ===
 Hiro's house[END]
 
 === 22 | cf58 | c4 ===
 [POR04]
-Hiro, lucia is still in the
+Hiro, Lucia is still in the
 throes of the curse! Why
 have you come back here?[BRK]
 
-You need to get to larpa and
-seek out ronfar, not piddle
+You need to get to Larpa and
+seek out Ronfar, not piddle
 around here.[BRK]
 
 Get moving, m'boy! Lucia's
@@ -600,10 +600,10 @@ life is at stake!
 === 23 | d034 | ee ===
 [POR04]
 Hiro! You've returned...but
-where is lucia?[BRK]
+where is Lucia?[BRK]
 
 ...well, if she's lost, you
-had better find her! If leo
+had better find her! If Leo
 finds her, she's dead.[BRK]
 
 That naive girl needs some
@@ -617,10 +617,10 @@ for? Go find her![END]
 [POR04]
 You're a fine young man, and
 as good as any to watch over
-lucia...[BRK]
+Lucia...[BRK]
 
-...so get back to larpa and
-find her before leo does![END]
+...so get back to Larpa and
+find her before Leo does![END]
 
 === 25 | d1d4 | 13d ===
 [POR04]
@@ -631,22 +631,22 @@ much better.[BRK]
 [POR08]
 Yes, the curse was broken.
 Thank you for all the kind-
-ness you've shown me, gwyn.[BRK]
+ness you've shown me, Gwyn.[BRK]
 
 [POR04]
 Bah! Don't mention it, young
 lady. I couldn't have slept
-at night if i hadn't helped.[BRK]
+at night if I hadn't helped.[BRK]
 
-I just hope you find althena
+I just hope you find Althena
 and finish what you've come
 to accomplish.[END]
 
 === 26 | d330 | ad ===
 [POR04]
 Hiro, you had better stick
-with lucia until she finds
-althena.[BRK]
+with Lucia until she finds
+Althena.[BRK]
 
 I don't think her task will
 be an easy one.[BRK]
@@ -662,7 +662,7 @@ for, m'boy? Go find her!
 [POR04]
 Hiro, m'boy! You're a sight
 for sore eyes! Did you get
-to see althena?[BRK]
+to see Althena?[BRK]
 
 What?!!! The goddess is
 sealed? That's unheard of![BRK]
@@ -673,7 +673,7 @@ to help her![END]
 === 28 | d4be | 9a ===
 [POR04]
 Welcome back, one and all!
-Say...where's hiro? Is he
+Say...where's Hiro? Is he
 bringing up the rear?[BRK]
 
 What!? He was turned to
@@ -683,7 +683,7 @@ crystal? Ohhh...lad! Why...
 
 === 29 | d566 | c1 ===
 [POR08]
-It was my fault, gwyn. He
+It was my fault, Gwyn. He
 did it to save my life. But
 ...i...[BRK]
 
@@ -703,25 +703,25 @@ mess it's gotten him into!
 
 === 2a | d636 | 89 ===
 [POR08]
-I'm sorry, gwyn. It's my
+I'm sorry, Gwyn. It's my
 fault. He tried to save my
 life...[BRK]
 
-But i promise. One way or
-another, i will return the
+But I promise. One way or
+another, I will return the
 favor and revive him![END]
 
 === 2b | d6d2 | bc ===
 [POR04]
-Ohh, hiro! What's happened
+Ohh, Hiro! What's happened
 to you, m'boy?[BRK]
 
-If only i could take your
+If only I could take your
 place...you have so much to
 live for...[BRK]
 
 [POR08]
-Gwyn, hiro did this to save
+Gwyn, Hiro did this to save
 my life. I will find some
 way to save his...
 
@@ -730,7 +730,7 @@ way to save his...
 === 2c | d7a2 | 77 ===
 [POR04]
 Ahh! Hiro, m'boy! Back to
-your old self i see![BRK]
+your old self I see![BRK]
 
 For a while there, you had
 me very worried. Shame on
@@ -742,7 +742,7 @@ I have no idea where you
 will find the jewel for
 the dragon's right eye...[BRK]
 
-You see, m'boy, i purchased
+You see, m'boy, I purchased
 the other eye from a
 traveling merchant ages ago.[BRK]
 
@@ -750,9 +750,9 @@ Confound it all! You see...
 he told me where he got it,[BRK]
 
 but that was so long ago
-i've forgotten the story![BRK]
+I've forgotten the story![BRK]
 
-Perhaps nall would have
+Perhaps Nall would have
 some idea...[END]
 
 === 2e | d98e | fa ===
@@ -762,11 +762,11 @@ lad! I've got all these
 books to keep me company![BRK]
 
 Lucia doesn't have anything
-of the sort on the blue star
+of the sort on the Blue Star
 to keep her company...[BRK]
 
 Hiro, you must try to get
-to her on the blue star at
+to her on the Blue Star at
 any cost...[BRK]
 
 You two belong together...[END]
@@ -774,12 +774,12 @@ You two belong together...[END]
 === 2f | dab0 | 11e ===
 [POR04]
 Hiro, you should be able to
-get to the blue star from
-the star dragon's tower.[BRK]
+get to the Blue Star from
+the Star Dragon's Tower.[BRK]
 
 But to get into the tower,
-you need two dragon eye
-jewels...[BRK]
+you need two Dragon Eye
+Jewels...[BRK]
 
 I know you can find the
 jewels if you set your mind
@@ -787,7 +787,7 @@ to it, m'boy![BRK]
 
 Go to it. Lucia's waiting![BRK]
 
-Perhaps nall knows where you
+Perhaps Nall knows where you
 can start looking...
 [END]
 
@@ -803,7 +803,7 @@ somewhere![END]
 === 31 | dc68 | 96 ===
 [POR04]
 There must be a matching
-dragon eye jewel somewhere
+Dragon Eye Jewel somewhere
 in this world.[BRK]
 
 Hiro, you must find the
@@ -815,12 +815,12 @@ idea where to look![END]
 === 32 | dd1a | db ===
 [POR04]
 Ahh! I knew you wouldn't let
-lucia down, m'boy! You found
-the other dragon jewel![BRK]
+Lucia down, m'boy! You found
+the other Dragon Jewel![BRK]
 
 Take the two jewels to the
-star dragon's spire in the
-salyan desert.[BRK]
+Star Dragon's Spire in the
+Salyan Desert.[BRK]
 
 With those two jewels, you
 should be able to unlock the
@@ -829,18 +829,18 @@ entrance.[END]
 === 33 | de08 | 14d ===
 [POR04]
 At the top level of the
-star dragon's tower is a
-dragon crystal.[BRK]
+Star Dragon's Tower is a
+Dragon Crystal.[BRK]
 
 You can use the power of
 that crystal to get to the
-blue star.[BRK]
+Blue Star.[BRK]
 
 [POR01]
 ....
 .....[BRK]
 
-Thank you, grandpa. I...i'll
+Thank you, Grandpa. I...I'll
 never forget you...[BRK]
 
 [POR04]
@@ -851,7 +851,7 @@ There's a girl waiting out
 there who truly loves you,
 and that's a rare thing.[BRK]
 
-Go to her, hiro...
+Go to her, Hiro...
 
 
 
@@ -871,31 +871,31 @@ reach! Seize it and never
 let go![BRK]
 
 Now...get out of here...
-lucia's waiting for you.[END]
+Lucia's waiting for you.[END]
 
 === 35 | e02e | 1b8 ===
 [POR04]
 Young man, you asked me how
-to get to the blue star, and
-i think i have the answer.[BRK]
+to get to the Blue Star, and
+I think I have the answer.[BRK]
 
 I believe it has to do with
 a crystal at the top of the
-star dragon's tower.[BRK]
+Star Dragon's Tower.[BRK]
 
 But to gain entrance, you
 need to use the same tech-
-nique as at the blue spire.[BRK]
+nique as at the Blue Spire.[BRK]
 
 That is, you must find two
-special dragon jewels that
+special Dragon Jewels that
 control its door.[BRK]
 
 Finding the two jewels to
 gain entrance into the tower
 is your only chance of...[BRK]
 
-Seeing lucia again. You must
+Seeing Lucia again. You must
 try, m'boy!
 
 [END]
@@ -915,91 +915,91 @@ you from inside any dungeon
 to the outside instantly.[BRK]
 
 They should be very useful
-in finding the dragon eye
-jewels.[END]
+in finding the Dragon Eye
+Jewels.[END]
 
 === 37 | e322 | 63 ===
 Salyan desert
-madoria plain
-eastern katarina[BRK]
+Madoria Plain
+Eastern Katarina[BRK]
 
 Salyan desert
-larpa  dalton[BRK]
+Larpa  Dalton[BRK]
 
 Madoria plain
-takkar  nota[END]
+Takkar  Nota[END]
 
 === 38 | e398 | 50 ===
 Salyan desert
-madoria plain
-eastern katarina[BRK]
+Madoria Plain
+Eastern Katarina[BRK]
 
 Madoria plain
-takkar  nota
+Takkar  Nota
 carnival[END]
 
 === 39 | e3fc | 59 ===
 Salyan desert
-madoria plain
-eastern katarina[BRK]
+Madoria Plain
+Eastern Katarina[BRK]
 
 Eastern katarina
-zulan  meribia
-vane   azado[END]
+Zulan  Meribia
+Vane   Azado[END]
 
 === 3a | e468 | 44 ===
 Eastern katarina
 western katarina
-marius zone[BRK]
+Marius Zone[BRK]
 
 Western katarina
-horam[END]
+Horam[END]
 
 === 3b | e4c0 | 44 ===
 Western katarina
-marius zone
-minea sea[BRK]
+Marius Zone
+Minea Sea[BRK]
 
 Marius zone
-zaback   neo-vane[END]
+Zaback   Neo-Vane[END]
 
 === 3c | e518 | 42 ===
 Western katarina
-marius zone
-minea sea[BRK]
+Marius Zone
+Minea Sea[BRK]
 
 Minea sea
-raculi
-pentagulia[END]
+Raculi
+Pentagulia[END]
 
 === 3d | e56a | 53 ===
 Salyan desert
-madoria plain
-eastern katarina[BRK]
+Madoria Plain
+Eastern Katarina[BRK]
 
 Western katarina
-marius zone
-minea sea[END]
+Marius Zone
+Minea Sea[END]
 
 === 3e | e5c2 | 91 ===
     Ruins research list[BRK]
 
 Dragon tower ruins
-star dragon tower
-goddess tower[BRK]
+Star Dragon Tower
+Goddess Tower[BRK]
 
 But the biggest mystery
 remains the girl who came
-to us named...lucia.[END]
+to us named...Lucia.[END]
 
 === 3f | e658 | c ===
 Hiro's house[END]
 
 === 40 | ee5c | 8a ===
 [POR04]
-Look at that, hiro. There!
+Look at that, Hiro. There!
 See that strange light from
-the blue spire?[BRK]
+the Blue Spire?[BRK]
 
 Looks like it goes into the
 heavens, toward the blue 
@@ -1010,15 +1010,15 @@ star...
 
 === 41 | eef0 | 2cd ===
 [POR04]
-I've lived near the spire
+I've lived near the Spire
 for a 'coon's age,[BRK]
 
-and i've never in all my
+and I've never in all my
 years seen anything quite
 like this.[BRK]
 
 I wonder if a destroyer has
-come to our world, as leo
+come to our world, as Leo
 has been saying?[BRK]
 
 If that's true, then we're
@@ -1026,8 +1026,8 @@ all going to be in a mess
 of trouble.[BRK]
 
 [POR01]
-Then i'd better go to the
-blue spire and see just
+Then I'd better go to the
+Blue Spire and see just
 what's happened.[BRK]
 
 [POR04]
@@ -1040,16 +1040,16 @@ work of you![BRK]
 
 [POR01]
 But grandfather, we have to
-know so we can warn leo![BRK]
+know so we can warn Leo![BRK]
 
 [POR04]
-Ah...yes, i suppose you do
+Ah...yes, I suppose you do
 have a point there...[BRK]
 
 Well, then, go get my
 weapons in the basement,[BRK]
 
-and i'll get the things
+and I'll get the things
 we'll need from the house.[BRK]
 
 I'm not letting you go in
@@ -1061,7 +1061,7 @@ that's for certain...
 === 42 | f1c6 | 88 ===
 [POR02]
 Hiro, are you sure that
-going to the blue spire is
+going to the Blue Spire is
 such a good idea?[BRK]
 
 I mean, what if there is a
@@ -1076,35 +1076,35 @@ destroyer in there now?[BRK]
 Hiro? What's wrong with you?[BRK]
 
 You walked right past
-grandpa gwyn without saying
+Grandpa Gwyn without saying
 a word![BRK]
 
 He might need your help
-dealing with lord leo! Shame
+dealing with Lord Leo! Shame
 on you![END]
 
 === 44 | f30c | ab ===
 [POR02]
 Hiro, it was kind of rude
 of you to run off when
-leo started shouting![BRK]
+Leo started shouting![BRK]
 
-You left grandpa there all
+You left Grandpa there all
 alone to deal with him![BRK]
 
 C'mon! Let's go see if we
-can calm leo down...[END]
+can calm Leo down...[END]
 
 === 45 | f3ca | a3 ===
 [POR02]
-Hiro, i'm afraid of what
-we'll find in the blue
-spire.[BRK]
+Hiro, I'm afraid of what
+we'll find in the Blue
+Spire.[BRK]
 
-I hope grandpa knows what
+I hope Grandpa knows what
 he's doing![BRK]
 
-Because i've got a bad vibe
+Because I've got a bad vibe
 about this whole thing...[BRK]
 
 [POR01]
@@ -1113,9 +1113,9 @@ about this whole thing...[BRK]
 
 === 46 | f484 | 99 ===
 [POR02]
-Grandpa gwyn always said
+Grandpa Gwyn always said
 something would happen at
-the blue spire.[BRK]
+the Blue Spire.[BRK]
 
 I guess he was right...[BRK]
 
@@ -1128,11 +1128,11 @@ parts of the same...[BRK]
 
 === 47 | f534 | 8b ===
 [POR02]
-You know, i was thinking.
+You know, I was thinking.
 It must have been awful
-lonely on the blue star.[BRK]
+lonely on the Blue Star.[BRK]
 
-Especially if lucia was
+Especially if Lucia was
 there all by herself...[BRK]
 
 [POR01]
@@ -1141,7 +1141,7 @@ there all by herself...[BRK]
 
 === 48 | f5d2 | 7f ===
 [POR08]
-The tower will...if hiro
+The tower will...if Hiro
 can use...but....why?[BRK]
 
 ....
@@ -1154,7 +1154,7 @@ so? What's wrong...with...
 === 49 | f664 | 9e ===
 [POR08]
 We'd better put the wind
-to our feet. Soon, hiro's
+to our feet. Soon, Hiro's
 condition will be permanent.[BRK]
 
 [POR02]
@@ -1167,11 +1167,11 @@ let my darling die![END]
 It all began here...it seems
 like such a long time ago.[BRK]
 
-Before we met lucia. Before
-nall showed up. Before we 
+Before we met Lucia. Before
+Nall showed up. Before we 
 saw the dragons.[BRK]
 
-And before i matured into
+And before I matured into
 full dragonhood...[BRK]
 
 It's time to go forward now.
@@ -1180,7 +1180,7 @@ to our world.[BRK]
 
 Hrmph! Imagine that! Us with
 responsibility! I never
-thought i'd see the day![BRK]
+thought I'd see the day![BRK]
 
 But no time for misty-
 eyed memories...[BRK]
@@ -1193,7 +1193,7 @@ trash! Zophar, here we come!
 [POR02]
 The spire looks beautiful
 today. I know you'll find
-a way back, hiro.[BRK]
+a way back, Hiro.[BRK]
 
 Lucia wouldn't have left her
 pendant if there wasn't a
@@ -1205,21 +1205,21 @@ Hiro, don't be sad.[BRK]
 
 We've almost got all the
 things you need to get
-back to lucia![BRK]
+back to Lucia![BRK]
 
 We just have to find one
 more dragon's eye![END]
 
 === 4d | fa1c | a5 ===
 [POR02]
-Let's head to the star
-dragon's tower.[BRK]
+Let's head to the Star
+Dragon's Tower.[BRK]
 
 It's almost time for you
-to go, hiro.[BRK]
+to go, Hiro.[BRK]
 
 I'll be lonely when you
-leave, but lucia is lonely
+leave, but Lucia is lonely
 all the time.[BRK]
 
 You belong together.[END]
@@ -1229,18 +1229,18 @@ Observation deck[END]
 
 === 4f | 1021e | 49 ===
 [POR02]
-Hiro! Grandpa gwyn will
+Hiro! Grandpa Gwyn will
 be mad if we snoop around
 in his treasure box![END]
 
 === 50 | 1027a | 49 ===
 [POR02]
 Wow...that looks like some
-kind of ancient knife! We'd
+kind of Ancient Knife! We'd
 better take it.[END]
 
 === 51 | 102c9 | 17 ===
-Took the ancient knife.[END]
+Took the Ancient Knife.[END]
 
 === 52 | 102fe | 78 ===
 [POR02]
@@ -1248,7 +1248,7 @@ Hiro, why are you still
 staring in that stupid box?
 It's empty...empty, get it?[BRK]
 
-Besides, grandpa's waiting.
+Besides, Grandpa's waiting.
 Let's go![END]
 
 === 53 | 1038a | 51 ===
@@ -1260,15 +1260,15 @@ at? It's empty. Let's go![END]
 === 54 | 103f2 | ea ===
 [POR04]
 The curse...how to break the
-curse...i remember reading
+curse...I remember reading
 about something like...[BRK]
 
 ...oh, bother, where did I
 put that book...it's got
 to be...dagnabbit![BRK]
 
-Hiro! I thought i told you
-to keep an eye on lucia?
+Hiro! I thought I told you
+to keep an eye on Lucia?
 She's in grave condition...
 [END]
 
@@ -1278,11 +1278,11 @@ That book has got to be
 ...somewhere. Dagnabbit,
 brain...work![BRK]
 
-I've just got to....hiro!
+I've just got to....Hiro!
 What are you doing following
 me around?![BRK]
 
-You must watch lucia while I
+You must watch Lucia while I
 look for the instructions on
 how to break the curse.[BRK]
 
@@ -1290,12 +1290,12 @@ Well, what are you waiting
 for? Hop to it, boy![END]
 
 === 56 | 10604 | cf ===
-\[A brief history of althena\]
+\[A brief history of Althena\]
           volume 1[BRK]
 
 Every few hundred years, the
-goddess of beauty and love,
-althena, returns to us.[BRK]
+Goddess of beauty and love,
+Althena, returns to us.[BRK]
 
 At that time, she leads the
 people into a place of peace
@@ -1305,25 +1305,25 @@ and absolute harmony.[END]
       \[Dragonmasters\]
           volume 3[BRK]
 
-A dragonmaster is althena's
+A Dragonmaster is Althena's
 strongest protector. [BRK]
 
-Since althena's last
+Since Althena's last
 rebirth, the world has been
-without a dragonmaster.[BRK]
+without a Dragonmaster.[BRK]
 
-The last dragonmaster was
-called alex.[END]
+The last Dragonmaster was
+called Alex.[END]
 
 === 58 | 107a8 | ed ===
    \[Althena's dragons\]
         volume 1[BRK]
 
 There are four dragons of
-althena. They are: white,
+Althena. They are: white,
 red, black, and blue.[BRK]
 
-The power of althena and
+The power of Althena and
 the dragons is what protects
 this world from evil.[BRK]
 
@@ -1334,19 +1334,19 @@ dragons in the world...[END]
   \[Vane: the flying city\]
          volume 1[BRK]
 
-The city of vane once
+The city of Vane once
 floated above the clouds.[BRK]
 
-But magic emperor ghaleon
+But Magic Emperor Ghaleon
 used his evil power to blast
 it from the heavens.[END]
 
 === 5a | 10946 | 119 ===
  
-     \[The blue spire\][BRK]
+     \[The Blue Spire\][BRK]
 
-The blue spire in the north
-part of the salyan desert
+The Blue Spire in the north
+part of the Salyan Desert
 is an ancient mystery.[BRK]
 
 The entrance was sealed
@@ -1356,21 +1356,21 @@ and no one has seen the
 interior of the tower for
 hundreds of years.[BRK]
 
-It is rumored that the spire
-links lunar to the blue
-star...[END]
+It is rumored that the Spire
+links Lunar to the Blue
+Star...[END]
 
 === 5b | 10a64 | 140 ===
           \[Lunar\]
      \[a brief history\][BRK]
 
-Once lunar was a barren
+Once Lunar was a barren
 world, unable to support
 life.[BRK]
 
-The blue star was a place
+The Blue Star was a place
 of death and decay, so
-althena turned to lunar.[BRK]
+Althena turned to Lunar.[BRK]
 
 She blessed it with her 
 power, and it became a place
@@ -1378,14 +1378,14 @@ of beauty and wonder.[BRK]
 
 Pleased with her work, she
 brought people to this land
-from the blue star.[END]
+from the Blue Star.[END]
 
 === 5c | 10baa | 65 ===
  
    \[The lost frontier\][BRK]
 
 Once, people lived on the
-blue star.[BRK]
+Blue Star.[BRK]
 
 At least, we're pretty sure
 they did...[END]
@@ -1409,7 +1409,7 @@ beyond belief.
      \[Ancient ruins\]
 [BRK]
 
-This book i will dedicate
+This book I will dedicate
 to the discovery of the
 secrets of the ruins.[BRK]
 
@@ -1418,5 +1418,5 @@ secrets of the ruins.[BRK]
                        Gwyn.[END]
 
 === 5f | 10d48 | f ===
-Hiro's house b1[END]
+Hiro's house B1[END]
 

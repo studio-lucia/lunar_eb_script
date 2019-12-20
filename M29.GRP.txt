@@ -3,21 +3,21 @@ File: M29.GRP
 Messages: 49
 
 === 0 | 1a3fa | 116 ===
-Red priest mauri is not
+Red priest Mauri is not
 prepared for the next...[BRK]
 
-Ma...mar...mauri...
+Ma...mar...Mauri...
 n...no...no...ahhhh!![BRK]
 
-I'm sorry, did i just
+I'm sorry, did I just
 black out? That keeps
 happening.[BRK]
 
 It's very annoying.[BRK]
 
-Anyway, as i was saying,[BRK]
+Anyway, as I was saying,[BRK]
 
-mauri is not prepared for
+Mauri is not prepared for
 the next group of candidates
 for the cleansing.[BRK]
 
@@ -27,10 +27,10 @@ Please wait.
 === 1 | 1a524 | 8f ===
 I...don't remember what...[BRK]
 
-How did i get here?[BRK]
+How did I get here?[BRK]
 
-The last thing i remember 
-was mauri cleansing me...[BRK]
+The last thing I remember 
+was Mauri cleansing me...[BRK]
 
 After that...it's all just
 a black fog...
@@ -45,7 +45,7 @@ uga muga luga duga suga[BRK]
 Ya ya ya ya yaki ya...[BRK]
 
 [POR02]
-Hiro, i think this guy's
+Hiro, I think this guy's
 been dipping into some of
 the holy reserves...[END]
 
@@ -54,7 +54,7 @@ What!? Look! I've drooled
 all over my clothes![BRK]
 
 This is just great! Now
-i look like a complete
+I look like a complete
 dork![BRK]
 
 ...man! I wonder how I
@@ -62,7 +62,7 @@ managed to drool like this
 and not know it!!!?[END]
 
 === 4 | 1a738 | b6 ===
-Zophar, i am prepared to
+Zophar, I am prepared to
 die in your honorable
 service![BRK]
 
@@ -76,7 +76,7 @@ they'll go insane...
 [END]
 
 === 5 | 1a802 | 183 ===
-How...how did i get here?[BRK]
+How...how did I get here?[BRK]
 
 I never would have come here
 of my own accord. This place
@@ -85,7 +85,7 @@ is too creepy![BRK]
 ....
 .....[BRK]
 
-Oh, i get it! This is some
+Oh, I get it! This is some
 kinda weirdo birthday gag![BRK]
 
 All right! Ya got me! You
@@ -107,22 +107,22 @@ him figure it out for
 himself, okay?[END]
 
 === 6 | 1a998 | 8a ===
-I...must kill althena...[BRK]
+I...must kill Althena...[BRK]
 
 
 ....once she is gone...[BRK]
 
 
 
-...zophar will return...[BRK]
+...Zophar will return...[BRK]
 
 Our blood must be shed in
-the service of great master
-zophar![END]
+the service of Great Master
+Zophar![END]
 
 === 7 | 1aa3a | 77 ===
-Only the goddess stands in
-zophar's way...[BRK]
+Only the Goddess stands in
+Zophar's way...[BRK]
 
 She must...be...eliminated.[BRK]
 
@@ -133,30 +133,30 @@ dream my reality!
 
 === 8 | 1aac4 | 12a ===
 I can't believe the crazy
-nonsense i was saying in
+nonsense I was saying in
 this place![BRK]
 
 I mean, read some of this
-drivel i was writing![BRK]
+drivel I was writing![BRK]
 
 We're talking completely
 insane, here![BRK]
 
-You've got to stop zophar
+You've got to stop Zophar
 before he uses this black
 power on everyone![BRK]
 
 If you fail, we're going
 to be nothing but fertilizer
-for zophar's new world.[END]
+for Zophar's new world.[END]
 
 === 9 | 1ac02 | 66 ===
 I've...been...blacking...
 ....out...[BRK]
 
-I...don't know who i am...
+I...don't know who I am...
 must...do...the will...
-of...zophar...[END]
+of...Zophar...[END]
 
 === a | 1ac80 | 67 ===
 Another day has passed 
@@ -168,13 +168,13 @@ my liege!![END]
 
 === b | 1acfa | 55 ===
 I can't believe the things
-i've done in this place...[BRK]
+I've done in this place...[BRK]
 
 I've got to get out of 
 here...[END]
 
 === c | 1ad5e | 83 ===
-I...must...help...zophar![BRK]
+I...must...help...Zophar![BRK]
 
 Soon, the dark master will
 return to...relieve all of
@@ -186,12 +186,12 @@ Aaahhh...hahahahahahaha![END]
 Look! Outside it's so 
 peaceful...[BRK]
 
-When i was in this place, I
+When I was in this place, I
 thought the world was coming
 to an end.[BRK]
 
 But now that my eyes have
-been opened, i see that it
+been opened, I see that it
 was all just a dream...[BRK]
 
 A really, really bad dream.[BRK]
@@ -203,12 +203,12 @@ One that will probably shape
 my entire life from this
 point onward.[BRK]
 
-In fact, i bet it changes
+In fact, I bet it changes
 the lives of everyone around
 me, too.[BRK]
 
-I bet i'll have to go into
-therapy, and i won't be able
+I bet I'll have to go into
+therapy, and I won't be able
 to pay my bills.[BRK]
 
 I'll become a social outcast
@@ -218,7 +218,7 @@ Night will become a terrible
 visitor, bringing back this
 ordeal in my dreams.[BRK]
 
-Now that i think about it,
+Now that I think about it,
 my life will probably be
 ruined.[BRK]
 
@@ -235,13 +235,13 @@ to that rag.[BRK]
 ....
 .....[BRK]
 
-I guess i'll get over this,
+I guess I'll get over this,
 too...
 [END]
 
 === e | 1b10c | a7 ===
 I will kill all those that
-oppose you, lord zophar![BRK]
+oppose you, Lord Zophar![BRK]
 
 Your return will be an
 unqualified success!![BRK]
@@ -258,21 +258,21 @@ Zophar, please. Let me do
 your bidding...[END]
 
 === 10 | 1b232 | 5c ===
-When i look back on the last
+When I look back on the last
 few days...[BRK]
 
-All i can say is...[BRK]
+All I can say is...[BRK]
 
 ...whoa!!![BRK]
 
-Was i nuts, or what?[END]
+Was I nuts, or what?[END]
 
 === 11 | 1b294 | 12 ===
 Serak palace foyer[END]
 
 === 12 | 1c3a0 | 15e ===
 [POR09]
-...mauri![BRK]
+...Mauri![BRK]
 
 The time has come to settle
 this![BRK]
@@ -282,20 +282,20 @@ this![BRK]
 with condemnation in your
 eyes?[BRK]
 
-I don't understand why i'm
+I don't understand why I'm
 in this horrific place![BRK]
 
-Help me, leo![BRK]
+Help me, Leo![BRK]
 
 [POR09]
 Your evil guile will not
 fool me this time, sister![BRK]
 
-If i cannot break you free
+If I cannot break you free
 from the spell which binds
 you,[BRK]
 
-i'm prepared to kill you
+I'm prepared to kill you
 to save this world![BRK]
 
 [POR05]
@@ -311,47 +311,47 @@ instant.[BRK]
 This battle is mine and
 mine alone.[BRK]
 
-One way or another, i will
-free mauri from the control
-of zophar.[BRK]
+One way or another, I will
+free Mauri from the control
+of Zophar.[BRK]
 
 [POR05]
 Leo, you don't have to kill
-mauri! Zophar's essence has
+Mauri! Zophar's essence has
 disappeared!!
 [END]
 
 === 14 | 1c610 | ae ===
 [POR09]
-...zophar's essence? Ronfar,
+...Zophar's essence? Ronfar,
 are you drunk again? [BRK]
 
 [POR05]
-Listen leo, i don't have
+Listen Leo, I don't have
 time to explain this to 
 you right now.[BRK]
 
 Let me go take care of
-mauri.[BRK]
+Mauri.[BRK]
 
 Be patient, my friend.[END]
 
 === 15 | 1c6d2 | 1ec ===
 [POR15]
-...ronfar! Oh, ronfar, I
+...Ronfar! Oh, Ronfar, I
 knew you would come![BRK]
 
 You got my letter, didn't
 you?[BRK]
 
 [POR05]
-Now that lucia has dispelled
-zophar's magic on this area,
+Now that Lucia has dispelled
+Zophar's magic on this area,
 you should be healed![BRK]
 
 [POR15]
-Oh, ronfar! I can't believe
-i'm finally gazing into
+Oh, Ronfar! I can't believe
+I'm finally gazing into
 your eyes![BRK]
 
 Free from any affliction![BRK]
@@ -359,16 +359,16 @@ Free from any affliction![BRK]
 Please don't let this be
 another cruel dream![BRK]
 
-I don't know if i could
+I don't know if I could
 take it...[BRK]
 
 [POR05]
-It's no dream, mauri.
+It's no dream, Mauri.
 I'm here.[BRK]
 
 [POR15]
 It...it's just so hard to
-believe that zophar's power
+believe that Zophar's power
 disappeared so suddenly...[BRK]
 
 I mean...it was so...so
@@ -381,17 +381,17 @@ What?!![BRK]
 
 What was that flash?[BRK]
 
-What's happening to mauri?![BRK]
+What's happening to Mauri?![BRK]
 
 [POR08]
 Oh no! I was afraid this
 might happen...[BRK]
 
-I believe that mauri was
-under zophar's influence for
+I believe that Mauri was
+under Zophar's influence for
 too long.[BRK]
 
-The essence of zophar's
+The essence of Zophar's
 power still has some kind
 of hold on her soul.[BRK]
 
@@ -399,19 +399,19 @@ It's trying to claim her
 mind and heart, once and
 for all...[BRK]
 
-If zophar's essence succeeds
+If Zophar's essence succeeds
 in taking her over,[BRK]
 
 she will remain a vessel
-of zophar's evil, forever.[BRK]
+of Zophar's evil, forever.[BRK]
 
-And then, neither i nor the
-goddess althena can do
+And then, neither I nor the
+Goddess Althena can do
 anything to bring her back.[BRK]
 
 [POR05]
 I can't just watch her slip
-away like this, lucia...[BRK]
+away like this, Lucia...[BRK]
 
 Please! I'll do anything to
 save her...there must be a
@@ -422,14 +422,14 @@ way![BRK]
 .....[BRK]
 
 If you truly mean that,
-ronfar, there might be one
+Ronfar, there might be one
 way.[BRK]
 
 But it may cost you your
 life.[BRK]
 
 [POR05]
-Whatever it is...i'll do it![BRK]
+Whatever it is...I'll do it![BRK]
 
 [POR08]
 To save her now, you must
@@ -445,7 +445,7 @@ lives will end.[BRK]
 .....[BRK]
 
 There is only a small amount
-of althena's power left in
+of Althena's power left in
 this,[BRK]
 
 but it should be adequate...[BRK]
@@ -454,13 +454,13 @@ but it should be adequate...[BRK]
 Lay it on me! Zophar's evil
 will be no match for me![BRK]
 
-I will free you, mauri!
+I will free you, Mauri!
 
 [END]
 
 === 17 | 1ccf6 | 107 ===
 [POR05]
-C'mon, lucia! Zap me,
+C'mon, Lucia! Zap me,
 before it's too late![BRK]
 
 [POR08]
@@ -468,15 +468,15 @@ before it's too late![BRK]
 want to risk your life just
 to save her?[BRK]
 
-Once i use this power, there
+Once I use this power, there
 can be no turning back...[BRK]
 
 [POR05]
 Mauri is the only person
-that i've ever loved![BRK]
+that I've ever loved![BRK]
 
 I have to do this! C'mon,
-lucia...hit me![END]
+Lucia...hit me![END]
 
 === 18 | 1ce18 | ee ===
 [POR15]
@@ -493,12 +493,12 @@ fire of judgment on you![BRK]
 .....[BRK]
 
 Hm, hm, hm, hm. Basically,
-your dear ronfar will be
+your dear Ronfar will be
 your executioner![END]
 
 === 19 | 1cf10 | 66 ===
 [POR09]
-Ronfar, i sure hope you
+Ronfar, I sure hope you
 know what you're doing...[BRK]
 
 ...plan your course
@@ -507,15 +507,15 @@ dead.[END]
 
 === 1a | 1cf92 | fc ===
 [POR15]
-Oh, ronfar...[BRK]
+Oh, Ronfar...[BRK]
 
-I'll wait for you at raculi
+I'll wait for you at Raculi
 village!             [BRK]
 
 Don't worry, you've saved 
 me! I'm fine now...really![BRK]
 
-Hurry and finish zophar![BRK]
+Hurry and finish Zophar![BRK]
 
 [POR05]
 I'll be back in your arms
@@ -528,7 +528,7 @@ sugar lips![END]
 
 === 1b | 1d0ae | 1f9 ===
 [POR15]
-I'm so worried about leo.[BRK]
+I'm so worried about Leo.[BRK]
 
 He looked so...desperate
 when he left.[BRK]
@@ -537,17 +537,17 @@ Where has he gone?[BRK]
 
 [POR05]
 Mauri, don't worry about 
-leo.[BRK]
+Leo.[BRK]
 
 He'll be fine, once he sorts
 this part of his life out.[BRK]
 
 All of our lives are in the
-crapper because of zophar...[BRK]
+crapper because of Zophar...[BRK]
 
-And leo is realizing that
+And Leo is realizing that
 everything he's worked for
-has actually helped zophar![BRK]
+has actually helped Zophar![BRK]
 
 That's a mighty large
 revelation for anyone.[BRK]
@@ -566,7 +566,7 @@ knight...
 === 1c | 1d2c6 | 119 ===
 [POR15]
 The door over there leads
-to the red dragon's cave.[BRK]
+to the Red Dragon's Cave.[BRK]
 
 It's open now, but lava
 is blocking the way to
@@ -582,17 +582,17 @@ must be a way...[BRK]
 Our time grows short. Hurry,
 my love![BRK]
 
-I'll see you in raculi... [END]
+I'll see you in Raculi... [END]
 
 === 1d | 1d402 | 2c4 ===
 [POR09]
-...ronfar!!![BRK]
+...Ronfar!!![BRK]
 
 Mauri...have you returned
 to us, my dear sister?[BRK]
 
 [POR15]
-Yes...leo...ronfar saved
+Yes...Leo...Ronfar saved
 me.[BRK]
 
 I'm just a little weak from 
@@ -610,7 +610,7 @@ Can you ever forgive me?[BRK]
 
 [POR15]
 There is nothing to forgive.
-If it wasn't for ronfar, I
+If it wasn't for Ronfar, I
 would've killed you...[BRK]
 
 [POR05]
@@ -619,14 +619,14 @@ killing. We're all back, and
 that's what's important.[BRK]
 
 [POR02]
-It looks like ronfar and 
-mauri are finally going to
+It looks like Ronfar and 
+Mauri are finally going to
 get together...[BRK]
 
 Kinda tugs at the old heart
 strings, doesn't it?[BRK]
 
-Go ahead ronfar, kiss her. [BRK]
+Go ahead Ronfar, kiss her. [BRK]
 
 We won't look![BRK]
 
@@ -642,7 +642,7 @@ Ha, ha, ha...[END]
 
 === 1e | 1d6d0 | 129 ===
 [POR05]
-...hey...leo!!![BRK]
+...hey...Leo!!![BRK]
 
 Where are you going?[BRK]
 
@@ -654,12 +654,12 @@ you joined our fight?[BRK]
 of use to anyone...[BRK]
 
 When you have restored the
-red dragon, then the goddess
+Red Dragon, then the Goddess
 will be freed.[BRK]
 
 Ronfar, you and your friends
 are responsible for our
-future. But i...i'm...[BRK]
+future. But I...I'm...[BRK]
 
 ....
 .....
@@ -675,16 +675,16 @@ Leo...[END]
 [POR15]
 Ronfar, guard this well. It
 is the key to freeing the
-power of the red dragon.[BRK]
+power of the Red Dragon.[BRK]
 
 [POR00]
-[0xB][0][0xA]Received the red dragon
-aura from mauri![END]
+[0xB][0][0xA]Received the Red Dragon
+Aura from Mauri![END]
 
 === 21 | 1d89e | 138 ===
 [POR15]
 The door over there leads
-to the red dragon's cave.[BRK]
+to the Red Dragon's Cave.[BRK]
 
 It's open now, but lava
 is blocking the way to
@@ -701,7 +701,7 @@ The time grows short. Hurry,
 my love![BRK]
 
 Please be careful. I want to
-see you back in raculi soon![END]
+see you back in Raculi soon![END]
 
 === 22 | 1d9e4 | 14 ===
 Serak palace sanctum[END]
@@ -709,17 +709,17 @@ Serak palace sanctum[END]
 === 23 | 1e33a | 49 ===
 [POR05]
 This is it! We've found
-althena's tears...[BRK]
+Althena's Tears...[BRK]
 
 [POR00]
-[0xB][0][0x9]Took althena's tears.[END]
+[0xB][0][0x9]Took Althena's Tears.[END]
 
 === 24 | 1e38c | 162 ===
 [POR08]
 This flask contains the
-tears of althena.[BRK]
+tears of Althena.[BRK]
 
-Perhaps if i use...[BRK]
+Perhaps if I use...[BRK]
 
 [POR05]
 Use? What purpose can tears
@@ -729,10 +729,10 @@ help us?[BRK]
 [POR08]
 You don't understand. These
 tears contain a small
-fraction of althena's power.[BRK]
+fraction of Althena's power.[BRK]
 
 But it should be enough to
-free this area from zophar's
+free this area from Zophar's
 control.[BRK]
 
 I will try to use them to
@@ -746,17 +746,17 @@ power...
 [POR08]
 There.[BRK]
 
-I sense zophar's presence
+I sense Zophar's presence
 retreating from this place.[BRK]
 
-But i don't know how long
+But I don't know how long
 we will be protected.[BRK]
 
-We must find mauri and get
+We must find Mauri and get
 out of here immediately.[BRK]
 
 [POR05]
-Lucia, i won't forget what
+Lucia, I won't forget what
 you've done here.[BRK]
 
 I will find some way to
@@ -767,32 +767,32 @@ repay you...bet on it![BRK]
 
 But enough sappy talk.[BRK]
 
-We'd better find mauri
-before zophar's power
+We'd better find Mauri
+before Zophar's power
 returns!
 
 [END]
 
 === 26 | 1e65e | f ===
-Serak palace 5f[END]
+Serak palace 5F[END]
 
 === 27 | 1f65e | f ===
-Serak palace 2f[END]
+Serak palace 2F[END]
 
 === 28 | 20968 | f ===
-Serak palace 3f[END]
+Serak palace 3F[END]
 
 === 29 | 21ba0 | f ===
-Serak palace 4f[END]
+Serak palace 4F[END]
 
 === 2a | 22ddc | dc ===
 [POR05]
 Whoa! Creep-o-rama![BRK]
 
 I've always wanted to get
-inside mauri's head,[BRK]
+inside Mauri's head,[BRK]
 
-but this isn't how i planned
+but this isn't how I planned
 to do it...[BRK]
 
 ....
@@ -800,24 +800,24 @@ to do it...[BRK]
 
 But this is no time for
 bad jokes. I've got to
-find mauri![BRK]
+find Mauri![BRK]
 
 I just hope the others are
 all right...[END]
 
 === 2b | 22f5c | 2c1 ===
 [POR05]
-...mauri![BRK]
+...Mauri![BRK]
 
 I've found you...[BRK]
 
-Mauri! It's me, ronfar!![BRK]
+Mauri! It's me, Ronfar!![BRK]
 
 [POR15]
 Ronfar!?[BRK]
 
 You...are you sure you're
-ronfar?[BRK]
+Ronfar?[BRK]
 
 ....
 .....[BRK]
@@ -829,39 +829,39 @@ I don't have the strength
 to resist you any longer![BRK]
 
 [POR05]
-No, mauri! It's really me!
+No, Mauri! It's really me!
 Lucia sent me inside your
 mind to free you![BRK]
 
 [POR15]
-Every time i think about
-ronfar,[BRK]
+Every time I think about
+Ronfar,[BRK]
 
-i pray that when i open my
+I pray that when I open my
 eyes he'll be there,[BRK]
 
-but when i do, he fades away
+but when I do, he fades away
 in a hideous gas,[BRK]
 
 and all that remains is an
 all-consuming despair.[BRK]
 
 [POR05]
-But this is no dream, mauri!
+But this is no dream, Mauri!
 I've come to rescue you![BRK]
 
 Trust me. This time when you
-awake i'll be holding you
+awake I'll be holding you
 in my arms.[BRK]
 
-Please, mauri trust me![BRK]
+Please, Mauri trust me![BRK]
 
 Come on, open your eyes my
 love and we can start our
 new life together...[BRK]
 
 [POR15]
-...oh, ronfar![END]
+...oh, Ronfar![END]
 
 === 2c | 23226 | c ===
 Mauri's mind[END]
@@ -874,7 +874,7 @@ Donated 100s!
 Who are you?[BRK]
 
 You're not scheduled to
-be cleansed by mauri yet![BRK]
+be cleansed by Mauri yet![BRK]
 
 Leave this place at once![END]
 
@@ -882,7 +882,7 @@ Leave this place at once![END]
 Are you deaf? I said that
 you must leave this place![BRK]
 
-Return to raculi, and wait
+Return to Raculi, and wait
 for your turn to be
 cleansed.[END]
 

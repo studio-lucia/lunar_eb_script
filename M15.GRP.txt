@@ -4,7 +4,7 @@ Messages: 50
 
 === 0 | 1337c | 2e3 ===
 [POR07]
-In fact, right now the guild
+In fact, right now the Guild
 membership is just being
 expanded.[BRK]
 
@@ -13,11 +13,11 @@ you'll be charter members![BRK]
 
 And you'll also become part
 of the rich history and 
-tradition of vane.[BRK]
+tradition of Vane.[BRK]
 
 So, what do you think? Do
-you want to join the magic
-guild?[BRK]
+you want to join the Magic
+Guild?[BRK]
 
 [POR02]
 It sounds really nice, but
@@ -37,9 +37,9 @@ Please! Please! Please![BRK]
 [POR07]
 Well then, if you finish
 this quest faster, you can
-join the guild![BRK]
+join the Guild![BRK]
 
-So, i'll tell you what: i'll
+So, I'll tell you what: I'll
 go with you to speed up this
 little quest of yours.[BRK]
 
@@ -62,7 +62,7 @@ let's get moving!
 [POR07]
 I hope that once we finish
 your quest, you'll join the
-guild.[BRK]
+Guild.[BRK]
 
 I'll do my best to speed
 things along. Just think
@@ -73,11 +73,11 @@ Don't you think you're being
 a little...er...pushy?[BRK]
 
 [POR08]
-This magic guild sounds
+This Magic Guild sounds
 quite enchanting...[BRK]
 
 [POR02]
-Watch it, lucia. This girl
+Watch it, Lucia. This girl
 sounds desperate. If you say
 any more,[BRK]
 
@@ -86,12 +86,12 @@ yourself hog-tied and being
 dragged to this magic city.[BRK]
 
 [POR05]
-Oh, c'mon, ruby! She's not
+Oh, c'mon, Ruby! She's not
 that bad! And besides, we
 could use her in battle![BRK]
 
 [POR10]
-Okay, ronfar! That's enough!
+Okay, Ronfar! That's enough!
 She's off-limits to you![BRK]
 
 [POR05]
@@ -137,7 +137,7 @@ D-do you think it was a
 
 [POR02]
 There it is again! Now that
-i think about it, it's
+I think about it, it's
 probably not a ghost...[BRK]
 
 They wouldn't be using a
@@ -242,100 +242,100 @@ Ghost manor lobby[END]
 Manor exit[END]
 
 === e | 16298 | 10 ===
-Manor hall to 1f[END]
+Manor hall to 1F[END]
 
 === f | 1688c | 10 ===
-Manor hall to 2f[END]
+Manor hall to 2F[END]
 
 === 10 | 16e88 | d ===
-Manor 1f hall[END]
+Manor 1F hall[END]
 
 === 11 | 17a60 | f ===
-Manor 1f room 1[END]
+Manor 1F room 1[END]
 
 === 12 | 180e0 | f ===
-Manor 1f room 2[END]
+Manor 1F room 2[END]
 
 === 13 | 187ba | f ===
-Manor 1f room 3[END]
+Manor 1F room 3[END]
 
 === 14 | 18eac | f ===
-Manor 1f room 4[END]
+Manor 1F room 4[END]
 
 === 15 | 19560 | 11 ===
 Manor dining hall[END]
 
 === 16 | 19e54 | 11 ===
-Manor 1f ballroom[END]
+Manor 1F ballroom[END]
 
 === 17 | 1a6fe | d ===
-Manor 2f hall[END]
+Manor 2F hall[END]
 
 === 18 | 1b376 | 10 ===
-Manor 2f room 1a[END]
+Manor 2F room 1A[END]
 
 === 19 | 1be70 | 10 ===
-Manor 2f room 1b[END]
+Manor 2F room 1B[END]
 
 === 1a | 1c956 | 10 ===
-Manor 2f room 1c[END]
+Manor 2F room 1C[END]
 
 === 1b | 1d44a | 10 ===
-Manor 2f room 1d[END]
+Manor 2F room 1D[END]
 
 === 1c | 1df50 | 10 ===
-Manor 2f room 2a[END]
+Manor 2F room 2A[END]
 
 === 1d | 1e926 | 10 ===
-Manor 2f room 2b[END]
+Manor 2F room 2B[END]
 
 === 1e | 1f302 | 10 ===
-Manor 2f room 2c[END]
+Manor 2F room 2C[END]
 
 === 1f | 1fd16 | 10 ===
-Manor 2f room 2d[END]
+Manor 2F room 2D[END]
 
 === 20 | 2072a | d ===
-Manor 3f hall[END]
+Manor 3F hall[END]
 
 === 21 | 21174 | 10 ===
-Manor 3f room 1a[END]
+Manor 3F room 1A[END]
 
 === 22 | 2176c | 10 ===
-Manor 3f room 1b[END]
+Manor 3F room 1B[END]
 
 === 23 | 21da4 | f ===
-Manor 3f hall 2[END]
+Manor 3F hall 2[END]
 
 === 24 | 223ce | 10 ===
-Manor 3f room 2a[END]
+Manor 3F room 2A[END]
 
 === 25 | 229dc | 10 ===
-Manor 3f room 2b[END]
+Manor 3F room 2B[END]
 
 === 26 | 23016 | 10 ===
-Manor 3f room 3a[END]
+Manor 3F room 3A[END]
 
 === 27 | 2360e | 10 ===
-Manor 3f room 3b[END]
+Manor 3F room 3B[END]
 
 === 28 | 23c56 | f ===
-Manor 3f hall 3[END]
+Manor 3F hall 3[END]
 
 === 29 | 24286 | 10 ===
-Manor 3f room 4a[END]
+Manor 3F room 4A[END]
 
 === 2a | 24894 | 10 ===
-Manor 3f room 4b[END]
+Manor 3F room 4B[END]
 
 === 2b | 24ed6 | 10 ===
-Manor 3f room 4c[END]
+Manor 3F room 4C[END]
 
 === 2c | 2575c | 4b ===
 [POR02]
 This door is not gonna
 budge. I don't think we're
-getting in here, hiro.[END]
+getting in here, Hiro.[END]
 
 === 2d | 257ba | 6e ===
 [POR20]
@@ -364,7 +364,7 @@ better not go in.
 [POR20]
 On the other side of this
 manor, there's a passage
-that bypasses takkar.[BRK]
+that bypasses Takkar.[BRK]
 
 If you successfully get to
 the top of the manor, you'll
@@ -378,10 +378,10 @@ I wish you the best of luck.[BRK]
 === 30 | 259e4 | 82 ===
 [POR20]
 Hee, hee, hee, hee...this
-is one test i'm looking
+is one test I'm looking
 forward to administering![BRK]
 
-Now, all i have to do is get
+Now, all I have to do is get
 there ahead of them...[END]
 
 === 31 | 25a70 | 10 ===

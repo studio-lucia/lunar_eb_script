@@ -10,7 +10,7 @@ The spire guardians have
 come to life![BRK]
 
 What are we going to do,
-hiro? We can't beat three
+Hiro? We can't beat three
 more of these things!
 [END]
 
@@ -18,16 +18,16 @@ more of these things!
 [POR09]
 Ha! Those guardians are no
 match for the power of the
-dragonship destiny!
+Dragonship Destiny!
 [END]
 
 === 2 | 1a44c | 2e3 ===
 [POR09]
-With the goddess althena
+With the Goddess Althena
 providing the power, this
 ship is invin...[BRK]
 
-But i have better things
+But I have better things
 to do than brag about my
 ship.[BRK]
 
@@ -35,7 +35,7 @@ Althena has sent me to
 capture a destroyer that
 has come to our world.[BRK]
 
-And i don't intend to let
+And I don't intend to let
 her down![BRK]
 
 [POR04]
@@ -56,15 +56,15 @@ of mistake...[BRK]
 You have no authority to
 doubt me, old man.[BRK]
 
-This destroyer i'm looking
-for is in that tower...i'd
+This destroyer I'm looking
+for is in that tower...I'd
 bet my life on it.[BRK]
 
 It's my job to smoke it
 out and deliver it to
-althena.[BRK]
+Althena.[BRK]
 
-And if it resists, althena
+And if it resists, Althena
 has given me authority to
 eradicate it.[BRK]
 
@@ -72,9 +72,9 @@ You're out of your league
 here. Just go home.[BRK]
 
 [POR02]
-Of all the...i can't believe
+Of all the...I can't believe
 how rude he is! He works for
-althena?
+Althena?
 
 
 
@@ -83,7 +83,7 @@ althena?
 
 === 3 | 1a74a | 22 ===
 [POR09]
-Say, hiro, who's the lady?
+Say, Hiro, who's the lady?
 
 
 
@@ -109,7 +109,7 @@ We barely escaped. If you
 hurry, you may catch it![BRK]
 
 [POR09]
-Ha! Exactly as i suspected!
+Ha! Exactly as I suspected!
 The destroyer is in the
 tower![BRK]
 
@@ -125,12 +125,12 @@ That was close...[BRK]
 
 [POR04]
 Hurry, kids, we must get
-lucia back to the house.
+Lucia back to the house.
 She's weakening...[BRK]
 
 Maybe then she can tell us
 exactly why she needs to
-see althena...[BRK]
+see Althena...[BRK]
 
 And more importantly, how
 she expects to find her...[END]

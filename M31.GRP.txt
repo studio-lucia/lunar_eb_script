@@ -4,18 +4,18 @@ Messages: 86
 
 === 0 | 853c | f7 ===
 [POR02]
-Whoa...hiro! Look at this
+Whoa...Hiro! Look at this
 place...it's fantastic![BRK]
 
 [POR08]
 Althena must be nearby, but
-i do not yet sense her
+I do not yet sense her
 presence...[BRK]
 
 ...it's so...strange...[BRK]
 
 Hopefully it is not too
-late to stop zophar and
+late to stop Zophar and
 save both our worlds.[BRK]
 
 But...that means...[BRK]
@@ -27,49 +27,49 @@ But...that means...[BRK]
 
 === 1 | 863c | 7d ===
 This is the holy sanctuary
-where the goddess resides.[BRK]
+where the Goddess resides.[BRK]
 
 If you do anything to upset
-the goddess, she'll
+the Goddess, she'll
 destroy you in a flash![END]
 
 === 2 | 86be | 7f ===
-I've been in pentagulia
-all this time and i've
-never seen the goddess.[BRK]
+I've been in Pentagulia
+all this time and I've
+never seen the Goddess.[BRK]
 
-I just hope i can get
+I just hope I can get
 one glimpse of her before
-i die...[END]
+I die...[END]
 
 === 3 | 8742 | 38 ===
 This tower was constructed
-in honor of white knight
-leo.[END]
+in honor of White Knight
+Leo.[END]
 
 === 4 | 8780 | 42 ===
 The tower before you was
 constructed in honor of
-red priest mauri.[END]
+Red Priest Mauri.[END]
 
 === 5 | 87c8 | 67 ===
 I have been assigned to
 stand guard over this tower
-by master lunn.[BRK]
+by Master Lunn.[BRK]
 
 The tower was erected in
 his honor.[END]
 
 === 6 | 8834 | 10c ===
 This is the entrance to the
-black tower.[BRK]
+Black Tower.[BRK]
 
 It was constructed in honor
-of grand black wizard
-borgan.[BRK]
+of Grand Black Wizard
+Borgan.[BRK]
 
 We hate it when he comes
-to pentagulia to inspect
+to Pentagulia to inspect
 his tower...[BRK]
 
 ...because we have to grease
@@ -83,25 +83,25 @@ two ways about it.[END]
 I haven't seen you before.
 Are you new here?[BRK]
 
-Goddess althena must be
+Goddess Althena must be
 very fond of you,[BRK]
 
 for only the most holy are
 allowed in.[END]
 
 === 8 | 89e0 | 81 ===
-I think althena has the
+I think Althena has the
 right idea in keeping the
 riff-raff out.[BRK]
 
-Thank althena there is
+Thank Althena there is
 no concept of civil
-liberties in lunar...[END]
+liberties in Lunar...[END]
 
 === 9 | 8a70 | e0 ===
 I have never seen one bring
 such a fantastic gift before
-the goddess![BRK]
+the Goddess![BRK]
 
 Are you going to sacrifice
 the flying cat in exchange
@@ -115,7 +115,7 @@ What do you think we are,
 stupid?[END]
 
 === a | 8b64 | e2 ===
-I believe that althena will
+I believe that Althena will
 find pleasure in the cat
 you brought to sacrifice.[BRK]
 
@@ -124,7 +124,7 @@ selling it to me, would
 you?[BRK]
 
 [POR02]
-Stop laughing, hiro! This
+Stop laughing, Hiro! This
 is serious![BRK]
 
 This moron wants to kill
@@ -134,10 +134,10 @@ me! It's no laughing matter!
 
 === b | 8c56 | b5 ===
 We all could learn much from
-the goddess althena.[BRK]
+the Goddess Althena.[BRK]
 
 Her love has spread even to
-ghaleon, who once enslaved
+Ghaleon, who once enslaved
 her.[BRK]
 
 Now he walks freely about
@@ -147,16 +147,16 @@ Is there no end to her love?
 [END]
 
 === c | 8d1e | b4 ===
-It's amazing that althena
-allows ghaleon to be here.[BRK]
+It's amazing that Althena
+allows Ghaleon to be here.[BRK]
 
 You know, once before, he
 even tried to kill her
-beloved dragonmaster![BRK]
+beloved Dragonmaster![BRK]
 
 [POR02]
 Why would she risk that?
-Isn't ghaleon pure evil?
+Isn't Ghaleon pure evil?
 
 
 
@@ -172,8 +172,8 @@ come during my lifetime![END]
 
 === e | 8e6c | 56 ===
 Will you lay down your
-life for the goddess
-althena?[BRK]
+life for the Goddess
+Althena?[BRK]
 
 Someday it may be asked of
 you...[END]
@@ -188,7 +188,7 @@ tolerated![BRK]
 
 [POR02]
 I am not an animal. I'm a
-red dragon, idiot![END]
+Red Dragon, idiot![END]
 
 === 10 | 8f72 | c5 ===
 Mauri does not serve 
@@ -200,7 +200,7 @@ you're saying, she'll kill
 you![BRK]
 
 [POR02]
-Oh yeah...well i got 
+Oh yeah...well I got 
 something to say about that![BRK]
 
 ......bite me!!
@@ -221,7 +221,7 @@ seriously.[END]
 === 12 | 9108 | 81 ===
 The only thing that keeps me
 going is the hope that one
-day, if i'm good enough,[BRK]
+day, if I'm good enough,[BRK]
 
 she will bless my work and
 grant me immortality.[END]
@@ -229,21 +229,21 @@ grant me immortality.[END]
 === 13 | 9198 | 14c ===
 Only the most holy priests
 are allowed within the
-confines of pentagulia,[BRK]
+confines of Pentagulia,[BRK]
 
-although althena sometimes
+although Althena sometimes
 makes allowances for those
 that donate large sums.[BRK]
 
-What? Me? Yes, i am a
+What? Me? Yes, I am a
 priest...[BRK]
 
 But it was not always so.
-In my former life, i was but
+In my former life, I was but
 a simple merchant.[BRK]
 
 I was allowed to enter
-pentagulia only after I
+Pentagulia only after I
 made a sizable donation...
 [END]
 
@@ -259,11 +259,11 @@ They have shown me the
 light...[END]
 
 === 15 | 939e | 19b ===
-The greatest joy that i have
+The greatest joy that I have
 experienced has been during
 my time here.[BRK]
 
-The thought that the goddess
+The thought that the Goddess
 herself resides here
 sends chills down my spine.[BRK]
 
@@ -271,7 +271,7 @@ sends chills down my spine.[BRK]
 This place sends chills down
 my spine, too.[BRK]
 
-But i think it's because
+But I think it's because
 this joint's so spooky![BRK]
 
 I mean...listen to that
@@ -280,7 +280,7 @@ that coming from?[BRK]
 
 Do they pipe it in?[BRK]
 
-I mean, i'm just waiting for
+I mean, I'm just waiting for
 lon chaney to pop up any
 minute![BRK]
 
@@ -290,7 +290,7 @@ Creeeeeppppyyy!
 === 16 | 954c | 70 ===
 Look towards the heavens
 and bask in the glow of
-goddess althena's love.[BRK]
+Goddess Althena's love.[BRK]
 
 Only then will you know
 true happiness.[END]
@@ -302,16 +302,16 @@ Pentagulia[END]
 [POR09]
 We've arrived!![BRK]
 
-The holy city of pentagulia
+The holy city of Pentagulia
 stands before you![BRK]
 
 This is the crown jewel of
-althena's cult.[END]
+Althena's Cult.[END]
 
 === 19 | b9c8 | 90 ===
 [POR08]
 Zophar's immediate goal will
-be to seize althena's power.[BRK]
+be to seize Althena's power.[BRK]
 
 We must find her before he
 can accomplish that.[BRK]
@@ -322,10 +322,10 @@ must hurry![END]
 === 1a | ba7c | 66 ===
 [ROR09]
 I will do my best to secure
-an audience with althena.[BRK]
+an audience with Althena.[BRK]
 
-However, i cannot promise
-you i will succeed.[END]
+However, I cannot promise
+you I will succeed.[END]
 
 === 1b | bae6 | 20 ===
 [ROR01]
@@ -345,41 +345,41 @@ prevented this![END]
 
 === 1d | bb8e | 2de ===
 [ROR09]
-Ah! Master ghaleon! This
+Ah! Master Ghaleon! This
 is an unexpected pleasure.[BRK]
 
 [ROR01]
 ....!?[BRK]
 
 [ROR08]
-Master ghaleon? You mean to
+Master Ghaleon? You mean to
 say that he is welcome here?[BRK]
 
 Althena has sanctioned your
 actions?[BRK]
 
 [ROR09]
-Master ghaleon, i was
-ordered to bring lucia to
+Master Ghaleon, I was
+ordered to bring Lucia to
 justice.[BRK]
 
 I have brought her to
-pentagulia so that althena
+Pentagulia so that Althena
 may decide her fate.[BRK]
 
 [ROR14]
-Ah, but i know all that.[BRK]
+Ah, but I know all that.[BRK]
 
-For you see, at althena's
-behest i have been following
-lucia's progress.[BRK]
+For you see, at Althena's
+behest I have been following
+Lucia's progress.[BRK]
 
 [ROR09]
 ...following!?[BRK]
 
 [ROR14]
 I have noted that your
-dedication to the goddess
+dedication to the Goddess
 has become...er....[BRK]
 
 ...questionable.[BRK]
@@ -387,12 +387,12 @@ has become...er....[BRK]
 [ROR09]
 How can you say that! I have
 done everything asked of
-me by the goddess![BRK]
+me by the Goddess![BRK]
 
 [ROR14]
-Ah, yes. Well then, i'm sure
+Ah, yes. Well then, I'm sure
 you'll do your best to take
-the girl to the goddess.[BRK]
+the girl to the Goddess.[BRK]
 
 ...and then the real show
 will begin...hm, hm, hm.
@@ -417,25 +417,25 @@ Leo!.......wait!
 Where are you going?[BRK]
 
 How are we supposed to
-find althena's sanctuary?![END]
+find Althena's sanctuary?![END]
 
 === 20 | bf4a | 1fc ===
 [POR05]
 Well, this is the end of
 my bargain, too.[BRK]
 
-I saw you through to penta-
-gulia. Now, i've got some
+I saw you through to Penta-
+gulia. Now, I've got some
 business of my own.[BRK]
 
 Don't worry. Leo will see
 to it that you find the
-goddess.[BRK]
+Goddess.[BRK]
 
-I've got to go see mauri.[BRK]
+I've got to go see Mauri.[BRK]
 
 Hate to say it, but good-
-bye, hiro...good-bye, lucia.[BRK]
+bye, Hiro...good-bye, Lucia.[BRK]
 
 [POR02]
 How rude! Aren't you goin'
@@ -443,9 +443,9 @@ to say good-bye to me too?[BRK]
 
 [POR05]
 Hahaha...oh yes, how could
-i forget?[BRK]
+I forget?[BRK]
 
-Good-bye, ruby! Make sure
+Good-bye, Ruby! Make sure
 you keep a rein on that
 fire of yours![BRK]
 
@@ -460,7 +460,7 @@ I guess this is adios!
 
 === 21 | c150 | 4f ===
 [POR02]
-I sure hope ronfar knows
+I sure hope Ronfar knows
 what he's doing.[BRK]
 
 I think that girl is baaad
@@ -468,7 +468,7 @@ news...[END]
 
 === 22 | c1ba | 15c ===
 [POR08]
-I don't think i've ever
+I don't think I've ever
 felt feelings like this
 before...[BRK]
 
@@ -491,19 +491,19 @@ heart...this empty space...
 ....
 .....[BRK]
 
-Then, yes...i feel sad that
+Then, yes...I feel sad that
 everyone has left.
 
 [END]
 
 === 23 | c32e | 18d ===
 [POR10]
-I have to go and see master
-lunn now...[BRK]
+I have to go and see Master
+Lunn now...[BRK]
 
 Maybe he can shed some
 light on my encounter with
-the blue dragon cult leader.[BRK]
+the Blue Dragon Cult leader.[BRK]
 
 I must find out who he
 really is...[BRK]
@@ -523,7 +523,7 @@ and see me again![BRK]
 to see you dance again!![BRK]
 
 [POR10]
-When you come, ruby, i'll
+When you come, Ruby, I'll
 do a special dance for you!
 
 
@@ -531,30 +531,30 @@ do a special dance for you!
 
 === 24 | c4ea | 2da ===
 [POR07]
-I guess i'd better be taking
+I guess I'd better be taking
 off, too.[BRK]
 
 I've got to have a few words
-with that creep borgan![BRK]
+with that creep Borgan![BRK]
 
 If you do happen to see the
-goddess,[BRK]
+Goddess,[BRK]
 
 would you ask her if she
 would like to donate some
-money or luck to the guild?[BRK]
+money or luck to the Guild?[BRK]
 
 After all, she was the one
-that destroyed vane in the
+that destroyed Vane in the
 first place.[BRK]
 
 [POR08]
-But wasn't she under master
-ghaleon's control?[BRK]
+But wasn't she under Master
+Ghaleon's control?[BRK]
 
 [POR07]
 Yeah, yeah, yeah...okay,
-so she was under ghaleon's
+so she was under Ghaleon's
 control. Same diff.[BRK]
 
 Point is, it'd be nice if
@@ -562,21 +562,21 @@ she helped rebuild it.[BRK]
 
 Anyway, whether you get the
 goods or not, you have to
-come back to vane.[BRK]
+come back to Vane.[BRK]
 
-I want you in my magic
-guild for mega-sure![BRK]
+I want you in my Magic
+Guild for mega-sure![BRK]
 
 [POR08]
-But lemina, i don't think
+But Lemina, I don't think
 that will be possible, you
 see...[BRK]
 
 [POR07]
 Yes, yes, don't worry! We'll
-figure something out, lucia.[BRK]
+figure something out, Lucia.[BRK]
 
-Anyway, i'd better go. Wish
+Anyway, I'd better go. Wish
 me luck!
 [END]
 
@@ -593,12 +593,12 @@ sort of...[BRK]
 I've got a really bad
 feeling about this![BRK]
 
-I...i bet it's zophar![BRK]
+I...I bet it's Zophar![BRK]
 
 [POR05]
 Whatever it is, it looks
 like it's gonna destroy
-pentagulia![BRK]
+Pentagulia![BRK]
 
 We'd better get outta here,
 and pronto![END]
@@ -610,16 +610,16 @@ Pentagulia dock[END]
 [POR09]
 We've arrived!![BRK]
 
-The holy city of pentagulia
+The holy city of Pentagulia
 stands before you![BRK]
 
 This is the crown jewel of
-althena's cult.[END]
+Althena's Cult.[END]
 
 === 28 | d926 | 90 ===
 [POR08]
 Zophar's immediate goal will
-be to seize althena's power.[BRK]
+be to seize Althena's power.[BRK]
 
 We must find her before he
 can accomplish that.[BRK]
@@ -630,10 +630,10 @@ must hurry![END]
 === 29 | d9da | 66 ===
 [ROR09]
 I will do my best to secure
-an audience with althena.[BRK]
+an audience with Althena.[BRK]
 
-However, i cannot promise
-you i will succeed.[END]
+However, I cannot promise
+you I will succeed.[END]
 
 === 2a | da44 | 20 ===
 [ROR01]
@@ -653,41 +653,41 @@ prevented this![END]
 
 === 2c | daec | 2de ===
 [ROR09]
-Ah! Master ghaleon! This
+Ah! Master Ghaleon! This
 is an unexpected pleasure.[BRK]
 
 [ROR01]
 ....!?[BRK]
 
 [ROR08]
-Master ghaleon? You mean to
+Master Ghaleon? You mean to
 say that he is welcome here?[BRK]
 
 Althena has sanctioned your
 actions?[BRK]
 
 [ROR09]
-Master ghaleon, i was
-ordered to bring lucia to
+Master Ghaleon, I was
+ordered to bring Lucia to
 justice.[BRK]
 
 I have brought her to
-pentagulia so that althena
+Pentagulia so that Althena
 may decide her fate.[BRK]
 
 [ROR14]
-Ah, but i know all that.[BRK]
+Ah, but I know all that.[BRK]
 
-For you see, at althena's
-behest i have been following
-lucia's progress.[BRK]
+For you see, at Althena's
+behest I have been following
+Lucia's progress.[BRK]
 
 [ROR09]
 ...following!?[BRK]
 
 [ROR14]
 I have noted that your
-dedication to the goddess
+dedication to the Goddess
 has become...er...[BRK]
 
 ...questionable.[BRK]
@@ -695,12 +695,12 @@ has become...er...[BRK]
 [ROR09]
 How can you say that! I have
 done everything asked of
-me by the goddess![BRK]
+me by the Goddess![BRK]
 
 [ROR14]
-Ah, yes. Well then, i'm sure
+Ah, yes. Well then, I'm sure
 you'll do your best to take
-the girl to the goddess.[BRK]
+the girl to the Goddess.[BRK]
 
 ...and then the real show
 will begin...hm, hm, hm...
@@ -725,25 +725,25 @@ Leo!.......wait!
 Where are you going?[BRK]
 
 How are we supposed to
-find althena's sanctuary?![END]
+find Althena's sanctuary?![END]
 
 === 2f | dea8 | 1fc ===
 [POR05]
 Well, this is the end of
 my bargain, too.[BRK]
 
-I saw you through to penta-
-gulia. Now, i've got some
+I saw you through to Penta-
+gulia. Now, I've got some
 business of my own.[BRK]
 
 Don't worry. Leo will see
 to it that you find the
-goddess.[BRK]
+Goddess.[BRK]
 
-I've got to go see mauri.[BRK]
+I've got to go see Mauri.[BRK]
 
 Hate to say it, but good-
-bye, hiro...good-bye, lucia.[BRK]
+bye, Hiro...good-bye, Lucia.[BRK]
 
 [POR02]
 How rude! Aren't you goin'
@@ -751,9 +751,9 @@ to say good-bye to me too?[BRK]
 
 [POR05]
 Hahaha...oh yes, how could
-i forget?[BRK]
+I forget?[BRK]
 
-Good-bye, ruby! Make sure
+Good-bye, Ruby! Make sure
 you keep a rein on that
 fire of yours![BRK]
 
@@ -768,7 +768,7 @@ I guess this is adios!
 
 === 30 | e0ae | 4f ===
 [POR02]
-I sure hope ronfar knows
+I sure hope Ronfar knows
 what he's doing.[BRK]
 
 I think that girl is baaad
@@ -776,7 +776,7 @@ news...[END]
 
 === 31 | e118 | 15c ===
 [POR08]
-I don't think i've ever
+I don't think I've ever
 felt feelings like this
 before...[BRK]
 
@@ -799,19 +799,19 @@ heart...this empty space...
 ....
 .....[BRK]
 
-Then, yes...i feel sad that
+Then, yes...I feel sad that
 everyone has left.
 
 [END]
 
 === 32 | e28c | 18d ===
 [POR10]
-I have to go and see master
-lunn now...[BRK]
+I have to go and see Master
+Lunn now...[BRK]
 
 Maybe he can shed some
 light on my encounter with
-the blue dragon cult leader.[BRK]
+the Blue Dragon Cult leader.[BRK]
 
 I must find out who he
 really is...[BRK]
@@ -831,7 +831,7 @@ and see me again![BRK]
 to see you dance again!![BRK]
 
 [POR10]
-When you come, ruby, i'll
+When you come, Ruby, I'll
 do a special dance for you!
 
 
@@ -839,30 +839,30 @@ do a special dance for you!
 
 === 33 | e448 | 2da ===
 [POR07]
-I guess i'd better be taking
+I guess I'd better be taking
 off, too.[BRK]
 
 I've got to have a few words
-with that creep borgan![BRK]
+with that creep Borgan![BRK]
 
 If you do happen to see the
-goddess,[BRK]
+Goddess,[BRK]
 
 would you ask her if she
 would like to donate some
-money or luck to the guild?[BRK]
+money or luck to the Guild?[BRK]
 
 After all, she was the one
-that destroyed vane in the
+that destroyed Vane in the
 first place.[BRK]
 
 [POR08]
-But wasn't she under master
-ghaleon's control?[BRK]
+But wasn't she under Master
+Ghaleon's control?[BRK]
 
 [POR07]
 Yeah, yeah, yeah...okay,
-so she was under ghaleon's
+so she was under Ghaleon's
 control. Same diff.[BRK]
 
 Point is, it'd be nice if
@@ -870,21 +870,21 @@ she helped rebuild it.[BRK]
 
 Anyway, whether you get the
 goods or not, you have to
-come back to vane.[BRK]
+come back to Vane.[BRK]
 
-I want you in my magic
-guild for mega-sure![BRK]
+I want you in my Magic
+Guild for mega-sure![BRK]
 
 [POR08]
-But lemina, i don't think
+But Lemina, I don't think
 that will be possible, you
 see...[BRK]
 
 [POR07]
 Yes, yes, don't worry! We'll
-figure something out, lucia.[BRK]
+figure something out, Lucia.[BRK]
 
-Anyway, i'd better go. Wish
+Anyway, I'd better go. Wish
 me luck!
 [END]
 
@@ -901,12 +901,12 @@ sort of...[BRK]
 I've got a really bad
 feeling about this![BRK]
 
-I...i bet it's zophar![BRK]
+I...I bet it's Zophar![BRK]
 
 [POR05]
 Whatever it is, it looks
 like it's gonna destroy
-pentagulia![BRK]
+Pentagulia![BRK]
 
 We'd better get outta here,
 and pronto![END]
@@ -915,11 +915,11 @@ and pronto![END]
 Pentagulia dock[END]
 
 === 36 | fad0 | b8 ===
-As a member of the althena
-cult,[BRK]
+As a member of the Althena
+Cult,[BRK]
 
 we are sworn to keep the
-good name of althena free
+good name of Althena free
 from reproach.[BRK]
 
 That's why our manners are
@@ -931,9 +931,9 @@ Whew! All the time?[BRK]
 That would suck![END]
 
 === 37 | fb9c | 73 ===
-As a true believer, i will
+As a true believer, I will
 not bring any reproach on
-the name of althena.[BRK]
+the name of Althena.[BRK]
 
 [POR02]
 And you will not attract
@@ -954,7 +954,7 @@ Shyeah...as if...
 
 === 39 | fcca | 54 ===
 Remember! Always give thanks
-to the goddess![BRK]
+to the Goddess![BRK]
 
 ...and donate all your
 worldly wealth.
@@ -962,11 +962,11 @@ worldly wealth.
 
 === 3a | fd2e | b4 ===
 I've not known sadness in
-all the time i've lived
+all the time I've lived
 here![BRK]
 
 I think it's because the
-goddess has blessed me.[BRK]
+Goddess has blessed me.[BRK]
 
 [POR02]
 More like it's because of
@@ -974,24 +974,24 @@ the prozac injections they
 give you at dinner.[END]
 
 === 3b | fdf6 | 78 ===
-I'm sorry, but i can't 
+I'm sorry, but I can't 
 speak to people who don't
-appreciate the goddess.[BRK]
+appreciate the Goddess.[BRK]
 
 [POR02]
-I appreciate the goddess.
+I appreciate the Goddess.
 You stupid wench![END]
 
 === 3c | fe7e | d3 ===
-I think i've always been
+I think I've always been
 lucky![BRK]
 
-Since i've joined the cult,
+Since I've joined the Cult,
 look at all the good things
-i've received![BRK]
+I've received![BRK]
 
 You know, it pays to worship
-the goddess althena![BRK]
+the Goddess Althena![BRK]
 
 [POR02]
 Yeah, yeah, we know....[BRK]
@@ -1002,18 +1002,18 @@ her...[END]
 === 3d | ff64 | 4d ===
 I had to leave behind most 
 of my family to get here,
-but at least i'm happy![END]
+but at least I'm happy![END]
 
 === 3e | ffb6 | ec ===
 We have the best soldiers
 in the world stationed here.[BRK]
 
 Many say there's no way that
-zophar will ever return
+Zophar will ever return
 fully to this dimension...[BRK]
 
 [POR08]
-But...the power of zophar is 
+But...the power of Zophar is 
 getting stronger by the
 minute![BRK]
 
@@ -1025,19 +1025,19 @@ Ghaleon has completely
 changed his ways.[BRK]
 
 He lives only to ensure that
-the goddess stays free from
+the Goddess stays free from
 harm.[END]
 
 === 40 | 10116 | b1 ===
 The best way to ensure your
 safety while you're here is
-to donate to the goddess.[BRK]
+to donate to the Goddess.[BRK]
 
 The goddess' love embraces
 those that give freely.[BRK]
 
 [POR08]
-What interest does althena
+What interest does Althena
 have in money?[END]
 
 === 41 | 101d6 | 46 ===
@@ -1046,18 +1046,18 @@ that this world was once a
 desolate waste.[END]
 
 === 42 | 10230 | 52 ===
-Just think! If althena
+Just think! If Althena
 didn't care about us,[BRK]
 
 this world would still be
 desolate...[END]
 
 === 43 | 10292 | cd ===
-Even though the goddess was
+Even though the Goddess was
 reborn into this world,[BRK]
 
 she still relies on the
-power of the dragonmaster
+power of the Dragonmaster
 for protection.[BRK]
 
 [POR08]
@@ -1065,11 +1065,11 @@ Althena does not need the
 power of humans.[BRK]
 
 Her power is the only way
-to stop zophar![END]
+to stop Zophar![END]
 
 === 44 | 10372 | 35 ===
-I hope that althena has 
-enough power to kill zophar![END]
+I hope that Althena has 
+enough power to kill Zophar![END]
 
 === 45 | 103b0 | 12 ===
 Pentagulia house 1[END]
@@ -1080,7 +1080,7 @@ He looks so fine...[BRK]
 
 I think he's the dreamiest
 man that's ever walked the
-face of lunar![BRK]
+face of Lunar![BRK]
 
 [POR02]
 I'm thinking just two words.[BRK]
@@ -1095,7 +1095,7 @@ Up.
 
 === 47 | 10ca0 | 99 ===
 Do ya think a gal like me
-and a guy like ghaleon can
+and a guy like Ghaleon can
 ever get together?[BRK]
 
 [POR02]
@@ -1108,7 +1108,7 @@ about it...bleecchh![END]
 === 48 | 10d48 | 88 ===
 I'm sick and tired of
 listening to people say
-how great ghaleon is![BRK]
+how great Ghaleon is![BRK]
 
 Don't these people remember
 that he once tried to
@@ -1119,13 +1119,13 @@ I'm starting an anti-ghaleon
 campaign.[BRK]
 
 We'll focus our attention on
-trying to get ghaleon out of
-the holy city of pentagulia.[END]
+trying to get Ghaleon out of
+the holy city of Pentagulia.[END]
 
 === 4a | 10e66 | 63 ===
 I heard that long ago,
-ghaleon was despised by
-the inhabitants of lunar.[BRK]
+Ghaleon was despised by
+the inhabitants of Lunar.[BRK]
 
 I don't understand that...[END]
 
@@ -1139,7 +1139,7 @@ staying in our city?[BRK]
 
 Did you bring everything
 that you need? Is there 
-anything i can do for you?[BRK]
+anything I can do for you?[BRK]
 
 [POR02]
 Yeah! You can shut up for
@@ -1152,21 +1152,21 @@ long do you plan to stay
 this time?[END]
 
 === 4d | 1103e | e5 ===
-I'm sorry, but i can't stand
+I'm sorry, but I can't stand
 to be amongst ones who have
-no love for the goddess.[BRK]
+no love for the Goddess.[BRK]
 
 They have no direction in 
 their lives, nor any respect
 for the elderly.[BRK]
 
 I tell ya, if everyone 
-worshipped althena, this 
+worshipped Althena, this 
 would be a better world![END]
 
 === 4e | 11136 | 7c ===
-Since i've found the 
-goddess, i don't fear 
+Since I've found the 
+goddess, I don't fear 
 death anymore![BRK]
 
 Just being able to live
@@ -1176,11 +1176,11 @@ a thousand lives!![END]
 === 4f | 111c2 | 7b ===
 Did you hear that the 
 destroyer is here inside
-pentagulia?[BRK]
+Pentagulia?[BRK]
 
-I hope master ghaleon kills
+I hope Master Ghaleon kills
 it before it gets close to
-althena.[END]
+Althena.[END]
 
 === 50 | 11250 | 52 ===
 I can't believe that the
@@ -1190,7 +1190,7 @@ city.[BRK]
 Won't anyone stop it??![END]
 
 === 51 | 112b2 | e4 ===
-I think that the goddess
+I think that the Goddess
 should build a new city.[BRK]
 
 Pentagulia's getting that
@@ -1205,18 +1205,18 @@ And that was it. There went
 the cachet.[END]
 
 === 52 | 113aa | 51 ===
-I heard that the goddess 
+I heard that the Goddess 
 isn't going to build a new
 city.[BRK]
 
-Now i'm really pissed![END]
+Now I'm really pissed![END]
 
 === 53 | 1140a | bb ===
 With all the monsters
 present in this world,[BRK]
 
 it's a good thing that
-the goddess has the dragon-
+the Goddess has the Dragon-
 master and the four heroes.[BRK]
 
 Could you imagine a world

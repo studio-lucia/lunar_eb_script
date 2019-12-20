@@ -17,7 +17,7 @@ no match for my superior
 intellect.[BRK]
 
 You can't escape the power
-of the dragonship destiny![BRK]
+of the Dragonship Destiny![BRK]
 
 Surrender now![BRK]
 
@@ -49,8 +49,8 @@ I'm in.[BRK]
 
 [POR07]
 This situation looks bad all
-around, and i don't see how
-i'll profit from fighting.[BRK]
+around, and I don't see how
+I'll profit from fighting.[BRK]
 
 Why don't we just surrender?[BRK]
 
@@ -60,10 +60,10 @@ conference and surrender to
 me immediately![BRK]
 
 My given task is to execute
-lucia before she destroys
+Lucia before she destroys
 us all.[BRK]
 
-Know that i have the will
+Know that I have the will
 and the resources to carry
 out that task...
 
@@ -74,7 +74,7 @@ out that task...
 What the hell?!!![END]
 
 === 3 | 14724 | 88 ===
-Ahhhh! The evil lucia
+Ahhhh! The evil Lucia
 is raining fire down
 upon us! Help![BRK]
 
@@ -86,7 +86,7 @@ protect us![BRK]
 You can't be hurt![END]
 
 === 4 | 147b0 | 64 ===
-I guess lord leo was
+I guess Lord Leo was
 wrong.[BRK]
 
 ..........fancy that.[BRK]
@@ -102,7 +102,7 @@ could it be that......?[END]
 === 6 | 14826 | 82 ===
 [POR08]
 It...it looked like...
-.....ghaleon![BRK]
+.....Ghaleon![BRK]
 
 [POR01]
 ....
@@ -114,7 +114,7 @@ Why would he go out of his
 way to help us???[END]
 
 === 7 | 148ac | 53 ===
-Lord leo has been badly
+Lord Leo has been badly
 injured! Quick, we must
 get him to safety![BRK]
 
@@ -155,7 +155,7 @@ no match for my superior
 intellect.[BRK]
 
 You can't escape the power
-of the dragonship destiny![BRK]
+of the Dragonship Destiny![BRK]
 
 Surrender now![BRK]
 
@@ -187,8 +187,8 @@ I'm in.[BRK]
 
 [POR07]
 This situation looks bad all
-around, and i don't see how
-i'll profit from fighting.[BRK]
+around, and I don't see how
+I'll profit from fighting.[BRK]
 
 Why don't we just surrender?[BRK]
 
@@ -198,10 +198,10 @@ conference and surrender to
 me immediately![BRK]
 
 My given task is to execute
-lucia before she destroys
+Lucia before she destroys
 us all.[BRK]
 
-Know that i have the will
+Know that I have the will
 and the resources to carry
 out that task...
 
@@ -212,7 +212,7 @@ out that task...
 What the hell?!!![END]
 
 === d | 19c58 | 88 ===
-Ahhhh! The evil lucia
+Ahhhh! The evil Lucia
 is raining fire down
 upon us! Help![BRK]
 
@@ -224,7 +224,7 @@ protect us![BRK]
 You can't be hurt![END]
 
 === e | 19ce4 | 64 ===
-I guess lord leo was
+I guess Lord Leo was
 wrong.[BRK]
 
 ..........fancy that.[BRK]
@@ -240,7 +240,7 @@ could it be that......?[END]
 === 10 | 19d5a | 82 ===
 [POR08]
 It...it looked like...
-.....ghaleon![BRK]
+.....Ghaleon![BRK]
 
 [POR01]
 ....
@@ -252,7 +252,7 @@ Why would he go out of his
 way to help us???[END]
 
 === 11 | 19de0 | 53 ===
-Lord leo has been badly
+Lord Leo has been badly
 injured! Quick, we must
 get him to safety![BRK]
 

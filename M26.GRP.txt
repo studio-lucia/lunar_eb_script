@@ -4,12 +4,12 @@ Messages: 44
 
 === 0 | 18824 | 5d ===
 [POR02]
-...hey, hiro!
+...hey, Hiro!
 Look over there!![BRK]
 
 [POR09]
-Oh my god...i don't believe
-it...it's......it's mauri!![END]
+Oh my god...I don't believe
+it...it's......it's Mauri!![END]
 
 === 1 | 18884 | 3bc ===
 [POR15]
@@ -17,7 +17,7 @@ My, my! Ronfar! What an
 unexpected surprise![BRK]
 
 [POR05]
-Mauri...oh, mauri...why?
+Mauri...oh, Mauri...why?
 Why have you done this?[BRK]
 
 These people were innocent
@@ -28,11 +28,11 @@ What's happened to you?[BRK]
 [POR15]
 Ha ha ha ha ha![BRK]
 
-Mauri giveth and mauri
+Mauri giveth and Mauri
 taketh away....[BRK]
 
 [POR05]
-I...i know that the ritual
+I...I know that the ritual
 changed you, but you can't
 continue like this![BRK]
 
@@ -44,34 +44,34 @@ love for me left in your
 heart...let us pass.[BRK]
 
 [POR15]
-Ohhh...ronfar...that's...
+Ohhh...Ronfar...that's...
 that's so...[BRK]
 
 ...pathetic![BRK]
 
-Do you think i can forgive
+Do you think I can forgive
 you for leaving me after
 the plague?[BRK]
 
-My service is to althena
+My service is to Althena
 now. I have no room in my
 heart for you.[BRK]
 
-She has ordered lucia's
-execution, and i will not
+She has ordered Lucia's
+execution, and I will not
 fail her.[BRK]
 
 [POR05]
-But mauri...you're simply
+But Mauri...you're simply
 being used...[BRK]
 
 [POR15]
-Silence! Hand over lucia
+Silence! Hand over Lucia
 or forever regret your
 actions![BRK]
 
 [POR05]
-...but...ma...mauri!?[BRK]
+...but...ma...Mauri!?[BRK]
 
 [POR07]
 Pooh! Enough of this talk!
@@ -80,7 +80,7 @@ put up or shut up![BRK]
 
 [POR10]
 We will never surrender
-lucia to agents of evil![BRK]
+Lucia to agents of evil![BRK]
 
 She's our only hope![BRK]
 
@@ -98,11 +98,11 @@ I have been given the
 authority to eradicate the
 destroyer, not you![BRK]
 
-Report back to althena at
+Report back to Althena at
 once and leave this to
 me![BRK]
 
-I think i have found a
+I think I have found a
 better way...[BRK]
 
 ...and you're only making
@@ -110,19 +110,19 @@ things more complicated.[END]
 
 === 3 | 18d44 | 1b1 ===
 [POR09]
-Enough, mauri![BRK]
+Enough, Mauri![BRK]
 
 I'll have no more talk of
 this sort![BRK]
 
 Leave...now![BRK]
 
-Until althena informs me to
-the contrary, i and i alone
-shall bring lucia to her.[BRK]
+Until Althena informs me to
+the contrary, I and I alone
+shall bring Lucia to her.[BRK]
 
 You have no part in this,
-mauri. Leave it to me.[BRK]
+Mauri. Leave it to me.[BRK]
 
 [POR15]
 ....
@@ -136,24 +136,24 @@ your spine is as jelly.[BRK]
 
 The goddess will judge your
 actions once you reach
-pentagulia.[BRK]
+Pentagulia.[BRK]
 
 ....
 .....[BRK]
 
 Oh...and good-bye, dear
-ronfar. You haven't seen
+Ronfar. You haven't seen
 the last of me...[END]
 
 === 4 | 18ef8 | 12f ===
 [POR09]
-Hiro, ronfar, i apologize
-for mauri's actions.[BRK]
+Hiro, Ronfar, I apologize
+for Mauri's actions.[BRK]
 
 I don't know why she's
 become as she has.[BRK]
 
-Somehow, althena has changed
+Somehow, Althena has changed
 her, and not for the better.[BRK]
 
 But enough of that.[BRK]
@@ -161,22 +161,22 @@ But enough of that.[BRK]
 We've wasted too much time
 here.[BRK]
 
-Lucia, i will take you
-to pentagulia on the
-destiny.[BRK]
+Lucia, I will take you
+to Pentagulia on the
+Destiny.[BRK]
 
 Then we can finally get
 to the bottom of this.
 [END]
 
 === 5 | 19044 | 31 ===
-Lo...lord leo...
+Lo...Lord Leo...
 i...c...couldn't
 stop...them...
 [END]
 
 === 6 | 1908c | be ===
-S..Si...sir...i'm s-sorry!
+S..Si...sir...I'm s-sorry!
 I...i...could...not...stop
 ...them...[BRK]
 
@@ -200,7 +200,7 @@ gravely injured...
 [END]
 
 === 8 | 191b8 | 43 ===
-I...i've...failed...
+I...I've...failed...
 you...sir...pleeease...
 for...forgive me...
 
@@ -214,15 +214,15 @@ Azado tower path[END]
 [POR05]
 Ahhh! This is the transport
 device that can carry us
-to pentagulia.[BRK]
+to Pentagulia.[BRK]
 
 [POR07]
 Strange. It looks very 
 similar to the transmission
-spring in vane.[BRK]
+spring in Vane.[BRK]
 
 [POR02]
-Well, i think that they look
+Well, I think that they look
 completely different. After
 all...[BRK]
 
@@ -236,8 +236,8 @@ Let me activate it...[BRK]
 Magic pedestal, heed my
 command![BRK]
 
-I, ronfar, servant to the
-goddess althena, summon
+I, Ronfar, servant to the
+Goddess Althena, summon
 forth your awesome power![BRK]
 
 Release the power of
@@ -251,7 +251,7 @@ of eternity!
 
 [POR02]
 Holy cow! What did you do,
-ronfar?![BRK]
+Ronfar?![BRK]
 
 You summoned some sort of
 ...of...of...m-monster![BRK]
@@ -271,7 +271,7 @@ were talking about?![BRK]
 
 [POR08]
 I sense the vile presence of
-zophar's black power...[BRK]
+Zophar's black power...[BRK]
 
 ...it's getting stronger![BRK]
 
@@ -289,7 +289,7 @@ on here!?[BRK]
 
 I know that this is the
 transport device that
-leads to pentagulia![BRK]
+leads to Pentagulia![BRK]
 
 But instead of transporting
 us there, it summoned a
@@ -304,11 +304,11 @@ This is really weird! I've
 never seen runes like that![BRK]
 
 I think you've just got the
-wrong pedestal, ronfar![BRK]
+wrong pedestal, Ronfar![BRK]
 
 [POR05]
 No, this is the right one,
-but lucia's on to something![BRK]
+but Lucia's on to something![BRK]
 
 Those runes are not supposed
 to be here.[BRK]
@@ -319,17 +319,17 @@ monster![BRK]
 
 [POR07]
 I wonder if the priests
-of althena's cult were the
+of Althena's Cult were the
 ones that changed it![BRK]
 
 If they did, we're all
 in big trouble![BRK]
 
-And lucia said she sensed
-zophar's power when the
+And Lucia said she sensed
+Zophar's power when the
 device was activated![BRK]
 
-Ohhh, i knew we should've
+Ohhh, I knew we should've
 bought those beads...[BRK]
 
 [POR10]
@@ -356,12 +356,12 @@ Leo...what are you doing
 here?[BRK]
 
 [POR09]
-Ronfar, i'm surprised at
+Ronfar, I'm surprised at
 your lack of planning![BRK]
 
 Didn't you remember that
-azado is the home port of
-the destiny?[BRK]
+Azado is the home port of
+the Destiny?[BRK]
 
 You of all people should
 know that![BRK]
@@ -371,7 +371,7 @@ Okay, ya got me there, but
 we had to get to the
 transport device.[BRK]
 
-And i guess it just slipped
+And I guess it just slipped
 my mind...[BRK]
 
 Leo, tell me you didn't know 
@@ -383,7 +383,7 @@ there is a magical beast
 in this town, but...[BRK]
 
 [POR05]
-...i can't believe that you
+...I can't believe that you
 would be responsible for
 something like this...[BRK]
 
@@ -393,12 +393,12 @@ you're fighting for evil![BRK]
 
 [POR09]
 What are you talking about
-ronfar? You're making no
+Ronfar? You're making no
 sense, but...[BRK]
 
 I've had enough of your 
 deceit. Soldiers! Take all
-of them to the destiny!![BRK]
+of them to the Destiny!![BRK]
 
 [POR00]
 Yes, sir![BRK]
@@ -410,8 +410,8 @@ Hey! Watch where you're
 grabbin', pal![BRK]
 
 [POR07]
-...i can't believe that
-leo was involved in that
+...I can't believe that
+Leo was involved in that
 summoning...[BRK]
 
 But what a great scam! 
@@ -419,8 +419,8 @@ Selling those stupid beads
 was one way to get rich.[BRK]
 
 [POR05]
-I thought leo was different.
-The leo i knew would never
+I thought Leo was different.
+The Leo I knew would never
 stoop this low...[BRK]
 
 [POR08]
@@ -440,37 +440,37 @@ I will question the boy
 privately.[BRK]
 
 [POR00]
-Lord leo, are you sure you 
+Lord Leo, are you sure you 
 don't want one of us to
 stay with you?[BRK]
 
 [POR09]
 Ha ha ha! Do you believe
-that the mighty lord leo
+that the mighty Lord Leo
 can be overcome by a boy?[BRK]
 
 Your comedic sensibility is
-greater than i had imagined.[BRK]
+greater than I had imagined.[BRK]
 
 I will be fine. Just leave
 us now...[END]
 
 === f | 1a80c | 118 ===
 [POR09]
-Hiro, i have a question to
+Hiro, I have a question to
 ask, and you must answer it
 to the best of your ability.[BRK]
 
 You've spent quite a bit of
-time with lucia during your
+time with Lucia during your
 travels.[BRK]
 
-And i believe that you know
-lucia better than anyone
+And I believe that you know
+Lucia better than anyone
 in this world.[BRK]
 
 Tell me, do you think that
-lucia is the foretold
+Lucia is the foretold
 destroyer?
 [END]
 
@@ -491,15 +491,15 @@ balance![END]
 
 === 12 | 1a9ee | 1d2 ===
 [POR01]
-Leo, believe me when i tell
+Leo, believe me when I tell
 you that there is nothing
-evil about lucia.[BRK]
+evil about Lucia.[BRK]
 
 Her intentions are as pure
 as the driven snow.[BRK]
 
 [POR09]
-Hmmm...that's what i've
+Hmmm...that's what I've
 begun to suspect.[BRK]
 
 She does not seem to be a
@@ -507,7 +507,7 @@ threat to the good in our
 world.[BRK]
 
 But why must she meet with
-the goddess?[BRK]
+the Goddess?[BRK]
 
 It makes no sense to me...[BRK]
 
@@ -517,35 +517,35 @@ It makes no sense to me...[BRK]
 
 [POR09]
 Hiro, you must tell me what
-lucia will do when she meets
-the goddess.[BRK]
+Lucia will do when she meets
+the Goddess.[BRK]
 
 You're her friend. She must
 have told you...[BRK]
 
 [POR00]
-...lord leo, what are you 
+...Lord Leo, what are you 
 doing here?[END]
 
 === 13 | 1abca | 13a ===
 Entry into this tower is
 strictly prohibited by
-althena's followers![BRK]
+Althena's followers![BRK]
 
 By what authority have you
 come?[BRK]
 
 [POR09]
-I, lord leo, have come by
-the authority of althena
+I, Lord Leo, have come by
+the authority of Althena
 herself![BRK]
 
 [POR00]
-Lord leo, if althena truly
+Lord Leo, if Althena truly
 sent you, you would know
 of our plans.[BRK]
 
-Since you do not, i must
+Since you do not, I must
 silence you once and for
 all![BRK]
 
@@ -556,32 +556,32 @@ Magic beast...come forth![END]
 ...this...this makes no
 sense...[BRK]
 
-The members of althena's
-cult seem to have gone wild![BRK]
+The members of Althena's
+Cult seem to have gone wild![BRK]
 
 I cannot believe that
-althena is involved, but
-maybe ronfar is right...[END]
+Althena is involved, but
+maybe Ronfar is right...[END]
 
 === 15 | 1add0 | 68 ===
 [POR09]
-Listen, hiro, this time you
+Listen, Hiro, this time you
 must give me a straight
 answer.[BRK]
 
-Tell me, is lucia the
+Tell me, is Lucia the
 foretold destroyer?[END]
 
 === 16 | 1ae54 | 194 ===
 [POR09]
 What in the name of the
-goddess althena is going on
+Goddess Althena is going on
 in this place?[BRK]
 
 [POR00]
 Ha, ha, ha...you don't need
 to trouble yourself with
-those details, dear leo.[BRK]
+those details, dear Leo.[BRK]
 
 In fact, your time has
 run out.[BRK]
@@ -617,7 +617,7 @@ I promise you![END]
 
 === 18 | 1b0e4 | 11c ===
 [POR09]
-...hiro, if we are to
+...Hiro, if we are to
 survive, we must put our
 differences aside.[BRK]
 
@@ -634,8 +634,8 @@ Know that it was not my
 intention to drag you into
 this mess.[BRK]
 
-Pray that the goddess is
-with us, hiro.[BRK]
+Pray that the Goddess is
+with us, Hiro.[BRK]
 
 Let's go...[BRK]
 
@@ -643,53 +643,53 @@ Let's go...[BRK]
 Here goes nothing![END]
 
 === 19 | 1b20a | f ===
-Azado tower 12f[END]
+Azado tower 12F[END]
 
 === 1a | 1bc1c | e ===
-Azado tower 2f[END]
+Azado tower 2F[END]
 
 === 1b | 1c5f8 | e ===
-Azado tower 3f[END]
+Azado tower 3F[END]
 
 === 1c | 1cfee | e ===
-Azado tower 4f[END]
+Azado tower 4F[END]
 
 === 1d | 1d94e | e ===
-Azado tower 5f[END]
+Azado tower 5F[END]
 
 === 1e | 1e2f8 | e ===
-Azado tower 6f[END]
+Azado tower 6F[END]
 
 === 1f | 1ecc2 | e ===
 Donated 100s!
 [END]
 
 === 20 | 1ecf0 | e ===
-Azado tower 7f[END]
+Azado tower 7F[END]
 
 === 21 | 1f69a | e ===
-Azado tower 8f[END]
+Azado tower 8F[END]
 
 === 22 | 1ffc8 | e ===
-Azado tower 9f[END]
+Azado tower 9F[END]
 
 === 23 | 20994 | f ===
-Azado tower 10f[END]
+Azado tower 10F[END]
 
 === 24 | 21320 | f ===
-Azado tower 11f[END]
+Azado tower 11F[END]
 
 === 25 | 21c72 | 94 ===
 [POR09]
-Hiro, i believe i under-
+Hiro, I believe I under-
 estimated your abilities.[BRK]
 
 Your combat skills are
 most impressive.[BRK]
 
 [POR02]
-Yeah, hiro! I think you're
-even as good as leo now![END]
+Yeah, Hiro! I think you're
+even as good as Leo now![END]
 
 === 26 | 21d22 | 146 ===
 [POR09]
@@ -702,7 +702,7 @@ Soldier, what happened?![BRK]
 Sir...they...they took...
 her...[BRK]
 
-...lucia is...is...gone!
+...Lucia is...is...gone!
 We...we fought.......
 ...but...it...wasn't...[BRK]
 
@@ -715,8 +715,8 @@ What!?[BRK]
 Just what we need![BRK]
 
 [POR09]
-Dammit, i knew something
-was up, but i didn't know
+Dammit, I knew something
+was up, but I didn't know
 just what...[BRK]
 
 This situation is grave
@@ -724,7 +724,7 @@ indeed...[END]
 
 === 27 | 21e80 | 57 ===
 <Cough> <cough> save 
-yourself, lord leo.[BRK]
+yourself, Lord Leo.[BRK]
 
 Forget about me...
 <hack>[BRK]
@@ -742,18 +742,18 @@ just too powerful!![END]
 === 29 | 21f78 | 70 ===
 They were relentless! I
 couldn't stop them from
-taking lucia![BRK]
+taking Lucia![BRK]
 
 Only you have enough power
-to stop them, lord leo.[END]
+to stop them, Lord Leo.[END]
 
 === 2a | 21ffc | 5a ===
 My...incompetence has....
 brought shame...on our...
 ....guard.[BRK]
 
-Forgive me...lord....leo...[END]
+Forgive me...lord....Leo...[END]
 
 === 2b | 2205c | e ===
-Azado tower 1f[END]
+Azado tower 1F[END]
 

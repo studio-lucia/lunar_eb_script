@@ -3,19 +3,19 @@ File: M46.GRP
 Messages: 17
 
 === 0 | 11e96 | b ===
-Lionhead 1f[END]
+Lionhead 1F[END]
 
 === 1 | 13eb8 | b ===
-Lionhead 2f[END]
+Lionhead 2F[END]
 
 === 2 | 159a4 | b ===
-Lionhead 3f[END]
+Lionhead 3F[END]
 
 === 3 | 16e00 | b ===
-Lionhead 4f[END]
+Lionhead 4F[END]
 
 === 4 | 17e62 | b ===
-Lionhead 5f[END]
+Lionhead 5F[END]
 
 === 5 | 186a6 | d ===
 Lionhead rm 1[END]

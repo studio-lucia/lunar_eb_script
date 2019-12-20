@@ -13,7 +13,7 @@ this godforsaken place?[BRK]
 Don't you know where you
 kids are?[BRK]
 
-This is zaback, mining
+This is Zaback, mining
 town of the damned.[BRK]
 
 Borgan controls this mine
@@ -21,34 +21,34 @@ with his black magic, and
 we're his puppets.[BRK]
 
 He forces us to work here
-mining for precious black
-dragon diamonds...[BRK]
+mining for precious Black
+Dragon Diamonds...[BRK]
 
 The magic in every diamond
 we find only tightens his 
 disgusting grip on us...[BRK]
 
 So be warned! If you want to
-get to the minea sea, go by
+get to the Minea Sea, go by
 way of the lake to the east.[BRK]
 
 This is no place for people
 like you...get lost before
-borgan finds you!
+Borgan finds you!
 [END]
 
 === 2 | 7c1c | 75 ===
 Cross through the cave on
 the eastern end of the lake
-to get to the minea sea.[BRK]
+to get to the Minea Sea.[BRK]
 
 ...it's a much safer route!
 Good luck![END]
 
 === 3 | 7ca0 | 95 ===
-Well, i can tell you that i,
+Well, I can tell you that i,
 for one, am glad to see
-zaback on the rise again![BRK]
+Zaback on the rise again![BRK]
 
 We're well on our way to
 returning to splendor as
@@ -59,8 +59,8 @@ Have you seen the city that
 hovers in the skies above?[BRK]
 
 That's an imitation of
-ancient vane. Borgan calls
-it 'neo-vane.'[BRK]
+ancient Vane. Borgan calls
+it 'Neo-Vane.'[BRK]
 
 People who are not gifted
 with magic ability are
@@ -72,20 +72,20 @@ sent here...[BRK]
 
 To labor their meaningless
 lives away as slaves of
-borgan.[BRK]
+Borgan.[BRK]
 
 [POR07]
-But...grandpa...i...[BRK]
+But...Grandpa...i...[BRK]
 
 [POR00]
-Ah, lemina, you were always
+Ah, Lemina, you were always
 the kind one, weren't you?[BRK]
 
 There's nothing you can do.
 My fate was sealed the day
-i tried to enter neo-vane.[BRK]
+I tried to enter Neo-Vane.[BRK]
 
-If i hadn't failed, i would
+If I hadn't failed, I would
 still be free...[BRK]
 
 [POR07]
@@ -98,7 +98,7 @@ Don't worry about me...get
 to what you've come to do![END]
 
 === 6 | 7fc8 | a5 ===
-Did you see? Neo-vane fell
+Did you see? Neo-Vane fell
 to the ground![BRK]
 
 Borgan's power must be
@@ -129,9 +129,9 @@ The sun is bright, and the
 breeze is warm...oh, it's
 good to be alive![BRK]
 
-On days like this, i gaze
-upon the blue star and wish
-i could live forever![END]
+On days like this, I gaze
+upon the Blue Star and wish
+I could live forever![END]
 
 === a | 8222 | 131 ===
 Lemina, my dear...come over
@@ -139,11 +139,11 @@ here and sit with me in the
 warm morning sun...[BRK]
 
 [POR07]
-Grandpa, i don't have time
+Grandpa, I don't have time
 for that right now.[BRK]
 
-I have to help hiro, and
-revive the magic guild, and
+I have to help Hiro, and
+revive the Magic Guild, and
 ...and...and...oh pooh![BRK]
 
 Grandpa, there's just too
@@ -156,7 +156,7 @@ How 'bout a raincheck, okay?
 === b | 836a | 1b8 ===
 Everything our lives will
 be is determined when we
-enter the magic trials.[BRK]
+enter the Magic Trials.[BRK]
 
 Failure results in a life
 of back-breaking labor in
@@ -164,7 +164,7 @@ misery.[BRK]
 
 Success leads to a life of
 pleasant luxury in the
-service of master borgan.[BRK]
+service of master Borgan.[BRK]
 
 It's all determined by one
 small test...and nobody
@@ -185,14 +185,14 @@ money aspect a problem?
 [END]
 
 === c | 853a | 64 ===
-I wish i had never lusted
-for a life in neo-vane...[BRK]
+I wish I had never lusted
+for a life in Neo-Vane...[BRK]
 
 I'd be roaming free across
 the land right now...[END]
 
 === d | 85b2 | 82 ===
-Ha! The rulers of neo-vane
+Ha! The rulers of Neo-Vane
 got what they deserved![BRK]
 
 Who did they think they were
@@ -205,28 +205,28 @@ Exactly! And to force you to
 work for nothing is beyond
 excusability![BRK]
 
-Hrmph! In fact, i'd say it
+Hrmph! In fact, I'd say it
 was outright barbaric![BRK]
 
 It does serve them right![BRK]
 
 [POR02]
-Lemina, lemina...always the
+Lemina, Lemina...always the
 same...hoohmhmhommmm...
 [END]
 
 === f | 871e | 93 ===
 I personally think that the
-rulers of neo-vane should
+rulers of Neo-Vane should
 take looks into account.[BRK]
 
 If that were the only
-criteria, i'm sure i'd be
+criteria, I'm sure I'd be
 one of the top guys![END]
 
 === 10 | 87be | 64 ===
 [POR07]
-Well, if you're using borgan
+Well, if you're using Borgan
 as a comparison point, 
 you are better looking.[BRK]
 
@@ -238,7 +238,7 @@ mining town where everyone
 was happy.[BRK]
 
 But that disgusting pig
-borgan has totally corrupted
+Borgan has totally corrupted
 it.[BRK]
 
 His oppression grows
@@ -272,7 +272,7 @@ their children to use magic.[BRK]
 
 If their children learn
 well, they can escape this
-trap and enter neo-vane.[BRK]
+trap and enter Neo-Vane.[BRK]
 
 It's a sad system, but at
 least some children escape.[END]
@@ -286,7 +286,7 @@ But their parents just want
 something better for them...[END]
 
 === 18 | 8bbc | 8e ===
-Ever since neo-vane fell
+Ever since Neo-Vane fell
 from the skies, the mood
 here has lifted.[BRK]
 
@@ -298,7 +298,7 @@ miners have...hope!
 [END]
 
 === 19 | 8c5a | 6f ===
-I'm so happy that zaback is
+I'm so happy that Zaback is
 finally back to the way it
 used to be.[BRK]
 
@@ -309,32 +309,32 @@ act like children![END]
 Ha! My father has made me
 study magic for 15 years![BRK]
 
-Soon, i will submit to the
+Soon, I will submit to the
 trial to test my magic
 ability.[BRK]
 
-When i pass, i'll finally
+When I pass, I'll finally
 get out of this rat trap![END]
 
 === 1b | 8d96 | 47 ===
-I wish i didn't have to
+I wish I didn't have to
 leave my father behind when
-i pass the trial...[END]
+I pass the trial...[END]
 
 === 1c | 8df0 | 87 ===
-What? Neo-vane fell from the
+What? Neo-Vane fell from the
 skies? That's impossible![BRK]
 
 Borgan powers the city with
-magic from the black dragon!
+magic from the Black Dragon!
 If that's true, then...[END]
 
 === 1d | 8e86 | 95 ===
-Now i'm the strongest magic
-user in zaback, but no one
+Now I'm the strongest magic
+user in Zaback, but no one
 really cares...[BRK]
 
-I'm glad i don't have to
+I'm glad I don't have to
 submit to the trials,
 though.[BRK]
 
@@ -358,7 +358,7 @@ Let me slave in peace![END]
 
 === 1f | 9026 | ae ===
 Nobody down here likes
-borgan.[BRK]
+Borgan.[BRK]
 
 We make up names for him
 behind his back, like 'fart-
@@ -378,7 +378,7 @@ I don't think it's fair that
 his royal fatness got to
 decide...[BRK]
 
-...who enters neo-vane, and
+...who enters Neo-Vane, and
 who didn't, just 'cause of
 his stupid test![BRK]
 
@@ -397,7 +397,7 @@ track mind, don't you?[END]
 
 === 23 | 926a | 77 ===
 Thanks to the power of the
-black dragon diamond we now
+Black Dragon Diamond we now
 control...[BRK]
 
 ...this town is once again
@@ -409,14 +409,14 @@ Well, when you're rich and
 famous, send a little of the
 dough my way, would ya?[BRK]
 
-Remember, i helped make all
+Remember, I helped make all
 this possible...[END]
 
 === 25 | 9380 | ae ===
-The people of zaback have
+The people of Zaback have
 many talents,[BRK]
 
-but since borgan prizes
+but since Borgan prizes
 magic above all else,[BRK]
 
 ...other forms of expression
@@ -432,12 +432,12 @@ now prized above all else![BRK]
 
 [POR07]
 Magic is important, but the
-way borgan is cultivating it
+way Borgan is cultivating it
 is wrong...[END]
 
 === 27 | 94f0 | 70 ===
-Now that neo-vane has fallen
-from the sky, i think we
+Now that Neo-Vane has fallen
+from the sky, I think we
 may have a chance.[BRK]
 
 Borgan's power is not
@@ -473,13 +473,13 @@ I'll be glad when the day
 comes that this system is
 abolished...[BRK]
 
-...and it is coming...i can
+...and it is coming...I can
 feel it...[END]
 
 === 2a | 977a | d9 ===
 I am actually quite skilled
 as a painter, but that is
-overlooked by borgan.[BRK]
+overlooked by Borgan.[BRK]
 
 He cares only for his
 precious magic power...
@@ -490,15 +490,15 @@ another master: namely, his
 wanton lust for power.[END]
 
 === 2b | 9866 | 106 ===
-In a town called meribia,
-i heard about a painting
+In a town called Meribia,
+I heard about a painting
 exhibit they're having.[BRK]
 
 The theme is female ghouls,
 past and present.[BRK]
 
 It seems a bit offbeat, but
-i'm going to try to enter
+I'm going to try to enter
 one of my paintings in it.[BRK]
 
 I just need to figure out a
@@ -508,7 +508,7 @@ here...[END]
 === 2c | 997c | 12a ===
 I did get one of my 
 paintings shown at the
-exhibit in meribia.[BRK]
+exhibit in Meribia.[BRK]
 
 I've heard that the response
 was good, but...[BRK]
@@ -526,17 +526,17 @@ absolutely ludicrous![END]
 
 === 2d | 9ab4 | 2d ===
 [POR07]
-Ha! I'll bet ramus is one
+Ha! I'll bet Ramus is one
 of the judges...[END]
 
 === 2e | 9af4 | c0 ===
-Have you seen neo-vane, yet?
+Have you seen Neo-Vane, yet?
 It flies free in the skies
 above![BRK]
 
 Borgan made it using the
-power of the black dragon
-diamonds![BRK]
+power of the Black Dragon
+Diamonds![BRK]
 
 He keeps all of us mining
 for more by using fear and
@@ -565,8 +565,8 @@ at all...[END]
 
 === 30 | 9cf0 | be ===
 Borgan controls all the
-operations here in zaback
-mine with magic.[BRK]
+operations here in Zaback
+Mine with magic.[BRK]
 
 If any of us tries to steal
 what we mine, he finds out
@@ -578,7 +578,7 @@ spanking here...
 
 === 31 | 9dc6 | 7c ===
 Will wonders never cease?!
-Neo-vane has been blown from
+Neo-Vane has been blown from
 the sky![BRK]
 
 Borgan's power must be
@@ -587,7 +587,7 @@ action![END]
 
 === 32 | 9e5e | 53 ===
 At last we are free from the
-chains of oppression borgan
+chains of oppression Borgan
 placed upon us. Thank you![END]
 
 === 33 | 9ec0 | d5 ===
@@ -605,18 +605,18 @@ forget...
 [END]
 
 === 34 | 9fa8 | a3 ===
-Let's see...magic of blaze,
-magic of blaze...first I
+Let's see...Magic of Blaze,
+Magic of Blaze...first I
 have to say...[BRK]
 
 ...oh, what's the use! This
-spell is so complicated i'll
+spell is so complicated I'll
 never remember it![BRK]
 
 I'm doomed to fail![END]
 
 === 35 | a062 | 4f ===
-What i'd give to play with
+What I'd give to play with
 my friends instead of
 studying this crappy magic!
 
@@ -624,18 +624,18 @@ studying this crappy magic!
 [END]
 
 === 36 | a0c4 | 9d ===
-Since neo-vane fell from the
+Since Neo-Vane fell from the
 sky, there's really no point
 to learning magic, is there?[BRK]
 
-Good! I think i'll go play
+Good! I think I'll go play
 with my friends![BRK]
 
 Magic was boring anyway...[END]
 
 === 37 | a170 | cd ===
 Me and my friends are plan-
-ning to sneak into neo-vane
+ning to sneak into Neo-Vane
 and set up a secret base![BRK]
 
 It's gonna be so cool!
@@ -643,17 +643,17 @@ Ha ha ha ha ha![BRK]
 
 [POR02]
 Hmmm...sounds like another
-little lost boy i know...
-i wonder if they're related![END]
+little lost boy I know...
+I wonder if they're related![END]
 
 === 38 | a250 | e3 ===
-Before borgan built neo-vane
-and set up shop here, zaback
+Before Borgan built Neo-Vane
+and set up shop here, Zaback
 was very prosperous.[BRK]
 
 Everyone wanted to live here
-and mine for black dragon
-diamonds.[BRK]
+and mine for Black Dragon
+Diamonds.[BRK]
 
 The mine kept giving them
 and never seemed to run out.
@@ -662,7 +662,7 @@ It was too good to last...
 [END]
 
 === 39 | a34a | cb ===
-These days, borgan rules the
+These days, Borgan rules the
 roost, so to speak. He takes
 every diamond we mine.[BRK]
 
@@ -675,21 +675,21 @@ don't have the power to
 break...[END]
 
 === 3a | a42c | 87 ===
-Now that borgan's evil
+Now that Borgan's evil
 influence has been removed,[BRK]
 
-zaback should bounce back in
+Zaback should bounce back in
 no time! In fact, we'll be
 better than ever. I know it![END]
 
 === 3b | a4ce | 42 ===
 It's up to us now to return
-zaback to the town we all
+Zaback to the town we all
 once knew...[END]
 
 === 3c | a520 | 99 ===
 If there's one thing we've
-learned during zophar's
+learned during Zophar's
 oppression, it's that...[BRK]
 
 To prize one ability higher
@@ -698,11 +698,11 @@ to limit ourselves...[END]
 
 === 3d | a5cc | d5 ===
 I want to be a knight for
-goddess althena, like white
-knight leo.[BRK]
+Goddess Althena, like White
+Knight Leo.[BRK]
 
 To become a knight for
-althena, i don't have to
+Althena, I don't have to
 have magic ability, do i?[BRK]
 
 I hope not, because my magic
@@ -714,18 +714,18 @@ Gruel, gruel, the magical
 soup, the more you slurp,
 the more you poop...[BRK]
 
-Ha ha ha ha ha....i just
+Ha ha ha ha ha....I just
 made that up. Funny, huh?[END]
 
 === 3f | a746 | af ===
-Jingle bells, borgan smells,
+Jingle bells, Borgan smells,
 fartin' all the day...[BRK]
 
 Stinkin's real, what's the
 deal? His undies gettin'
 gray...hey![BRK]
 
-Ha ha ha ha ha....i just
+Ha ha ha ha ha....I just
 made that up. I'm on a roll
 today![END]
 
@@ -745,34 +745,34 @@ All the miners here are
 slaves of their greed for
 power.[BRK]
 
-All failed the trial of
-borgan, and so must work
+All failed the Trial of
+Borgan, and so must work
 here until they die.[END]
 
 === 43 | cd10 | 7a ===
-The men of zaback all have
+The men of Zaback all have
 the same dream: returning
-zaback to its former glory.[BRK]
+Zaback to its former glory.[BRK]
 
 One day it will happen. I
 just know it...[END]
 
 === 44 | cd9a | 4c ===
 If we work hard enough,
-zaback can be as rich and
+Zaback can be as rich and
 prosperous as it once was.[END]
 
 === 45 | cdf6 | 98 ===
-Because we failed the trial
-of borgan, we are forced to
+Because we failed the Trial
+of Borgan, we are forced to
 slave for his evil means.[BRK]
 
-Every black dragon diamond
+Every Black Dragon Diamond
 we recover seals our fate
 a little tighter.[END]
 
 === 46 | cea2 | a2 ===
-When i was down in one of
+When I was down in one of
 the lowest levels of the
 mine,[BRK]
 
@@ -780,7 +780,7 @@ there was suddenly a violent
 shaking that nearly crushed
 the mine shaft![BRK]
 
-I was mighty scared, i tell
+I was mighty scared, I tell
 you![END]
 
 === 47 | cf54 | ba ===
@@ -789,8 +789,8 @@ diamonds is unique in all
 the world.[BRK]
 
 There's nothing quite like
-uncovering a precious black
-dragon diamond.[BRK]
+uncovering a precious Black
+Dragon Diamond.[BRK]
 
 Each one is so valuable, men
 have even killed over them![END]
@@ -809,9 +809,9 @@ diamond you can't have![BRK]
 Get a clue, bird-brain![END]
 
 === 49 | d0e8 | 6e ===
-Oh, how i wish i'd never
-submitted to borgan's magic
-trial![BRK]
+Oh, how I wish I'd never
+submitted to Borgan's Magic
+Trial![BRK]
 
 Now my family is enslaved
 to him for generations.
@@ -819,33 +819,33 @@ to him for generations.
 
 === 4a | d16e | 5d ===
 Borgan got the power to
-create neo-vane from the
+create Neo-Vane from the
 diamonds of this mine.[BRK]
 
 Didn't you know that?[END]
 
 === 4b | d1de | 6f ===
 Since we no longer have to
-slave for borgan,[BRK]
+slave for Borgan,[BRK]
 
 we can now use the diamonds
 we mine to rebuild the town
-of zaback![END]
+of Zaback![END]
 
 === 4c | d25c | 75 ===
 People come from all over to
-try to buy black dragon
-diamonds.[BRK]
+try to buy Black Dragon
+Diamonds.[BRK]
 
 I think it's because of the
 magic powers they contain.[END]
 
 === 4d | d2e4 | be ===
 We are forced to labor for
-borgan.[BRK]
+Borgan.[BRK]
 
 Everyone here has failed the
-magic trial, and so borgan
+Magic Trial, and so Borgan
 knows he can dominate them.[BRK]
 
 [POR07]
@@ -854,20 +854,20 @@ I can't believe anyone could
 be so cruel![END]
 
 === 4e | d3ba | 77 ===
-I wish i had never even seen
+I wish I had never even seen
 that damned floating city![BRK]
 
 It's been nothing but ruin
-ever since i tried to pass
+ever since I tried to pass
 the test![END]
 
 === 4f | d444 | 76 ===
 People of the land are in a
-panic now that neo-vane's
+panic now that Neo-Vane's
 fallen.[BRK]
 
-Hmmm...i wonder if neo-
-vane's fall means we're
+Hmmm...I wonder if Neo-
+Vane's fall means we're
 free...?[END]
 
 === 50 | d4ca | 6f ===
@@ -876,31 +876,31 @@ goin' 'round, 'round,
 'round...[BRK]
 
 Workin' in an old mine,
-whoop! 'Cause vane fell
+whoop! 'Cause Vane fell
 down...[END]
 
 === 51 | d54c | 5f ===
-Have you seen neo-vane?[BRK]
+Have you seen Neo-Vane?[BRK]
 
 Borgan is hatching a plan to
 rule the world from his
 floating fortress![END]
 
 === 52 | d5c2 | 45 ===
-If borgan rules the world,
+If Borgan rules the world,
 it will all become like
-zaback - terrible.[END]
+Zaback - terrible.[END]
 
 === 53 | d61e | 78 ===
 They say that the person
-who defeated borgan was
-lord of the magic guild.[BRK]
+who defeated Borgan was
+lord of the Magic Guild.[BRK]
 
 Hooray for them! They've
 given us our freedom![END]
 
 === 54 | d6b2 | 3e ===
-I'm glad that borgan has
+I'm glad that Borgan has
 been shown the light
 ...so to speak.
 [END]
@@ -912,8 +912,8 @@ enlightened.[END]
 
 === 56 | d732 | 85 ===
 I heard that the person who
-defeated zophar was leader
-of vane's magic guild![BRK]
+defeated Zophar was leader
+of Vane's Magic Guild![BRK]
 
 [POR02]
 T-that's not true! How do
@@ -922,7 +922,7 @@ these rumors get started?
 
 === 57 | d7c4 | 85 ===
 [POR07]
-You know, ruby...someone
+You know, Ruby...someone
 calls 'the star' and offers
 to make up a story for 100s.[BRK]
 
@@ -945,7 +945,7 @@ other...[END]
 I used to be a teacher in
 town, [BRK]
 
-but i came here to try to
+but I came here to try to
 teach the children magic...[END]
 
 === 5a | d998 | 3a ===
@@ -956,7 +956,7 @@ dump![END]
 
 === 5b | d9e6 | 7b ===
 I'm thinking about returning
-to zaback to open another
+to Zaback to open another
 school.[BRK]
 
 However, this school will
@@ -965,27 +965,27 @@ skills.[END]
 
 === 5c | da70 | e4 ===
 In order to open another
-school in zaback, i've got
+school in Zaback, I've got
 to have a lot of money.[BRK]
 
-That's why i'm teaching and
+That's why I'm teaching and
 mining here.[BRK]
 
 I teach by day and mine by
 night. It sucks, but...[BRK]
 
-If i can just find ten more
-diamonds, i can open the
+If I can just find ten more
+diamonds, I can open the
 school![END]
 
 === 5d | db68 | cf ===
 Many of the miners here were
-here before borgan took
+here before Borgan took
 control.[BRK]
 
 But the rest were all sent
 here when they failed his
-magic trial.[BRK]
+Magic Trial.[BRK]
 
 That man over there is
 teaching the children to use
@@ -994,7 +994,7 @@ magic so they can get out.
 
 === 5e | dc4e | d7 ===
 I've worked at this mine
-since i was a child. I'm
+since I was a child. I'm
 used to the hard work.[BRK]
 
 Now, the teacher over there
@@ -1013,24 +1013,24 @@ Don't bother me...okay?
 === 60 | dd70 | 69 ===
 I'm going to help the
 teacher build the school-
-house in zaback.[BRK]
+house in Zaback.[BRK]
 
 I'll be one of the best
 students he has![END]
 
 === 61 | dde8 | 60 ===
-If i can help the teacher
+If I can help the teacher
 find ten more diamonds, [BRK]
 
 he will be able to open the
-school in zaback![END]
+school in Zaback![END]
 
 === 62 | de4e | 14 ===
 Zaback mine entrance[END]
 
 === 63 | e538 | 69 ===
 This transport device is the
-only way to enter neo-vane.[BRK]
+only way to enter Neo-Vane.[BRK]
 
 To use it, step into the
 center of the circle...[END]
@@ -1038,7 +1038,7 @@ center of the circle...[END]
 === 64 | e5b4 | 78 ===
 Use of this transport device
 is restricted to magic users
-only, by order of borgan![BRK]
+only, by order of Borgan![BRK]
 
 All others use it at their
 own risk![END]
@@ -1048,7 +1048,7 @@ Zaback transport room[END]
 
 === 66 | ed10 | 32 ===
 Well there, stranger, what
-can i do for you today?[END]
+can I do for you today?[END]
 
 === 67 | ed4c | 17 ===
 Thanks for stopping by![END]
@@ -1057,9 +1057,9 @@ Thanks for stopping by![END]
 Zaback item shop[END]
 
 === 69 | f458 | 49 ===
-You know, the weapons i sell
+You know, the weapons I sell
 do not require magic. What
-can i do for you?[END]
+can I do for you?[END]
 
 === 6a | f4aa | 18 ===
 Please visit again soon.[END]
@@ -1084,7 +1084,7 @@ these days. It's busier than
 it's ever been.[BRK]
 
 The thing that stinks is the
-slaves of borgan have no 
+slaves of Borgan have no 
 cash to pay their tabs![BRK]
 
 I'm up to my ears in
@@ -1114,10 +1114,10 @@ you give me a cut![END]
 
 === 72 | fe4c | f8 ===
 There's a place in the
-marius zone that's loaded
+Marius Zone that's loaded
 with undiscovered treasure![BRK]
 
-West of the minea sea, there
+West of the Minea Sea, there
 is another treasure trove,
 too![BRK]
 
@@ -1130,8 +1130,8 @@ you're too busy...[BRK]
 ...forget about it.[END]
 
 === 73 | ff5c | 7f ===
-In the dragon's nest and
-at lionhead, there's rumored
+In the Dragon's Nest and
+at Lionhead, there's rumored
 to be treasure caches.[BRK]
 
 But you'd have to be crazy
@@ -1141,11 +1141,11 @@ to go in those joints!
 === 74 | fff2 | 11a ===
 Did you hear the rumor that
 there's treasure in the
-dragon's nest?[BRK]
+Dragon's Nest?[BRK]
 
 I just heard another one
 that says there's even
-treasure in lionhead![BRK]
+treasure in Lionhead![BRK]
 
 The only problem is that
 those places are crawlin'
@@ -1161,44 +1161,44 @@ test your skill, try looking
 for the hidden treasures.[BRK]
 
 There's s'posed to be one
-at lionhead, east of the
-minea sea...[BRK]
+at Lionhead, east of the
+Minea Sea...[BRK]
 
 ...and another one in the
-dragon's nest, somewhere
-around raculi![BRK]
+Dragon's Nest, somewhere
+around Raculi![BRK]
 
 Think you're up to it?[END]
 
 === 76 | 10226 | 81 ===
 I've heard the stories of
-treasure at lionhead and in
-the dragon's nest.[BRK]
+treasure at Lionhead and in
+the Dragon's Nest.[BRK]
 
-But i've never heard the one
-about the dragon eye jewel.[END]
+But I've never heard the one
+about the Dragon Eye Jewel.[END]
 
 === 77 | 102be | 4e ===
 Nope. Never heard any rumor
-of a dragon eye jewel
+of a Dragon Eye Jewel
 anywhere 'round here.[BRK]
 
 Sorry.[END]
 
 === 78 | 10320 | 9d ===
 My son studied hard and
-passed borgan's magic trial.[BRK]
+passed Borgan's Magic Trial.[BRK]
 
 I'm so happy that he passed
-and can now study in neo-
-vane, but...[BRK]
+and can now study in Neo-
+Vane, but...[BRK]
 
 ...i...i...miss him...so
 very much...[END]
 
 === 79 | 103d4 | 4e ===
-Even though i miss my son,
-i'm happy he is in a place
+Even though I miss my son,
+I'm happy he is in a place
 where he can be happy...[END]
 
 === 7a | 1043a | 84 ===
@@ -1206,16 +1206,16 @@ Now it doesn't matter if
 you have magic power or not.[BRK]
 
 It seems anyone can get into
-neo-vane since its fall. I'm
+Neo-Vane since its fall. I'm
 going to see my son![END]
 
 === 7b | 104da | 8f ===
 I gan goh see mah son iif
-i wan tooo naow! Haay wanna
+I wan tooo naow! Haay wanna
 <hick> celebrate wif meee?[BRK]
 
 <Hick> this is tha bess
-birfday preesent i could
+birfday preesent I could
 haave godden![END]
 
 === 7c | 10578 | 69 ===
@@ -1227,7 +1227,7 @@ That boy worries too much!
 I don't have a problem...[END]
 
 === 7d | 105f4 | 1e5 ===
-Hey...come close and i'll
+Hey...come close and I'll
 tell you the old woman's
 story...[BRK]
 
@@ -1239,7 +1239,7 @@ She made the boy study very
 hard, and it paid off
 because he passed the trial.[BRK]
 
-Now that he's in neo-vane,
+Now that he's in Neo-Vane,
 she's become a pathetic,
 sobbing alcoholic.[BRK]
 
@@ -1252,7 +1252,7 @@ see him.[BRK]
 
 You see, her magic power's
 too low to gain entrance to
-neo-vane, even to visit.[END]
+Neo-Vane, even to visit.[END]
 
 === 7e | 107f0 | fb ===
 I feel so sorry for the old
@@ -1264,7 +1264,7 @@ Well, maybe you can start a
 local chapter of 'aa' and
 get her the help she needs![BRK]
 
-Remember, i get half the
+Remember, I get half the
 profits of the refreshments
 at the meetings![BRK]
 
@@ -1279,7 +1279,7 @@ her drinking problem...[END]
 
 === 80 | 10972 | 13b ===
 I heard a new rumor that the
-way zophar was defeated was
+way Zophar was defeated was
 incredible...[BRK]
 
 [POR02]
@@ -1304,7 +1304,7 @@ to these bizarre stories?[END]
 === 81 | 10ac0 | 8e ===
 Say there, strangers, is
 this your first time in
-zaback's bar?[BRK]
+Zaback's bar?[BRK]
 
 Listen up! Our brew is world
 renowned for the way it
@@ -1315,7 +1315,7 @@ Go on, order a drink![BRK]
 
 Your magic power could
 become strong enough to gain
-entrance to neo-vane![BRK]
+entrance to Neo-Vane![BRK]
 
 Even if it doesn't, you'll
 still be flying high! What
@@ -1329,7 +1329,7 @@ higher,[BRK]
 you should try our brew![END]
 
 === 84 | 10c80 | 96 ===
-Now that borgan has been
+Now that Borgan has been
 defeated and everyone keeps
 what they mine,[BRK]
 
@@ -1340,7 +1340,7 @@ Why not order a drink and
 celebrate?![END]
 
 === 85 | 10d2a | 93 ===
-<Hick> i used too haav a
+<Hick> I used too haav a
 nice purdy wife thaat
 treeted me guud <hick>.[BRK]
 
@@ -1352,14 +1352,14 @@ treads me like dird <hick>!
 === 86 | 10dd4 | a6 ===
 Haaay! Did you heer? <Hick>
 my wife passed tha trial an'
-lef' me fur <hick> neo-vane![BRK]
+lef' me fur <hick> Neo-Vane![BRK]
 
 Why'd she go an' do uh thin'
 like <hick>...like thad for,
 huh? Idd's nod fair...[END]
 
 === 87 | 10e8e | 4e ===
-I herd thad neo-vane fell
+I herd thad Neo-Vane fell
 <hick>...fell down.[BRK]
 
 Is my wife okay, mishter?
@@ -1370,19 +1370,19 @@ Hey! Bet you didn't
 recognize me sober! [BRK]
 
 My wife came back to me when
-she heard i cleaned up my
+she heard I cleaned up my
 act![BRK]
 
-She wants me to live in neo-
-vane with her, and i'm gonna
+She wants me to live in Neo-
+Vane with her, and I'm gonna
 take her up on her offer![BRK]
 
 Wish me luck! Haha![END]
 
 === 89 | 10fcc | 9a ===
-Did you know that borgan
+Did you know that Borgan
 used to be an inferior
-member of the guild?[BRK]
+member of the Guild?[BRK]
 
 It's funny that he would put
 such emphasis on magic power
@@ -1391,29 +1391,29 @@ when he was so bad at it...[END]
 === 8a | 1107e | 98 ===
 It's strange to me that a
 person with inferior magic
-status in the guild could...[BRK]
+status in the Guild could...[BRK]
 
 ...go on to control all of
-neo-vane, and our lives. How
+Neo-Vane, and our lives. How
 does he do it?[END]
 
 === 8b | 11124 | 3f ===
 [POR07]
-It's a secret that i must
-unravel, if i'm to help my
+It's a secret that I must
+unravel, if I'm to help my
 mother![END]
 
 === 8c | 11176 | 7d ===
 What? You guys defeated
-borgan? That's the best news
-i've heard all year![BRK]
+Borgan? That's the best news
+I've heard all year![BRK]
 
 Now that slime factory will
 never bother us again. [END]
 
 === 8d | 11202 | 9e ===
-I heard that miria and
-borgan were planning on
+I heard that Miria and
+Borgan were planning on
 getting married!!!??[BRK]
 
 Is that true?[BRK]
@@ -1435,7 +1435,7 @@ There's not enough money in
 the world to buy my blessing
 on that marriage![BRK]
 
-True love or not, i will not
+True love or not, I will not
 let my mother marry that...
 that...bullfrog!
 [END]
@@ -1449,16 +1449,16 @@ life not even fit for a
 dog.[BRK]
 
 I love my child, and so
-i want only the best for
+I want only the best for
 him.[BRK]
 
-Therefore, i will do my best
+Therefore, I will do my best
 to bring out his magic power
 so he can pass the trial.[BRK]
 
 That way, he can live on as
-one of the elite in neo-
-vane.[BRK]
+one of the elite in Neo-
+Vane.[BRK]
 
 [POR07]
 But...if he goes there,
@@ -1468,21 +1468,21 @@ That's so...sad....
 
 === 91 | 11d52 | 65 ===
 I've taught my son every-
-thing i can about magic.[BRK]
+thing I can about magic.[BRK]
 
-All i can do now is pray
-he passes borgan's trial![END]
+All I can do now is pray
+he passes Borgan's trial![END]
 
 === 92 | 11dce | 5d ===
 Is it true?! Rumors are
 flying all over the place
-that neo-vane fell![BRK]
+that Neo-Vane fell![BRK]
 
 If that's true, then...[END]
 
 === 93 | 11e46 | 56 ===
-Now that neo-vane has
-fallen, i don't need to
+Now that Neo-Vane has
+fallen, I don't need to
 pressure my son to study.[BRK]
 
 What a relief![END]
@@ -1493,7 +1493,7 @@ adventurer![BRK]
 
 He goes out every day and
 explores the area around
-zaback.[BRK]
+Zaback.[BRK]
 
 We're so proud of him![END]
 
@@ -1506,27 +1506,27 @@ If you forget the magic
 you've learned, you'll be
 enslaved at the mines![BRK]
 
-Your father and i don't want
+Your father and I don't want
 that, so please...study![END]
 
 === 96 | 1201a | 5d ===
 Didn't you hear me, boy! I
-said the magic trial is
+said the Magic Trial is
 three days away![BRK]
 
 Get back to your studies![END]
 
 === 97 | 1208a | 7c ===
-I heard that all the magic
-trials have been canceled
-since neo-vane fell.[BRK]
+I heard that all the Magic
+Trials have been canceled
+since Neo-Vane fell.[BRK]
 
 That's such good news! Now
 my son can stay here...[END]
 
 === 98 | 12114 | 91 ===
 [POR07]
-Well, i wouldn't count on
+Well, I wouldn't count on
 him staying forever...[BRK]
 
 Pretty soon girls are going
@@ -1547,14 +1547,14 @@ other boys around here![END]
 
 === 9a | 1225e | 102 ===
 Yeah, yeah, yeah! Three more
-days 'til the magic trial.
+days 'til the Magic Trial.
 So what?[BRK]
 
 I don't want to pass the
 test and be carted off to
 some fancy city![BRK]
 
-Enslaved or not, i want to 
+Enslaved or not, I want to 
 stay here with my family![BRK]
 
 [POR07]
@@ -1564,15 +1564,15 @@ your family![END]
 
 === 9b | 12378 | 4e ===
 Nag, nag, nag! Can't she
-understand that i don't want
-to go to neo-vane? Hmmm?[END]
+understand that I don't want
+to go to Neo-Vane? Hmmm?[END]
 
 === 9c | 123da | 72 ===
-I've decided i want to be
+I've decided I want to be
 an adventurer, like you
 guys![BRK]
 
-But i guess that means i'll
+But I guess that means I'll
 have to leave my parents,
 huh?[END]
 
@@ -1602,7 +1602,7 @@ can remove the curse for a
 small fee.[BRK]
 
 [POR02]
-Oh, lemina! Will you ever
+Oh, Lemina! Will you ever
 change? You're hopeless!
 
 
@@ -1638,13 +1638,13 @@ the trial, he will.[END]
 === a3 | 1279e | 90 ===
 [POR07]
 Hey, don't worry, all the
-magic trials have been done
+Magic Trials have been done
 away with![BRK]
 
 [POR00]
 Really?! Oh, this is great!
 My prayers must have reached
-goddess althena![END]
+Goddess Althena![END]
 
 === a4 | 1283e | b7 ===
 My big brother is really
@@ -1655,12 +1655,12 @@ he'll bring me back all
 sorts of good things![BRK]
 
 I'm sad to see him go, but
-this time i know he'll be
+this time I know he'll be
 able to come back.[END]
 
 === a5 | 12902 | 54 ===
 [POR07]
-Man, i wish i had a big
+Man, I wish I had a big
 brother that'd bring me back
 valuable treasures for free![END]
 
@@ -1668,9 +1668,9 @@ valuable treasures for free![END]
 Zaback house 1[END]
 
 === a7 | 12ffa | c6 ===
-I'm here because i didn't
+I'm here because I didn't
 have quite enough power to
-pass my magic trial.[BRK]
+pass my Magic Trial.[BRK]
 
 But my son is doing very
 well! He'll pass his trial
@@ -1690,21 +1690,21 @@ That kid can barely tie his
 shoes! What an idiot...[END]
 
 === a9 | 1316e | 90 ===
-If neo-vane fell, what does
+If Neo-Vane fell, what does
 that do for my son's chances
 of passing his trial?[BRK]
 
 What? There are no more
 trials? We're free? But...
-i wanted to...[END]
+I wanted to...[END]
 
 === aa | 1321a | a6 ===
 I was so wrapped up in my
 son passing his trial it
 didn't hit me until now...[BRK]
 
-No more borgan means that
-we can leave zaback any 
+No more Borgan means that
+we can leave Zaback any 
 time we want![BRK]
 
 We're truly free again![END]
@@ -1714,8 +1714,8 @@ My son is so talented that
 he'll be a success wherever
 he chooses to go.[BRK]
 
-I've heard that the magic
-guild in vane is being re-
+I've heard that the Magic
+Guild in Vane is being re-
 built.[BRK]
 
 Maybe he should try to get
@@ -1723,20 +1723,20 @@ in there...[END]
 
 === ac | 1338c | 192 ===
 [POR07]
-Well, to enter the magic
-guild of vane, he'd have
+Well, to enter the Magic
+Guild of Vane, he'd have
 to learn humility.[BRK]
 
 Magic ability isn't the only
-criteria of the guild of
-vane.[BRK]
+criteria of the Guild of
+Vane.[BRK]
 
-...if he pays me, i might
+...if he pays me, I might
 be able to teach him
 humility...[BRK]
 
 [POR02]
-Lemina, i can't believe it!
+Lemina, I can't believe it!
 You're still trying to run
 new scams! You're shameless![BRK]
 
@@ -1744,7 +1744,7 @@ new scams! You're shameless![BRK]
 ....
 .....[BRK]
 
-...well, i have to try,
+...well, I have to try,
 don't i? You know, to
 finance the rebuilding...[BRK]
 
@@ -1755,7 +1755,7 @@ a rest?
 
 === ad | 13536 | 7d ===
 You people are so good.
-Where can i get a book to
+Where can I get a book to
 teach my son that?[BRK]
 
 [POR02]
@@ -1777,27 +1777,27 @@ brain![END]
 
 === af | 13670 | 98 ===
 The boy next door still
-can't do the magic of blaze,[BRK]
+can't do the Magic of Blaze,[BRK]
 
 but my boy mastered that
 when he was only three![BRK]
 
 His parents must be so
-embarrassed! I know i'd be![END]
+embarrassed! I know I'd be![END]
 
 === b0 | 13720 | a1 ===
 It doesn't really matter
-that neo-vane fell.[BRK]
+that Neo-Vane fell.[BRK]
 
 My son's still a genius.
 He'll find another calling,
-i'm sure...[BRK]
+I'm sure...[BRK]
 
 ...unlike that loser kid
 next door. Ha ha ha ha ha![END]
 
 === b1 | 137dc | 8d ===
-My son is so smart that i'm
+My son is so smart that I'm
 sure he'll be a massive
 success![BRK]
 
@@ -1810,7 +1810,7 @@ The kid next door is not
 fit to wipe the butt of my
 perfect boy...[BRK]
 
-In fact, i don't think the
+In fact, I don't think the
 neighbor boy even has the
 iq for butt-wiping.[BRK]
 
@@ -1822,24 +1822,24 @@ embarrassed!
 
 === b3 | 1395c | 274 ===
 I am thoroughly prepared
-for the magic trial.[BRK]
+for the Magic Trial.[BRK]
 
-In fact, i can't wait until
+In fact, I can't wait until
 it's time for me to actually
 take the test.[BRK]
 
-I suspect that i'll have the
+I suspect that I'll have the
 highest rating of all the
 applicants this year.[BRK]
 
 But that shouldn't be a
-surprise to anyone, as i do
+surprise to anyone, as I do
 come from superior stock.[BRK]
 
 [POR07]
 If you're that skilled, why
-not apply to the magic guild
-of vane?[BRK]
+not apply to the Magic Guild
+of Vane?[BRK]
 
 [POR00]
 Vane? Are you kidding? That
@@ -1851,7 +1851,7 @@ clan had decayed well past
 repair by now.[BRK]
 
 [POR07]
-Why you little!...i suspect
+Why you little!...I suspect
 you need to have your butt
 whipped well past repair![BRK]
 
@@ -1865,18 +1865,18 @@ I'm dying to prove my super-
 iority by submitting to the
 trial.[BRK]
 
-I can't wait until i can get
-to neo-vane and i can look
+I can't wait until I can get
+to Neo-Vane and I can look
 down on everyone![END]
 
 === b5 | 13c84 | 8f ===
-Even though neo-vane has
+Even though Neo-Vane has
 fallen, there are other
-places i can go.[BRK]
+places I can go.[BRK]
 
-In fact, maybe i'll consider
+In fact, maybe I'll consider
 your offer and apply to the
-magic guild of vane.[END]
+Magic Guild of Vane.[END]
 
 === b6 | 13d20 | 23 ===
 [POR07]
@@ -1888,7 +1888,7 @@ This is terrible! I spend
 all this time honing my
 magic ability,[BRK]
 
-and now i have no place to
+and now I have no place to
 practice them.[END]
 
 === b8 | 13dca | 93 ===
@@ -1896,8 +1896,8 @@ practice them.[END]
 Well, if you'll lose the
 superior attitude,[BRK]
 
-i can try to get you into
-the magic guild of vane.[BRK]
+I can try to get you into
+the Magic Guild of Vane.[BRK]
 
 But it'll cost you...like,
 10,000s...in advance!
@@ -1905,7 +1905,7 @@ But it'll cost you...like,
 
 === b9 | 13e70 | b2 ===
 Why are you bothering me?
-Can't you see i'm studying
+Can't you see I'm studying
 here?[BRK]
 
 My brother isn't the only
@@ -1917,12 +1917,12 @@ so leave me alone![END]
 
 === ba | 13f3a | 47 ===
 Excuse me, are you deaf and
-stupid? Didn't i ask you to
+stupid? Didn't I ask you to
 leave me alone?[END]
 
 === bb | 13f98 | 69 ===
 If you keep interrupting me,
-i'll never be as smart as my
+I'll never be as smart as my
 older brother![BRK]
 
 So, can you just leave me
@@ -1933,13 +1933,13 @@ Forget the stinkin' books!
 I'm gonna go out and play
 doorbell ditch![BRK]
 
-I think it's time i took
+I think it's time I took
 back my childhood![END]
 
 === bd | 1409c | 86 ===
 I made some new friends in
 town. We're making a secret
-ship to go to neo-vane![BRK]
+ship to go to Neo-Vane![BRK]
 
 ...but don't tell my
 brother. He'll tell mom and
