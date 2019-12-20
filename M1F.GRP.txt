@@ -2323,7 +2323,7 @@ Sorry, I don't gamble.[END]
 === db | 1b082 | 55 ===
 [0][0x3]`[0][0xC0][0x1A][0xC0][BRK]
 
- Lah! Just what I like to see!
+ LAh! Just what I like to see!
 Someone who can take control
 of their destiny![END]
 
