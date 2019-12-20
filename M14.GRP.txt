@@ -1,0 +1,75 @@
+File: M14.GRP
+
+Messages: 7
+
+=== 0 | fd2e | 12 ===
+Katarina zone east[END]
+
+=== 1 | 156e2 | 160 ===
+[POR07]
+In the days before ghaleon,
+vane used to float high
+above the land.[BRK]
+
+The only entrance was by
+means of this magic
+fountain of transfer.[BRK]
+
+Fortunately, it still works!
+We can use it as our own
+private backdoor into vane![BRK]
+
+I, lemina, junior premier
+of the magic guild of vane,
+daughter of miria, [BRK]
+
+call upon the power of
+old to manifest itself
+before me!
+
+[END]
+
+=== 2 | 1584c | 5c ===
+[POR07]
+Ha! Mega-magical! It
+actually worked![BRK]
+
+This is the first
+opportunity i've had
+to try that![END]
+
+=== 3 | 158bc | 99 ===
+Ah! Lemina! I'm so glad
+you've come to visit![BRK]
+
+What? The transport
+fountain? Hmmm....[BRK]
+
+It has been dormant for
+many years. I doubt it
+even works anymore...[END]
+
+=== 4 | 15968 | 8d ===
+The transport spring can
+lead you to vane,[BRK]
+
+but it will first take you
+to the cave of trial.[BRK]
+
+If your magic skills are
+weak, don't even try it![END]
+
+=== 5 | 15a08 | b3 ===
+You know, my grandfather
+once told me a riddle I
+have yet to solve.[BRK]
+
+Perhaps you can help me...[BRK]
+
+Just how many licks does it
+take to get to the center of
+a tootsie roll tootsie pop?[END]
+
+=== 6 | 15ac0 | f ===
+Transfer spring[END]
+

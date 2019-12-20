@@ -1,0 +1,154 @@
+File: M2B.GRP
+
+Messages: 14
+
+=== 0 | 1ab7e | 5e ===
+[POR11]
+...i can't believe you
+finally made it...[BRK]
+
+I was beginning to think
+you were a lost cause...[END]
+
+=== 1 | 1abe0 | 13b ===
+[POR02]
+What??...nall!?![BRK]
+
+How did you do that!?[BRK]
+
+[POR11]
+It's not important.
+...doesn't matter.[BRK]
+
+Now that you're finally
+here, my dragonpower can
+be released at last.[BRK]
+
+You must throw the dragon
+aura directly at the
+crystal.[BRK]
+
+Once the aura touches the
+crystal, the seal will be
+shattered,[BRK]
+
+...and my dragonpower will
+be released!!
+
+[END]
+
+=== 2 | 1ad32 | 2e ===
+[0xB][0][0x4]Threw the white dragon
+aura at the crystal![END]
+
+=== 3 | 1ad70 | 20d ===
+[POR08]
+Nall, you make quite a
+handsome white dragon.[BRK]
+
+Say, can the other seals be
+broken in this same manner?[BRK]
+
+[POR24]
+Yes, but you must have the
+correct dragon aura for
+each seal.[BRK]
+
+Ghaleon made certain that
+the dragon aura was the only
+way to unlock them.[BRK]
+
+You should unlock the blue
+dragon's power next.[BRK]
+
+Lunn is guarding its aura
+at the training city of
+horam to the south.[BRK]
+
+The way is treacherous, but
+i will melt some of the ice-
+bergs blocking your path.[BRK]
+
+Oh, and here...i'll leave
+you something to help you
+on your way...[BRK]
+
+Good luck...[END]
+
+=== 4 | 1af83 | 20 ===
+Received the white dragon
+crest.[END]
+
+=== 5 | 1afac | db ===
+[POR02]
+Lucia, you're right. Nall
+is really quite a handsome
+white dragon.[BRK]
+
+Too bad he's such a pain
+in the butt...[BRK]
+
+....
+.....[BRK]
+
+Hmmmm...maybe there is hope
+for him...[BRK]
+
+But i can't leave hiro....
+what would he do without
+me...??[END]
+
+=== 6 | 1b090 | 11 ===
+White dragon lair[END]
+
+=== 7 | 1b864 | 1a8 ===
+[POR11]
+Ha! You got the white dragon
+aura from leo at last![BRK]
+
+[POR02]
+Hey, nall! Where in the heck
+are you?[BRK]
+
+[POR11]
+I'm where you need to be![BRK]
+
+Listen, you need the four
+ice treasures to open the
+passage to my lair.[BRK]
+
+Once you've got those, you
+may have to backtrack a bit,
+but the way will be open.[BRK]
+
+Each one is in a big white
+ice chest in the corners of
+this cave.[BRK]
+
+Hurry up and get them. I'll
+be waiting...[BRK]
+
+....
+.....[BRK]
+
+And i don't like waiting.
+[END]
+
+=== 8 | 1ba16 | 11 ===
+White dragon maze[END]
+
+=== 9 | 1c800 | 14 ===
+White dragon nw room[END]
+
+=== a | 1e8f6 | 14 ===
+White dragon sw room[END]
+
+=== b | 20c26 | 14 ===
+White dragon ne room[END]
+
+=== c | 24c36 | 14 ===
+White dragon se room[END]
+
+=== d | 29f00 | f ===
+White dragon b1[END]
+

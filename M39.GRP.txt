@@ -1,0 +1,492 @@
+File: M39.GRP
+
+Messages: 23
+
+=== 0 | 17f8e | 5e ===
+[POR02]
+Man! This town is nothing
+but locked tower doors![BRK]
+
+Forget it, hiro. This door
+ain't budging.[END]
+
+=== 1 | 18000 | 1ca ===
+[POR16]
+Ah! It's been some time
+since our last encounter,
+jean.[BRK]
+
+What brings you all the
+way to pentagulia?[BRK]
+
+[POR00]
+[0xB][0][0x3][ROR10]
+...it's this mask. I took
+it from the leader of the
+blue dragon cult.[BRK]
+
+[ROR00]
+[POR16]
+But...what good is this
+mask? Didn't you get a
+look at the leader?[BRK]
+
+[POR00]
+[ROR10]
+No, he covered his face
+before i could get a look
+at it.[BRK]
+
+He was in such a hurry to
+get away, though, that
+he dropped the mask.[BRK]
+
+His voice seemed so very
+familiar...but i can't
+put my finger on it...
+[END]
+
+=== 2 | 181ea | 98 ===
+Master lunn is a very
+busy man.[BRK]
+
+No one ever gets to spend
+more than five minutes
+talking to him.[BRK]
+
+It's such a shame! That
+poor man never gets any
+rest...[END]
+
+=== 3 | 18296 | b0 ===
+With all the traveling that
+lunn does,[BRK]
+
+he's earned enough frequent
+sailing miles to the travel
+world over...[BRK]
+
+...ten times![BRK]
+
+....
+.....[BRK]
+
+I wonder if he'll let me
+use them...???
+
+
+[END]
+
+=== 4 | 18356 | df ===
+Lunn uses us merely as
+sparring partners while
+he's here in pentagulia.[BRK]
+
+Just between you and me...[BRK]
+
+I'm tired of being a
+punching bag...[BRK]
+
+If this is what i've got
+to do to be a member of
+lunn's karate team,[BRK]
+
+...i'm gonna quit![END]
+
+=== 5 | 18448 | 88 ===
+I'm beginning to think that
+lunn likes beating up poor,
+weak slobs like myself...[BRK]
+
+...he gets some kind of
+perverse pleasure out of
+it...[END]
+
+=== 6 | 184e0 | c3 ===
+Years ago, lunn was trying
+to develop a new type of
+martial art...[BRK]
+
+Yet he lost interest once
+he became one of the four
+heroes...[BRK]
+
+I wonder what kind of 
+fighting technique he was
+going to invent?
+[END]
+
+=== 7 | 185b6 | a6 ===
+Lunn says that to be truly
+effective during combat,[BRK]
+
+one must know everything
+about their enemy.[BRK]
+
+If you learn your enemy's
+weaknesses, you can attack
+them mercilessly.[END]
+
+=== 8 | 1866c | 8b ===
+Many of the priests say
+they're interested in
+master lunn's honesty.[BRK]
+
+I think they're interested
+in the taxes he collects for
+the goddess...[END]
+
+=== 9 | 1870a | 30 ===
+Lunn sure has an impressive
+physique up close...[END]
+
+=== a | 18740 | 11 ===
+Blue tower stairs[END]
+
+=== b | 18fba | d ===
+Blue tower 2f[END]
+
+=== c | 19892 | d ===
+Blue tower 3f[END]
+
+=== d | 1a148 | d ===
+Blue tower 4f[END]
+
+=== e | 1aa32 | 2e7 ===
+[POR09]
+I've been following your
+progress. Good work![BRK]
+
+Don't worry, i won't tell
+anyone that you've escaped.[BRK]
+
+In fact, i believe we must
+work together to discover
+what's going on here.[BRK]
+
+I believe that an evil
+lurks within althena's
+organization,[BRK]
+
+and i must find it![BRK]
+
+Our first order of business
+must be to find lucia and
+hear her story.[BRK]
+
+I believe that she is being
+held within a secret area
+of the shrine.[BRK]
+
+The entrance can be found
+in a chamber in these under-
+ground passages.[BRK]
+
+Let's go.[BRK]
+
+[POR05]
+....
+.....[BRK]
+
+Leo, these costume changes
+are getting kind of old.[BRK]
+
+Are you going to be leo
+for a while, now?[BRK]
+
+[POR09]
+What have you been sniffin',
+ronfar?[BRK]
+
+There's never been any
+disguises...[BRK]
+
+...but regardless, we must
+get to the shrine.[BRK]
+
+Lucia's life hangs in the
+balance![END]
+
+=== f | 1ad28 | d ===
+Blue tower 5f[END]
+
+=== 10 | 1b5de | 23b ===
+[POR10]
+Thank goodness![BRK]
+
+I've been counting the
+minutes since they locked
+me in that cell![BRK]
+
+I was hoping you were all
+okay![BRK]
+
+Say, what's leo doing with
+you?[BRK]
+
+Isn't he working for the
+goddess?[BRK]
+
+[POR02]
+Uh, well, yes and no.[BRK]
+
+Near as we can tell, this
+is some sort of party game
+leo's playing.[BRK]
+
+He's dressed up and calls
+himself 'mystere.'[BRK]
+
+He's the one that rescued
+hiro and me from the cell
+first![BRK]
+
+[POR10]
+All right, then, mystere it
+is![BRK]
+
+Listen, some really bad
+stuff is going on here.[BRK]
+
+When i went to see master
+lunn to report on the blue
+dragon cult,[BRK]
+
+i discovered something very
+interesting...[END]
+
+=== 11 | 1b826 | 7e7 ===
+[POR16]
+Ah! It's been some time
+since our last encounter,
+jean.[BRK]
+
+What brings you all the
+way to pentagulia?[BRK]
+
+[POR00]
+[0xB][0][0x3][ROR10]
+...it's this mask. I took
+it from the leader of the
+blue dragon cult.[BRK]
+
+[ROR00]
+[POR16]
+But...what good is this
+mask? Didn't you get a
+look at the leader?[BRK]
+
+[POR00]
+[ROR10]
+No, he covered his face
+before i could get a look
+at it.[BRK]
+
+He was in such a hurry to
+get away, though, that
+he dropped the mask.[BRK]
+
+His voice seemed so very
+familiar...but i can't
+put my finger on it...[BRK]
+
+[ROR00]
+[POR16]
+Ha, ha, ha...jean, you
+always were my best student.[BRK]
+
+But you never knew when to
+give up...to leave well
+enough alone...[BRK]
+
+[POR00]
+[ROR10]
+...your best student? What
+...are you talking ab....[BRK]
+
+....
+.....[BRK]
+
+...it was you! You are the
+leader of the cult![BRK]
+
+[ROR00]
+[POR16]
+I'm surprised it took you
+so long to put it together.[BRK]
+
+But then again, you were 
+bred to fight, not to think.[BRK]
+
+...and fight you did![BRK]
+
+Under my watchful eye, your
+fighting skill increased
+a hundred-fold![BRK]
+
+[POR00]
+[ROR10]
+Yes, but you forced me to
+use that skill for death and
+destruction.[BRK]
+
+I was nothing more than an
+assassin for your corrupt
+cause![BRK]
+
+You stole my childhood,
+lunn.[BRK]
+
+I'll never forgive you
+for that![BRK]
+
+[ROR00]
+[POR16]
+'Never' is such a strong
+word.[BRK]
+
+Think about it, jean! I
+molded you into what you
+are today![BRK]
+
+You should thank me.[BRK]
+
+[POR00]
+[ROR10]
+You molded me into what?[BRK]
+
+An emotional wreck who is
+always running from a past
+i don't understand?[BRK]
+
+...or maybe a trained
+killer who can never live
+a normal life?[BRK]
+
+You took everything i had,
+and gave me nothing in
+return.[BRK]
+
+You never cared about me.[BRK]
+
+I was simply another child
+whose soul you would blacken
+for your own evil purpose.[BRK]
+
+A trusting child whose
+innocence you would tear
+away with no remorse.[BRK]
+
+[ROR00]
+[POR16]
+Jean...jean...you make it
+sound so...harsh.[BRK]
+
+I did care about you. Your
+skill was beyond anything I
+had encountered.[BRK]
+
+...you were special.[BRK]
+
+....
+.....[BRK]
+
+We could have gone far
+together.[BRK]
+
+But your rebellion has made
+us adversaries.[BRK]
+
+[POR00]
+[ROR10]
+I will always be the
+adversary of evil.[BRK]
+
+You must be stopped.[BRK]
+
+[ROR00]
+[POR16]
+Well then, jean. The time
+has come for your final
+lesson.[BRK]
+
+And a hard lesson it will
+be...
+
+
+
+
+[END]
+
+=== 12 | 1c010 | 63 ===
+[ROR10]
+...i don't believe...[BRK]
+
+...your karate has...grown
+...so....strong...[BRK]
+
+Lunn...you...you...can't...
+[END]
+
+=== 13 | 1c082 | e4 ===
+[POR10]
+...and the next thing I
+knew, i was in this cell.[BRK]
+
+We have to find a way to
+stop lunn![BRK]
+
+He can't be allowed to
+continue stealing the
+innocence of children.[BRK]
+
+His newer, stronger black
+karate of death cannot be
+allowed to spread.
+[END]
+
+=== 14 | 1c17e | 85 ===
+[POR13]
+Okay, now that the tearful
+reunion is finished, i've
+finished my task.[BRK]
+
+....
+.....[BRK]
+
+Your next step is entirely
+up to you. Good luck![END]
+
+=== 15 | 1c20c | 1b2 ===
+[POR02]
+I don't know what we would
+have done if leo...uh...
+mystere hadn't come.[BRK]
+
+I'm certain he saved our
+lives.[BRK]
+
+I just think it's funny
+that he thinks he's fooling
+us with that mask.[BRK]
+
+[POR05]
+If members of althena's 
+cult knew that he was 
+helping us...[BRK]
+
+They would not only kill
+him, but mauri as well.[BRK]
+
+I think he realized that
+this was the only way
+he could help us.[BRK]
+
+He has a good heart. I
+just hope he leaves the cult
+before it's too late...
+[END]
+
+=== 16 | 1c3f4 | d ===
+Blue tower 6f[END]
+

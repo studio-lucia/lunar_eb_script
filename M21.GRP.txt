@@ -1,0 +1,179 @@
+File: M21.GRP
+
+Messages: 14
+
+=== 0 | 13d16 | 11 ===
+Meribian sewers 1[END]
+
+=== 1 | 1528a | 11 ===
+Meribian sewers 2[END]
+
+=== 2 | 1640c | 11 ===
+Meribian sewers 3[END]
+
+=== 3 | 1771a | 11 ===
+Meribian sewers 4[END]
+
+=== 4 | 18806 | 224 ===
+[POR10]
+Never![BRK]
+
+You stole my innocence and
+trained me in the ways of
+death! I'll never forgive...[BRK]
+
+And now, your trade in
+stolen children continues![BRK]
+
+You make me sick! You're
+using the knowledge of
+karate for evil![BRK]
+
+I'll have no part of it!
+And i'll take those kids,
+thank you![BRK]
+
+[POR21]
+Ha ha ha ha! Oh, jean! You
+always did overestimate your
+abilities.[BRK]
+
+Do you think you actually
+have a chance of saving
+these children?[BRK]
+
+These kids will be free only
+when my elite guards feel
+death's embrace...[BRK]
+
+And that's not too likely. I
+trained them myself...[BRK]
+
+...hahaha!
+
+
+
+
+
+
+[END]
+
+=== 5 | 18a34 | b6 ===
+[POR21]
+Hrmph! You fared better than
+i had hoped. It seems I
+trained you all too well...[BRK]
+
+But you'll never lay a
+finger on the master![BRK]
+
+[POR10]
+I'll never know until I
+try![BRK]
+
+Haaay----yaaaaaaa!!!![END]
+
+=== 6 | 18af4 | 1b ===
+Urmph! Ahhh!...my...mask!
+
+[END]
+
+=== 7 | 18b18 | 188 ===
+[ROR10]
+Why are you running from
+your weak student, master?[BRK]
+
+Come back and fight![BRK]
+
+[ROR00]
+Ha ha ha! If you really
+believe you have a chance
+against me...[BRK]
+
+Come to the town called
+horam and gain entrance to
+the tournament of death.[BRK]
+
+That is the most suitable
+forum for your humiliating
+defeat, child.[BRK]
+
+Soon, all will know the
+strength of blue dragon
+karate.[BRK]
+
+I'm looking forward to
+our...reunion...hahahaha!
+[END]
+
+=== 8 | 18caa | 11 ===
+[POR10]
+This mask...
+
+[END]
+
+=== 9 | 18cca | f1 ===
+[0xB][0][0x3]Took the mysterious mask.[BRK]
+
+[0xB][0][0][POR10]
+Hmmmm...that voice...it
+sounded so...familiar...[BRK]
+
+Well...maybe if i take this
+mask to master lunn, i can
+gain his trust...[BRK]
+
+Once he trusts me, he might
+be able to help us![BRK]
+
+...i'd better go see him
+right away![END]
+
+=== a | 18dc4 | ee ===
+Thank you! Thank you! Thank
+you![BRK]
+
+If you hadn't saved us from
+that strange man, we might
+have been killed![BRK]
+
+We have to get back to
+taben's peak in a hurry![BRK]
+
+Our leader will be
+worried![BRK]
+
+See you later![BRK]
+
+[POR02]
+Wait! We want to see your
+leader, too![END]
+
+=== b | 18ebc | aa ===
+[POR02]
+Shoot!
+They're gone![BRK]
+
+Why are children always
+running off so fast these
+days![BRK]
+
+Anyway, we should head back
+and follow them to taben's
+peak.[BRK]
+
+C'mon, hiro, let's go!
+
+
+
+
+
+
+[END]
+
+=== c | 18f70 | 12 ===
+Meribian sewers 5f[END]
+
+=== d | 197f4 | 10 ===
+Meribia house 4a[END]
+

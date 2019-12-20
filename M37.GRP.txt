@@ -1,0 +1,277 @@
+File: M37.GRP
+
+Messages: 22
+
+=== 0 | 16fc0 | 3f ===
+[POR02]
+Oh great! The door's
+locked![BRK]
+
+Maybe there's another
+way in...[END]
+
+=== 1 | 17004 | 70 ===
+I'm sorry, but this room
+is off-limits to commoners.[BRK]
+
+You cannot enter this room
+without lord leo's direct
+order.[END]
+
+=== 2 | 1707a | 5b ===
+Leo demands perfect service
+from his loyal servants.[BRK]
+
+And i, for one, will not
+let him down.[END]
+
+=== 3 | 170e4 | f2 ===
+Lord leo is relentless when
+he has been given an
+assignment.[BRK]
+
+We will not rest until he
+has seen it through to
+completion.[BRK]
+
+And heaven help the poor
+soul that gets in his way![BRK]
+
+[POR02]
+Uh, we sorta had a first-
+hand demonstration of that
+already...
+
+[END]
+
+=== 4 | 171ea | 9a ===
+I really need a vacation. [BRK]
+
+I've been working day and
+night helping leo for what
+seems like forever![BRK]
+
+His passion for his work is
+going to be the end of me![END]
+
+=== 5 | 17294 | a9 ===
+I really don't have the
+mental fortitude to under-
+stand what's going on.[BRK]
+
+But i guess that's how
+lord leo likes it.[BRK]
+
+He only enlisted me because
+i'm an awesome swordsman.[END]
+
+=== 6 | 17350 | 9d ===
+Since i've been fighting 
+alongside leo, we've never
+lost a battle.[BRK]
+
+In fact, i kinda have this
+superstition...[BRK]
+
+As long as we're winning,
+i don't take a bath.[END]
+
+=== 7 | 17414 | d ===
+Donated 100s![END]
+
+=== 8 | 17446 | e ===
+White tower 1f[END]
+
+=== 9 | 17cc2 | e ===
+White tower 2f[END]
+
+=== a | 18556 | e ===
+White tower 3f[END]
+
+=== b | 18df4 | e ===
+White tower 4f[END]
+
+=== c | 19688 | e ===
+White tower 5f[END]
+
+=== d | 19f44 | 22 ===
+[POR02]
+...hiro! Are you 
+all right??!
+[END]
+
+=== e | 19f86 | cd ===
+[POR02]
+Man, i guess ghaleon is more
+powerful than we thought![BRK]
+
+I knew that leo was a no-
+good traitor! He's working
+for that evil althena![BRK]
+
+We've got to find a way to
+get out of here...[BRK]
+
+...wherever 'here' is...
+[END]
+
+=== f | 1a06e | 162 ===
+[POR02]
+...lucia?[BRK]
+
+I don't know what happened
+to lucia. [BRK]
+
+The last time i saw her, she
+was laid out on the floor of
+althena's audience chamber.[BRK]
+
+Hiro...i hope she's all
+right![BRK]
+
+If the goddess really is
+a fake like lucia said,
+we're all in big trouble![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR02]
+We've got to find a way
+out of here and then
+find the others![BRK]
+
+....
+.....[BRK]
+
+...uh...any ideas?
+
+
+[END]
+
+=== 10 | 1a1da | 4f4 ===
+[POR13]
+...you there! Listen up![BRK]
+
+I've come to rescue you.
+Do as i say and we'll all
+get out of here alive![BRK]
+
+Now then, follow me![BRK]
+
+[POR02]
+L-le...leo! What are you
+doing here?[BRK]
+
+I thought you were the
+servant of that no-good
+phony althena!?[BRK]
+
+What are you doing trying
+to help us?[BRK]
+
+[POR13]
+Uh...er...i am not white
+knight leo.[BRK]
+
+I...am...i...am...[BRK]
+
+....
+.....uh....[BRK]
+
+...i'm mystere! Protector
+of the innocent and...uh...
+defender of truth![BRK]
+
+Hurry! You must follow me
+or your lives will be lost![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR02]
+Come on, leo! Knock off the
+party games and tell us
+what's really happening![BRK]
+
+[POR13]
+Silence, cat! I am mystere.
+I know not the 'leo' of
+which you speak![BRK]
+
+[POR02]
+Okay...right. Mystere. I
+get it. Whatever...[BRK]
+
+[POR13]
+My true identity shall
+remain a secret, but i have
+knowledge to impart to you.[BRK]
+
+Listen very carefully...[BRK]
+
+There are four towers in
+pentagulia, each with a
+prison on the top floor.[BRK]
+
+They are connected by an
+underground network of
+passages.[BRK]
+
+You are in the white tower.
+Your friends lie in the
+other towers.[BRK]
+
+But i have no information
+on the girl you call lucia.[BRK]
+
+Since she tried to murder
+the goddess, her fate is
+probably execution.[BRK]
+
+I will help you release
+ronfar and the two girls
+from their cells.[BRK]
+
+What you do after that is
+your own business.[BRK]
+
+Come quickly! Time rapidly
+escapes us!
+
+
+
+
+
+
+[END]
+
+=== 11 | 1a70c | e ===
+White tower 6f[END]
+
+=== 12 | 1b0a6 | 72 ===
+[POR09]
+If my memory serves me
+right...[BRK]
+
+The secret exit from this
+room is somewhere along
+these walls.[BRK]
+
+We must find it![END]
+
+=== 13 | 1b140 | d ===
+Donated 100s![END]
+
+=== 14 | 1b180 | 2d ===
+[POR09]
+Ah! At last![BRK]
+
+Yes! This is the secret
+exit![END]
+
+=== 15 | 1b1c6 | 10 ===
+Under pentagulia[END]
+

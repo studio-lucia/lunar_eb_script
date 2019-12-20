@@ -1,0 +1,432 @@
+File: M38.GRP
+
+Messages: 19
+
+=== 0 | 17e36 | 44 ===
+[POR02]
+Um, i don't think this door
+is going to budge.[BRK]
+
+It's locked tight.[END]
+
+=== 1 | 17e8e | 1cd ===
+[POR15]
+My dear ronfar, why have
+you come all this way to
+see me?[BRK]
+
+There is nothing left to
+discuss. Our love has
+grown cold.[BRK]
+
+[POR00]
+[ROR05]
+Oh, mauri! Don't say that![BRK]
+
+I've been running from my
+true self. I realized some
+things when i last saw you.[BRK]
+
+I realized that i can't live
+without you...that i need
+you in my life.[BRK]
+
+But we have to find a way to
+free you from this evil
+spell you're under.[BRK]
+
+[POR15]
+But ronfar, i am this way
+because of you.[BRK]
+
+Don't you see? We can never
+go back...[END]
+
+=== 2 | 18070 | b6 ===
+Lady mauri hasn't been
+herself lately.[BRK]
+
+It seems that she's being 
+haunted by strange dreams 
+during the night.[BRK]
+
+She keeps saying that it
+feels as if she's dying
+inside.[BRK]
+
+I'm worried...[END]
+
+=== 3 | 1812c | a9 ===
+Have you noticed that even
+when mauri smiles, you can
+see the pain in her eyes?[BRK]
+
+In the past, she used to
+be so carefree, but now
+she's just so...so...[BRK]
+
+.........empty....[END]
+
+=== 4 | 181da | 9c ===
+Lord leo and lady mauri have
+devoted their lives to 
+further althena's cause.[BRK]
+
+But ever since lord leo was
+granted the destiny, he
+never sees mauri anymore.
+[END]
+
+=== 5 | 1827c | a2 ===
+Rumor has it that lady
+mauri has been granted the
+power of the red dragon.[BRK]
+
+That's why she can throw
+fire at will.[BRK]
+
+[POR02]
+Ha! That's nothing compared
+to what i can do![END]
+
+=== 6 | 18324 | c ===
+Red tower 1f[END]
+
+=== 7 | 18b9a | c ===
+Red tower 2f[END]
+
+=== 8 | 1942a | c ===
+Red tower 3f[END]
+
+=== 9 | 19cb8 | c ===
+Red tower 4f[END]
+
+=== a | 1a55a | 28d ===
+[POR09]
+I've just heard everything
+that you were talking about.[BRK]
+
+I will keep the fact that
+you have escaped a secret
+from the cult.[BRK]
+
+I must find out what is
+really happening with the
+goddess.[BRK]
+
+In any case, we must find 
+lucia and hear her story.[BRK]
+
+So then, our first stop
+should be the shrine where
+she's being held.[BRK]
+
+We can get there by means
+of the underground passage
+below this tower.[BRK]
+
+I will go with you, and
+together we will get to the
+bottom of this mystery.[BRK]
+
+[POR05]
+....
+.....[BRK]
+
+<Wink> uh, don't ya mean
+'bottom of this mystere?'[BRK]
+
+...psst! Say old buddy,
+where'd ya stash your
+mask?[BRK]
+
+[POR09]
+Are you drunk, ronfar?
+I have no disguise stashed![BRK]
+
+Why would i have a disguise?[END]
+
+=== b | 1a7f6 | c ===
+Red tower 5f[END]
+
+=== c | 1b092 | 14e ===
+[POR05]
+Man, i thought the calvary
+would never get here![BRK]
+
+I can't tell ya how glad
+i am to see you guys![BRK]
+
+....
+.....[BRK]
+
+...uh, hey leo, what's with
+the mask?[BRK]
+
+[POR02]
+He's pretending to be some
+kind of supernut called
+'mystere.'[BRK]
+
+Go figure...[BRK]
+
+[POR05]
+Ha ha ha! Okay, then,
+mystere it is...[BRK]
+
+Now then, get a load of
+this...i'm in a serious load
+of poo-poo...[END]
+
+=== d | 1b1ee | 8ce ===
+[POR15]
+My dear ronfar, why have
+you come all this way to
+see me?[BRK]
+
+There is nothing left to
+discuss. Our love has
+grown cold.[BRK]
+
+[POR00]
+[ROR05]
+Oh mauri! Don't say that![BRK]
+
+I've been running from my
+true self. I realized some
+things when i last saw you.[BRK]
+
+I realized that i can't live
+without you...that i need
+you in my life.[BRK]
+
+But we have to find a way to
+free you from this evil
+spell you're under.[BRK]
+
+[POR15]
+But ronfar...i am this way
+because of you.[BRK]
+
+Don't you see? We can never
+go back...[BRK]
+
+Love me the way i am, and
+embrace the way of goddess
+althena.[BRK]
+
+[POR00]
+[ROR05]
+Mauri, i know that you're
+this way because of me,
+but i want to fix that![BRK]
+
+I had no choice back then.
+It was the only way you
+could survive![BRK]
+
+Every time i think about
+that day, it drives a knife
+through my heart![BRK]
+
+But i can't join you here!
+Don't you see that the
+goddess is a fraud?[BRK]
+
+She's imprisoned you in
+some kind of eternal dark-
+ness.[BRK]
+
+I'm here to get you out. To
+find the real mauri once
+again![BRK]
+
+[ROR00]
+[POR15]
+Oh, ronfar, let's not talk
+about that right now...[BRK]
+
+Let's talk about the times
+we used to have, the games
+that we played together,[BRK]
+
+and let's forget about this
+crazy mess that both of us
+are in.[BRK]
+
+[POR00]
+[ROR05]
+Mauri, i wish i could. But
+more is at stake here than
+us...[BRK]
+
+You've got to give me some
+straight answers before I
+can help you.[BRK]
+
+Tell me, what's going on
+in this terrible city?[BRK]
+
+Why is it you never show the
+sweet smile of innocence I
+fell in love with?[BRK]
+
+All i see now when you smile
+is the fire of hate in your
+eyes.[BRK]
+
+Mauri, you have to tell me
+before i can help you![BRK]
+
+[ROR00]
+[POR15]
+...enough of this nonsense,
+ronfar![BRK]
+
+Nothing has changed except
+you. I'm the same person
+you fell in love with.[BRK]
+
+[POR00]
+[ROR05]
+But mauri...you...have
+...changed![BRK]
+
+[ROR00]
+[POR15]
+If you cannot accept me for
+who i am and join me in
+althena's glorious service,[BRK]
+
+then i'm afraid i will have
+to end your pathetic life
+along with the others.[BRK]
+
+At least once i've taken
+your life, you will be mine
+forever...[BRK]
+
+And that is what i've....[BRK]
+
+....
+.....[BRK]
+
+.......
+.........[BRK]
+
+[POR00]
+Ron...far....this...is...
+not me...[BRK]
+
+Help! I...am awash in a sea
+....of.....darkness....[BRK]
+
+I-i...am...right here...
+....please, hurry...[BRK]
+
+Release me...before i.....
+i....disappear forever....[BRK]
+
+I...[BRK]
+
+.....love[BRK]
+
+............you![BRK]
+
+[ROR05]
+...m...mauri, what in the
+world is going on!?[BRK]
+
+Are you in there, mauri?
+Wait! Come back!!!!!
+[END]
+
+=== e | 1bac0 | a0 ===
+[POR15]
+Ha ha ha ha ha![BRK]
+
+That's one way to shut
+you up![BRK]
+
+....
+.....[BRK]
+
+Hrmph! I can't believe
+those memories still
+exist.[BRK]
+
+I will soon wash them from
+this wretched mind...[END]
+
+=== f | 1bb70 | 160 ===
+[POR05]
+...and when i woke up, i was
+in this comfy little cell
+countin' hash marks.[BRK]
+
+I can't believe that i could
+have been such a fool.[BRK]
+
+Mauri is obviously under
+some kind of black spell
+from the goddess...[BRK]
+
+...and has been ever since
+the day i cured her of the
+disease.[BRK]
+
+The fake goddess will pay
+for what she's done to
+mauri...[BRK]
+
+Believe me...she will
+pay!!!
+
+[END]
+
+=== 10 | 1bce8 | ad ===
+[POR13]
+I've accomplished all that
+i can.[BRK]
+
+From here on, you're on
+your own.[BRK]
+
+When you speak of this day
+remember that you were saved
+by the deeds of...[BRK]
+
+...................mystere![END]
+
+=== 11 | 1bd9e | 194 ===
+[POR02]
+Okay, leo...uh, i mean
+mystere![BRK]
+
+....
+.....[BRK]
+
+...i wonder why leo couldn't
+just help us without going
+through this charade...[BRK]
+
+[POR05]
+I think it has something to
+do with the fact that leo
+is in althena's service.[BRK]
+
+I'm guessing he has his
+doubts about her, but not
+enough to help us outright.[BRK]
+
+Without a disguise like that
+he would lose not only his
+position, but his life.[BRK]
+
+At least he found a way to
+help us...
+[END]
+
+=== 12 | 1bf68 | c ===
+Red tower 6f[END]
+

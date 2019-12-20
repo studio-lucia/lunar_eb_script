@@ -1,0 +1,436 @@
+File: M36.GRP
+
+Messages: 45
+
+=== 0 | 14d96 | 13 ===
+Neo-trial warp room[END]
+
+=== 1 | 1549a | 11 ===
+Neo-trial cave b1[END]
+
+=== 2 | 16810 | 146 ===
+[POR05]
+I don't believe you guys
+found me in this crazy
+place![BRK]
+
+I have no idea where jean
+ended up.[BRK]
+
+Look, there's no way i can
+pass that test.[BRK]
+
+I'm a preacher, not a
+prestidigitator.[BRK]
+
+[POR07]
+I'm sorry, ronfar![BRK]
+
+[POR05]
+Why are you sorry, lemina?
+It's not your fault.[BRK]
+
+[POR07]
+I mean, they're supposed
+to be magicians...[BRK]
+
+They give us all a bad
+name!
+
+[END]
+
+=== 3 | 16966 | b8 ===
+[POR05]
+I did hear that there's an
+exit at the bottom of this
+labyrinth.[BRK]
+
+It's some sorta secret
+entrance to the magic guild.[BRK]
+
+They say that lord fatty
+uses it, so let's keep our
+eyes peeled.[END]
+
+=== 4 | 16a36 | 126 ===
+[POR10]
+I was beginning to wonder if
+you guys were ever going to
+find me.[BRK]
+
+As i expected, i'm not
+gifted with magical powers![BRK]
+
+I'm more of a hands-on
+person...[BRK]
+
+But to be dropped into the
+pit like that...ow![BRK]
+
+[POR07]
+Jean, i...
+i'm sorry...[BRK]
+
+[POR10]
+Lemina, you didn't know.
+Don't feel guilty. I'm not
+mad at you.
+[END]
+
+=== 5 | 16b6c | 8b ===
+[POR10]
+Did you hear that borgan
+sometimes comes to this
+labyrinth?[BRK]
+
+They say there's a secret
+back door to the guild at
+the bottom of this cave.[END]
+
+=== 6 | 16c0e | fc ===
+I hope that you guys have
+strong backs. If you don't,
+you'll be in pain.[BRK]
+
+Borgan works us until our 
+hands are blistered, and 
+our backs are broken...[BRK]
+
+If i was you, i'd do 
+something to get ya thrown
+into prison.[BRK]
+
+At least you don't have to
+work there...[END]
+
+=== 7 | 16d22 | 39 ===
+I don't have any hope of 
+ever getting out of this
+place.[END]
+
+=== 8 | 16d6e | 70 ===
+I felt a terrible shaking
+down here. Did borgan fall
+out of bed?[BRK]
+
+It's a wonder that the 
+ceiling didn't cave-in.[END]
+
+=== 9 | 16df2 | e4 ===
+Borgan is so sadistic. He 
+comes down here just to
+make fun of us.[BRK]
+
+I think he finds some kind
+of pleasure in tormenting
+innocent people...[BRK]
+
+I can't believe that people
+who have magic powers would
+treat us like this.[BRK]
+
+[POR07]
+....
+.....[END]
+
+=== a | 16eee | 5e ===
+His lardness hasn't been 
+down here for a long time.[BRK]
+
+Do you think he has a girl?[BRK]
+
+[POR07]
+....
+.....[END]
+
+=== b | 16f60 | f0 ===
+I kind of miss borgan's
+threats.[BRK]
+
+It was kind of fun watching
+him try to get his 
+heftyness through here...[BRK]
+
+You should've seen him when
+he tried to go down these
+narrow passages...[BRK]
+
+Now that was almost worth
+an eternity of pain and
+suffering![END]
+
+=== c | 17060 | e3 ===
+Can you believe that borgan
+forces us to work in this
+rat-infested place?[BRK]
+
+I've heard that borgan is
+making money off of the 
+stuff we're mining!![BRK]
+
+[POR07]
+That mega-slug! I should be
+getting some kind of kick-
+back for saving people![END]
+
+=== d | 17156 | 80 ===
+What!? I don't have to work
+in this hellhole anymore?[BRK]
+
+Say, who do i see about
+collecting a paycheck for
+all the work i've done?
+[END]
+
+=== e | 171ea | db ===
+Why doesn't his fatness use
+those great magic powers to
+do this work for us?[BRK]
+
+If he had supreme power, he
+could do all this work, and
+he wouldn't even need us.[BRK]
+
+I think borgan is trying to
+hide something from all of
+us...[END]
+
+=== f | 172dc | 47 ===
+I think only savages find
+some perverse pleasure in
+people suffering...[END]
+
+=== 10 | 1733a | 8b ===
+Hey! Last time i talked to
+you, i got beaten by the
+guards.[BRK]
+
+But i guess it was worth it
+if you had something to do
+with borgan's downfall!
+[END]
+
+=== 11 | 173e0 | 33 ===
+I don't believe it! You
+actually kept your promise.[END]
+
+=== 12 | 17426 | d9 ===
+I hope my husband is having
+a really nice time up there
+in neo-vane.[BRK]
+
+He has magic power and was
+told by borgan that he could
+live there.[BRK]
+
+If i find him having an 
+affair, i'm going to drive 
+this pick right into his...[END]
+
+=== 13 | 17516 | 33 ===
+I really miss my husband.[BRK]
+
+I hope he misses me, too.[END]
+
+=== 14 | 17560 | b1 ===
+Did you see my husband in
+neo-vane? Tell me if you 
+saw him with another woman. [BRK]
+
+I've been talking to 
+loraina...[BRK]
+
+And she's told me how to 
+take care of a man that 
+hurts you...[END]
+
+=== 15 | 1762c | 43 ===
+I can finally go and find my
+husband. I hope he's waiting
+for me...[END]
+
+=== 16 | 17682 | a6 ===
+I almost got out of this
+stupid place...[BRK]
+
+I would've made it if it
+wasn't for that stupid door
+on the bottom level...[BRK]
+
+They say only people that
+have magic can open it.[END]
+
+=== 17 | 17740 | 46 ===
+I'd give half of my brain
+just to have enough magic
+to open that door.[END]
+
+=== 18 | 1779a | 75 ===
+I've heard that neo-vane was
+destroyed.[BRK]
+
+Oh, i'm so sad...[BRK]
+
+...ha! Like hell i am.[BRK]
+
+This is the happiest day
+of my life![END]
+
+=== 19 | 17822 | a3 ===
+Please, you must help me
+find my mommy and daddy.[BRK]
+
+The bad people here force
+me to work in this pit![BRK]
+
+I've never been this lonely
+before in my life. Please,
+help me![END]
+
+=== 1a | 178dc | a9 ===
+They say that magic is 
+supposed to bind our world
+together...[BRK]
+
+How can they say that when
+it separates us from our
+families?[BRK]
+
+[POR07]
+This isn't what magic is 
+supposed to be.[END]
+
+=== 1b | 17998 | 85 ===
+Thank you! I can't believe
+that i can finally go home
+to my parents.[BRK]
+
+This is real magic! I owe
+you so much! How can I
+ever repay you?[END]
+
+=== 1c | 17a30 | 72 ===
+Come on, grab a spoon and
+help me dig my way out of
+this place.[BRK]
+
+If you do most of the work,
+i'll let you go first.[END]
+
+=== 1d | 17aba | c6 ===
+Don't worry, i'm taking a
+ceramics class so that we 
+can make molds of our heads.[BRK]
+
+That way, when we escape,
+we'll leave the fake heads
+here,[BRK]
+
+and the guards will see them
+and think we're still here.
+[END]
+
+=== 1e | 17b94 | 70 ===
+I almost finished digging my
+tunnel when neo-vane 
+crashed.[BRK]
+
+But hey! You won't see me
+complaining about that...
+[END]
+
+=== 1f | 17c0a | 11 ===
+Neo-trial cave b2[END]
+
+=== 20 | 19034 | 11 ===
+Neo-trial cave b3[END]
+
+=== 21 | 1a644 | 11 ===
+Neo-trial cave b4[END]
+
+=== 22 | 1b94e | 85 ===
+[POR07]
+The spell on this door will
+be easy to break...[BRK]
+
+Hiro, let's go and free jean
+and ronfar from the mine,
+and then we'll all get out![END]
+
+=== 23 | 1b9ee | 70 ===
+[POR07]
+Like i said, i can break 
+this spell...[BRK]
+
+But let's go and get ronfar
+and jean so we can all 
+leave this place![END]
+
+=== 24 | 1ba7a | 5b ===
+[POR07]
+Hello, are you mega-deaf?[BRK]
+
+I'm not going to open this
+door until we free ronfar
+and jean![END]
+
+=== 25 | 1baf0 | 34 ===
+[POR07]
+Okay, time to break the 
+spell on this barrier...[END]
+
+=== 26 | 1bb2e | 1a ===
+[POR07]
+Ha! There![BRK]
+
+...let's go![END]
+
+=== 27 | 1bb60 | 88 ===
+The transport pad over
+there leads to borgan's
+magic guild.[BRK]
+
+But if you can't use magic,
+you might as well forget
+about trying to get in.[END]
+
+=== 28 | 1bc00 | 80 ===
+The magic wall is impossible
+to get past.[BRK]
+
+I'm a demolitions expert,
+and i've tried everything![BRK]
+
+That wall just won't fall
+down...[END]
+
+=== 29 | 1bc98 | f3 ===
+What are you? Treasure- 
+hunters or something? There 
+is no treasure in here...[BRK]
+
+[POR07]
+Duh! I'm not here to get
+rich. I've got to save my
+mother![BRK]
+
+[POR02]
+News flash, lemina of vane
+announced today that she's
+not interested in money...[BRK]
+
+Film at eleven...[END]
+
+=== 2a | 1bda6 | 41 ===
+Get lost! I'm going to get
+into trouble if i talk to
+you anymore.[END]
+
+=== 2b | 1bdfa | 4e ===
+If you're not careful, the 
+guards will find you and
+beat the crap out of you.[END]
+
+=== 2c | 1be4e | 11 ===
+Neo-trial cave b5[END]
+

@@ -1,0 +1,2002 @@
+File: M10.GRP
+
+Messages: 189
+
+=== 0 | 9bd6 | 71 ===
+[POR02]
+Let's see...i think they
+said the manor was to the
+east...[BRK]
+
+I just want you all to
+know that i'm against this!
+[END]
+
+=== 1 | 9c5c | b9 ===
+Welcome to takkar! This is
+a resting point for all the
+tradesmen in the area.[BRK]
+
+They come here to rest up
+and trade stories of the
+road...[BRK]
+
+I should warn you about the
+house to the east...[END]
+
+=== 2 | 9d22 | 7e ===
+The ghost manor is rumored
+to be haunted by a terrible
+force![BRK]
+
+[POR02]
+Ghost?! H...hiro...let's
+steer clear of that place,
+o...okay?[END]
+
+=== 3 | 9db8 | 9a ===
+The tradesman passing
+through here are saying that
+the ghost manor is silent.[BRK]
+
+Do you think the ghosts have
+left? I hope so. It would be
+good for business.[END]
+
+=== 4 | 9e62 | 44 ===
+Most of the people that come
+through takkar are looking
+to get rich.[END]
+
+=== 5 | 9ec0 | 82 ===
+Hey there, travelers! I'm
+afraid i can't let you pass
+this gate.[BRK]
+
+There's been reports of
+monsters in the cave, so
+we've sealed it.[END]
+
+=== 6 | 9f46 | e4 ===
+As a priest of althena,
+i cannot let you pass in
+good conscience.[BRK]
+
+It's sealed until the
+monster situation is
+resolved.[BRK]
+
+[POR05]
+C'mon! This is the only road
+that leads to nota, and,
+ultimately, pentagulia![BRK]
+
+Ya gotta let us pass, buddy![END]
+
+=== 7 | a042 | 1ac ===
+I'm sorry, i can't open this
+gate until the monster
+situation is resolved.[BRK]
+
+If i did, the lives of all
+the villagers would be in
+danger.[BRK]
+
+[POR05]
+But we can defeat the beasts
+if you just let us through![BRK]
+
+[POR00]
+I'm sorry, i don't have the
+authority to make that
+decision.[BRK]
+
+Besides, i have already sent
+for lord leo. He'll take
+care of this in no time.[BRK]
+
+Just be patient. He should
+be here soon...[BRK]
+
+[POR02]
+Uh, if leo's coming, we'd
+better lay low...[END]
+
+=== 8 | a1f8 | 71 ===
+[POR20]
+Hm hm hm...you're wasting
+your time with that fool.[BRK]
+
+Come with me and i'll
+share something very
+interesting...
+[END]
+
+=== 9 | a272 | 10b ===
+[POR20]
+If you have enough magic
+power, you can bypass this
+gate.[BRK]
+
+There's a haunted manor to
+the east of the village with
+a secret mountain pass.[BRK]
+
+If you can get through the
+manor, the pass will take
+you to nota.[BRK]
+
+I'll be waiting outside the
+manor...don't keep me
+waiting...[END]
+
+=== a | a386 | 174 ===
+[POR02]
+Uh...didn't she say the
+manor was haunted? Maybe she
+was one of the spooks![BRK]
+
+[POR08]
+I sensed that she had
+an aura of strong magic
+about her...[BRK]
+
+[POR10]
+Maybe we should take her
+advice and check it out...[BRK]
+
+[POR02]
+Oh, this is just great! Some
+weird girl comes out of 
+nowhere,[BRK]
+
+and we're gonna take her
+advice and follow her
+through some spook house![BRK]
+
+This is just going to make
+my week!
+
+[END]
+
+=== b | a512 | 94 ===
+This gate is to remain
+sealed until the monsters
+threatening us are defeated.[BRK]
+
+Don't worry, lord leo will
+be here soon to take care of
+the situation.[END]
+
+=== c | a5ba | 75 ===
+It was strange. All of the
+monsters disappeared very
+suddenly.[BRK]
+
+Maybe they heard that lord
+leo was coming...ha ha ha!
+[END]
+
+=== d | a63e | 8f ===
+Now that the danger has
+passed, this gate is open
+for all to use.[BRK]
+
+[POR02]
+You turned awfully helpful
+all of the sudden. Are you
+the same gatekeeper?[END]
+
+=== e | a6dc | 10a ===
+Fearsome monsters have been
+coming into the village
+lately.[BRK]
+
+That's why we sealed the
+north gate.[BRK]
+
+If we don't open the gate,
+they can't get in anymore.[BRK]
+
+The only problem is that
+the north gate leads the
+way to nota.[BRK]
+
+And until the monsters are
+defeated, we're cut off.
+[END]
+
+=== f | a7fe | d3 ===
+I wish i knew the source of
+those strange monsters![BRK]
+
+I think it's that strange
+hooded figure that arrived
+about the same time.[BRK]
+
+[POR02]
+Uh, hiro, that's the hooded
+figure we talked to![BRK]
+
+I don't like the smell of
+this...[END]
+
+=== 10 | a8e8 | 13c ===
+I wish i knew the source of
+those strange monsters![BRK]
+
+Now there's a girl named
+lemina scamming strangers.[BRK]
+
+She tells them she knows a
+way around the town and
+charges them for the info![BRK]
+
+[POR02]
+What!?[BRK]
+
+[POR07]
+Hey! It was not a scam![BRK]
+
+It was a test for applicants
+to the magic guild![BRK]
+
+...and the money was used to 
+restore the guild![END]
+
+=== 11 | aa34 | 64 ===
+I heard that the monsters
+were made by the magic
+guild.[BRK]
+
+I wonder who started that
+ridiculous rumor?![END]
+
+=== 12 | aaa6 | 41 ===
+[POR02]
+I think it was lemina.[BRK]
+
+[POR07]
+It was not, you little
+flying stain![END]
+
+=== 13 | aaf6 | 6f ===
+There's a hooded figure
+lurking around town.[BRK]
+
+You'd better not talk to it.
+If you do accidentally, come
+to me...[END]
+
+=== 14 | ab7c | 2c ===
+Remember, don't talk to the
+hooded figure...[END]
+
+=== 15 | abb2 | 28 ===
+There it is! Whatever you
+do, stay away![END]
+
+=== 16 | abe4 | 8e ===
+You talked to the hooded
+figure, didn't you?[BRK]
+
+You're doomed now! She's
+going to stalk you forever![BRK]
+
+Your only hope is to run,
+run, run far away![END]
+
+=== 17 | ac8e | b0 ===
+Now that you've talked to
+the hooded figure, your
+only hope is to run away![BRK]
+
+Run, run, run! If she finds
+you again, she'll...she'll
+...i don't know what![BRK]
+
+But it'll be terrible!
+[END]
+
+=== 18 | ad56 | a7 ===
+You're lucky the hooded
+girl disappeared![BRK]
+
+I heard she is a member of
+the old vane magic guild.[BRK]
+
+One thing's for sure: she's
+really annoying. If you see
+her, be careful.[END]
+
+=== 19 | ae14 | 13c ===
+Hey! Aren't you the girl
+that was going about town
+in a cloak?[BRK]
+
+Are you really the premier
+of the vane magic guild?[BRK]
+
+[POR07]
+I'm surprised you even have
+to ask![BRK]
+
+Can't you tell from my
+classic good looks and
+superior intellect?[BRK]
+
+Of course i'm the premier of
+the guild, idiot![BRK]
+
+...well, actually the junior
+premier...but still![END]
+
+=== 1a | af68 | 78 ===
+I'm surprised you're all
+still okay. That magic
+guild master is weird.[BRK]
+
+I thought she might do
+something terrible to you![END]
+
+=== 1b | aff8 | bc ===
+What!? You're still hanging
+around that weird premier of
+the magic guild?[BRK]
+
+You'd better keep a close
+eye on her![BRK]
+
+[POR07]
+Why should they do that?
+You're the weirdo. We should
+keep an eye on you![END]
+
+=== 1c | b0c8 | bd ===
+I can't believe that girl is
+the premier of the vane
+magic guild.[BRK]
+
+I mean, i knew they were
+hard up, but now they're
+employing kids?[BRK]
+
+Oh well, i guess you can't
+judge a person by their
+looks.[END]
+
+=== 1d | b198 | fb ===
+Are you sure you're the
+premier of the magic guild?
+...the vane magic guild?[BRK]
+
+[POR07]
+Of course i am. How many
+times do i have to tell you?[BRK]
+
+You should be able to see it
+just by observing my mastery
+of complicated magic,...[BRK]
+
+And my impeccable social
+graces...[END]
+
+=== 1e | b2a2 | 90 ===
+P-please...have mercy on me,
+for i...i have no magic
+ability![BRK]
+
+[POR02]
+What the heck's wrong with
+this bozo? It seems like
+he's afraid of something...[END]
+
+=== 1f | b34a | 68 ===
+No...no....no! Get away from
+me! I told you to leave
+...me...alone![BRK]
+
+Ahhhh! Leave me alone...
+please!
+
+
+
+[END]
+
+=== 20 | b3bc | 51 ===
+[POR02]
+What's wrong with that guy?
+He's acting like he's seen
+a ghost or something...[END]
+
+=== 21 | b428 | 44 ===
+Please! Stop following me!
+I...i can't take it
+anymore![BRK]
+
+Heeelllppp!
+[END]
+
+=== 22 | b484 | 60 ===
+I was a fool for fearing
+that stupid hooded girl in
+the first place.[BRK]
+
+I dunno what got into me...[END]
+
+=== 23 | b4fc | 10b ===
+Oh...oh no! You're the
+hooded girl, aren't you![BRK]
+
+Please! Ya gotta leave me
+alone! I don't know why you
+keep stalking me![BRK]
+
+[POR08]
+Why is this man so very
+afraid of lemina? I don't
+understand...[BRK]
+
+[POR07]
+Me neither. A lot of people
+in this town are afraid of
+me for some reason...
+[END]
+
+=== 24 | b61a | 80 ===
+Ohhhh...oh...the trial
+at the manor...it was
+terrible.[BRK]
+
+I still have nightmares
+about it...the place is
+haunted now, you know.
+
+
+[END]
+
+=== 25 | b6a8 | 66 ===
+[POR07]
+You are such a lightweight.
+I'm glad you failed my
+little test at the manor...[BRK]
+
+Talk about a baby...[END]
+
+=== 26 | b71c | 3f ===
+[POR05]
+Well, some people got it,
+and some people don't![BRK]
+
+He don't...[END]
+
+=== 27 | b76e | 95 ===
+I've been having nightmares
+from that stupid trial at
+the manor forever![BRK]
+
+Now that the world is at
+peace, maybe i'll finally
+get a good night's sleep.[END]
+
+=== 28 | b81a | dd ===
+Why, why, why?! Stop buggin'
+me, lady![BRK]
+
+I almost had forgotten about
+that cockamamie trial at the
+manor, and you show up![BRK]
+
+[POR07]
+Well, i can give you one
+more chance to pass a magic
+trial...[BRK]
+
+[POR00]
+No, no, no! Just leave me
+alone![END]
+
+=== 29 | b912 | 48 ===
+I finally got a good night's
+sleep.[BRK]
+
+I hope the nightmares are
+over...
+
+
+[END]
+
+=== 2a | b96a | 91 ===
+My son is such a stupid boy!
+He falls for a strange magic
+girl, and now look at him![BRK]
+
+He went into the haunted
+manor to try to impress her.
+Idiot![END]
+
+=== 2b | ba12 | b1 ===
+The girl who made him take
+a trial at the manor is
+crazy![BRK]
+
+I heard she's charging
+admission to take the test!
+Can you believe that?![BRK]
+
+And my son was dumb enough
+to fall for it...
+[END]
+
+=== 2c | bada | 85 ===
+If my son was dumb enough
+to get caught in that girl's
+trap,[BRK]
+
+you might be in danger, too.
+Be careful of that girl, i'm
+warning you...[END]
+
+=== 2d | bb72 | 67 ===
+That girl is obsessed by
+money![BRK]
+
+I don't think she has any
+connection to the magic
+guild of vane at all![END]
+
+=== 2e | bbe6 | a0 ===
+[POR07]
+That's what you get for
+thinking![BRK]
+
+Of course i'm associated
+with the guild...i'm the
+junior premier![BRK]
+
+[POR02]
+But premier of what? That
+place is really run-down...
+[END]
+
+=== 2f | bc96 | 8f ===
+Now that there's peace in
+the land, my son seems to
+be getting better.[BRK]
+
+I'm so thankful! I don't
+know how much more of his
+whining i could take![END]
+
+=== 30 | bd34 | a8 ===
+You'd better be careful. I
+just heard there's strange
+monsters roaming about.[BRK]
+
+And a hooded figure has
+been seen around town...[BRK]
+
+Beware the moors...that's
+what i say...
+
+[END]
+
+=== 31 | bdf0 | 64 ===
+I don't believe that the
+girl in the cloak is the
+premier of vane.[BRK]
+
+She's too flighty...too
+weird...
+[END]
+
+=== 32 | be68 | 92 ===
+I wish i knew how to help
+you out, but i don't.[BRK]
+
+So you might as well just
+stop bothering me.[BRK]
+
+It's really quite annoying.[BRK]
+
+I mean it![BRK]
+
+Are you deaf?
+[END]
+
+=== 33 | bf0e | 78 ===
+I heard about the happenings
+at the ghost manor.[BRK]
+
+So, the monster was a fake,
+huh? That seems almost too
+good to be true.[END]
+
+=== 34 | bf96 | b7 ===
+My my my! How you kids have
+grown since the last time
+you were here.[BRK]
+
+Seems like that was just
+yesterday...[BRK]
+
+[POR02]
+That's probably because
+you're getting senile as you
+approach middle age.[END]
+
+=== 35 | c060 | b9 ===
+Say there, strangers! Have
+you decided on a place to
+stay while you're here?[BRK]
+
+Tell you what! I'll make you
+a great deal on a room! It's
+only 10s![BRK]
+
+And best of all, breakfast
+is included!
+[END]
+
+=== 36 | c130 | 4b ===
+All the best-looking women
+stay at my hotel. Why don't
+you stay there, too?[END]
+
+=== 37 | c188 | c0 ===
+[POR05]
+Hey chief, this sounds like
+a pretty sweet deal![BRK]
+
+10S per night, free
+breakfast, and curvy scenery
+that's easy on the eyes![BRK]
+
+[POR02]
+Whoa there, ronfar! Rein in
+the stallion! We've got
+work to do![END]
+
+=== 38 | c25c | 70 ===
+Say, have you decided to
+stay at the bounteous babe
+hotel?[BRK]
+
+[POR02]
+No, we've got work to do.
+Maybe some other time...[END]
+
+=== 39 | c2e4 | 99 ===
+Now that the monsters have
+disappeared, the trade route
+from nota is open.[BRK]
+
+Our hotel is almost filled
+to capacity. You'd better
+hurry if you want a room![END]
+
+=== 3a | c38a | 9c ===
+[POR05]
+Oh, man! C'mon, hiro! Can't
+we just stay one night? I
+mean, sheesh...the babes...[BRK]
+
+[POR02]
+Ronfar, you know we can't
+stop here now, so why do
+you keep asking?![END]
+
+=== 3b | c442 | 98 ===
+If you try to do battle when
+your bodies are deprived of
+sleep, it's dangerous.[BRK]
+
+Why not spend the night at
+the bounteous babe? We've
+got free breakfast![END]
+
+=== 3c | c4ea | 85 ===
+Now that the world is at
+peace once again, business
+is up 500% over last year.[BRK]
+
+I'm thinking of expanding
+the hotel! Isn't that great?[END]
+
+=== 3d | c580 | bf ===
+[POR05]
+So does that mean there will
+be more bounteous babes to
+check out...hoouuahhh![BRK]
+
+[POR09]
+Ronfar, you better cool it,
+or i'll tell mauri![BRK]
+
+If she finds out how you've
+been acting, you're dead
+meat![END]
+
+=== 3e | c64e | 8a ===
+I failed the trial at the
+ghost manor because i was
+not good with magic.[BRK]
+
+Those flying girls are 
+impossible! I couldn't even
+scratch them![END]
+
+=== 3f | c6ec | 62 ===
+Oh no! There she is...it's
+that girl...that terrible
+girl![BRK]
+
+Oh no...i think she's after
+you now...
+[END]
+
+=== 40 | c762 | b6 ===
+I feel sorry for you if the
+hooded girl is after you.[BRK]
+
+She won't stop stalking you
+until you take her test at
+the ghost manor![BRK]
+
+It's horrible in there! Just
+a big nightmare....ouuuggh![END]
+
+=== 41 | c82c | 83 ===
+I've heard many rumors about
+the ghost manor lately.[BRK]
+
+Some say that it wasn't real
+at all, but just put there
+to test magic ability.[END]
+
+=== 42 | c8be | 9e ===
+The hooded girl from the
+ghost manor is rumored to be
+premier of the magic guild.[BRK]
+
+But if she was the premier,
+she wouldn't do something
+like that, would she?
+[END]
+
+=== 43 | c96a | 20 ===
+[POR07]
+I'm sure she had her
+reasons.[END]
+
+=== 44 | c99e | be ===
+You know what? Huh? Huh?
+Huh?[BRK]
+
+I met the premier of the
+magic guild of vane![BRK]
+
+When i grow up, i want to be
+in the magic guild.[BRK]
+
+But it costs a lot, so i'm
+gonna start saving my money
+right now![END]
+
+=== 45 | ca74 | 32 ===
+When i get bigger, i'm gonna
+join the magic guild![END]
+
+=== 46 | caba | 78 ===
+I used to want to be a
+world-class trader, but
+i've changed my mind.[BRK]
+
+Now, i just want to be a
+member of the magic guild![END]
+
+=== 47 | cb40 | 72 ===
+[POR07]
+Well, remember, you have to
+have a lot of money to enter
+into the magic guild.[BRK]
+
+So you better start saving
+now!
+[END]
+
+=== 48 | cbc6 | 7a ===
+I need money to become a
+member of the magic guild,
+so i'm saving my earnings.[BRK]
+
+Hopefully, i'll have enough
+when i grow up.[END]
+
+=== 49 | cc4e | a4 ===
+[POR07]
+Well, i'll tell you what.
+I'll give you this savings
+book.[BRK]
+
+That way, you can deposit
+your savings with me![BRK]
+
+I'll keep them in a special
+account until you get big![END]
+
+=== 4a | cd02 | 6a ===
+I've saved lots of money
+to get into the guild
+when i get big.[BRK]
+
+But i still don't have
+enough to join yet.
+[END]
+
+=== 4b | cd7a | 44 ===
+[POR07]
+Well, why don't you give it
+to me, so i can keep it safe
+for you?[END]
+
+=== 4c | cdce | 86 ===
+A strange girl who called
+herself the premier of the
+magic guild was just here.[BRK]
+
+I don't know what she could
+possibly want around here.[END]
+
+=== 4d | ce6c | bf ===
+That girl who calls herself
+the premier of the magic
+guild is strange.[BRK]
+
+I think she likes money way
+too much.[BRK]
+
+What's the relationship
+between magic and money?
+Is there one?[BRK]
+
+I don't think so...[END]
+
+=== 4e | cf46 | 50 ===
+I don't understand why that
+magic guild girl makes such
+a big deal out of money.[END]
+
+=== 4f | cfaa | 50 ===
+I haven't seen the premier
+of the money grubbers guild.
+I wonder where she went?[END]
+
+=== 50 | d008 | 6b ===
+[POR07]
+That's the magic guild, not
+the money grubbers guild![BRK]
+
+[POR02]
+...hehe...i think he has
+you pegged, lemina.
+
+
+[END]
+
+=== 51 | d082 | 70 ===
+Hrmph! I guess the money
+grubbers premier saved the
+world, didn't she?[BRK]
+
+Maybe my opinion of her was
+misguided...
+[END]
+
+=== 52 | d100 | 2a ===
+[POR07]
+That's magic guild, not
+money grubbers![END]
+
+=== 53 | d13a | 5a ===
+Hmmm...new travelers...[BRK]
+
+...you poor, poor, souls.[BRK]
+
+[POR02]
+Poor souls? What is he
+talking about?[END]
+
+=== 54 | d1ac | 9a ===
+You aren't friends of the
+cloaked figure, are you?[BRK]
+
+It's been looking this way
+ever since you came.[BRK]
+
+I don't envy you...[BRK]
+
+[POR02]
+Why? What are you talking
+about?[END]
+
+=== 55 | d262 | a9 ===
+That cloaked girl seems to
+be very fond of you.[BRK]
+
+That can be quite dangerous.
+I wouldn't want to be in
+your shoes...[BRK]
+
+[POR02]
+Will you please tell me what
+you're talking about?[END]
+
+=== 56 | d322 | f2 ===
+Not too long ago, i believed
+what the girl said and took
+her test.[BRK]
+
+It was a nerve-shattering
+experience that i don't
+care to relive.[BRK]
+
+I still have nightmares
+about it to this day.[BRK]
+
+To add insult to injury, 
+she took money from me as
+a test fee![END]
+
+=== 57 | d430 | e6 ===
+Aren't you the...[BRK]
+
+[POR07]
+Yep! I'm lemina, premier of
+the magic guild.[BRK]
+
+Sorry you didn't have what
+it takes to be a member of
+the magic guild.[BRK]
+
+Maybe you can try again
+someday![BRK]
+
+[POR00]
+Are you kidding? Never!
+I've had my fill of magic
+tests!
+[END]
+
+=== 58 | d536 | 70 ===
+After that terrible
+experience with the magic
+trial, [BRK]
+
+i have no desire to be
+anything other than a 
+tradesman...[END]
+
+=== 59 | d5b6 | 27 ===
+Yep, the simple life's the
+best life...[END]
+
+=== 5a | d5e2 | e ===
+Takkar village[END]
+
+=== 5b | ed26 | e ===
+Donated 100s.
+[END]
+
+=== 5c | ed62 | 125 ===
+There has been much
+commotion in the village
+lately.[BRK]
+
+Villagers are afraid of all
+the monsters that have come
+to our village.[BRK]
+
+But we of the althena cult
+will destroy the monsters
+using althena's power.[BRK]
+
+If donations increase, lord
+leo will come and slay the
+monsters![BRK]
+
+Now then, will you donate?
+[END]
+
+=== 5d | ee9e | 7c ===
+The world is safest under
+the watch of althena's
+cult members.[BRK]
+
+The sooner you realize this,
+the better it will be for
+you...[END]
+
+=== 5e | ef2e | 7e ===
+What? The monsters have all
+disappeared from the area?[BRK]
+
+Hmm...well then, the power
+of althena's cult is greater
+than i thought![END]
+
+=== 5f | efba | 4f ===
+[POR02]
+It wasn't you...it was...[BRK]
+
+[POR07]
+Shh! Ruby! Be quiet! They
+don't need to know!
+
+[END]
+
+=== 60 | f018 | 9e ===
+Now that you have shown the
+error of our ways, we are
+humbled before the village.[BRK]
+
+The people look upon us very
+suspiciously. I hope we can
+regain their trust.[END]
+
+=== 61 | f0c6 | 78 ===
+Welcome to takkar. Make a
+donation and pray for safe
+travel, won't you?[BRK]
+
+If you do not, grave things
+could happen to you.[END]
+
+=== 62 | f152 | 6d ===
+You should donate to the
+goddess althena before you
+travel.[BRK]
+
+That way, she can watch over
+you on your journey.[END]
+
+=== 63 | f1cc | 106 ===
+[POR07]
+I think this money would be
+put to better use at the
+magic guild.[BRK]
+
+People should start donating
+to the magic guild instead.[BRK]
+
+Then the guild can make
+this world safe again for
+everyone.[BRK]
+
+[POR00]
+Blasphemy! You dare to speak
+against the leadership of
+althena herself?!
+[END]
+
+=== 64 | f2e2 | 99 ===
+We were following the wrong
+path. Goddess althena would
+not be so money-hungry.[BRK]
+
+It was our own selfish
+desire that led us to ask
+for so many donations...[END]
+
+=== 65 | f38a | 87 ===
+Isn't this shrine the most
+beautiful place you've ever
+seen?[BRK]
+
+If you want a long life and
+much happiness, donate to
+the goddess althena.[END]
+
+=== 66 | f424 | 46 ===
+For a life free from worry
+about money, donate to the
+goddess althena.[END]
+
+=== 67 | f478 | 52 ===
+[POR07]
+I was thinking that an ira
+would be a more prudent
+investment.[BRK]
+
+Don't you think?[END]
+
+=== 68 | f4da | 65 ===
+Don't you want to keep this
+shrine this beautiful?[BRK]
+
+Well then, you'd better
+donate to goddess althena![END]
+
+=== 69 | f552 | 80 ===
+In my former life, i was a
+tradesman, but then i felt
+the calling.[BRK]
+
+Now i am a servant to the
+cult of althena. Donation,
+please?
+[END]
+
+=== 6a | f5ea | 7c ===
+When i quit my former life,
+i gave all my assets to the
+althena cult.[BRK]
+
+I live now only to collect
+more donations for althena.[END]
+
+=== 6b | f674 | 4d ===
+[POR07]
+You what? You gave all your
+property to these kooks? I
+can't believe it...[END]
+
+=== 6c | f6d0 | 5c ===
+The donation you give is not
+as important as the prayer
+you pray.[BRK]
+
+But the minimum is 1000s.
+[END]
+
+=== 6d | f73c | 80 ===
+We are trying our best to
+spread the word of althena,[BRK]
+
+but there are many that
+still want to sing, dance,
+and make money instead.[END]
+
+=== 6e | f7ca | 36 ===
+[POR10]
+But i thought althena loved
+singing and dancing...
+[END]
+
+=== 6f | f80e | 6b ===
+[POR07]
+That's right! And i bet she
+loved money, too![BRK]
+
+[POR02]
+Um, lemina...i think you're
+too far out on that limb...[END]
+
+=== 70 | f888 | 7d ===
+Now i understand the true
+teachings of althena.[BRK]
+
+She wants all of us to enjoy
+life by singing and dancing
+to lift our spirits.[END]
+
+=== 71 | f914 | 8d ===
+Many of the villagers don't
+believe what we tell them
+of goddess althena.[BRK]
+
+Someday, the goddess will
+come and punish them for
+their ignorance![END]
+
+=== 72 | f9b4 | 89 ===
+We of the althena cult try
+to steer the people in the
+right way.[BRK]
+
+Those that will not donate
+to the cause will be
+punished by the goddess.[END]
+
+=== 73 | fa4c | 7f ===
+Now i know that althena,
+goddess of beauty and love,
+wouldn't punish us.[BRK]
+
+Who started that doctrine?
+It seems like nonsense now![END]
+
+=== 74 | fad0 | d ===
+Takkar shrine[END]
+
+=== 75 | 10920 | 37f ===
+[POR20]
+Welcome, travelers![BRK]
+
+I am a messenger from the
+magic guild of vane. We are
+recruiting new members.[BRK]
+
+Would you like to join the
+guild? There's only a simple
+test, and an entrance fee.[BRK]
+
+[POR02]
+Hey, hiro, that sounds like
+fun. Why don't we take the
+test?[BRK]
+
+[POR20]
+Oh, pooh! I forgot to tell
+you we don't allow flying
+cats.[BRK]
+
+I always forget that...[BRK]
+
+[POR02]
+Well then, that's still okay
+since i'm not a cat.[BRK]
+
+[POR20]
+...but...you look like a cat
+with...[BRK]
+
+[POR05]
+Hey sister, hate to break up
+the raging kitty debate, but
+we've got to get moving.[BRK]
+
+We don't have time to take
+your test...[BRK]
+
+[POR20]
+Ah, yes, but you cannot pass
+the gate to continue your
+quest, anyway.[BRK]
+
+Haven't you heard? The gate
+is sealed because of
+terrible monster attacks![BRK]
+
+[POR10]
+Then we'll tell the guard
+we can kill the monsters if
+he opens the gate.[BRK]
+
+[POR20]
+....
+.....[BRK]
+
+Perhaps that plan will work,
+or maybe it won't. You can
+only try...[BRK]
+
+...in any event, i'll be
+around...
+
+[END]
+
+=== 76 | 10ca8 | d7 ===
+[POR02]
+Whew! Talk about your hood
+fetish kooks! That girl was
+a mountain of weird![BRK]
+
+I mean...offering us a test
+to enter the magic guild,
+and then excluding me?[BRK]
+
+What kind of attitude is
+that? Gimme a break![BRK]
+
+[POR01]
+....
+.....[END]
+
+=== 77 | 10d92 | 7c ===
+It's my job to transport
+goods from nota to dalton.[BRK]
+
+I always like to stop in at
+this bar for a little r&r
+before i continue.[END]
+
+=== 78 | 10e22 | fa ===
+My usual route is from nota
+to dalton, but i just heard
+about a town called larpa.[BRK]
+
+They say it's just past
+dalton...[BRK]
+
+I was thinkin' about goin'
+down there to see if i can
+expand my service route.[BRK]
+
+Any of you guys heard about
+what it's like down there?[END]
+
+=== 79 | 10f2a | c8 ===
+[POR05]
+Let me get my dice and i'll
+show ya, chief![BRK]
+
+[POR02]
+Whoa! Put those things away,
+ronfar![BRK]
+
+Mister, you don't want to
+learn about larpa from
+ronfar.[BRK]
+
+It'll be the most expensive
+travelogue you've ever seen![END]
+
+=== 7a | 11002 | d6 ===
+Now that the world is at
+peace, i was thinkin' about
+settling down here.[BRK]
+
+I mean, the location's nice,
+and whoa! Did you see the
+bounteous babe hotel?[BRK]
+
+We're talking some righteous
+bounty![BRK]
+
+Yeah...i could live here...[END]
+
+=== 7b | 110e8 | 96 ===
+Now that the gates have been
+closed, our business is
+going to die out.[BRK]
+
+I sure hope they get those
+monsters killed in a hurry,
+or we're in big trouble![END]
+
+=== 7c | 11192 | 5b ===
+At least the wine supply
+from nota is back on
+schedule again![BRK]
+
+That blockade was killing
+us![END]
+
+=== 7d | 111fc | 9b ===
+Now that the world is safe
+again, sales of flowers and
+champagne are up.[BRK]
+
+Fortunately, i saw it coming
+and stocked up. I'm making
+a killing![BRK]
+
+Cheers to hiro![END]
+
+=== 7e | 112a6 | 7a ===
+Hic! 'Dose stuupiid iidiots
+closed the gaate jus' for
+a...hic!...monsdter?[BRK]
+
+This iis costin' me plenty
+in loss trade...hic![END]
+
+=== 7f | 11334 | 85 ===
+All the money i...hic!...
+saved from my...hic!...
+bid'ness down the shodglass![BRK]
+
+Guess i'll...hic!...hav'da
+stard all over again...hic![END]
+
+=== 80 | 113c8 | 89 ===
+Now thad tha world iis...
+...hic!...safe again...hic!
+I bedder clean up my act.[BRK]
+
+Ha ha ha! Anyone wanna start
+uh lokal chabter of aa? Hic![END]
+
+=== 81 | 11464 | 80 ===
+The althena cult is making
+a business out of the fear
+of these monsters.[BRK]
+
+I don't know how the goddess
+can allow them to do that![END]
+
+=== 82 | 114f2 | 38 ===
+[POR10]
+I'm sure she won't allow it
+for long...[BRK]
+
+[POR08]
+....
+.....[END]
+
+=== 83 | 11542 | a8 ===
+The cult leaders are getting
+to be real sticklers![BRK]
+
+Now they say that alcohol,
+song, and dance are off-
+limits to followers![BRK]
+
+Kevin bacon, where are you
+when we need you?[END]
+
+=== 84 | 115fe | a8 ===
+Now that the althena cult
+members got the monsters
+under control,[BRK]
+
+they're saying that it's a
+sign that the goddess
+approves of their teachings![BRK]
+
+I can't believe it's so.[END]
+
+=== 85 | 116b6 | 85 ===
+The followers of goddess
+althena have changed
+dramatically.[BRK]
+
+Now, they enjoy song and
+dance. In fact, they're
+starting some festivals![END]
+
+=== 86 | 11748 | 6b ===
+[POR10]
+That sounds more like the
+althena i heard about as
+a child.[BRK]
+
+The one that inspired me
+to become a dancer.[END]
+
+=== 87 | 117c6 | 5a ===
+Say there, strangers!
+Haven't seen you in here
+before.[BRK]
+
+Where ya from? Nota?
+Dalton? Larpa?[END]
+
+=== 88 | 1182e | 83 ===
+[POR08]
+My name is lucia. I have
+come from the blue star.[BRK]
+
+[POR00]
+Well then, you've come
+mighty far. Perhaps you'd
+like some dutch apple pie?[END]
+
+=== 89 | 118c2 | 87 ===
+[POR05]
+Hehe...the girl's just
+having some fun with you!
+Actually, we're from larpa.[BRK]
+
+We're on a tour of the area!
+We'll be seein' ya...
+
+
+
+
+[END]
+
+=== 8a | 1195c | e3 ===
+Ya know, your talk about the
+blue star reminded me of a
+legend i heard 'bout it.[BRK]
+
+They say that long ago, our
+ancestors came from the blue
+star, courtesy of althena.[BRK]
+
+Don't know if it's true, but
+it's a mighty romantic
+notion....[END]
+
+=== 8b | 11a4c | c5 ===
+[POR08]
+What you speak is not
+legend, but history. It
+really happened long ago...[BRK]
+
+[POR00]
+Now how in the world would
+you know that?[BRK]
+
+Oh, i get it...you're pullin'
+my leg again! Ha ha ha! Good
+one...ya got me![END]
+
+=== 8c | 11b24 | fe ===
+Say there, folks...sit down
+and take a load off.[BRK]
+
+I'll buy the first round of
+drinks to show some good
+ol' takkar hospitality![BRK]
+
+[POR02]
+Thanks for the heapin'
+helpin' of your hospitality,
+but we have to get moving.[BRK]
+
+[POR00]
+Okay then, but y'all come
+back now, y'hear?[END]
+
+=== 8d | 11c46 | f4 ===
+I heard there is a way to
+get back to the blue star.
+It's in some tower...[BRK]
+
+Ahhh...what a romantic
+notion! Traveling to the
+blue star...ouoummmmm...[BRK]
+
+If only that dream could
+come true![BRK]
+
+[POR02]
+I'm sure it will come true
+if you're a dreamer like
+hiro![END]
+
+=== 8e | 11d40 | a ===
+Takkar bar[END]
+
+=== 8f | 12632 | 42 ===
+Welcome! Come in! Come in!
+What can i do for you fine
+folks today?[END]
+
+=== 90 | 1267e | 33 ===
+Thanks for taking a look
+around! Come back anytime![END]
+
+=== 91 | 126b6 | af ===
+Ah! Have you come to upgrade
+your armor? That's not a bad
+idea these days,[BRK]
+
+what with all the monsters
+running around mauling
+innocent folk.[BRK]
+
+So, tell me, what can i do
+for you?[END]
+
+=== 92 | 1276e | 3d ===
+It's been a pleasure serving
+you today! Stop by again
+soon...[END]
+
+=== 93 | 127b0 | d ===
+Takkar bazaar[END]
+
+=== 94 | 12fee | 77 ===
+If you've come looking for
+potions, lotions, or herbs
+of emotion,[BRK]
+
+this is the place! So now,
+what would you like to do?[END]
+
+=== 95 | 1306e | 21 ===
+Thank you! Thank you! Come
+again![END]
+
+=== 96 | 13094 | 10 ===
+Takkar item shop[END]
+
+=== 97 | 13776 | 89 ===
+Say, you look like you're
+new to this town. At least
+you picked a good inn![BRK]
+
+I'm a traveling merchant.
+Do you want to see any of
+my wares?[END]
+
+=== 98 | 1380c | a7 ===
+[POR08]
+Merchant? Wares? I don't
+understand the meaning of
+those words...[BRK]
+
+[POR02]
+If you remain ignorant of
+those terms and credit-
+cardless,[BRK]
+
+you'll be every man's
+fantasy mate![END]
+
+=== 99 | 138ca | 45 ===
+Someday, i'm going to be the
+most successful merchant in
+all history![END]
+
+=== 9a | 13922 | 8e ===
+With a little more work, i'm
+going to set up my own shop
+in takkar.[BRK]
+
+That's step two in my dream
+to be the most successful
+merchant in history.[END]
+
+=== 9b | 139be | 5c ===
+[POR07]
+Sorry, buster. I think that
+title goes to me...[BRK]
+
+...if selling guild
+memberships counts...[END]
+
+=== 9c | 13a2a | 67 ===
+This inn is cheap and quite
+clean.[BRK]
+
+If i'm going to make my
+dream come true, i have to
+save where i can![END]
+
+=== 9d | 13a9e | 73 ===
+[POR07]
+I'm pretty sure ramus and
+ramus jr. Of meribia are
+the most successful...[BRK]
+
+It's going to be tough to
+beat them...[END]
+
+=== 9e | 13b20 | fd ===
+Many people come here
+because they like the
+town's atmosphere.[BRK]
+
+Once, long ago, i came to
+this town and liked it so
+much i set up this inn![BRK]
+
+Best decision i ever made.[BRK]
+
+I mean, it's just a tiny bed
+and breakfast inn, but it's
+my dream,[BRK]
+
+and i'm living it...[END]
+
+=== 9f | 13c30 | be ===
+Lord leo and his men were
+looking for some people they
+said stopped by my inn.[BRK]
+
+Have you seen any unusual
+looking visitors?[BRK]
+
+[POR02]
+Uh...no! No, we haven't
+seen any...thing out of the
+ordinary...
+[END]
+
+=== a0 | 13cfe | 48 ===
+My inn offers the best
+service at the lowest price.
+Try us out sometime![END]
+
+=== a1 | 13d4c | a ===
+Takkar inn[END]
+
+=== a2 | 144ac | 47 ===
+Welcome to the bounteous
+babe inn. We're here to
+serve your every need.[END]
+
+=== a3 | 14504 | 61 ===
+[POR08]
+But...their faces are the
+same??? I've never seen
+anything like it...[BRK]
+
+[POR02]
+We call that 'twins.'[END]
+
+=== a4 | 14574 | 9c ===
+This inn is very popular
+with the traveling merchants
+in the area.[BRK]
+
+They all like to stay here
+when they have business in
+takkar.[BRK]
+
+I think they like the view.[END]
+
+=== a5 | 14624 | df ===
+My sister and i started this
+inn when we noticed all the
+travelers in town.[BRK]
+
+Since most of them were
+merchants,[BRK]
+
+we knew a name like
+'bounteous babe' would get
+their attention.[BRK]
+
+So, what do you say? Want to
+give our inn a try?[END]
+
+=== a6 | 14718 | 7e ===
+[POR05]
+Well sugarplum, that's the
+closest thing to a direct
+invite i could hope for![BRK]
+
+What do you say, chief?
+Let's check it out...[END]
+
+=== a7 | 147a4 | 4f ===
+[POR07]
+I think we'd better pass.
+We're saving money, and this
+inn is too expensive![END]
+
+=== a8 | 1480a | 51 ===
+This is the most popular inn
+in the village. Sometimes,
+even villagers stay here![END]
+
+=== a9 | 1486a | 13a ===
+Now that we've conquered the
+market in this area, we're
+thinking of expansion.[BRK]
+
+If the franchise deal goes
+through,[BRK]
+
+there'll be a 'bounteous
+babe inn' at every village
+in the world![BRK]
+
+Then, when we're stinking
+rich, we can devote our time
+to the women's movement.[BRK]
+
+Don't you think men demean
+women terribly these days?[END]
+
+=== aa | 149b4 | fa ===
+Whenever my business takes
+me near this town, i always
+stay here.[BRK]
+
+This place is always stocked
+with the most gorgeous
+women! Talk about eye candy![BRK]
+
+Whoooo whee![BRK]
+
+[POR02]
+Yeah, but in your case it's
+more like phee-yeww![BRK]
+
+Your looks are more like
+eye sewage...[END]
+
+=== ab | 14ac2 | e3 ===
+Now that my business is
+concluded in town, i've got
+to go home.[BRK]
+
+I sure wish i could take one
+of those hot chicks home
+with me tonight! Wow![BRK]
+
+[POR02]
+Two words:[BRK]
+
+Personal[BRK]
+
+Hygiene...[BRK]
+
+Look it up, and maybe
+someday you'll stand a
+chance.
+[END]
+
+=== ac | 14bb4 | fd ===
+I decided to stay here a
+while longer to try to get
+to know the women here.[BRK]
+
+You...think i have a chance
+with the younger of the two
+chicks that own this joint?[BRK]
+
+She's pretty hot, huh?[BRK]
+
+[POR02]
+And...you're pretty cold.[BRK]
+
+...and stinky. Here's a
+dime, buy a clue.[END]
+
+=== ad | 14cc0 | 80 ===
+Even though i live in this
+village, i stay here at the
+inn sometimes.[BRK]
+
+I'm hoping one of the women
+will notice me and ask me
+out.[END]
+
+=== ae | 14d54 | 74 ===
+That woman over there is so
+beautiful...like a delicate
+rose.[BRK]
+
+My heart belongs to her, and
+she doesn't even know it.[END]
+
+=== af | 14dd8 | d2 ===
+Now that the world is at
+peace, the only tempest that
+remains is in my heart.[BRK]
+
+My love for the woman over
+there goes unnoticed. She
+doesn't even know i'm alive![BRK]
+
+To love and have not is
+torturing my weary soul...[END]
+
+=== b0 | 14eb0 | 12 ===
+Takkar b. Babe inn[END]
+
+=== b1 | 1567a | be ===
+Ever since the gate was
+closed, my inn has been
+packed.[BRK]
+
+We have the lowest-priced
+rooms in town, and since
+no one can pass the gate,[BRK]
+
+they just stay here and 
+wait this monster situation
+out.[END]
+
+=== b2 | 1574c | ab ===
+I'm so glad the monster
+situation has eased up![BRK]
+
+I mean, i liked the extra
+business from stranded
+travelers,[BRK]
+
+but the threat of danger
+hanging over our heads was
+killing me![END]
+
+=== b3 | 1580a | 154 ===
+You know, it's amazing. The
+more people care about each
+other, the more they fight.[BRK]
+
+It seems to be some sort of
+unwritten law.[BRK]
+
+Take, for example, that
+couple over there. They love
+each other,[BRK]
+
+but they've been bickering
+ever since they got here.[BRK]
+
+[POR02]
+That's not always true! Nall
+and i fight all the time, 
+and we don't...[BRK]
+
+...uh, never mind.
+
+[END]
+
+=== b4 | 15976 | 8d ===
+That couple over there are
+always bickering about
+little things.[BRK]
+
+But i think they really
+love each other.[BRK]
+
+He bought her roses the
+other day.
+[END]
+
+=== b5 | 15a12 | b9 ===
+Harold! You told me that
+this trip would be an
+exciting affair![BRK]
+
+I'm nothing but tired and
+bored! Sitting in this
+lousy hotel isn't helping![BRK]
+
+...harold? Are you listening
+to me?!! Harold![END]
+
+=== b6 | 15ade | 9a ===
+Harold! Harold! This
+disaster was all your idea![BRK]
+
+And it's nothing but a bore!
+I never want to go on one
+of these trips again![BRK]
+
+Got that?[BRK]
+
+.....never!!!!!!!![END]
+
+=== b7 | 15b88 | 73 ===
+I don't know why i listened
+to you, harold![BRK]
+
+I knew this trip was a bad
+idea from the moment you
+asked me to go!
+
+
+
+[END]
+
+=== b8 | 15c0e | 8d ===
+Now that the gate is closed,
+my wife and i can't get on
+with our trip.[BRK]
+
+I was planning on taking her
+to the carnival, but now, I
+don't know...[END]
+
+=== b9 | 15cb2 | 4a ===
+I can't believe my rotten
+luck. My wife's complaining
+is driving me crazy![END]
+
+=== ba | 15d10 | ee ===
+Even though the gate is open
+again, i think we're too low
+on money to continue.[BRK]
+
+This time waiting out the
+monster situation has almost
+drained us.[BRK]
+
+Oohhmmm...my wife's gonna
+kill me...[BRK]
+
+Maybe i can calm her down
+by getting her some roses...[END]
+
+=== bb | 15e0e | 5f ===
+Boy, this is the last time
+i ever suggest a trip like
+this![BRK]
+
+Believe me, i've learned my
+lesson![END]
+
+=== bc | 15e72 | 11 ===
+Takkar budget inn[END]
+

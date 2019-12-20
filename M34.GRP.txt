@@ -1,0 +1,56 @@
+File: M34.GRP
+
+Messages: 3
+
+=== 0 | ffca | 139 ===
+[POR01]
+...![BRK]
+
+[POR05]
+I can't believe this! Pinch
+me - i've gotta be dreaming![BRK]
+
+[POR10]
+I've never seen anything
+like it! The whole town is
+flying.[BRK]
+
+[POR08]
+Since althena is powering
+this world no longer,[BRK]
+
+i wonder where the magic to
+levitate an entire city is
+coming from...?[BRK]
+
+[POR07]
+It is...it must be![BRK]
+
+I don't believe it! It's
+neo-vane!
+
+
+[END]
+
+=== 1 | 10106 | f3 ===
+[POR02]
+Whoa! They captured the
+destiny![BRK]
+
+What kind of power is it
+they're using?![BRK]
+
+[POR08]
+It's definitely magic, but
+what's the source?[BRK]
+
+Could it be that they are
+drawing on the power of
+the black dragon?[BRK]
+
+If that's the case, their
+range must be limited. [END]
+
+=== 2 | 10202 | b ===
+Marius zone[END]
+

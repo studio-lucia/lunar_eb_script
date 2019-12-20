@@ -1,0 +1,531 @@
+File: M32.GRP
+
+Messages: 29
+
+=== 0 | 15d1c | d ===
+Donated 100s![END]
+
+=== 1 | 15d56 | c2 ===
+[POR09]
+We must wait here for our
+audience with the goddess.
+She will arrive shortly,[BRK]
+
+but there's no way of
+telling when she will see
+us.[BRK]
+
+[POR02]
+...well, in that case, I
+think we should go sight-
+seeing.[END]
+
+=== 2 | 15e2c | 68 ===
+[POR09]
+I just received word that
+the goddess is prepared for
+your audience, lucia.[BRK]
+
+Shall i guide you inside?[END]
+
+=== 3 | 15e98 | 24 ===
+[0x5]No thank you!
+Yes, please guide us.[END]
+
+=== 4 | 15ecc | 163 ===
+[POR01]
+I think we can find the
+goddess ourselves. Thanks
+anyway, leo.[BRK]
+
+[POR02]
+Are you nuts, hiro? Half the
+time you can't find the way
+outta your bedroom![BRK]
+
+[POR08]
+Don't worry, ruby, i believe
+that i can assist hiro in
+finding the goddess.[BRK]
+
+Besides, i would like to see
+more of pentagulia anyway.[BRK]
+
+Once i've seen the goddess,
+i may not be able to come
+back...[BRK]
+
+[POR01]
+...lucia?[END]
+
+=== 5 | 16040 | 132 ===
+[POR01]
+Leo, please take us to the
+goddess.[BRK]
+
+Lucia, aren't you happy?
+Your quest is nearly at an
+end![BRK]
+
+[POR08]
+....
+.....[BRK]
+
+But if i do see...
+...then hiro and....
+no! I must go...[BRK]
+
+....
+.....[BRK]
+
+This is the moment i have
+sought since i came to your
+world.[BRK]
+
+The time is upon us. Let's
+go...[BRK]
+
+[POR09]
+Hiro, lucia, please follow
+me.
+[END]
+
+=== 6 | 1617c | a4 ===
+[POR09]
+Goddess althena, your humble
+servant has returned from
+afar.[BRK]
+
+And i have brought lucia
+back with me.[BRK]
+
+She wishes to speak with
+you on a matter of great
+importance.[END]
+
+=== 7 | 1622a | 14e ===
+[POR08]
+...!?[BRK]
+
+[POR14]
+Hm, hm, hm......
+...............my, my![BRK]
+
+Seems that we have quite the
+firebrand in our presence![BRK]
+
+Your mother obviously never
+taught you the benefit of
+proper manners.[BRK]
+
+Perhaps a little...er...
+...creative redirection is
+in order...[BRK]
+
+Hold on, dear lucia. I'm
+afraid it's going to be a
+bumpy ride...[BRK]
+
+Hm, hm, hm, hm, hm...
+
+
+
+
+
+[END]
+
+=== 8 | 16382 | e ===
+[POR01]
+...lucia!!
+[END]
+
+=== 9 | 1639a | 2df ===
+[POR18]
+Ha ha ha ha! Excellent work,
+ghaleon![BRK]
+
+Your superb work is an honor
+to my name![BRK]
+
+[POR14]
+Hrmph! Perhaps soon you will
+give me a challenge worthy
+of my skill.[BRK]
+
+These humans are about as
+dangerous as raindrops.[BRK]
+
+[POR09]
+...ghaleon! What...what
+just happened?[BRK]
+
+[POR18]
+Ah, leo! I am beginning to
+question your motivation.[BRK]
+
+This destroyer was clearly
+brought here as an assassin.[BRK]
+
+Perhaps you knew of her
+intent?[BRK]
+
+[POR09]
+No...i...![BRK]
+
+[POR14]
+Perhaps our good lord leo
+is a bit too...er...good
+for his own welfare.[BRK]
+
+Question is...where exactly
+does his loyalty lie?[BRK]
+
+[POR09]
+....
+.....[BRK]
+
+How dare you question my
+loyalty![BRK]
+
+There is no one living that
+can turn me away from
+serving the goddess![BRK]
+
+Just wait...i will prove
+my worth![BRK]
+
+[POR14]
+Hm, hm, hm, hm...oh,
+i can't wait to see this.
+
+
+[END]
+
+=== a | 16696 | d7 ===
+I've heard that you are
+thinking about relocating
+to pentagulia soon.[BRK]
+
+Perhaps we can get together
+and discuss philosophy
+sometime...[BRK]
+
+[POR02]
+Uh, sorry...you heard wrong.
+There's no way we're moving
+to this creepy joint!
+[END]
+
+=== b | 16780 | 49 ===
+Goddess althena watches out
+for all those that follow
+her pure teachings.[END]
+
+=== c | 167ce | b1 ===
+Althena is saving her power
+to ward off the destroyer.[BRK]
+
+....
+.....[BRK]
+
+You know, i've heard that
+zophar is trying to revive
+himself...[BRK]
+
+If that's true, we're all
+in for one wild ride![END]
+
+=== d | 1688e | 6f ===
+Only ghaleon and althena
+are allowed to enter the
+second floor sanctuary.[BRK]
+
+That's the rule, love it
+or leave it.[END]
+
+=== e | 16910 | 67 ===
+Leo, sir! Where are you
+taking these people? This
+area is off-limits.[BRK]
+
+[POR09]
+The goddess has summoned
+them.[END]
+
+=== f | 16986 | 8c ===
+Hey...you![BRK]
+
+Where's lord leo?[BRK]
+
+You shouldn't just walk 
+around here unsupervised.[BRK]
+
+You might have an......
+accident...if you get
+my meaning.
+
+
+[END]
+
+=== 10 | 16a22 | 8a ===
+The second floor of this
+sanctuary is the most secret
+place in pentagulia.[BRK]
+
+I'm dying to know what's up
+there, but i'm afraid I
+never will.[END]
+
+=== 11 | 16ac0 | af ===
+Leo, sir! Don't you know
+that no one is allowed on
+the second floor?[BRK]
+
+[POR09]
+Pah! What do you take me
+for, a fool?!![BRK]
+
+I am under direct orders
+from the goddess to bring
+them to her.[END]
+
+=== 12 | 16b7e | 3e ===
+Leo left here rather
+hastily.[BRK]
+
+I wonder what's gotten
+into him?[END]
+
+=== 13 | 16bc2 | 12 ===
+Pentagulia shr. 1F[END]
+
+=== 14 | 185de | 40e ===
+[POR18]
+How dare you say that i'm
+not the goddess althena![BRK]
+
+Do you not know that I
+control the four dragons, 
+the four heroes,[BRK]
+
+and the dragonmaster? I have
+proven to all these people
+that i'm althena.[BRK]
+
+I have youth and beauty.[BRK]
+
+I am the goddess![BRK]
+
+[POR08]
+Your actions are not those
+of a true goddess!![BRK]
+
+[POR18]
+Ha ha ha, you fool! How do
+know how a goddess is to
+act?[BRK]
+
+The fact that i stand before
+you should be proof enough.[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+...i won't believe it![BRK]
+
+[POR18]
+Oh, but darling...you have
+no choice![BRK]
+
+And the time has come for
+me to show you how truly
+powerful i've become![BRK]
+
+Even ghaleon has been 
+reborn to protect and to
+serve the goddess...[BRK]
+
+[POR08]
+Yes, but by whose authority?
+Certainly not yours![BRK]
+
+[POR14]
+Oh, the little princess has
+copped an attitude...how
+endearing.[BRK]
+
+[POR18]
+Silence, ghaleon! I can
+handle this.[BRK]
+
+...well, lucia.[BRK]
+
+The time has come for you
+to give of yourself for the
+honor of althena.[BRK]
+
+Soon we will extract your
+power, and i will finally
+achieve eternal youth![BRK]
+
+Unfortunately, your life
+will also end.[BRK]
+
+Enjoy this time, lucia. It's
+all you have left...
+[END]
+
+=== 15 | 189f0 | 14d ===
+[POR14]
+It's so sad to see ones
+consumed by their selfish
+desires.[BRK]
+
+Her desire has blinded her
+to the truth of what's
+really happening here.[BRK]
+
+Lucia, soon everything we
+know will change...[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+But...wasn't zophar the
+one that brought you back?[BRK]
+
+I know that this fake
+althena did not,[BRK]
+
+but i cannot think of a
+reason why zophar would![END]
+
+=== 16 | 18b40 | 2f ===
+[POR09]
+Zophar's power!?
+But that can't be true....
+[END]
+
+=== 17 | 18b78 | ee ===
+[POR09]
+I can't believe that i've
+been such a fool![BRK]
+
+The cult is working to
+revive zophar, and i've
+been helping![BRK]
+
+But this doesn't make any
+sense whatsoever![BRK]
+
+I can't believe that all
+we heard was true![BRK]
+
+I've got to find a way
+out of this mess!
+
+[END]
+
+=== 18 | 18c8a | 136 ===
+[POR08]
+Oh, hiro...thank you!
+I knew you'd come![BRK]
+
+All of you are such good
+friends![BRK]
+
+[POR01]
+Lucia...[BRK]
+
+[POR08]
+Hiro, the althena in this
+sanctuary is a fake.[BRK]
+
+We must find the real
+althena and put a stop
+to this madness![BRK]
+
+Every second we waste puts
+more power in the hands of
+zophar![BRK]
+
+Oh, this is terrible! I
+don't know what to do![END]
+
+=== 19 | 18dca | 12 ===
+Pentagulia shr. 2F[END]
+
+=== 1a | 1a422 | 259 ===
+[POR08]
+There must be some way to
+sense althena's presence...[BRK]
+
+Some clue that can lead us
+to where she's being held![BRK]
+
+She simply must be around
+here somewhere...if only
+i could see![BRK]
+
+[POR02]
+Are you sure, lucia?[BRK]
+
+[POR08]
+Yes, the goddess is in the
+fifth tower![BRK]
+
+Ghaleon mentioned it
+earlier, but he did not
+say where it was.[BRK]
+
+....
+.....[BRK]
+
+There must be a way to
+find it....[BRK]
+
+.[BRK]
+
+..[BRK]
+
+...[BRK]
+
+....wait![BRK]
+
+.....the pool! It must be
+a fountain of transport![BRK]
+
+...ahh, yes! This has to
+be the fountain of transport
+that leads to the goddess![BRK]
+
+It was before me the entire
+time, and yet i could not
+see![BRK]
+
+I must go...before zophar
+returns fully![END]
+
+=== 1b | 1a67e | 9e ===
+[POR02]
+Ahhhhhh![BRK]
+
+........lucia!?[BRK]
+
+....
+.....[BRK]
+
+I can't believe she jumped.[BRK]
+
+I hope she's right![BRK]
+
+...because i have a feeling
+we're going in after her...[BRK]
+
+...right, hiro?[END]
+
+=== 1c | 1a756 | 12 ===
+Pentagulia balcony[END]
+

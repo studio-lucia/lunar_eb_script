@@ -1,0 +1,188 @@
+File: M1C.GRP
+
+Messages: 17
+
+=== 0 | 167aa | d9 ===
+[POR02]
+Whoa! We've got to be
+careful! I don't want to
+end up like that snowball![BRK]
+
+But now that it's fallen,
+do you think it plugged the
+gap down the mountain?[BRK]
+
+If so, we might be able to 
+get across. Let's go check
+it out!
+[END]
+
+=== 1 | 16888 | 13 ===
+Snow cave left side[END]
+
+=== 2 | 1a5e6 | 10 ===
+Snow cave hole 1[END]
+
+=== 3 | 1ccc0 | 75 ===
+[POR02]
+Ha! Maybe that snowball will
+plug the other gap we
+couldn't pass![BRK]
+
+We should head back down the
+mountain and check![END]
+
+=== 4 | 1cd3a | 14 ===
+Snow cave right side[END]
+
+=== 5 | 2039a | 10 ===
+Snow cave secret[END]
+
+=== 6 | 20eaa | 5d ===
+[POR08]
+Oh, hiro! I'm so happy
+you're awake again...[BRK]
+
+Please be still. I must
+heal your wounds...
+
+[END]
+
+=== 7 | 20f0a | 290 ===
+[POR08]
+I can't tell you how worried
+i was that you had both
+died![BRK]
+
+It was horrible...[BRK]
+
+[POR02]
+But lucia...why did you come
+back to find us? You risked
+your life...your mission.[BRK]
+
+[POR08]
+I came because....
+...because...
+i.....[BRK]
+
+It makes no sense, but just
+before i came to you, i felt
+something was wrong.[BRK]
+
+Not wrong in general, but
+wrong with hiro...it was
+very strange.[BRK]
+
+When i was alone on the blue
+star, i never had such
+a strange feeling...[BRK]
+
+It was like...like hiro and
+i were one.[BRK]
+
+I've never felt that before.[BRK]
+
+[POR02]
+Well, whatever hocus-pocus
+called you back to us, i'm
+grateful.[BRK]
+
+If you hadn't come, we'd
+probably be popsicles by
+now.[BRK]
+
+C'mon, let's hurry and find
+the others![END]
+
+=== 8 | 211bc | b8 ===
+[POR05]
+Oooouuuggggghhhh![BRK]
+
+Man...do i have a king-size
+whopper of a headache![BRK]
+
+It's a good thing you guys
+found me when you did.[BRK]
+
+...guess i'm luckier than
+i'd thought...[BRK]
+
+[POR02]
+Ya got that right![END]
+
+=== 9 | 2128a | 138 ===
+[POR08]
+I'm so glad we were able to
+find and revive all the
+party members.[BRK]
+
+For a while there, i was
+frightened at what i might
+find.[BRK]
+
+It's strange. I feel like my
+heart is relaxing...[BRK]
+
+[POR02]
+That's called relief. It's
+the opposite of anxiety,
+which you felt earlier.[BRK]
+
+[POR08]
+Hmmm...'relief'...i like
+this feeling. Hmm...relief.[END]
+
+=== a | 213e4 | 93 ===
+[POR10]
+Wha...what happened?[BRK]
+
+The...the last thing I
+remember was ruby screaming
+as the snow washed over us.[BRK]
+
+I can't believe i'm still
+alive! Thank you!
+[END]
+
+=== b | 21498 | ba ===
+[POR07]
+Oh pooh! Look at my dress!
+It's absolutely soaked![BRK]
+
+...wait...there was an
+avalanche, wasn't there?[BRK]
+
+How is it that i'm still
+alive?[BRK]
+
+[POR02]
+It's because lucia came
+back and saved our butts![END]
+
+=== c | 2156a | 2c ===
+[POR02]
+...hiro! You can't just
+leave the others![END]
+
+=== d | 2159a | 46 ===
+[POR02]
+We've got to hurry and find
+the others before they
+freeze to death![END]
+
+=== e | 215f8 | 7c ===
+[POR02]
+The beast must have caused
+the avalanche![BRK]
+
+Now that he's destroyed, the
+village should have much
+better luck with weather![END]
+
+=== f | 2167a | e ===
+Snow cave rock[END]
+
+=== 10 | 22464 | 10 ===
+Snow cave hole 2[END]
+

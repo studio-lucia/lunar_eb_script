@@ -1,0 +1,19 @@
+File: M19.GRP
+
+Messages: 5
+
+=== 0 | f992 | f ===
+Taben's peak 2f[END]
+
+=== 1 | 111ae | f ===
+Taben's peak 3f[END]
+
+=== 2 | 141e4 | f ===
+Taben's peak 4f[END]
+
+=== 3 | 17238 | f ===
+Taben's peak 5f[END]
+
+=== 4 | 1a06c | f ===
+Taben's peak 6f[END]
+

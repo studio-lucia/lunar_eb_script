@@ -1,0 +1,172 @@
+File: M28.GRP
+
+Messages: 17
+
+=== 0 | 19434 | f ===
+Black dragon b1[END]
+
+=== 1 | 1a518 | f ===
+Black dragon b2[END]
+
+=== 2 | 1c322 | f ===
+Black dragon b3[END]
+
+=== 3 | 1dc72 | 10 ===
+Black dragon pit[END]
+
+=== 4 | 1ec6c | 5f ===
+This is where one's true
+courage will come to light.[BRK]
+
+Calm your fear and take
+a leap of faith...[END]
+
+=== 5 | 1ecd0 | 11 ===
+Black dragon pass[END]
+
+=== 6 | 20a64 | f ===
+Black dragon b4[END]
+
+=== 7 | 22b52 | f ===
+Black dragon b5[END]
+
+=== 8 | 25078 | f ===
+Black dragon b6[END]
+
+=== 9 | 267f8 | 2e ===
+[0xB][0][0x7]Threw the black dragon
+aura at the crystal![END]
+
+=== a | 26836 | 32f ===
+[POR26]
+Ah! Lucia...you have come![BRK]
+
+But...were you summoned by
+althena?[BRK]
+
+How did you know of my
+terrible plight?[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+I came here to stop zophar,
+and nall told me how to
+break the seal binding you.[BRK]
+
+In order to get to althena,
+we had to release all of the
+bound dragonpower.[BRK]
+
+Zophar is planning to
+decimate this world,[BRK]
+
+and i believe that only
+althena's power can stop
+him.[BRK]
+
+[POR26]
+Lucia, i feel the conflict
+deep within your soul.[BRK]
+
+You are the key to althena's
+plan...[BRK]
+
+[POR08]
+You know of althena's plan?[BRK]
+
+You must tell me what it
+is![BRK]
+
+[POR26]
+....
+.....[BRK]
+
+All will be revealed in
+due time...[BRK]
+
+Once the red dragon has
+claimed her power,[BRK]
+
+we will have all the power
+necessary to break the seal
+binding the goddess tower.[BRK]
+
+I will not see you again
+until that time.[BRK]
+
+Until then, look deep within
+your soul and believe in the
+unbelievable...
+
+[END]
+
+=== b | 26b6b | 87 ===
+Received the crest of the
+black dragon.[BRK]
+
+[0xB][0][0][POR02]
+I can't believe we actually
+revived the black dragon![BRK]
+
+....
+.....[BRK]
+
+Um, that only leaves....[END]
+
+=== c | 26c10 | 187 ===
+[POR26]
+Hiro, how can you hold out
+any hope of reaching the
+blue star?[BRK]
+
+The path you've chosen is
+strewn with difficulty.[BRK]
+
+Why do you wish to go there?[BRK]
+
+[POR01]
+Because lucia is there...[BRK]
+
+I-i can't leave her all
+alone...[BRK]
+
+[POR26]
+Ahhh! I understand your
+plight all too well...[BRK]
+
+If you believe in yourself,
+nothing can stand long
+before you.[BRK]
+
+Perhaps you and lucia can
+restore the blue star to
+its former glory...
+[END]
+
+=== d | 26dae | 63 ===
+[POR26]
+Perhaps one day, the dragons
+of althena can return to
+the blue star.[BRK]
+
+You can make that happen...[END]
+
+=== e | 26e24 | 92 ===
+[POR02]
+We've revived all but the
+red dragon.[BRK]
+
+Hiro, i don't know if i'm
+ready to face my destiny.[BRK]
+
+I...i know it sounds silly,
+but i'm kind of...scared.[END]
+
+=== f | 26ec0 | 13 ===
+Black dragon's lair[END]
+
+=== 10 | 276a8 | f ===
+Black dragon b7[END]
+

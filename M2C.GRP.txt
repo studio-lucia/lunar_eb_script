@@ -1,0 +1,166 @@
+File: M2C.GRP
+
+Messages: 16
+
+=== 0 | 120c2 | 5c ===
+[POR08]
+The blue dragon is sealed
+within this cave.[BRK]
+
+We must get the aura from
+lunn to release it![END]
+
+=== 1 | 12132 | 30 ===
+[0xB][0][0x6]Threw the blue dragon's 
+aura at the crystal![END]
+
+=== 2 | 12172 | 340 ===
+[POR25]
+Lucia, you've finally come
+to us.[BRK]
+
+What is happening in this
+world?[BRK]
+
+Has althena left us?[BRK]
+
+[POR08]
+No, she has been sealed
+within the goddess tower
+at pentagulia.[BRK]
+
+The black god zophar has
+been revived.[BRK]
+
+And we are breaking the
+seals that confine each
+of the dragons.[BRK]
+
+[POR25]
+So then, you wish us to
+assist you in freeing
+althena.[BRK]
+
+For once that is
+accomplished,[BRK]
+
+you can join forces to
+defeat zophar, correct?[BRK]
+
+....
+.....[BRK]
+
+But if you use althena's
+power to seal zophar, then
+won't this world...[BRK]
+
+[POR08]
+Silence! Do not speak of
+the consequences here![BRK]
+
+[POR25]
+...so you haven't told them.[BRK]
+
+That is not wise, dear
+lucia.[BRK]
+
+It is their world...they
+must be told.[BRK]
+
+....
+.....[BRK]
+
+But for now, your next
+goal should be releasing
+the black dragon.[BRK]
+
+Leave this sanctuary and
+go south. There you will
+find him.[BRK]
+
+Once all the dragons have
+been released, we will meet
+again...
+[END]
+
+=== 3 | 124b9 | 26 ===
+Received the crest of
+the blue dragon![END]
+
+=== 4 | 124fc | 14d ===
+[POR25]
+Hiro, are you certain you
+want to go to the blue
+star?[BRK]
+
+[POR01]
+I'm positive! I've got to go
+there...for lucia![BRK]
+
+[POR25]
+Then i will tell you all
+i know...[BRK]
+
+There is a tower guarded by
+the star dragon.[BRK]
+
+The tower is the return path
+to the blue star.[BRK]
+
+However, no human has ever
+been able to use it.[BRK]
+
+If you try, it could very
+well end your life.
+[END]
+
+=== 5 | 12660 | 8f ===
+[POR25]
+You must use the power of
+the star dragon...[BRK]
+
+He sleeps in a tower
+somewhere in this world...[BRK]
+
+But woe be the fool who
+disturbs his slumber...[END]
+
+=== 6 | 12702 | 65 ===
+[POR02]
+I...i've never really
+thought like a dragon...[BRK]
+
+But now...[BRK]
+
+I think i'm starting to...
+it's weird!
+
+[END]
+
+=== 7 | 12770 | 10 ===
+Blue dragon lair[END]
+
+=== 8 | 12f42 | e ===
+Blue dragon 1f[END]
+
+=== 9 | 13c6c | e ===
+Blue dragon b1[END]
+
+=== a | 15788 | e ===
+Blue dragon b2[END]
+
+=== b | 17054 | e ===
+Blue dragon b3[END]
+
+=== c | 19066 | 10 ===
+Blue dragon b4-b[END]
+
+=== d | 1a650 | 10 ===
+Blue dragon b4-a[END]
+
+=== e | 1bd1a | 10 ===
+Blue dragon b4-c[END]
+
+=== f | 1c3c8 | e ===
+Blue dragon b5[END]
+

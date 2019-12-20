@@ -1,0 +1,20 @@
+File: M00.GRP
+
+Messages: 2
+
+=== 0 | 12556 | a9 ===
+[POR02]
+Lucia, what are you doing?
+We can't continue without
+hiro![BRK]
+
+We've got to get back on
+the destiny and bring him
+back.[BRK]
+
+C'mon, lucia. You know it's
+the right thing to do![END]
+
+=== 1 | 12624 | d ===
+Salyan desert[END]
+

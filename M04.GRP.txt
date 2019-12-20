@@ -1,0 +1,3105 @@
+File: M04.GRP
+
+Messages: 303
+
+=== 0 | c3a0 | 101 ===
+[POR10]
+Hiro, let's head out to
+the carnival.[BRK]
+
+It's north of nota this time
+of year...[BRK]
+
+Giban and his troupe are
+supposed to be there with
+his magic arrow.[BRK]
+
+Maybe we can use the magic
+arrow to fly past nota.[BRK]
+
+It's really our only shot
+at getting past this
+roadblock.[END]
+
+=== 1 | c4b6 | 5c ===
+Welcome to the trade town
+of nota![BRK]
+
+You'll find virtually any-
+thing your heart desires
+here.[END]
+
+=== 2 | c526 | 69 ===
+Now that the dragonship
+destiny is no longer
+blocking the bridge,[BRK]
+
+we can cross to the other
+side of nota.[END]
+
+=== 3 | c59e | 7e ===
+Come, come! The wonders of
+our village await the
+curious.[BRK]
+
+You can find virtually any-
+thing you desire in our
+prosperous town![END]
+
+=== 4 | c62a | 34 ===
+[POR07]
+Anything? Oh pooh! You're
+exaggerating, i'm sure![END]
+
+=== 5 | c672 | 15a ===
+Hey there, you look a little
+pale...perhaps you'd like to
+buy some charred newt?[BRK]
+
+It's really quite a safe
+and effective stimulant and
+health tonic.[BRK]
+
+The only minor side effect
+is atomic diarrhea...[BRK]
+
+[POR02]
+Atomic diarrhea? Geez, I
+wonder how dangerous a
+dragon with that would be?[BRK]
+
+Talk about a blast that
+lasts! Whooo! I don't want
+to think about it...[END]
+
+=== 6 | c7e4 | 88 ===
+If i can't interest you in
+charred newt, how about
+essence of frog's phlegm?[BRK]
+
+It's an aphrodisiac, you
+know![BRK]
+
+[POR05]
+You don't say...hmmmm...
+[END]
+
+=== 7 | c880 | f2 ===
+Look at this! It's our
+latest shipment of special
+tonics.[BRK]
+
+How about some grated kitty
+nipple?...or maybe you'd
+prefer fresh ogre wart?[BRK]
+
+[POR02]
+I'd prefer that you stop
+talking about that stuff,[BRK]
+
+or i'll be giving you a
+free jar of hot dragon
+spew!
+[END]
+
+=== 8 | c98a | a2 ===
+If you ever need strange
+or exotic wares, come to
+me first...[BRK]
+
+[POR02]
+Uh, shyeah, i'll write your
+address in my book...[BRK]
+
+...under 'freaks i'd prefer
+not meeting again.'[END]
+
+=== 9 | ca40 | 6a ===
+How about a beautiful life
+flower today?[BRK]
+
+C'mon, a beautiful flower
+for a beautiful lady...
+what do ya say?[END]
+
+=== a | cab8 | b2 ===
+[POR07]
+I'd rather have a beautiful
+1000s coin. Can you arrange
+that, too?[BRK]
+
+[POR00]
+Girlie, if i were in the
+position to throw away
+cash on bums,[BRK]
+
+you'd call me clinton and
+i'd be president.[END]
+
+=== b | cb82 | 4b ===
+Come on, try my beautiful
+flowers. Their scent will
+add years to your life![END]
+
+=== c | cbe0 | be ===
+I have seen the face of an
+angel beautiful in every
+respect save one...[BRK]
+
+...she is unadorned with
+delicate flowers to
+compliment her beauty...[BRK]
+
+Buy my flowers and perfect
+your look, won't you?[END]
+
+=== d | ccac | 6a ===
+[POR07]
+Pooh! What a complete line
+of donkey plop![BRK]
+
+I know a good sales job when
+i hear one, and that's a
+beaut![END]
+
+=== e | cd2e | 12e ===
+Show someone special how
+much you care for them.[BRK]
+
+Let me send them some of
+my beautiful flowers,
+won't you?[BRK]
+
+[POR02]
+Hrmph! I wish nall would
+take an interest in me
+like that.[BRK]
+
+But he just thinks i'm
+plain and ugly...[BRK]
+
+Well i'm drinking milk,
+and growing...[BRK]
+
+Someday, i'll be strong and
+so beautiful...just wait![END]
+
+=== f | ce6c | 7b ===
+Goddess althena fought with
+a dark force to save our
+world for light...[BRK]
+
+If you're grateful, you can
+donate at our shrine...[END]
+
+=== 10 | cefa | 8f ===
+I heard that leo blocked the
+bridge to trap a destroyer
+in our midst![BRK]
+
+I was so scared! I wonder if
+the dark force has come back
+to our world?!?[END]
+
+=== 11 | cf9c | 9c ===
+Long ago, a dark force came
+to claim our land. Goddess
+althena defeated it.[BRK]
+
+It is said that one day,
+the destroyer will return to
+take light from our world![END]
+
+=== 12 | d048 | 6b ===
+If human power can save our
+world, why do we need the
+shrines?[BRK]
+
+This is a very confusing
+time to be alive...[END]
+
+=== 13 | d0c6 | 7e ===
+You look like you're new
+to the village of nota.[BRK]
+
+Take my word for it: the
+shopkeepers here can rip you
+off, so watch yourself![END]
+
+=== 14 | d158 | 8d ===
+See! Didn't i tell you! The
+shopkeepers ripped you off,
+didn't they?[BRK]
+
+I tried to warn you, but
+did you listen? Nooooo,
+that would be too easy![END]
+
+=== 15 | d1f4 | 62 ===
+Now that the cult has
+straightened up, the shop-
+keepers have become honest.[BRK]
+
+Can you believe that?[END]
+
+=== 16 | d26a | 13c ===
+Hey...hey com'ere![BRK]
+
+Listen, i got the secret
+to making tons of money.[BRK]
+
+Come closer and i'll tell
+you how to do it.[BRK]
+
+[POR07]
+Really? A secret way to
+make big money? Spill it![BRK]
+
+[POR00]
+Okay, you've got to stare
+into my eyes...stare really
+hard...[BRK]
+
+[POR07]
+Oh...m-my...i seem to...
+to...be getting...slee...
+py...[BRK]
+
+[POR00]
+Hehehehe...sucker...!
+[END]
+
+=== 17 | d408 | 175 ===
+Hey there...listen up!
+I know how to get to the
+west side of nota...[BRK]
+
+...without having to cross
+the bridge...[BRK]
+
+[POR02]
+Really? Tell me! We need
+to get across in a hurry![BRK]
+
+[POR00]
+You'll have to concentrate
+on what i'm telling you, so
+why not stare into my eyes.[BRK]
+
+That's right...stare hard...[BRK]
+
+[POR02]
+<Yawn> i...i feel so very...
+...sleepy all of the...s...
+...sudden...[BRK]
+
+[POR00]
+Hehehehe...sucker![END]
+
+=== 18 | d598 | 14a ===
+Pssst! Wanna learn a big
+secret about althena?[BRK]
+
+Come closer and i'll tell
+you...[BRK]
+
+[POR02]
+Tell me what? What do you
+know about goddess althena?[BRK]
+
+[POR00]
+It's hard for mortals to
+understand, so concentrate
+by staring into my eyes...[BRK]
+
+[POR02]
+Your eyes? But they're...
+...making me...so...sleepy.[BRK]
+
+[POR00]
+Hehehehehe...like taking
+candy from a baby![BRK]
+
+Sucker![END]
+
+=== 19 | d6fa | 101 ===
+Hey...hey you! Com'ere! I
+got a big secret you might
+be interested in...[BRK]
+
+[POR02]
+Ha! I'm not fallin' for
+that line again! Forget it,
+buster![BRK]
+
+I'm going to teach you the
+error of your ways...[BRK]
+
+[POR00]
+Oooooowwwww![BRK]
+
+Hey! You burned me, you
+maniac! Get...get away
+from me!
+[END]
+
+=== 1a | d80e | 12a ===
+My goal in life used to be
+ripping off as many people
+as i could to get rich.[BRK]
+
+That was wrong, and now i'm
+trying to make amends for
+what i've done.[BRK]
+
+So look into my eyes, and
+i'll tell you a secret I
+just learned...[BRK]
+
+[POR02]
+Uh, no...thanks. I'll give
+you a bit more time to work
+on your trustworthiness.
+[END]
+
+=== 1b | d950 | 13d ===
+Remember me? I used to be
+a petty thief.[BRK]
+
+But i've seen the error of
+my ways. I've been nothing
+but honest for months![BRK]
+
+[POR02]
+Since we're being honest,
+i've got something to share
+with you...[BRK]
+
+Your breath smells like
+hot dog and cottage cheese
+dog vomit.[BRK]
+
+Can you do something about
+it? It's really pretty
+gross...honestly.
+[END]
+
+=== 1c | daa0 | 1bc ===
+Did you notice that there
+are ancient ruins between
+nota and takkar?[BRK]
+
+It's a very strange place.
+I wonder what's there?[BRK]
+
+[POR07]
+Maybe it's filled with
+mounds of ancient treasure!
+Let's go find out![BRK]
+
+[POR05]
+Whoa there, little miss!
+That place is rumored to be
+crawlin' with the undead![BRK]
+
+I certainly don't want to
+fight things i can't kill.[BRK]
+
+Especially if they're hell-
+bent on killing me![BRK]
+
+I'd say those ancient ruins
+are a lose-lose proposition.
+I'll pass...[END]
+
+=== 1d | dc74 | 5e ===
+I wonder if there is a
+hidden way into the ruins?[BRK]
+
+And if there is, is there
+a way to get out?
+[END]
+
+=== 1e | dcea | 62 ===
+You got inside the ancient
+ruins? I don't believe it![BRK]
+
+W-was it loaded with price-
+less treasures?
+[END]
+
+=== 1f | dd5a | 77 ===
+[POR07]
+Pooh! It was nothing like I
+expected. I didn't find one
+ancient treasure![BRK]
+
+But i guess we did see an
+ancient relic...[END]
+
+=== 20 | ddec | 51 ===
+You've got to be kidding me!
+You mean to say there was
+nothing of value in there?[END]
+
+=== 21 | de4a | 37 ===
+[POR07]
+No kidding! I'm serious. I
+wouldn't lie about money![END]
+
+=== 22 | de94 | 71 ===
+A few days ago, there was
+some guy asking a lot of
+questions about the ruins.[BRK]
+
+Which ruins, i don't really
+know...[END]
+
+=== 23 | df18 | c7 ===
+You were the one asking
+about the ruins, weren't
+you?[BRK]
+
+Say, did you find any
+precious jewels?[BRK]
+
+[POR09]
+I don't have time to look
+for ancient treasure, you
+simpleton.[BRK]
+
+What do you take me for,
+a grave robber?[END]
+
+=== 24 | dfee | a4 ===
+Nota is a busy trade center.
+People come here from all
+over to trade goods.[BRK]
+
+I buy goods from this one
+and sell it to that one at
+a profit.[BRK]
+
+It can be very lucrative.[END]
+
+=== 25 | e0aa | 7d ===
+I don't know why althena's
+guard has blockaded the
+town![BRK]
+
+If they don't open the
+barrier, the lack of open
+trade will kill us![END]
+
+=== 26 | e142 | 91 ===
+I couldn't care less about
+a destroyer,[BRK]
+
+or whatever excuse they're
+using for blockading us![BRK]
+
+Althena's guard must remove
+the barrier they've made![END]
+
+=== 27 | e1e6 | 47 ===
+Nota is a center for trade.
+You can find almost anything
+you want here.[END]
+
+=== 28 | e23c | 9a ===
+Now that zophar has been
+defeated, the monster
+attacks have subsided.[BRK]
+
+Now nota is even busier with
+tradesmen from all over the
+world coming to sell wares.[END]
+
+=== 29 | e2e6 | 61 ===
+Our village is separated by
+a bridge.[BRK]
+
+You can pass to the other
+side of nota by using the
+bridge.[END]
+
+=== 2a | e35a | 79 ===
+This bridge leads to the
+west side of nota.[BRK]
+
+However, we can't cross now
+because althena's guard has
+it blocked! Idiots...[END]
+
+=== 2b | e3e6 | 7f ===
+Now that althena's guard
+has left nota, the bridge
+is clear once again.[BRK]
+
+The fair people of nota can
+once again trade freely...
+[END]
+
+=== 2c | e474 | 171 ===
+One of the favorite sports
+in nota is not washing for
+a whole week,[BRK]
+
+then putting on old clothes
+from seattle and heading to
+the middle of the bridge,[BRK]
+
+where you tie a cord around
+your ankles, and jump off
+the bridge to fly.[BRK]
+
+The cord stops you before
+you hit the water, and you
+spring high into the air.[BRK]
+
+We call it grungy jumping.[BRK]
+
+[POR02]
+That sounds fun! Where do
+i sign up??[END]
+
+=== 2d | e5f2 | fe ===
+[POR05]
+Ruby, you can fly already!
+What kind of sport is it
+for you?[BRK]
+
+[POR02]
+I just like the 'not washing
+for a week and wearing old
+clothes' part...[BRK]
+
+[POR05]
+Figures...i'd have to get
+hooked up with a flying
+cat that likes grunge...[BRK]
+
+What are the odds of that?
+Weirdo...[END]
+
+=== 2e | e704 | 3b ===
+Nota is the only place
+i come to sell the things
+i collect.[END]
+
+=== 2f | e756 | 47 ===
+Sometimes i come here to
+sell seashells, other times
+it's shiny stones.[END]
+
+=== 30 | e7b4 | 4d ===
+Most people aren't
+interested in the things
+i sell.[BRK]
+
+They don't see the art...[END]
+
+=== 31 | e81c | 45 ===
+I just brought in a new
+shipment of toenail
+clippings. Wanna see 'em?[END]
+
+=== 32 | e874 | 4d ===
+My toenail clippings make
+a great back scratcher if
+you glue them to a stick.[END]
+
+=== 33 | e8d0 | 79 ===
+Now that the world is at
+peace, how about a nice
+wad of butt-lint?[BRK]
+
+It's quite rare, and some
+say it wards off the undead.[END]
+
+=== 34 | e958 | 3c ===
+Like, this town is soooo
+boring...nothing ever
+happens here.[END]
+
+=== 35 | e9ac | be ===
+Like, did you see that!?
+The dragonship destiny
+is right over there![BRK]
+
+Like, do you know what this
+means? Althena is watching
+our town personally![BRK]
+
+Like, i think i have to get
+my nails done...
+[END]
+
+=== 36 | ea86 | ba ===
+Like, at first i thought it
+was, like, cool that
+althena's guard was here,[BRK]
+
+but now they're just being,
+like, annoying hemorrhoids. [BRK]
+
+They're blocking the bridge
+to the other side of nota![END]
+
+=== 37 | eb54 | 77 ===
+Like, i wish the althena
+cult would blow town.[BRK]
+
+They're really getting on 
+my nerves, always begging
+for, like, money...[END]
+
+=== 38 | ebd8 | 6a ===
+[POR07]
+Don't you just hate people
+like that?[BRK]
+
+Always talking about money,
+money, money, money...it's
+sickening![END]
+
+=== 39 | ec52 | 7e ===
+Like, i'm so relieved I
+didn't join the cult of
+althena![BRK]
+
+They weren't working for
+althena. They were working
+to revive zophar![END]
+
+=== 3a | ecde | d ===
+[POR09]
+....
+.....[END]
+
+=== 3b | ecfa | 83 ===
+Hey, hey mister! Do you
+know the name of the
+dragonmaster?[BRK]
+
+He's the greatest of the
+four heroes, and he works
+with althena herself![END]
+
+=== 3c | ed94 | 8d ===
+Hey...hey mister! Can you
+get rid of the people
+blocking the bridge?[BRK]
+
+My friend lives on the other
+side of nota, and i can't
+go play with him![END]
+
+=== 3d | ee3c | 4c ===
+If althena is good, why
+are her guards blocking the
+only bridge in our town?[END]
+
+=== 3e | ee9c | 95 ===
+I want to be just like the
+dragonmaster that saved the
+goddess althena![BRK]
+
+It would be sooo cool! 
+Fighting the bad guys...
+living on the edge...whoa...[END]
+
+=== 3f | ef40 | 9b ===
+I heard that the dragon-
+master double-crossed
+zophar![BRK]
+
+Zophar thought he was
+working for him, but he
+really worked for althena![BRK]
+
+What a cool guy! Who is he?[END]
+
+=== 40 | efe0 | 9 ===
+East nota[END]
+
+=== 41 | 1020a | 5f ===
+[POR02]
+W...what the heck???[BRK]
+
+Hiro, look at that! It's
+the dragonship destiny![BRK]
+
+Let's get out of here![END]
+
+=== 42 | 1026c | 7b ===
+[POR09]
+Not so fast, little ones.[BRK]
+
+You did well to get this
+far, but you'll not escape
+my grasp again.[BRK]
+
+Men, restrain our friends.[END]
+
+=== 43 | 102ea | 7c ===
+Sir, we've secured the
+prisoners. What shall we
+do now?[BRK]
+
+[ROR09]
+Wait right there. I'll be
+right up to inspect our
+little 'catch.'[END]
+
+=== 44 | 1036a | 134 ===
+[ROR10]
+Uh hiro, is there something
+you haven't told me?[BRK]
+
+Why is lord leo interested
+in us?[BRK]
+
+[ROR07]
+Jean, you are so dim at
+times...he's obviously
+interested in lucia.[BRK]
+
+[ROR02]
+Shut up, lemina! Do you
+want him to hear us?[BRK]
+
+[ROR05]
+Okay, kiddies, knock it off!
+We've got to get out of this
+mess, and fast...[BRK]
+
+Let's make a run for it![END]
+
+=== 45 | 104b4 | c ===
+Nota village[END]
+
+=== 46 | 10eaa | 83 ===
+Hey, stranger! If you're
+leaving, you'd better be
+stocked up on supplies.[BRK]
+
+It's a long and treacherous
+mountain road from here.
+
+
+
+
+[END]
+
+=== 47 | 10f3c | 9d ===
+Ho, traveler! I'm sure you'll
+find nota is the most
+convenient town around.[BRK]
+
+We're easy to find and have
+everything you could want
+in the way of supplies.
+
+
+
+[END]
+
+=== 48 | 10fec | 4a ===
+Yes, yes! Come on in! The
+candies in here are filled
+with cream and sugar.[END]
+
+=== 49 | 11048 | 11a ===
+[POR02]
+Oh, hiro...my mouth is
+watering like a river in
+spring...gimmee![BRK]
+
+[POR10]
+They do look good...[BRK]
+
+[POR05]
+Uh, uh, uh! Watch it, gals.
+Those candies will make
+you fat.[BRK]
+
+Nothing repels guys faster
+than a fat chick.[BRK]
+
+[POR02]
+I don't care, you rude dog!
+Hiro, can we go in and just
+try one?...pleaaase?
+
+[END]
+
+=== 4a | 1117a | db ===
+Come on in...come on in!
+Our candies are the sweetest
+in the known world![BRK]
+
+[POR02]
+Ohhhh, hiro...look at those
+candies! Did i say i wanted
+one?[BRK]
+
+Uh, i meant one...hundred!
+Yeah...i'd like a hundred of
+these wonderful candies!
+[END]
+
+=== 4b | 11268 | d0 ===
+Bite into one of these
+sweet, juicy confections,
+and you'll never go back![BRK]
+
+Each one is a hand-crafted
+masterpiece of sensory
+perfection.[BRK]
+
+[POR02]
+Ouhhhh! I'm dying to try
+these things! Look, i'm
+drooling puddles...[END]
+
+=== 4c | 11350 | ba ===
+Come...come! Taste a little
+piece of heaven. We've made
+it just for you.[BRK]
+
+Candies beyond your wildest
+dreams...[BRK]
+
+[POR02]
+Ouuuuuhhh! I've just got to
+have some! Fat or no fat, I
+want some candy![END]
+
+=== 4d | 1141e | f1 ===
+Hey, hey, hey! Look at my
+unique toys! Each is one-
+of-a-kind![BRK]
+
+Look...look here! Try this
+one! [BRK]
+
+It's a maximizer monster
+doll. Put it in water and
+it grows 20 times bigger![BRK]
+
+Cool, isn't it?[BRK]
+
+[POR02]
+I think it looks kinda
+disgusting, if you ask me.[END]
+
+=== 4e | 11526 | 5c ===
+Take a look at this toy![BRK]
+
+It's a octopus that grows
+30 times larger when you
+put it in water![END]
+
+=== 4f | 11592 | e0 ===
+Oh, and this one is one
+of my favorites! It's a
+dark god zophar doll.[BRK]
+
+Put it in water and it
+grows 100 times it's
+normal size![BRK]
+
+Isn't that the coolest
+thing you've ever heard?[BRK]
+
+[POR02]
+Uh...get that thing away
+from me, you freak!
+
+[END]
+
+=== 50 | 11686 | 100 ===
+Say there, miss. Can I
+interest you in a tube of
+lipstick made from fish?[BRK]
+
+The rare fish oils will make
+your lips silky-smooth, and
+the smell is not that bad.[BRK]
+
+[POR02]
+Whew! Don't tell me 'not
+that bad', lady! I can smell
+that crap from here![BRK]
+
+Get it away from me![END]
+
+=== 51 | 11794 | 118 ===
+[POR07]
+Excuse me, ruby, but i don't
+think she was talking to
+you.[BRK]
+
+She said 'lady', not 'kitty-
+kitty.' She was obviously
+talking to me.[BRK]
+
+[POR02]
+I may not be human, but I
+am still a lady! Gimme that
+lipstick![BRK]
+
+I'll show you how beautiful
+i can look, even if it makes
+me smell like a cannery.[END]
+
+=== 52 | 118c4 | 9a ===
+Beautiful ladies should do
+everything they can to
+accent their beauty.[BRK]
+
+Why not try our fabulous
+fish-oil lipstick?[BRK]
+
+Your man will thank you
+in the morning.[END]
+
+=== 53 | 1196c | 98 ===
+[POR02]
+Is that before or after he
+finishes heaving from the
+smell of the lipstick?[BRK]
+
+[POR07]
+Oh, ruby! You obviously
+aren't mature enough for
+this sort of product![END]
+
+=== 54 | 11a14 | 8c ===
+In times of peace, ladies
+who accent their beauty can
+achieve anything.[BRK]
+
+Try our luscious new lip
+moisturizer and color-
+enhancer, won't you?[END]
+
+=== 55 | 11ab4 | 93 ===
+Get'chor boar head rolls!
+C'mon, get'chor boar head
+rolls here![BRK]
+
+These're the most flavorful
+rolls you'll ever taste, and
+they're good for you, too![END]
+
+=== 56 | 11b5e | 3e ===
+Eat these special boar head
+rolls and become a strong
+warrior![END]
+
+=== 57 | 11bac | ad ===
+If you eat these rolls like
+hiro the famous warrior did,
+you'll be just like him![BRK]
+
+And you can only buy 'em
+right here![BRK]
+
+[POR02]
+...uh...hiro...w-we didn't
+eat those...did we?
+
+
+
+
+[END]
+
+=== 58 | 11c66 | 61 ===
+[POR09]
+Ough! Just the sight of
+those pig-brain creations
+makes me ill.[BRK]
+
+How can anyone eat that
+tripe?[END]
+
+=== 59 | 11cda | ec ===
+Get your scale model of the
+dragonship destiny right
+here![BRK]
+
+If you act right now, i'll
+throw in a true scale model
+of lord leo![BRK]
+
+Say...uh, just between you
+and me...[BRK]
+
+I'm overstocked on these
+things since most people
+don't like lord leo.
+
+[END]
+
+=== 5a | 11dde | 6b ===
+Care to take a few destiny
+models off my hands?[BRK]
+
+I'll throw in a mauri
+action figure with the kung-
+fu grip![END]
+
+=== 5b | 11e56 | 87 ===
+[POR05]
+What a silly-looking doll![BRK]
+
+He obviously just put
+mauri's head on g.I. Joe's
+body![BRK]
+
+That's the oldest trick in
+the book![BRK]
+
+...i love it![END]
+
+=== 5c | 11eec | 92 ===
+Hurry and get your very
+own scale model of the
+dragonship destiny![BRK]
+
+Just like the one that hiro
+used to save the world![BRK]
+
+Hurry, they're going fast!
+[END]
+
+=== 5d | 11f8c | 2b ===
+[POR09]
+...mmmm...how much did you
+want for one?[END]
+
+=== 5e | 11fca | 65 ===
+My dad said i can't have a
+dragonship destiny model,
+'cuz leo's a pig.[BRK]
+
+Why doesn't he like lord
+leo?
+[END]
+
+=== 5f | 12042 | 2a ===
+I want a mauri doll with the
+kung-fu grip![END]
+
+=== 60 | 1207a | ae ===
+[POR05]
+You watch...that kid'll get
+his mauri doll,[BRK]
+
+and the first thing he'll
+do is check under the hood.[BRK]
+
+Curious little guy![BRK]
+
+He's on his way to becoming
+a real man, just like me![END]
+
+=== 61 | 1213c | 79 ===
+My dad got the model of the
+destiny for me![BRK]
+
+I can't believe i have a
+scale model of the ship that
+saved the world! Yaaaa![END]
+
+=== 62 | 121c8 | 8c ===
+I was headed north to the
+village of zulan to trade,
+but the road's snowed over.[BRK]
+
+How am i supposed to make a
+living, huh? Just tell me,
+man![END]
+
+=== 63 | 1226a | 8b ===
+[POR02]
+I heard that the road to
+zulan was an easy one, even
+with snow.[BRK]
+
+[POR00]
+You're kidding, right? You
+mean to tell me i turned
+back for nothing?[END]
+
+=== 64 | 12310 | 3d ===
+I was going to zulan, but
+the blizzard conditions
+stopped me.[END]
+
+=== 65 | 12364 | 4c ===
+I'd be a much more efficient
+trapper if i didn't have
+this damned arthritis.[END]
+
+=== 66 | 123c0 | 84 ===
+I gave up being a trapper,
+and i've decided to become
+a reporter.[BRK]
+
+Say, did you hear the story
+of hiro, the guy that saved
+the world?[END]
+
+=== 67 | 12452 | cc ===
+[POR07]
+Pardon me, but it seems that
+your information is quite
+old.[BRK]
+
+If you're going to be a
+decent reporter, you have
+to get hot stories![BRK]
+
+I'll give you all the hot
+stories you want...but it'll
+cost you plenty![END]
+
+=== 68 | 12532 | a8 ===
+At least there's no noisy
+althena sanctuary in our
+part of nota![BRK]
+
+Fortunately, all we have is
+a lone statue.[BRK]
+
+When you're tired, you can
+touch it and it will refresh
+you.[END]
+
+=== 69 | 125f2 | 7a ===
+We have no sanctuary here
+in nota, but there is a
+statue...[BRK]
+
+If your energy gets low,
+go touch it to refresh your
+strength.[END]
+
+=== 6a | 1267c | 9e ===
+It seems like things have
+quieted down at the
+sanctuary across the bridge.[BRK]
+
+The priests even seem less
+weird. It makes me wonder if
+i should start going again.[END]
+
+=== 6b | 1272e | b0 ===
+I heard that althena's white
+knight and a destroyer are
+staying in nota.[BRK]
+
+If that's true, it's gonna
+put nota on the map![BRK]
+
+Can you imagine what kind of
+battle they're gonna have?[END]
+
+=== 6c | 127f6 | 4a ===
+If the goddess althena comes
+to assist lord leo, that
+will be even better![END]
+
+=== 6d | 1284e | 7 ===
+[POR07]
+Yep.[END]
+
+=== 6e | 12864 | 4d ===
+Now that zophar has dis-
+appeared, trade should start
+picking up around here![END]
+
+=== 6f | 128c4 | 59 ===
+I've heard that white knight
+leo is a very rude and
+selfish man.[BRK]
+
+I wonder if it's true...[END]
+
+=== 70 | 1292a | 4b ===
+[POR05]
+Leo's not a bad guy. You
+just have to get to know
+him to understand him.[END]
+
+=== 71 | 1298c | 7d ===
+I don't care if lord leo
+is althena's white knight,[BRK]
+
+he shouldn't be getting us
+humans involved in things
+we don't understand![END]
+
+=== 72 | 12a1c | 89 ===
+I heard that the coming of
+the destroyer was commanded
+by althena herself![BRK]
+
+It doesn't make any sense!
+Why would she do a thing
+like that?[END]
+
+=== 73 | 12ab4 | 97 ===
+The members of althena's
+cult are just intolerable![BRK]
+
+Noise, noise, noise! That's
+all they ever make over in
+their sanctuary![BRK]
+
+I'm sick of the lot of 'em![END]
+
+=== 74 | 12b5e | bb ===
+[POR05]
+After we leave nota, we
+should head north, hiro.[BRK]
+
+It's a pretty good stretch
+to azado, but i think we
+can make it.[BRK]
+
+Since azado is a port town,
+we can take off from there
+for pentagulia.[END]
+
+=== 75 | 12c1e | 9 ===
+West nota[END]
+
+=== 76 | 13fb0 | 44 ===
+Since the roads around here
+have become dangerous, nota
+is isolated.[END]
+
+=== 77 | 14004 | b1 ===
+I have the finest pastas
+from across the land.[BRK]
+
+But i've run out of wines
+to go with them and i'm too
+afraid to get more.[BRK]
+
+I can't sell the pasta
+without wine! What am I
+gonna do?[END]
+
+=== 78 | 140c8 | 7c ===
+I just wish that i could
+get a crate of vintage nota
+wine from the warehouse.[BRK]
+
+But the blockade has made
+that impossible now![END]
+
+=== 79 | 14160 | 94 ===
+I'm still trying to think of
+a way to get that case of
+wine from the warehouse.[BRK]
+
+If i can sell wine with my
+pasta, i'm certain business
+will improve![END]
+
+=== 7a | 14210 | 4c ===
+What? You got the wine
+from the warehouse?[BRK]
+
+[0xB][0][0xE]Gave the wine to the
+merchant.[END]
+
+=== 7b | 1426a | 90 ===
+I can't believe that you
+went to the trouble of
+getting this wine![BRK]
+
+Here, take this receipt to
+show that i received the
+wine.[BRK]
+
+[0xB][0][0xF]Got the receipt.[END]
+
+=== 7c | 14320 | 6e ===
+That receipt is proof that
+i received the wine. Don't
+lose it now![BRK]
+
+Take it back and collect
+your delivery fee![END]
+
+=== 7d | 1439e | d6 ===
+Well, hello again![BRK]
+
+Say, i got to thinking about
+what you did for me and I
+thought of this...[BRK]
+
+I think i'm going to rename
+the red wine 'hiro's special
+reserve' in your honor![BRK]
+
+What do you think? Is that
+neat or what?[END]
+
+=== 7e | 14484 | 50 ===
+What? Well, whatever you
+need, you'd better talk to
+my husband. He can help you.[END]
+
+=== 7f | 144e4 | 9e ===
+Being the wife of a merchant
+is not an easy life.[BRK]
+
+Oh, sure, we have all the
+expensive creature comforts,[BRK]
+
+but the nights are awful
+cold when my husband's away.[END]
+
+=== 80 | 14596 | 84 ===
+My dad is going to be the
+best merchant in the whole
+wide world![BRK]
+
+Pretty soon, his store will
+even be bigger than the one
+in meribia![END]
+
+=== 81 | 14628 | 44 ===
+[POR07]
+Well now, that's quite a
+boast. The store in meribia
+is gigantic![END]
+
+=== 82 | 14684 | be ===
+It's cool that dad is the
+biggest merchant in nota,[BRK]
+
+but i wish he'd stay home
+more often. I miss him when
+he's on the road.[BRK]
+
+...uh, don't tell him i said
+that, okay? He'd just call
+me weak...[END]
+
+=== 83 | 14752 | 64 ===
+If my dad's plan goes
+through, he'll be able to
+stay in nota all the time![BRK]
+
+I sure hope that happens![END]
+
+=== 84 | 147c4 | 76 ===
+[POR02]
+Call me daffy, call me
+a hopeless sentimental, I
+think everything'll be ok.[BRK]
+
+Besides...i looked ahead
+in the script.[END]
+
+=== 85 | 14840 | d ===
+Nota merchant[END]
+
+=== 86 | 14ef8 | bc ===
+Man! I thought i'd never
+get back from across the
+bridge![BRK]
+
+I crossed over okay, but
+when i returned, the bridge
+was closed![BRK]
+
+Oh, well, i'm home now. But
+for a while there, i was
+wondering...[END]
+
+=== 87 | 14fcc | 16 ===
+Ahhh! Home sweet home![END]
+
+=== 88 | 14ff2 | 6a ===
+Say! Aren't you the ones
+i met a while ago?[BRK]
+
+Where's the good-looking
+girl that was with you?[BRK]
+
+[POR01]
+....
+.....[END]
+
+=== 89 | 15070 | 83 ===
+The big ship came to nota
+and blocked our bridge.[BRK]
+
+I'm sure it was the work
+of those kooks in the shrine
+of althena.[BRK]
+
+Lousy freaks...[END]
+
+=== 8a | 1510a | 76 ===
+Did you hear about the
+trouble my husband had?[BRK]
+
+I don't understand how
+althena can allow this to
+happen to her world...[END]
+
+=== 8b | 15190 | 66 ===
+My husband always looks
+forward to my home-cooked
+meals after a long trip.[BRK]
+
+I like making them for him.[END]
+
+=== 8c | 151fc | c ===
+Nota house 1[END]
+
+=== 8d | 158c0 | 79 ===
+East of the village, they
+sell the same goods for
+a lot more money.[BRK]
+
+Opportunists is what those
+scoundrels over there are![END]
+
+=== 8e | 15950 | 95 ===
+Those kooks from the shrine
+paraded through town lookin'
+for donations yesterday.[BRK]
+
+I don't know why anyone
+would give those noise-
+makin' nuts a dime![END]
+
+=== 8f | 159f8 | 93 ===
+Since the shrine kooks
+stopped parading through
+town it's been quiet here.[BRK]
+
+Actually, i kinda got used
+to the noise. It feels weird
+here without it.[END]
+
+=== 90 | 15a9e | 8c ===
+My brother complains about
+everything here, including
+the high prices.[BRK]
+
+But since he isn't moving,
+i'm pretty sure he just
+likes to complain.[END]
+
+=== 91 | 15b38 | 91 ===
+[POR07]
+If the cost of living is
+a concern, why not move
+to vane?[BRK]
+
+I can get you into a rent-
+controlled apartment...[BRK]
+
+...for a finder's fee, of
+course.[END]
+
+=== 92 | 15be0 | 95 ===
+Pay no attention to my
+brother. He's just a big,
+long-winded complainer.[BRK]
+
+He likes to hear the sound
+of his own voice. Kinda
+like that 'rush' fella...[END]
+
+=== 93 | 15c84 | 72 ===
+It's hard to make a living
+here because prices are so
+high.[BRK]
+
+I've actually thought about
+moving to meribia lately.
+[END]
+
+=== 94 | 15d04 | a3 ===
+[POR07]
+Well, i can tell you that
+you'd be much happier in the
+historical town of vane.[BRK]
+
+I can get you into a rent-
+controlled apartment...for
+a finder's fee, of course.[END]
+
+=== 95 | 15dac | c ===
+Nota house 3[END]
+
+=== 96 | 164a0 | 99 ===
+The villagers from zulan to
+the north are complaining of
+strange things happening.[BRK]
+
+The members of althena's
+cult say it's a sign of the
+end of our world.[END]
+
+=== 97 | 16550 | 7e ===
+Ya know, that stuff in zulan
+is only tradesmen's rumors.[BRK]
+
+There's probably nothing
+to worry about.[BRK]
+
+...'least i hope not.
+
+
+
+
+
+
+[END]
+
+=== 98 | 165e2 | 85 ===
+Say, i'm glad to hear that
+zulan's problems got solved,[BRK]
+
+but ya know, that was just
+a small taste of the weird
+happenings 'round here.[END]
+
+=== 99 | 16676 | 69 ===
+I heard a legend that humans
+once saved the world for the
+goddess althena.[BRK]
+
+Do you think that can be
+true?[END]
+
+=== 9a | 166f2 | b2 ===
+Yeah, those cross-dressin'
+nuts want us to join their
+cult to save our souls![BRK]
+
+Paaaah! Rubbish![BRK]
+
+If the world is endin', the
+world is endin', and there
+ain't nothin' humans can do.[END]
+
+=== 9b | 167bc | bc ===
+It's a rumor, but there's
+something to it, ya know.[BRK]
+
+I had to dodge quite a few
+monsters to get to nota
+today.[BRK]
+
+And cold! Whooo! It was the
+coldest i've ever seen it!
+...somethin's up.
+
+
+
+
+
+[END]
+
+=== 9c | 16886 | 34 ===
+[POR10]
+I wonder if ghaleon has
+anything to do with this?[END]
+
+=== 9d | 168ca | 91 ===
+Well, legend or no, at
+least those althena cult
+freaks cleaned up their act.[BRK]
+
+I'm beginning to think the
+goddess had a hand in
+cleanin' things up![END]
+
+=== 9e | 1696e | 111 ===
+There's nothing quite like
+having a drink at the local
+bar.[BRK]
+
+A place...where every person
+knows your name...[BRK]
+
+And you're always happy you
+came...[BRK]
+
+You wanna be where you can
+see your troubles are all,
+well, the same...[BRK]
+
+I dunno, i just like to be
+where everybody knows my
+name.[END]
+
+=== 9f | 16a96 | 77 ===
+When i come here, i feel
+like i've come home to
+a great big family.[BRK]
+
+I just love slammin' back
+a few here with the guys![END]
+
+=== a0 | 16b20 | 5a ===
+The brew here tastes just
+a little bit better in the
+glow of world peace.[BRK]
+
+Don't you think?[END]
+
+=== a1 | 16b8e | 148 ===
+You know, since nota is a
+central trading point,[BRK]
+
+tradesmen come from all over
+the world and bring their
+rumors with them.[BRK]
+
+So nota has become a sort
+of giant rumor mill.[BRK]
+
+For example, i just heard
+the goddess althena the cult
+members serve is not real![BRK]
+
+Can you believe that? Though
+you know...that would
+explain a lot of things...[END]
+
+=== a2 | 16cee | 46 ===
+You can't take all the
+rumors you hear in nota 
+seriously, you know...[END]
+
+=== a3 | 16d44 | 88 ===
+I sometimes wonder about the
+rumors i hear in this place.[BRK]
+
+With all the booze flowin'
+in this place, it's hard to
+know what to believe...[END]
+
+=== a4 | 16de0 | 4c ===
+These drunken slobs are
+driving me crazy! I can't
+keep up with their orders![END]
+
+=== a5 | 16e48 | d1 ===
+Oh...how am i going to get
+out to make my liquor
+deliveries, too?[BRK]
+
+I'm...i'm so desperate i'd
+even take help from a flying
+cat![BRK]
+
+Say, do...do you want to
+help me out?
+[0x5]Sorry, charlie, i'm busy.
+Okay, i think so.[END]
+
+=== a6 | 16f28 | 53 ===
+I knew it. Good help is hard
+to find these days...get out
+of my way! I'm....busy!!![END]
+
+=== a7 | 16f90 | 75 ===
+Well...now that i think of
+it, this is really more of
+a lady's job.[BRK]
+
+Outta my way...i've got
+tables to tend to...ahh!
+[END]
+
+=== a8 | 1701a | 1b4 ===
+Ah! You...girl! You'll do
+just fine.[BRK]
+
+Please take this special
+wine to a tradesman on the
+east side.[BRK]
+
+When you return with the
+delivery receipt, i'll pay
+you 10s.[BRK]
+
+[POR02]
+...but...but i was the one
+that volunteered! I can do
+that![BRK]
+
+What do you think i am, an
+idiot?[BRK]
+
+[POR07]
+Okay, ruby, don't get your
+down in a lather! We'll
+do it together.[BRK]
+
+But just to be clear, the
+profits are mine! Besides,
+what cat needs money?[BRK]
+
+[POR00]
+[0xB][0][0xE]Received the special wine.
+[END]
+
+=== a9 | 171f4 | 94 ===
+Ah! Back to make another
+delivery? You're certainly
+a kind one...[BRK]
+
+Are you ready to deliver
+another bottle for 10s?
+[0x5]Okay, i'll do it!
+Why not? Sure![END]
+
+=== aa | 17298 | 50 ===
+Well, seeing as i don't
+have time to give you
+choices,[BRK]
+
+i figured you'd say that.[END]
+
+=== ab | 172fa | 62 ===
+Remember, the wage is 10s,
+payable when you return with
+the receipt.[BRK]
+
+[0xB][0][0xE]Received the special wine.[END]
+
+=== ac | 17382 | d0 ===
+Didn't i make myself clear?
+Give the wine to the trades-
+man on the east side![BRK]
+
+What? Which tradesman?[BRK]
+
+Just...look! You'll find
+him. I'm too busy to hold
+your hand![BRK]
+
+You're an adult. Figure it
+out for yourself![END]
+
+=== ad | 1746e | de ===
+What are you still doing
+here! That wine is a special
+delivery![BRK]
+
+Get moving![BRK]
+
+What? You're still bugging
+me for the tradesman's
+address? [BRK]
+
+I don't believe it! Just
+get out there and try to
+find him.[BRK]
+
+You did it before...so go![END]
+
+=== ae | 17564 | 8d ===
+Ah! You delivered the wine!
+Great, thanks for the help.[BRK]
+
+Now then, give me the
+delivery receipt, and i'll
+pay you.[BRK]
+
+[0xB][0][0xF]Handed over the receipt.[END]
+
+=== af | 175f6 | 3d ===
+[ROR80]
+[0][BRK]
+
+[0x12] 6Well then, here's 10s for
+your trouble. Thanks again![END]
+
+=== b0 | 17654 | 86 ===
+[POR07]
+10 Lousy stinking silver?
+What do you think i am,
+a slave?[BRK]
+
+[POR02]
+Yeah, what a load of trouble
+for only 10s! It was a pain
+in the butt![END]
+
+=== b1 | 176ee | 96 ===
+Busy, busy, busy. I'm always
+busy! If it's not one thing,
+it's another![BRK]
+
+Now i've got to re-label all
+this wine to say hiro's
+special reserve! Shee...
+[END]
+
+=== b2 | 17794 | 89 ===
+Hey there. Glad you came
+to my establishment, 
+stranger.[BRK]
+
+Make yourself at home! Grab
+a drink and listen to tales
+from all over the world![END]
+
+=== b3 | 1782c | f5 ===
+I heard from a traveler that
+came through here that the
+savior of the world was...[BRK]
+
+...a gambler that came from
+the blue star! I just don't
+believe it...[BRK]
+
+[POR02]
+I've heard that, too.[BRK]
+
+Hooohhh...it's kind of a
+long and complicated story.
+...don't ask.
+[END]
+
+=== b4 | 17934 | fc ===
+Ahhhhh! Idd's thuh
+da-stroyer! Geed away frum
+mee![BRK]
+
+Huuh? Ooohh..I'm sorree...
+i thod you were tha <hick>
+da-stroyer! <Hick>[BRK]
+
+Bud she had uh <hick> evil
+red robe on. You're nod her.[BRK]
+
+Saay <hick>, you wanna buy
+me a dring? My well's 
+runnin' dry, ol' girl.[END]
+
+=== b5 | 17a48 | 74 ===
+Haay! Have ya tried tha
+<hick> special rad wine?
+Id's graaad! <Buurp>[BRK]
+
+All my buudies liike <hick>
+liike drink'n id. [END]
+
+=== b6 | 17acc | 8e ===
+Naow thad thad zophag guy's
+gone, everybuddy is a lod
+nicer. <Buuurp>[BRK]
+
+I <hick> i ged a lod mow
+free drinks now. Thad 
+alteena is graad! <Hick>[END]
+
+=== b7 | 17b6e | 7a ===
+Say there, gang! You look
+like an adventurin' bunch.
+Been to the carnival yet?
+[0x5]Yep! What a cool place!
+Nope, where is it?[END]
+
+=== b8 | 17bf8 | 7f ===
+Boy, ya got that right!
+It's one of the best in
+the land right now.[BRK]
+
+I was thinking of opening
+a booth there. What do you
+think?[END]
+
+=== b9 | 17c8c | 80 ===
+Oh, ya gotta go see it!
+It's northeast of the
+village.[BRK]
+
+I was just over there, and
+i'll tell you, the show was
+pretty impressive![END]
+
+=== ba | 17d20 | 5e ===
+I decided to open a booth
+at the carnival.[BRK]
+
+I hope it becomes as
+profitable as i think it
+will.[END]
+
+=== bb | 17d8e | 90 ===
+I decided not to open a
+stall at the carnival
+north of town.[BRK]
+
+With their business dropping
+off, i don't see that place
+lasting too much longer...[END]
+
+=== bc | 17e24 | d ===
+Nota west bar[END]
+
+=== bd | 1871c | c1 ===
+The althena cult is a
+terrible blight on humanity,[BRK]
+
+but the dragon steamship
+destiny that they use is
+the bee's knees![BRK]
+
+I almost want to join those
+lunatics so i can ride on
+the thing! Don't you?[END]
+
+=== be | 187f4 | 52 ===
+You know, if i can get on
+as a guard for the destiny,
+i just might join that cult![END]
+
+=== bf | 18856 | 135 ===
+I've decided to become a
+member of the cult of
+althena.[BRK]
+
+I know, i know. It's not
+a popular choice, but that
+ship's just too cool![BRK]
+
+I've got to ride on it, and
+my only shot at that is to
+join them.[BRK]
+
+Do you think i'll get a
+chance to ride it soon?[BRK]
+
+[POR02]
+Probably just as soon as
+we're done riding on it.[BRK]
+
+...sucker!!![END]
+
+=== c0 | 1899c | 158 ===
+[POR07]
+You know, this guy just gave
+me a great idea! We can take
+this ship on tour![BRK]
+
+Yeah, i can see it now! We
+can charge 5000s per trip!
+People will be lining up![BRK]
+
+[POR09]
+Well, lemina, i like the
+part about giving people
+rides on the destiny,[BRK]
+
+but you can't charge for
+it. It's against the rules.[BRK]
+
+[POR07]
+Oh, pooh! Rules were made to
+be broken, weren't they?[END]
+
+=== c1 | 18b04 | 6a ===
+Say, did you hear the rumor
+about the dragon steamship
+destiny?
+[0x5]Yeah, it's all over town.
+No, what is it?[END]
+
+=== c2 | 18b7e | 8c ===
+Well, i think that the fact
+that it was struck by
+lightning is fitting![BRK]
+
+After all, it's probably
+just punishment for blocking
+nota's bridge![END]
+
+=== c3 | 18c1c | 96 ===
+Well, keep it under your
+hat, but i heard that the
+destiny was destroyed![BRK]
+
+Yeah! Destroyed by light-
+ning! From the clear blue
+sky![BRK]
+
+Can you believe it?[END]
+
+=== c4 | 18cc6 | 14b ===
+Say, did you go to the
+carnival northeast of town?[BRK]
+
+They're having a party to
+celebrate the new world
+peace![BRK]
+
+I went there to try out the
+fortune-teller, and found
+her to be pretty accurate.[BRK]
+
+Well, at least more than
+those retarded jerks on the
+psychic hotline![BRK]
+
+I mean, what kind of idiot
+falls for those moneymaking
+ploys? Really...
+[END]
+
+=== c5 | 18e28 | 7a ===
+That fortune-teller at the
+carnival is simply amazing![BRK]
+
+If you lose anything, go
+ask her. I bet she could
+help you find it![END]
+
+=== c6 | 18ea8 | 13 ===
+Nota w bridge house[END]
+
+=== c7 | 1955c | 87 ===
+Through the west door,
+there's a bridge that
+joins the two sides of nota.[BRK]
+
+It's the only trade route
+between the two halves of
+the city.[END]
+
+=== c8 | 195fa | 93 ===
+Hey...hey! What's going on?
+Those idiotic guards![BRK]
+
+They've blocked the bridge
+and cut us off![BRK]
+
+Now how are we supposed to
+get across to western nota?[END]
+
+=== c9 | 196a8 | 97 ===
+This is just great! With
+althena's guard blocking
+the bridge, we're cut off![BRK]
+
+I have no idea how we're
+supposed to survive with no
+trade from west nota![END]
+
+=== ca | 19756 | 7e ===
+I sure am glad althena's
+guards finally left.[BRK]
+
+Now that we can trade with
+western nota again, things
+are almost back to normal.[END]
+
+=== cb | 197f0 | 7e ===
+This bridge is the only link
+between east and west nota.[BRK]
+
+If it were ever severed
+completely, we'd all be in
+a world of hurt...[END]
+
+=== cc | 19888 | 98 ===
+I needed some money, so I
+pretended to be a toll guard
+the other day...[BRK]
+
+I demanded a toll from one
+of the tradesmen and he gave
+me a knuckle sandwich...[END]
+
+=== cd | 19924 | 44 ===
+Oooohhh...that fist in the
+face routine smarts.[BRK]
+
+What was i thinking?[END]
+
+=== ce | 1997c | cf ===
+Please try my special snack
+mix today, won't you?[BRK]
+
+[POR07]
+Give me a break! You're not
+going to sell anything with
+a pitch like that![BRK]
+
+Why don't you try jazzing it
+up a little bit? You'll sell
+more, i guarantee it.[END]
+
+=== cf | 19a5e | a7 ===
+Hey! What happened? Traffic
+around here has slowed to a
+crawl![BRK]
+
+Did you guys do something to
+close down the bridge?[BRK]
+
+[POR07]
+Uh, no....why do you ask?
+...what have you heard?[END]
+
+=== d0 | 19b1c | 68 ===
+Say there, try my new hot
+'n' spicy snack mix, won't
+you?[BRK]
+
+It's got more wortroot than
+the leading brand![END]
+
+=== d1 | 19b92 | bc ===
+[POR07]
+Hmmmm...i don't know that
+'more wortroot' is really
+a great selling point...[BRK]
+
+...keep working on it.
+Try to use glittering
+generalities.[BRK]
+
+Say a lot, but don't promise
+anything concrete...[END]
+
+=== d2 | 19c6a | 99 ===
+I've worked here since i was
+a girl. I know this market
+better than anyone.[BRK]
+
+I'll think of a great new
+pitch that'll make me a big
+success. Just you wait.[END]
+
+=== d3 | 19d16 | e3 ===
+Say there, try my new nota
+snack mix.[BRK]
+
+It's a satisfying blast into
+the future of your snack
+universe.[BRK]
+
+One bite, and you'll be back
+for more...so will your new
+friends.[BRK]
+
+Buy three at the low intro-
+ductory price and get one
+free![END]
+
+=== d4 | 19e06 | a1 ===
+[POR02]
+Boy! Talk about a quantum
+leap in pitch mechanics![BRK]
+
+You made it sound so good
+i almost want to buy it, and
+i know it tastes like crap![BRK]
+
+Susan powter, watch out![END]
+
+=== d5 | 19ec6 | 19a ===
+You are now only one
+tantalizing step away
+from nirvana.[BRK]
+
+Yes, this snack mix is
+absolute physical and
+spiritual perfection...[BRK]
+
+...in one handy bag! And
+you can have it all in
+your mouth for only 50s![BRK]
+
+Act right now and if you
+buy 3, i'll throw in an
+extra bag free![BRK]
+
+[POR07]
+Free! Geez! Gimme some of
+that stuff![BRK]
+
+...uh, hehe...can i pay
+you later?[BRK]
+
+[POR00]
+Sure...if i can deliver
+later, too...[BRK]
+
+Sorry, babe. No freeloaders!
+[END]
+
+=== d6 | 1a080 | 10d ===
+You know, thanks to your
+constructive criticism,
+sales are up 1000%![BRK]
+
+[POR07]
+Well then, where's my 20%
+cut?[BRK]
+
+[POR00]
+You know, that's kind of an
+ineffective way to ask for
+something.[BRK]
+
+I'm sure you can do better.[BRK]
+
+Why don't you work on that
+and come back once you've
+cleaned it up...[END]
+
+=== d7 | 1a1ac | eb ===
+Sorry, we're sold out of
+nota's special nirvana blend
+snack mix right now...[BRK]
+
+Why not try again after 2pm?
+The next shipment should be
+in by then.[BRK]
+
+[POR07]
+You idiot! I don't want any
+snack mix now! I want my
+cut...[BRK]
+
+And i will be back for it![END]
+
+=== d8 | 1a2ae | a7 ===
+Ha! At last we've caught
+you, destroyer![BRK]
+
+You thought your clever
+girlish disguise would
+throw me off,[BRK]
+
+but you were wrong. I'm
+on to your game. This is
+the end for you![END]
+
+=== d9 | 1a36c | f6 ===
+Don't even think about
+running away! I'd find
+you...you're mine![BRK]
+
+I will die before i let
+you ruin the world that
+althena has built![BRK]
+
+I will capture you for
+the glory of lord leo![BRK]
+
+[POR02]
+C'mon, hiro! What're you
+doing? We've got to make
+a break for it![END]
+
+=== da | 1a47a | 2a4 ===
+[POR10]
+It looks like we really
+have no choice, then.[BRK]
+
+We're going to have to
+go to the carnival and
+try bulgy's magic arrow.[BRK]
+
+It's the only way we're
+going to get past nota
+and lord leo.[BRK]
+
+[POR02]
+The carnival? That sounds
+like fun! ...how does the
+magic arrow work?[BRK]
+
+[POR05]
+It's probably better you
+don't know.[BRK]
+
+Pardon the obvious pun,
+but it sounds like our only
+shot at escape...[BRK]
+
+[POR08]
+C-carnival? What is a
+carnival? Have i seen one?[BRK]
+
+[POR07]
+Honestly, lucia. Sometimes
+i am just amazed at how
+shallow your knowledge is![BRK]
+
+If you pay me, i'll tell
+you all about carnivals.[BRK]
+
+[POR10]
+Knock it off, lemina! This
+is no time for games![BRK]
+
+The carnival is on the north
+part of the madoria plains.
+We'd better move...
+[END]
+
+=== db | 1a728 | 13 ===
+Nota e bridge house[END]
+
+=== dc | 1adc6 | 9d ===
+Welcome to the shrine of
+great goddess althena![BRK]
+
+Our shrine is smaller than
+ones in neighboring towns,[BRK]
+
+but what we don't have in
+size, we make up for in
+zeal![END]
+
+=== dd | 1ae7a | 6f ===
+If we keep receiving steady
+donations, we'll be able to
+expand the shrine.[BRK]
+
+Ohh, how i look forward to
+that day![END]
+
+=== de | 1aefc | 88 ===
+The wicked ones who sought
+to oppose althena have fled
+to our fair town![BRK]
+
+For all our sake, they must
+be apprehended as soon as
+possible![END]
+
+=== df | 1af9c | 87 ===
+We're planning our fund-
+raising drive right now.[BRK]
+
+If we collect enough
+donations, we'll have the
+biggest shrine anywhere![BRK]
+
+I can't wait![END]
+
+=== e0 | 1b030 | 4d ===
+[POR05]
+Biggest, hmmm? I really
+think you're missing the
+whole point of service...[END]
+
+=== e1 | 1b098 | 46 ===
+With time, effort, and 
+money, we'll have the
+biggest shrine anywhere![END]
+
+=== e2 | 1b0f2 | 83 ===
+I believe that the power
+of the human spirit is
+truly amazing.[BRK]
+
+Althena herself could not
+have accomplished what you
+did any better![END]
+
+=== e3 | 1b18c | 78 ===
+The village of nota will
+have the biggest shrine
+to goddess althena...[BRK]
+
+...even if collecting the
+funds we need kills me![END]
+
+=== e4 | 1b218 | 137 ===
+This used to be my house
+until i gave it to the
+priests of the shrine.[BRK]
+
+Now it's a gift to the
+service of althena.[BRK]
+
+I guess i'm what you'd call
+a true believer.[BRK]
+
+[POR07]
+True sucker is more like it!
+You mean to say that you got
+nothing for this house?[BRK]
+
+I can't even imagine what
+could have been going
+through your mind!
+[END]
+
+=== e5 | 1b366 | 5b ===
+My house has become a shrine
+to the goddess althena.[BRK]
+
+I can't imagine a better use
+for it...[END]
+
+=== e6 | 1b3d4 | 73 ===
+If we do build a large
+shrine to the goddess,[BRK]
+
+this house will become a
+hotel for true believers
+who come from afar.[END]
+
+=== e7 | 1b454 | 9a ===
+[POR07]
+Well, now you're talking my
+language! If you need a
+person to run the hotel,[BRK]
+
+then i'm definitely your
+girl! I know i can turn it
+into a big moneymaker![END]
+
+=== e8 | 1b4fe | 80 ===
+Since we've stopped strong-
+arming the people for
+donations,[BRK]
+
+we've received very little.
+Our big, new shrine may have
+to wait...[END]
+
+=== e9 | 1b58e | 80 ===
+We are working hard, casting
+away worldly desires to
+collect more money.[BRK]
+
+We need the money to build
+a big shrine to the goddess.[END]
+
+=== ea | 1b61c | 9d ===
+[POR07]
+Hmmm...well, i can relate to
+the money collection thing.[BRK]
+
+I just don't get the part
+where you hand it all over
+to someone else...[BRK]
+
+Why do you do that again?[END]
+
+=== eb | 1b6d0 | 99 ===
+One day we will have the
+biggest, most beautiful
+shrine in the world.[BRK]
+
+All we have to do is believe
+in our collection ability
+and hope in althena's mercy.[END]
+
+=== ec | 1b778 | 93 ===
+I used to think that all
+that mattered was making
+our big shrine.[BRK]
+
+Now i know that we should
+concentrate on spreading the
+true teachings of althena.[END]
+
+=== ed | 1b81a | 5b ===
+Isn't this the most tranquil
+place you've ever seen? 
+[0x5]Well...i guess so.
+I don't think so.[END]
+
+=== ee | 1b884 | 73 ===
+I'm sure that althena
+appreciates your love of
+all things tranquil.[BRK]
+
+I'm sure she'll appreciate
+your donation, also.[END]
+
+=== ef | 1b9a0 | ac ===
+Ah, your eyes are yet
+clouded to the true peace
+of althena's service.[BRK]
+
+Perhaps you should make a
+donation to help cleanse
+your soul...[BRK]
+
+I think you'll feel better,
+don't you?[END]
+
+=== f0 | 1ba64 | 166 ===
+Welcome to the shrine of
+althena! We are always open
+for donations.[BRK]
+
+[POR02]
+Hiro, get away from this
+guy! All he wants is to
+pick your pocket![BRK]
+
+[POR00]
+Ah, child. I understand your
+concern, but i assure you
+that i have changed.[BRK]
+
+[POR02]
+Then why is your hand out?[BRK]
+
+[POR00]
+Oh, uh, hehe, sorry...it's
+an old habit.[BRK]
+
+You know what they say about
+old habits dying hard and
+all that...
+[END]
+
+=== f1 | 1bbe2 | 106 ===
+Since i was serving in the
+fake althena cult, my
+name is mud.[BRK]
+
+But tell me, how was I
+supposed to know she was
+not the real althena?[BRK]
+
+Huh? Huh? Tell me, man!
+My life is in ruins, and I
+don't know how it happened![BRK]
+
+[POR02]
+I've got one word for you.[BRK]
+
+Lithium. Look it up.
+[END]
+
+=== f2 | 1bcf6 | 99 ===
+[POR07]
+Mental problems aside, this
+guy's got years of money
+collecting experience![BRK]
+
+I'm sure i could put him to
+work collecting donations
+for the magic guild.[END]
+
+=== f3 | 1bda2 | b5 ===
+Have you come here to
+give of your earnings?[BRK]
+
+I come here every payday to
+donate to the knights of
+althena.[BRK]
+
+Someday, they will build a
+great sanctuary here in
+nota...if we're worthy.[END]
+
+=== f4 | 1be6e | 47 ===
+If only more people would
+sacrifice their monetary
+assets to althena...[END]
+
+=== f5 | 1bec8 | 4a ===
+The knights of althena are
+very persuasive, but i'm
+beginning to doubt...
+[END]
+
+=== f6 | 1bf22 | c1 ===
+It's so sad that the knights
+of althena turned out to be
+a fraud.[BRK]
+
+I can't believe how much
+money i gave to those 
+jerks![BRK]
+
+Turns out that they were
+serving a false althena!
+I should have known...[END]
+
+=== f7 | 1bfe8 | 11 ===
+Nota shrine house[END]
+
+=== f8 | 1c6b2 | c2 ===
+My! If that isn't the cutest
+little kitty-cat i've ever
+seen! Is it for sale?[BRK]
+
+[POR02]
+I am not a cat, and I
+definitely am not for sale![BRK]
+
+Really! The nerve! For
+sale...hrmph! I'll show you,
+cute lady!
+[END]
+
+=== f9 | 1c790 | ae ===
+Awww, your kitty's not for
+sale?[BRK]
+
+C'mon, now. There's got to
+be some way i can buy it.
+Money's no object![BRK]
+
+[POR02]
+Ruby's no object, either!
+Don't you understand? I
+can't be bought![END]
+
+=== fa | 1c84c | 4c ===
+[POR05]
+Hey! There, there, ruby.
+Simmer down, we don't want
+another burn lawsuit.[END]
+
+=== fb | 1c8b4 | 8c ===
+Hrmph! Well, if you won't
+sell me the cat, i guess
+there's nothing i can do.[BRK]
+
+Maybe i'll go out and buy
+myself a nice new fur coat
+instead...[END]
+
+=== fc | 1c954 | 165 ===
+I heard through the grape-
+vine that your kitty is
+not a cat at all.[BRK]
+
+In fact, i heard that she's
+really a baby red dragon![BRK]
+
+If that's true, i'll give
+you everything i own to
+buy her! What do you think?[BRK]
+
+[POR02]
+I think your brain must be
+donated to science...[BRK]
+
+So we can better understand
+chronic retardation in the
+adult female.[BRK]
+
+Get a clue! I'm not for
+sale, lady![END]
+
+=== fd | 1cac6 | 61 ===
+[POR07]
+Oh ruby! Be polite! Didn't
+you hear? She said she'd
+give us everything she owns![BRK]
+
+We'd be rich![END]
+
+=== fe | 1cb3e | 9b ===
+Well, i never! You are the
+rudest little dragon-cat
+i've ever known![BRK]
+
+[POR02]
+Oh, what a genius statement!
+I'm probably the only dragon
+you've ever known, idiot![END]
+
+=== ff | 1cbec | 91 ===
+Hey, i've got some info for
+you! The althena cult has
+made a shrine in a house.[BRK]
+
+Be careful, though. If you
+go there, they'll hound you
+for money![END]
+
+=== 100 | 1cc94 | 56 ===
+Those stinkin' cult members
+are just way too noisy![BRK]
+
+I wonder if althena would
+approve?[END]
+
+=== 101 | 1ccfe | 76 ===
+I heard that the dragonship
+destiny was destroyed by
+lightning from heaven![BRK]
+
+I wonder if that's a sign
+from althena...
+[END]
+
+=== 102 | 1cd84 | d4 ===
+It seems like the priesthood
+of althena has changed for
+the better recently.[BRK]
+
+They're less noisy and
+annoying, preaching a 
+message of peace and love.[BRK]
+
+I think it's more like the
+message althena wants us to
+hear...[END]
+
+=== 103 | 1ce68 | 8d ===
+I'm traveling around the
+country getting plastered
+at all the bars of note.[BRK]
+
+This bar has exceptionally
+fine ale.[BRK]
+
+I...think i'll have another![END]
+
+=== 104 | 1cf08 | 8f ===
+I heard that the bridge to
+the other side of town was
+blocked.[BRK]
+
+Oh well! Guess that's as
+good a reason as any to 
+have another mug! [BRK]
+
+Bottoms up![END]
+
+=== 105 | 1cfaa | 6f ===
+Hey, now that the bridge is
+fixed, i can continue my
+odyssey...[BRK]
+
+...right after i polish off
+one for the road...[END]
+
+=== 106 | 1d028 | 49 ===
+Hey! Let's toss back a round
+in honor of the heroes that
+saved the world![END]
+
+=== 107 | 1d080 | 9b ===
+Hrmph![BRK]
+
+The priests of the althena
+cult always say we should
+donate to althena...[BRK]
+
+But if althena lives in our
+heart, then why should we
+give money to them?![END]
+
+=== 108 | 1d12e | 92 ===
+I heard that the althena
+cult is looking for a des-
+troyer who's among us...[BRK]
+
+If althena is truly guiding
+them, why can't they find
+this destroyer?[END]
+
+=== 109 | 1d1d4 | 7e ===
+Hey there, strangers!
+Welcome to nota's tavern![BRK]
+
+We're the best darn watering
+hole in the area! Sit down
+and take a load off...[END]
+
+=== 10a | 1d26a | b7 ===
+Welcome to the nota tavern!
+We have the best service
+you'll ever find.[BRK]
+
+In fact, i'll be happy to
+satisfy any of your needs.
+Just ask.[BRK]
+
+[POR02]
+Uh, is she saying what I
+think she's saying???[END]
+
+=== 10b | 1d334 | 88 ===
+Thanks to the blockage of
+nota's bridge, our business
+is booming![BRK]
+
+People are stuck here and
+drinking like fish until
+the bridge reopens.[END]
+
+=== 10c | 1d3d0 | 64 ===
+Sit right down and have a
+drink to ease your worries.[BRK]
+
+There's nothing better than
+nota's famous ale![END]
+
+=== 10d | 1d444 | e2 ===
+Come in! Come in! Sit down
+and relax. My name is bunne,
+and i'm your hostess.[BRK]
+
+I'm here to satisfy any need
+you may have. All i ask is
+that you leave a big tip.[BRK]
+
+[POR02]
+Uh, hiro...we better get out
+of here before you get in
+trouble![END]
+
+=== 10e | 1d53a | 96 ===
+Say, what's a nice buncha
+kids like you doin' in a 
+dive like this?[BRK]
+
+[POR05]
+Is she talkin' to me? I'm
+no kid![BRK]
+
+[POR02]
+Maybe she was just watching
+how you act...[END]
+
+=== 10f | 1d5e8 | 6b ===
+Say kiddos, go see the world
+while ya got the chance.[BRK]
+
+Otherwise, you'll end up in
+a dead-end job like this.[END]
+
+=== 110 | 1d666 | 92 ===
+I heard that lord leo
+blocked the bridge to stop
+the destroyer from escaping.[BRK]
+
+I'd be mad, but he's just so
+darned sexy...what a hunk!
+Hooohmmmm...[END]
+
+=== 111 | 1d70c | 5f ===
+Welcome to nota's tavern,
+kids. What can i get for
+ya? A virgin daiquiri?[BRK]
+
+Or perhaps a virgin?
+[END]
+
+=== 112 | 1d77e | 70 ===
+You've come to the right
+place to relax.[BRK]
+
+Nota tavern is the best
+in the business. World
+renowned for its tonics![END]
+
+=== 113 | 1d806 | 48 ===
+If you give me a big tip,
+i'm all yours, honey.[BRK]
+
+Service is my specialty![END]
+
+=== 114 | 1d85e | 93 ===
+My house is across the
+river, but i'm on this side
+of town on business.[BRK]
+
+I like this joint. The
+ladies here are more risque
+than at my local tavern.[END]
+
+=== 115 | 1d908 | 56 ===
+Why don't they open a
+tavern like this in western
+nota?[BRK]
+
+They'd be raking in the
+bucks![END]
+
+=== 116 | 1d97a | 2e ===
+I'm an anarchist. My motto?[BRK]
+
+World peace sucks.[END]
+
+=== 117 | 1d9bc | 69 ===
+Eh he he he! These ladies
+are so beautiful and 
+flirtatious...[BRK]
+
+I wish i could take one
+of 'em home and...[END]
+
+=== 118 | 1da3c | 4a ===
+Eh he he he! This is the
+only place a loser like me
+can get his jollies...[END]
+
+=== 119 | 1da9a | a6 ===
+Outside it's noisy and
+dangerous because of the
+cult and the destroyer.[BRK]
+
+But in here, it's skin, skin
+and more skin! I think i've
+died and gone to heaven![BRK]
+
+Eh he he he![END]
+
+=== 11a | 1db54 | 96 ===
+Eh he he he! She wants me,
+i know it.[BRK]
+
+Every woman wants a piece of
+the ol' arty. I know it,
+they know it.[BRK]
+
+They just slap my face to
+hide their lust...[END]
+
+=== 11b | 1dbfa | d2 ===
+Ever since the world was
+saved, the ladies here seem
+somehow tamer...[BRK]
+
+...i kinda like the old way
+better, even if we were
+near destruction.[BRK]
+
+If that makes me a perverse
+person, devoid of any
+humanity...so be it![END]
+
+=== 11c | 1dcd2 | a ===
+Nota - bar[END]
+
+=== 11d | 1e364 | 45 ===
+There are many weapon shops
+around, but this one is top-
+of-the-heap![END]
+
+=== 11e | 1e3b2 | c ===
+Hey, thanks![END]
+
+=== 11f | 1e3c4 | 50 ===
+If you're looking for armor,
+you came to the right place!
+What can i do for you?[END]
+
+=== 120 | 1e41e | 13 ===
+Thanks. Come again.[END]
+
+=== 121 | 1e436 | 4f ===
+Ya won't find a betta item
+shop within 5000 miles uh
+here. What's yer pleasure?[END]
+
+=== 122 | 1e48e | 19 ===
+Say, ya'll come back now![END]
+
+=== 123 | 1e4ac | b ===
+Nota bazaar[END]
+
+=== 124 | 1ed12 | 3b ===
+Glad you stopped by my
+item shop today. How can
+i help you?[END]
+
+=== 125 | 1ed56 | 30 ===
+Thanks for stopping by
+today. Please come again![END]
+
+=== 126 | 1ed8c | e ===
+Nota item shop[END]
+
+=== 127 | 1f3f8 | 43 ===
+Hello there! Come closer,
+come closer! What can I
+do for you today?[END]
+
+=== 128 | 1f444 | 4e ===
+Be careful out there...and
+hey, remember us for all
+your armor needs, ya hear?[END]
+
+=== 129 | 1f498 | f ===
+Nota armor shop[END]
+
+=== 12a | 1fb76 | 5f ===
+[POR02]
+W...what the heck???[BRK]
+
+Hiro, look at that! It's
+the dragonship destiny![BRK]
+
+Let's get out of here![END]
+
+=== 12b | 1fbd8 | 7b ===
+[POR09]
+Not so fast, little ones.[BRK]
+
+You did well to get this
+far, but you'll not escape
+my grasp again.[BRK]
+
+Men, restrain our friends.[END]
+
+=== 12c | 1fc56 | 7c ===
+Sir, we've secured the
+prisoners. What shall we
+do now?[BRK]
+
+[ROR09]
+Wait right there. I'll be
+right up to inspect our
+little 'catch.'[END]
+
+=== 12d | 1fcd6 | 134 ===
+[ROR10]
+Uh, hiro, is there something
+you haven't told me?[BRK]
+
+Why is lord leo interested
+in us?[BRK]
+
+[ROR07]
+Jean, you are so dim at
+times. He's obviously
+interested in lucia.[BRK]
+
+[ROR02]
+Shut up, lemina! Do you
+want him to hear us?[BRK]
+
+[ROR05]
+Okay, kiddies, knock it off!
+We've got to get out of this
+mess, and fast...[BRK]
+
+Let's make a run for it![END]
+
+=== 12e | 1fe20 | c ===
+Nota village[END]
+

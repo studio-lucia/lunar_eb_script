@@ -1,0 +1,4149 @@
+File: M1D.GRP
+
+Messages: 376
+
+=== 0 | a182 | 66 ===
+[POR10]
+This is meribia. Lunn has a
+dojo set up here devoted to
+blue dragon karate.[BRK]
+
+I need to check it out.[END]
+
+=== 1 | a202 | 6f ===
+Welcome to meribia![BRK]
+
+The most popular sites in
+town are ramus' store and
+lunn's dojo.[BRK]
+
+Be sure to check them out![END]
+
+=== 2 | a280 | ba ===
+Did you come to meribia to
+see ramus' wondrous store?[BRK]
+
+Rumor has it that it's been
+in his family for over 900
+years![BRK]
+
+You know, it's become so
+famous, other merchants are
+coming to see it![END]
+
+=== 3 | a34c | 4a ===
+[POR07]
+Hmmm...maybe he can give me
+a few marketing tips for the
+magic guild...[END]
+
+=== 4 | a3a8 | 81 ===
+[POR02]
+Hey there, lemina, it looks
+like you're gonna lose your
+bet with ramus![BRK]
+
+You ready to be his blushing
+bride?[BRK]
+
+[POR07]
+We'll see...
+
+
+[END]
+
+=== 5 | a43c | 6e ===
+I heard that there are vast
+sewers that run under this
+city.[BRK]
+
+If you find out where they
+are, will you tell me?[END]
+
+=== 6 | a4c2 | aa ===
+Why are you talking to me
+again? I don't need your
+help anymore...[BRK]
+
+I just remembered where the
+entrance to the meribian
+sewers was.[BRK]
+
+So just get lost. You're
+annoying me.
+[END]
+
+=== 7 | a580 | bb ===
+I was told to look for the
+entrance to the sewers of
+this city.[BRK]
+
+I've got to find them for
+my boss back on taben's
+peak.[BRK]
+
+If you saw him, you'd know
+why i've got to do it. He's
+a dreamboat![END]
+
+=== 8 | a652 | 4a ===
+Boo hoo hooo! Ooohhh, where
+can that sewer entrance be?
+...booo hoo hoo!
+
+[END]
+
+=== 9 | a6ac | 9d ===
+With all these people
+around, you'd think someone
+would know about the sewers![BRK]
+
+I'm getting tired of bugging
+everyone i see and getting
+the same lame answer!![END]
+
+=== a | a758 | 91 ===
+Step right up! Step right on
+in! Check out the wonders in
+ramus' wonder shop![BRK]
+
+We have unusual items from
+the known world! Some are
+one-of-a-kind![END]
+
+=== b | a7fc | d4 ===
+Come one! Come all! Try out
+ramus' latest wonder, the
+tunnels of carnage![BRK]
+
+This action-packed thrill
+ride will put you face-to-
+face with death itself![BRK]
+
+Only you decide the final
+outcome. All the monsters
+are real![END]
+
+=== c | a8e4 | 6b ===
+Will you try your luck with
+the tunnels of carnage?[BRK]
+
+I guarantee you'll not find
+another attraction like it![END]
+
+=== d | a95e | e6 ===
+Looking for a thrill? Be
+sure to check out ramus' new
+ga-ga go-go girls![BRK]
+
+Fresh from their hot world
+tour, now performing three
+shows nightly![BRK]
+
+[POR02]
+Have we stepped into some
+sort of twilight zone
+episode?[BRK]
+
+This town is just too
+weird![END]
+
+=== e | aa58 | 87 ===
+The bandits seen around here
+have a hideout on taben's
+peak.[BRK]
+
+If you're having trouble
+with them, you might want to
+talk to master lunn.[END]
+
+=== f | aaf6 | 4c ===
+Master lunn is very powerful
+in this city. If you have a
+problem, go to him.[END]
+
+=== 10 | ab56 | 89 ===
+Did you finally meet master
+lunn? Weren't you totally
+impressed with him?[BRK]
+
+I mean...goddess althena
+trusts him most among the
+four heroes.[END]
+
+=== 11 | abec | 32 ===
+[POR10]
+Lunn certainly seems
+to be one to be admired...[END]
+
+=== 12 | ac32 | 79 ===
+Master lunn left for penta-
+gulia a while ago and hasn't
+yet returned.[BRK]
+
+Maybe he stopped by the
+training grounds at horam.[END]
+
+=== 13 | acba | 11f ===
+Say, did you hear the story
+of the hero that saved the
+world? Isn't it wonderful?[BRK]
+
+I heard that a gambler, a
+dancer, a magician, and a
+dragon helped.[BRK]
+
+I wish i could meet them.[BRK]
+
+[POR02]
+Hehe, uh...funny how these
+rumors get started, isn't
+it?[BRK]
+
+I actually heard that the
+dragon helped the most...
+[END]
+
+=== 14 | ade8 | cc ===
+In other villages i've heard
+althena's cult talking about
+a dark god of destruction.[BRK]
+
+I wonder why we never hear
+about that here in meribia.[BRK]
+
+Oh well, it doesn't really
+matter. Master lunn looks
+out for us.[END]
+
+=== 15 | aec8 | 71 ===
+Monster attacks have grown
+to terrible proportions
+lately.[BRK]
+
+I'm so glad that master lunn
+can protect us from them.[END]
+
+=== 16 | af48 | b9 ===
+You know, there really was
+a dark god of destruction![BRK]
+
+His name was zophar. I say
+'was' because someone
+defeated him.[BRK]
+
+I wonder if master lunn had
+something to do with it? I
+bet he did...[END]
+
+=== 17 | b010 | 87 ===
+Master lunn has a dojo here
+in meribia where he teaches
+blue dragon karate.[BRK]
+
+If you want to see him, go
+now. I think he's still
+there...[END]
+
+=== 18 | b0aa | 6b ===
+Master lunn isn't at his
+dojo right now.[BRK]
+
+He left to visit pentagulia.
+Well, at least that's what
+i heard...[END]
+
+=== 19 | b124 | 90 ===
+Master lunn's dojo has been
+very busy lately.[BRK]
+
+Once word got out that a
+student of his saved the
+world,[BRK]
+
+applications to his dojo
+increased 2000%![END]
+
+=== 1a | b1c6 | c0 ===
+[POR07]
+Jean! Did you hear that?
+This is a mega-opportunity![BRK]
+
+If we start a dojo and you
+endorse it, we stand to make
+a fortune![BRK]
+
+[POR10]
+Lemina, lemina, lemina...
+i want to go back to
+dancing, remember? [END]
+
+=== 1b | b296 | de ===
+Ah, welcome! You stand
+before master lunn's world
+famous dojo.[BRK]
+
+He's a very busy person, but
+you're in luck! Today he's
+in the dojo training.[BRK]
+
+If you want to talk to him
+before he leaves for penta-
+gulia, you'd better hurry.[END]
+
+=== 1c | b388 | 73 ===
+Oh, i am sorry! Master lunn
+isn't here right now.[BRK]
+
+He was called away to
+pentagulia unexpectedly
+by goddess althena.[END]
+
+=== 1d | b40a | cb ===
+I heard that a student of
+master lunn's defeated
+zophar after a big battle.[BRK]
+
+I think that master lunn
+would have had an easier
+time, but hey, [BRK]
+
+i guess we shouldn't
+complain, eh? After all,
+it was a chick![END]
+
+=== 1e | b4e2 | 8a ===
+[POR02]
+Hey! That's not a very nice
+thing to say! Don't you know
+that...??[BRK]
+
+[POR10]
+It's okay, ruby. It doesn't
+bother me. This guy is an
+imbecile...[END]
+
+=== 1f | b57c | 95 ===
+Master lunn welcomes all who
+desire to expand their minds
+with new knowledge.[BRK]
+
+If you want to learn the
+secrets of blue dragon
+karate, visit his dojo.[END]
+
+=== 20 | b628 | 7c ===
+Master lunn suddenly left
+for pentagulia at the
+request of althena herself![BRK]
+
+Of the four heroes, i think
+he is the busiest...[END]
+
+=== 21 | b6c0 | 50 ===
+Sorry, master lunn isn't
+here.[BRK]
+
+He's assisting the goddess
+althena in pentagulia.[END]
+
+=== 22 | b720 | 6f ===
+Boy, i certainly hope master
+lunn returns soon.[BRK]
+
+He's been gone so long, i'm
+starting to get a little
+worried...[END]
+
+=== 23 | b79e | 73 ===
+I came here from my home in
+nota to peddle my wares,[BRK]
+
+but now bandits are blocking
+the road to vane! What will
+i do?[END]
+
+=== 24 | b824 | 7b ===
+What? The bandits of taben's
+peak have disappeared?[BRK]
+
+Do you know what that means?
+Now we can get to vane! This
+is fantastic![END]
+
+=== 25 | b8b2 | 89 ===
+Haven't you heard? The way
+is open and the bandits are
+gone![BRK]
+
+Don't bother me now! I've
+got to make preparations to
+move my wares to vane![END]
+
+=== 26 | b948 | 43 ===
+[POR07]
+Well, get a move on! And I
+hope you offer a magician's
+discount![END]
+
+=== 27 | b99e | aa ===
+Oh dear, did you hear the
+latest rumor?[BRK]
+
+They say there are children
+amongst the bandits![BRK]
+
+These days, kids are just
+running wild! What they need
+is a good spanking, i say![END]
+
+=== 28 | ba60 | d4 ===
+You know, the more i hear
+about these bandits from
+taben's peak,[BRK]
+
+the more paranoid i get!
+Say, you're not one of them,
+are you?[BRK]
+
+[POR02]
+Excuse me? When's the last
+time you saw a red flying
+bandit? I don't think so...
+[END]
+
+=== 29 | bb4c | 81 ===
+It seems awfully quiet
+around here lately. Have all
+the bandits gone away?[BRK]
+
+...or were there ever any 
+real bandits to begin with?[END]
+
+=== 2a | bbe8 | 69 ===
+Now that the bandits have
+disappeared, the rumor mill
+has really quieted down.[BRK]
+
+I sorta miss the action...[END]
+
+=== 2b | bc60 | 91 ===
+Ever since zophar was
+defeated, this place has
+been partyville.[BRK]
+
+You know, if i didn't know
+better, i'd think this month
+was some sort of holiday![END]
+
+=== 2c | bd04 | dc ===
+I once heard that ramus'
+store used to have an outlet
+in every town.[BRK]
+
+But the current owner's dad
+hit hard times and had to 
+close all but this store.[BRK]
+
+If things don't turn around
+soon, he may have to close
+this one, too.
+[END]
+
+=== 2d | bdf8 | 62 ===
+I heard that the last
+dragonmaster used to love
+shopping at ramus'.[BRK]
+
+Seems kinda weird, doesn't
+it?[END]
+
+=== 2e | be6e | f5 ===
+Whoo hoo! I just tried out
+the tunnels of carnage![BRK]
+
+That has got to be the best
+ride ramus ever made![BRK]
+
+Look at this![BRK]
+
+See?!...see?! That's real
+blood!...my blood![BRK]
+
+I barely escaped with my
+life!...what a total
+rush! Ha ha ha ha ha![BRK]
+
+Whooo hoooooo!
+
+
+[END]
+
+=== 2f | bf72 | 93 ===
+I think tunnels of carnage
+has been such a success that
+ramus can expand again.[BRK]
+
+Maybe he can build it back
+into a worldwide chain like
+it once was.[END]
+
+=== 30 | c018 | dd ===
+Master lunn teaches us not
+only the ways of blue dragon
+karate, but good health.[BRK]
+
+Even though i'm quite old,
+i'm still in fantastic
+shape.[BRK]
+
+See...feel my butt! Hard as
+a rock and soft as a baby's!
+You can't buy that, kiddo![END]
+
+=== 31 | c10c | 67 ===
+Lunn taught me discipline.
+Thanks to him, i have buns
+of iron.[BRK]
+
+I can bend steel bars with
+these babies![END]
+
+=== 32 | c182 | a3 ===
+I wish lunn would come back
+soon! I need his guidance to
+stick with my program.[BRK]
+
+I think i've started
+slipping.[BRK]
+
+Yesterday, i lusted for a
+ding-dong.[BRK]
+
+I'm so ashamed.[END]
+
+=== 33 | c238 | 7a ===
+Say there, you guys fought
+any big monsters?[BRK]
+
+You did!!? Say, how'd you
+escape? You look too wimpy
+to beat 'em in a fight..[END]
+
+=== 34 | c2ca | 79 ===
+My dad just bought me a g.I.
+Lunn with the kung-fu grip![BRK]
+
+I'm so excited! Now i can
+practice being one of the
+four heroes![END]
+
+=== 35 | c352 | 67 ===
+Master lunn said he was
+going to horam to make his
+karate stronger.[BRK]
+
+Man, i wish i was as cool
+as him...[END]
+
+=== 36 | c3cc | 63 ===
+Haiiii...yaaaaaaa![BRK]
+
+How did that look? I'm
+practicing my form so master
+lunn will agree to train me![END]
+
+=== 37 | c446 | 2d ===
+Oooouuhhhhhh! Wahhhhh! Ha!
+Haiiiiiii...yaaaa![END]
+
+=== 38 | c486 | 9b ===
+I'm tired of playing master
+of the four heroes. Wanna
+make a new game?[BRK]
+
+My friend told me about one
+called 'doctor' that sounds
+fun. Do ya know how to play?[END]
+
+=== 39 | c538 | 83 ===
+Hey! I know what game we can
+play! Let's play 'world
+warriors!'[BRK]
+
+We need five people. I'll
+play the drunken priest.[BRK]
+
+Who will you be?[END]
+
+=== 3a | c5c8 | 41 ===
+[POR05]
+Hey squirt, you're really
+pushing your luck today,
+aren't you?[END]
+
+=== 3b | c61c | 81 ===
+Haaa! I am white knight leo!
+Halt in the name of goddess
+althena![BRK]
+
+If you do not, i will have
+to flail your rank bottom,
+stranger![END]
+
+=== 3c | c6b4 | a2 ===
+Halt!
+     Halt!
+          Halt![BRK]
+
+...ahhhhhh! Come back here,
+cretin! I have a warrant for
+your arrest![BRK]
+
+Don't you know who i am?
+I am white knight leo,
+greatest...[END]
+
+=== 3d | c76a | 4a ===
+I want a new game to play!
+We've already played white
+knight leo to death![END]
+
+=== 3e | c7c8 | bd ===
+If you don't have any new
+ideas for games to play, I
+guess i'll play leo again![BRK]
+
+......ha! Halt there,
+stranger, or i'll crush you
+with my kung-fu grip![BRK]
+
+....
+.....[BRK]
+
+Leo is so completely cool![END]
+
+=== 3f | c892 | 1b ===
+[POR09]
+....
+uh, right, kid...
+
+[END]
+
+=== 40 | c8c0 | 4e ===
+Cower before me, dung eaters!
+I'm red priest mauri, most
+powerful in the land![END]
+
+=== 41 | c926 | 78 ===
+Hahahahahahaa...[BRK]
+
+Whooooooooo!
+Ahhhhhhhhhh![BRK]
+
+I said cower before me!
+Are you deaf and stupid?![BRK]
+
+Don't you know who i am?!!
+[END]
+
+=== 42 | c9b2 | 4e ===
+I like playing mauri. She's
+so powerful i can imagine
+doing almost anything...[END]
+
+=== 43 | ca14 | 77 ===
+I think i'll play the karate
+dancer jean next. I don't
+have the legs for it now...[BRK]
+
+But i'm drinking milk, so
+watch out![END]
+
+=== 44 | ca98 | 49 ===
+[POR10]
+You better be drinking a
+lot of milk, sweetie. Those
+legs need work...[END]
+
+=== 45 | caf4 | 4b ===
+When we decide to play out
+here, the last one in the
+game has to be borgan.[END]
+
+=== 46 | cb56 | 46 ===
+I hate it when i get stuck
+playing borgan. He's nothing
+but a fat pig.[END]
+
+=== 47 | cbb0 | 6d ===
+Borgan, borgan, fatty man.
+If he won't eat it, no one
+can![BRK]
+
+My brother taught me that
+one. How do you like it?[END]
+
+=== 48 | cc30 | a7 ===
+....
+.....[BRK]
+
+You know, i'm starting to
+get tired of running around
+out here.[BRK]
+
+Maybe it's time i grew up
+and learned some respon-
+sibility...[BRK]
+
+Nah!
+......hahahahahahahahha![END]
+
+=== 49 | ccdc | 7 ===
+Meribia[END]
+
+=== 4a | f1f0 | d6 ===
+[POR27]
+Welcome to the legendary
+ramus' store.[BRK]
+
+I'm ramus, the current
+owner of this store.[BRK]
+
+[POR07]
+Hi, ramus. How's your little
+business going?[BRK]
+
+[POR27]
+Business really looks bleak!
+This is the worst depression
+i've seen in years![END]
+
+=== 4b | f2e2 | 1a1 ===
+[POR27]
+I'm already starting to 
+think that i should start 
+filing chapter 11.[BRK]
+
+[POR07]
+Ramus! What kind of 
+business teacher are you?[BRK]
+
+If you can't even take care 
+of this store, how are you
+supposed to help me?[BRK]
+
+[POR02]
+Lemina's teacher!?[BRK]
+
+[POR07]
+He's not my magic teacher.
+Everyone knows that ramus' 
+family can't use magic.[BRK]
+
+But they all have a keen
+sense of how to make
+money![BRK]
+
+[POR02]
+Yeah, it looks like he's 
+done wonders with this 
+place.[END]
+
+=== 4c | f49e | d6 ===
+[POR27]
+I just can't think of any
+moneymaking schemes lately.[BRK]
+
+[POR07]
+So it looks like you better
+just pay up, then, little
+man.[BRK]
+
+'Cause i'll be able to 
+restore the guild before you
+turn a profit on this store.
+
+
+
+
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 4d | f58c | 2a0 ===
+[POR27]
+We were cleaning up in this
+place the other day and 
+found an underground path.[BRK]
+
+The entrance is over on the 
+wall, and it goes deep 
+within the meribian sewers.[BRK]
+
+The original ramus left a
+clause in his will warning
+us never to go down there.[BRK]
+
+He said he was almost killed 
+by a vicious water dragon.[BRK]
+
+That's when he had to end
+his quest with dragonmaster 
+alex.[BRK]
+
+Many years later, he
+admitted that he was so
+scared he pooped his pants![BRK]
+
+It was then that he realized
+that he wasn't cut out for
+adventuring.[BRK]
+
+[POR07]
+Ramus, are you stupid? There
+could be hidden treasures
+down there![BRK]
+
+[POR27]
+Money isn't worth risking
+your life.[BRK]
+
+Okay, well, yes it is, but
+i'm not going to go down
+there.[END]
+
+=== 4e | f848 | 52 ===
+[POR27]
+I'm never going down there!
+Just remember: if you find
+any treasure, it's mine![END]
+
+=== 4f | f8ae | 84 ===
+[POR27]
+I'm showing sneak previews
+of my new 'tunnels of
+carnage' attraction.[BRK]
+
+We've converted the meribian
+sewers...[BRK]
+
+It's gonna be great![END]
+
+=== 50 | f94a | 101 ===
+[POR27]
+Finding that underground 
+passage was the best thing
+to happen to this store![BRK]
+
+I've turned it into a
+magical haunted ride.[BRK]
+
+I've gathered a ton of kids
+who work for peanuts...[BRK]
+
+And continuing on with the
+family tradition, i've hired 
+only beautiful women...[END]
+
+=== 51 | fa58 | db ===
+[POR07]
+Ramus, you're a living
+legend! You've turned this
+place into a giant bank![BRK]
+
+With all the money you're
+going to get you shouldn't
+have to go bankrupt![BRK]
+
+Say, you don't want to make
+a small donation to the 
+guild, do you?[END]
+
+=== 52 | fb4e | 4c ===
+[POR27]
+This haunted house idea was
+the best thing to ever 
+happen to this place![END]
+
+=== 53 | fbb0 | b7 ===
+[POR27]
+Hiro and ronfar, you're more
+than welcome to come in and
+see the sights...[BRK]
+
+[POR05]
+Sure! I'd like to see just
+how attractive these sights
+can be![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+...wait for me![BRK]
+
+[POR02]
+Hiro!![END]
+
+=== 54 | fc7a | 8b ===
+[POR27]
+Since i've started 
+advertising this little 
+place, business is booming![BRK]
+
+People are coming from all
+over just to take a ten
+minute ride![END]
+
+=== 55 | fd12 | 1aa ===
+[POR27]
+Lemina, i'd like to raise
+the stakes in our little
+bet.[BRK]
+
+If you rebuild the magic
+guild before i turn a 
+profit...[BRK]
+
+I'll donate all future 
+profits to the magic guild![BRK]
+
+[POR07]
+Mega-cool! That's the kind 
+of bet i would like to win!![BRK]
+
+[POR27]
+However, if i win, you will
+have to become my wife![BRK]
+
+After all, that's how all of
+the ramus family got their
+beautiful wives![BRK]
+
+[POR07]
+Yeah, you bought them!
+I don't think i like this
+proposal anymore.[END]
+
+=== 56 | fed8 | 12c ===
+[POR27]
+Sorry, my little teddy bear,
+you already agreed to my
+terms.[BRK]
+
+And after all, verbal 
+agreements are binding in
+meribia.[BRK]
+
+But don't worry! I'll make
+sure the guild gets rebuilt,
+one way or another![BRK]
+
+[POR07]
+I can't believe i agreed
+to that stupid bet![BRK]
+
+I've gotta win or i'm going
+to be wed to fatty cheeks.[END]
+
+=== 57 | 10020 | 1f9 ===
+[POR27]
+It's not like i'm going to
+win overnight lemina, but
+i do want to marry you.[BRK]
+
+It's like dad always said:
+'the best brides are bought 
+brides.'[BRK]
+
+And i'm beginning to think
+he was right![BRK]
+
+[POR07]
+....
+.....[BRK]
+
+Don't worry, anus, it's not
+like i'm going to back out
+of our little bet.[BRK]
+
+[POR27]
+Lemina! You are starting to
+like me!! And you've 
+already given me a pet name.[BRK]
+
+Dad said if you give 'em
+enough time, they'll grow
+to love ya![BRK]
+
+[POR07]
+Pooh! I don't love ya, and
+i don't intend to lose! I'll
+be back to get my money!!
+
+[END]
+
+=== 58 | 10234 | e3 ===
+[POR27]
+Hello, my darling angel. Is
+everything going all right
+with you??[BRK]
+
+[POR07]
+Hello, anus, don't start
+gloating yet. You still 
+haven't won![BRK]
+
+[POR02]
+I don't see you trying to
+win the bet, lemina.[BRK]
+
+Maybe you secretly long to
+be ramus' wife.[END]
+
+=== 59 | 1032a | ab ===
+Hello <hick> my lovely 
+little <hick> girl!![BRK]
+
+Didja bring anything 
+that'll <hick> please an
+old man?[BRK]
+
+[POR07]
+He's nothing more than a
+drunken gambler! Kind of
+like you, ronfar.[END]
+
+=== 5a | 103ec | 139 ===
+I haven't <hick> seen you
+in a long time, lemina.[BRK]
+
+Did you sneak any wine from
+the town of wine past ramus?[BRK]
+
+[POR07]
+That's vane, grandpa, and
+no, i didn't bring you any
+wine![BRK]
+
+It's weird. Every tenth boy
+in ramus' family is named
+ramus.[BRK]
+
+They're kinda stuck on the 
+name, since the first ramus
+knew dragonmaster alex.
+
+
+
+[END]
+
+=== 5b | 10538 | 97 ===
+I think junior is going
+to kick me out of this
+place![BRK]
+
+He's mad that i made that
+big hole in the wall.[BRK]
+
+I though it might lead to a
+secret wine cellar...[END]
+
+=== 5c | 105e6 | ea ===
+Good job, junior! This 
+business is really starting
+to take off![BRK]
+
+I think i'm going to go 
+inspect some of the 
+merchandise...[BRK]
+
+[POR27]
+Grandpa, last time you did
+that, we were stuck with a
+huge lawsuit![BRK]
+
+That's why we almost lost
+this store![END]
+
+=== 5d | 106ec | 6b ===
+That stupid grandson of mine
+won't even let me inspect 
+the employees...[BRK]
+
+I really hate that kid 
+sometimes.[END]
+
+=== 5e | 1076a | 82 ===
+I hope ramus makes this 
+store as great as it was
+originally.[BRK]
+
+That's when we had all the
+money, and i could do 
+whatever i wanted![END]
+
+=== 5f | 10804 | 105 ===
+Hello, my new granddaughter!
+Ramus told me you two were
+going to get married.[BRK]
+
+I can't wait for that kid to
+have some children of his
+own...[BRK]
+
+[POR07]
+Wait! Wait a minute!! 
+I never agreed to this![BRK]
+
+Ramus hasn't won yet,
+grandpa.[BRK]
+
+Who knows? I still might be
+able to win.[END]
+
+=== 60 | 10924 | 92 ===
+I've decided that i'm going
+to help ramus win that 
+little bet of his...[BRK]
+
+Welcome to the family, my
+dear! You're going to make
+ramus one happy man.[END]
+
+=== 61 | 109d2 | 170 ===
+I told ramus to shower you
+with gifts, and to make sure
+they were the finest.[BRK]
+
+Everyone knows that a woman
+will marry any man that
+buys them stuff.[BRK]
+
+[POR02]
+...they've found your weak
+spot, lemina! What are you
+going to do with the gifts?[BRK]
+
+[POR07]
+Pooh! Just because a man 
+buys a woman something 
+doesn't mean they'll wed.[BRK]
+
+I'm just gonna take the
+gifts and sell them for 
+money!
+
+[END]
+
+=== 62 | 10b52 | 9a ===
+When i was tending the store
+last night, i heard crying
+coming from behind the wall.[BRK]
+
+I'm so scared, i can't even
+go to the bathroom by myself
+at night.
+
+
+[END]
+
+=== 63 | 10c00 | 9c ===
+This place is really 
+starting to give me the
+creeps.[BRK]
+
+Just look! The wall fell
+down over there![BRK]
+
+What's next? Man, i sure
+hope it doesn't start oozing
+blood![END]
+
+=== 64 | 10cb0 | 6d ===
+There's no way in hell that
+i'll ever go down in that
+creepfest of a hole![BRK]
+
+Yes, i'm a coward and proud
+of it![END]
+
+=== 65 | 10d2c | a0 ===
+Ramus is such a genius! He's
+taken this store and turned
+it into a silver mine.[BRK]
+
+I've received three raises
+in the last week![BRK]
+
+I'm finally going to be a
+rich man![END]
+
+=== 66 | 10de0 | ad ===
+All of my family have worked
+for the ramus family for
+years.[BRK]
+
+This store is full of 
+tradition and history...[BRK]
+
+It is rumored that goddess
+althena and alex used to
+come here...[END]
+
+=== 67 | 10ea4 | 4c ===
+I think that i might be 
+looking for a new job if
+business doesn't take off.[END]
+
+=== 68 | 10f04 | 5f ===
+This is really great! Our
+business has tripled during
+the last week.[BRK]
+
+Nothing like job security![END]
+
+=== 69 | 10f72 | 79 ===
+Whoa! Lemina, i hear that 
+you and the boss are going
+to the chapel of love.[BRK]
+
+I hope ramus will ask me
+to be his best man.[END]
+
+=== 6a | 10ff8 | 34 ===
+[POR07]
+Don't count on it, buster!
+I'll never marry him!
+[END]
+
+=== 6b | 11040 | 80 ===
+My wife is thinking about
+getting a divorce from me...[BRK]
+
+She says i spend too much 
+time in here looking at all
+the pretty ladies.[END]
+
+=== 6c | 110d0 | cf ===
+I just love walking around
+this store dropping things 
+on the floor...[BRK]
+
+Then all you have to do is
+wait for one of those ladies
+to come and pick it up![BRK]
+
+I'm telling you, this place
+has answered all my prayers![END]
+
+=== 6d | 111b6 | 9b ===
+Hi, lemina. Did you come to
+see ramus?[BRK]
+
+He's been working day and
+night to try to make this
+place a success.[BRK]
+
+[POR07]
+Good! I want him to earn
+every silver coin.
+[END]
+
+=== 6e | 1126c | 3e ===
+Ramus told me he's going
+to make sure he weds you,
+lemina.
+
+
+
+[END]
+
+=== 6f | 112be | 30 ===
+I hear wedding bells. Don't
+you, lemina?
+
+
+
+
+
+
+
+[END]
+
+=== 70 | 112fe | ca ===
+So tell me: once you marry
+ramus, will you come to work
+for us?[BRK]
+
+I hope so! I'd like to see
+you run around in some of 
+these garments.[BRK]
+
+I know you'll look so hot
+in them!! Ramus is one lucky
+man...
+
+
+
+
+
+
+[END]
+
+=== 71 | 113e4 | 99 ===
+Watch it! Behind you!![BRK]
+
+Pretty scary, huh?[BRK]
+
+I've taken just about 
+everyone through the sewers.[BRK]
+
+It's a pretty nerve-wracking
+job, but someone has to do
+it.[END]
+
+=== 72 | 1149c | 62 ===
+I just love scaring the crap
+out of people![BRK]
+
+Yesterday, i had some guy
+pee his pants![BRK]
+
+What a loser![END]
+
+=== 73 | 1151e | 89 ===
+This is such a great job 
+that i can't believe I
+actually get paid for it![BRK]
+
+I get to scare people and
+watch them make fools of
+themselves.[END]
+
+=== 74 | 115ba | a7 ===
+Ramus said that he's going
+to open an 'after hours
+haunted house...'[BRK]
+
+He said it's going to be 
+for adults only.[BRK]
+
+I told him that i was 21 so
+he'd let me give the tours.[END]
+
+=== 75 | 11678 | 69 ===
+We've had the top make-up 
+artist go to work for us.[BRK]
+
+Some of the creatures look 
+so lifelike, it's scary.[END]
+
+=== 76 | 116ee | d ===
+[POR09]
+....
+.....[END]
+
+=== 77 | 11716 | ce ===
+Look out behind you!![BRK]
+
+Sorry, i was just practicing
+for when i have to take
+people down into the sewers.[BRK]
+
+I'm a tour guide, creep
+master, whatever you want
+to call me...[BRK]
+
+This place is going to make
+me rich...[END]
+
+=== 78 | 11804 | be ===
+Yesterday, i took a bunch of
+people down into the sewers,
+and told them that...[BRK]
+
+If they each didn't give me
+100s i was going to leave 
+them there.[BRK]
+
+This is one of the best jobs
+i've ever had.[END]
+
+=== 79 | 118e2 | 7b ===
+I've been making a ton of 
+money taking people into
+the sewers...[BRK]
+
+I've asked ramus to let me
+work a double shift 
+everyday.[END]
+
+=== 7a | 11970 | b7 ===
+Every day it's the same old
+scenario...[BRK]
+
+Take people into the sewer,
+act lost, steal their money 
+and bring 'em out.[BRK]
+
+If it wasn't for all the 
+money i'm making, i'd've
+quit already.
+
+
+[END]
+
+=== 7b | 11a3e | 76 ===
+Hey, pal, want me to take
+you on a guided tour of the
+sewers?[BRK]
+
+Make sure you bring enough
+silver to get back out!
+
+
+
+
+
+[END]
+
+=== 7c | 11ac2 | 47 ===
+[POR09]
+Sure, i'd like to be alone
+with you in the dark for a
+few moments...[END]
+
+=== 7d | 11b0e | 14 ===
+Meribia ramus' store[END]
+
+=== 7e | 1267e | d6 ===
+[POR27]
+Welcome to the legendary
+ramus' store.[BRK]
+
+I'm ramus, the current
+owner of this store.[BRK]
+
+[POR07]
+Hi, ramus. How's your little
+business going?[BRK]
+
+[POR27]
+Business really looks bleak!
+This is the worst depression
+i've seen in years![END]
+
+=== 7f | 12770 | 1a1 ===
+[POR27]
+I'm already starting to 
+think that i should start 
+filing chapter 11.[BRK]
+
+[POR07]
+Ramus! What kind of 
+business teacher are you?[BRK]
+
+If you can't even take care 
+of this store, how are you
+supposed to help me?[BRK]
+
+[POR02]
+Lemina's teacher!?[BRK]
+
+[POR07]
+He's not my magic teacher.
+Everyone knows that ramus' 
+family can't use magic.[BRK]
+
+But they all have a keen
+sense of how to make
+money![BRK]
+
+[POR02]
+Yeah, it looks like he's 
+done wonders with this 
+place.[END]
+
+=== 80 | 1292c | d6 ===
+[POR27]
+I just can't think of any
+moneymaking schemes lately.[BRK]
+
+[POR07]
+So it looks like you better
+just pay up, then, little
+man.[BRK]
+
+'Cause i'll be able to 
+restore the guild before you
+turn a profit on this store.
+
+
+
+
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 81 | 12a1a | 2a0 ===
+[POR27]
+We were cleaning up in this
+place the other day and
+found an underground path.[BRK]
+
+The entrance is over on the
+wall, and it goes deep
+within the meribian sewers.[BRK]
+
+The original ramus left a
+clause in his will warning
+us never to go down there.[BRK]
+
+He said he was almost killed
+by a vicious water dragon.[BRK]
+
+That's when he had to end
+his quest with dragonmaster
+alex.[BRK]
+
+Many years later, he
+admitted that he was so
+scared he pooped his pants![BRK]
+
+It was then that he realized
+that he wasn't cut out for
+adventuring.[BRK]
+
+[POR07]
+Ramus, are you stupid? There
+could be hidden treasures
+down there![BRK]
+
+[POR27]
+Money isn't worth risking
+your life...[BRK]
+
+Okay, well, yes it is, but
+i'm not going to go down
+there.
+
+
+[END]
+
+=== 82 | 12cd6 | 52 ===
+[POR27]
+I'm never going down there!
+Just remember: if you find
+any treasure, it's mine![END]
+
+=== 83 | 12d3c | 84 ===
+[POR27]
+I'm showing sneak previews
+of my new 'tunnels of
+carnage' attraction.[BRK]
+
+We've converted the meribian
+sewers...[BRK]
+
+It's gonna be great![END]
+
+=== 84 | 12dd8 | 101 ===
+[POR27]
+Finding that underground 
+passage was the best thing
+to happen to this store![BRK]
+
+I've turned it into a
+magical haunted ride.[BRK]
+
+I've gathered a ton of kids
+who work for peanuts...[BRK]
+
+And continuing on with the
+family tradition, i've hired 
+only beautiful women...[END]
+
+=== 85 | 12ee6 | db ===
+[POR07]
+Ramus, you're a living
+legend! You've turned this
+place into a giant bank![BRK]
+
+With all the money you're
+going to get, you shouldn't
+have to go bankrupt![BRK]
+
+Say, you don't want to make
+a small donation to the
+guild, do you?[END]
+
+=== 86 | 12fdc | 4c ===
+[POR27]
+This haunted house idea was
+the best thing to ever 
+happen to this place![END]
+
+=== 87 | 1303e | b7 ===
+[POR27]
+Hiro and ronfar, you're more
+than welcome to come in and
+see the sights...[BRK]
+
+[POR05]
+Sure! I'd like to see just
+how attractive these sights
+can be![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+...wait for me![BRK]
+
+[POR02]
+Hiro!![END]
+
+=== 88 | 13108 | 8b ===
+[POR27]
+Since i've started 
+advertising this little 
+place, business is booming![BRK]
+
+People are coming from all
+over just to take a ten
+minute ride![END]
+
+=== 89 | 131a0 | 1aa ===
+[POR27]
+Lemina, i'd like to raise
+the stakes in our little
+bet.[BRK]
+
+If you rebuild the magic
+guild before i turn a 
+profit...[BRK]
+
+I'll donate all future 
+profits to the magic guild![BRK]
+
+[POR07]
+Mega-cool! That's the kind 
+of bet i would like to win!![BRK]
+
+[POR27]
+However, if i win, you will
+have to become my wife![BRK]
+
+After all, that's how all of
+the ramus family got their
+beautiful wives![BRK]
+
+[POR07]
+Yeah, you bought them!
+I don't think i like this
+proposal anymore.[END]
+
+=== 8a | 13366 | 12c ===
+[POR27]
+Sorry, my little teddy bear,
+you already agreed to my
+terms.[BRK]
+
+And after all, verbal 
+agreements are binding in
+meribia.[BRK]
+
+But don't worry! I'll make
+sure the guild gets rebuilt,
+one way or another![BRK]
+
+[POR07]
+I can't believe i agreed
+to that stupid bet![BRK]
+
+I've gotta win or i'm going
+to be wed to fatty cheeks.[END]
+
+=== 8b | 134ae | 1f9 ===
+[POR27]
+It's not like i'm going to
+win overnight, lemina, but
+i do want to marry you.[BRK]
+
+It's like dad always said:
+'the best brides are bought 
+brides.'[BRK]
+
+And i'm beginning to think
+he was right![BRK]
+
+[POR07]
+....
+.....[BRK]
+
+Don't worry, anus, it's not
+like i'm going to back out
+of our little bet.[BRK]
+
+[POR27]
+Lemina! You are starting to
+like me!! And you've
+already given me a pet name.[BRK]
+
+Dad said if you give 'em
+enough time, they'll grow
+to love ya![BRK]
+
+[POR07]
+Pooh! I don't love ya, and
+i don't intend to lose! I'll
+be back to get my money!!
+
+[END]
+
+=== 8c | 136c2 | e3 ===
+[POR27]
+Hello, my darling angel. Is
+everything going all right
+with you?[BRK]
+
+[POR07]
+Hello, anus. Don't start
+gloating yet. You still 
+haven't won![BRK]
+
+[POR02]
+I don't see you trying to
+win the bet, lemina.[BRK]
+
+Maybe you secretly long to
+be ramus' wife.
+[END]
+
+=== 8d | 137b8 | ab ===
+Hello <hick> my lovely
+little <hick> girl!![BRK]
+
+Did ya bring anything 
+that'll <hick> please an
+old man?[BRK]
+
+[POR07]
+He's nothing more than a
+drunken gambler! Kind of
+like you, ronfar.[END]
+
+=== 8e | 1387a | 139 ===
+I haven't <hick> seen you
+in a long time, lemina.[BRK]
+
+Did you sneak any wine from
+the town of wine past ramus?[BRK]
+
+[POR07]
+That's vane, grandpa, and
+no, i didn't bring you any
+wine![BRK]
+
+It's weird. Every tenth boy
+in ramus' family is named
+ramus.[BRK]
+
+They're kinda stuck on the 
+name, since the first ramus
+knew dragonmaster alex.
+
+
+
+[END]
+
+=== 8f | 139c6 | 97 ===
+I think junior is going
+to kick me out of this
+place![BRK]
+
+He's mad that i made that
+big hole in the wall.[BRK]
+
+I though it might lead to a
+secret wine cellar...[END]
+
+=== 90 | 13a74 | ea ===
+Good job, junior! This
+business is really starting
+to take off![BRK]
+
+I think i'm going to go
+inspect some of the
+merchandise...[BRK]
+
+[POR27]
+Grandpa, last time you did
+that, we were stuck with a
+huge lawsuit![BRK]
+
+That's why we almost lost
+this store!!
+
+[END]
+
+=== 91 | 13b7a | 6b ===
+That stupid grandson of mine
+won't even let me inspect 
+the employees...[BRK]
+
+I really hate that kid 
+sometimes.[END]
+
+=== 92 | 13bf8 | 82 ===
+I hope ramus makes this 
+store as great as it was
+originally.[BRK]
+
+That's when we had all the
+money, and i could do 
+whatever i wanted![END]
+
+=== 93 | 13c92 | 105 ===
+Hello, my new granddaughter!
+Ramus told me you two were
+going to get married.[BRK]
+
+I can't wait for that kid to
+have some children of his
+own...[BRK]
+
+[POR07]
+Wait! Wait a minute!! 
+I never agreed to this![BRK]
+
+Ramus hasn't won yet,
+grandpa.[BRK]
+
+Who knows? I still might be
+able to win.[END]
+
+=== 94 | 13db2 | 92 ===
+I've decided that i'm going
+to help ramus win that 
+little bet of his...[BRK]
+
+Welcome to the family, my
+dear! You're going to make
+ramus one happy man.[END]
+
+=== 95 | 13e60 | 170 ===
+I told ramus to shower you
+with gifts, and to make sure
+they were the finest.[BRK]
+
+Everyone knows that a woman
+will marry any man that
+buys them stuff.[BRK]
+
+[POR02]
+They've found your weak
+spot, lemina! What are you
+going to do with the gifts?[BRK]
+
+[POR07]
+Pooh! Just because a man 
+buys a woman something 
+doesn't mean they'll wed.[BRK]
+
+I'm just going to take the
+gifts and sell them for 
+money!
+
+[END]
+
+=== 96 | 13fe0 | 9a ===
+When i was tending the store
+last night, i heard crying
+coming from behind the wall.[BRK]
+
+I'm so scared, i can't even
+go to the bathroom by myself
+at night.
+
+
+[END]
+
+=== 97 | 1408e | 9c ===
+This place is really 
+starting to give me the
+creeps.[BRK]
+
+Just look! The wall fell
+down over there![BRK]
+
+What's next? Man, i sure
+hope it doesn't start oozing
+blood![END]
+
+=== 98 | 1413e | 6d ===
+There's no way in hell that
+i'll ever go down in that
+creepfest of a hole![BRK]
+
+Yes, i'm a coward and proud
+of it![END]
+
+=== 99 | 141ba | a0 ===
+Ramus is such a genius! He's
+taken this store and turned
+it into a silver mine.[BRK]
+
+I've received three raises
+in the last week![BRK]
+
+I'm finally going to be a
+rich man![END]
+
+=== 9a | 1426e | ad ===
+All of my family have worked
+for the ramus family for
+years.[BRK]
+
+This store is full of 
+tradition and history...[BRK]
+
+It is rumored that goddess
+althena and alex used to
+come here...[END]
+
+=== 9b | 14332 | 4c ===
+I think that i might be 
+looking for a new job if
+business doesn't take off.[END]
+
+=== 9c | 14392 | 5f ===
+This is really great! Our
+business has tripled during
+the last week.[BRK]
+
+Nothing like job security![END]
+
+=== 9d | 14400 | 79 ===
+Whoa! Lemina, i hear that 
+you and the boss are going
+to the chapel of love.[BRK]
+
+I hope ramus will ask me
+to be his best man.[END]
+
+=== 9e | 14486 | 34 ===
+[POR07]
+Don't count on it, buster!
+I'll never marry him!
+[END]
+
+=== 9f | 144ce | 80 ===
+My wife is thinking about
+getting a divorce from me...[BRK]
+
+She says i spend too much 
+time in here looking at all
+the pretty ladies.[END]
+
+=== a0 | 1455e | cf ===
+I just love walking around
+this store dropping things 
+on the floor...[BRK]
+
+Then all you have to do is
+wait for one of those ladies
+to come and pick it up![BRK]
+
+I'm telling you, this place
+has answered all my prayers![END]
+
+=== a1 | 14644 | 9b ===
+Hi, lemina. Did you come to
+see ramus?[BRK]
+
+He's been working day and
+night to try to make this
+place a success.[BRK]
+
+[POR07]
+Good! I want him to earn
+every silver coin.
+[END]
+
+=== a2 | 146fa | 3e ===
+Ramus told me he's going
+to make sure he weds you,
+lemina.
+
+
+
+[END]
+
+=== a3 | 1474c | 30 ===
+I hear wedding bells. Don't
+you, lemina?
+
+
+
+
+
+
+
+[END]
+
+=== a4 | 1478c | ca ===
+So tell me: once you marry
+ramus, are you going to come
+to work for us?[BRK]
+
+I hope so! I'd like to see
+you run around in some of
+these garments.[BRK]
+
+I know you'll look so hot
+in them!! Ramus is one lucky
+man...[END]
+
+=== a5 | 14872 | 99 ===
+Watch it! Behind you!![BRK]
+
+Pretty scary, huh?[BRK]
+
+I've taken just about 
+everyone through the sewers.[BRK]
+
+It's a pretty nerve-wracking
+job, but someone has to do
+it.[END]
+
+=== a6 | 1492a | 62 ===
+I just love scaring the crap
+out of people![BRK]
+
+Yesterday, i had some guy
+pee his pants![BRK]
+
+What a loser![END]
+
+=== a7 | 149ac | 89 ===
+This is such a great job 
+that i can't believe I
+actually get paid for it![BRK]
+
+I get to scare people and
+watch them make fools of
+themselves.[END]
+
+=== a8 | 14a48 | a7 ===
+Ramus said that he's going
+to open an 'after hours
+haunted house...'[BRK]
+
+He said it's going to be 
+for adults only.[BRK]
+
+I told him that i was 21 so
+he'd let me give the tours.[END]
+
+=== a9 | 14b06 | 69 ===
+We've had the top make-up 
+artist go to work for us.[BRK]
+
+Some of the creatures look 
+so lifelike, it's scary.[END]
+
+=== aa | 14b7c | d ===
+[POR09]
+....
+.....[END]
+
+=== ab | 14ba4 | ce ===
+Look out behind you!![BRK]
+
+Sorry, i was just practicing
+for when i have to take
+people down into the sewers.[BRK]
+
+I'm a tour guide, creep
+master, whatever you want
+to call me...[BRK]
+
+This place is going to make
+me rich...[END]
+
+=== ac | 14c92 | be ===
+Yesterday, i took a bunch of
+people down into the sewers,
+and told them...[BRK]
+
+...if they each didn't give
+me 100s i was going to leave
+them there.[BRK]
+
+This is one of the best jobs
+i've ever had.
+
+
+[END]
+
+=== ad | 14d70 | 7b ===
+I've been making a ton of 
+money taking people into
+the sewers...[BRK]
+
+I've asked ramus to let me
+work a double shift 
+everyday.[END]
+
+=== ae | 14dfe | b7 ===
+Every day it's the same old
+scenario...[BRK]
+
+Take people into the sewer,
+act lost, steal their money 
+and bring 'em out.[BRK]
+
+If it wasn't for all the 
+money i'm making, i'd've
+quit already.
+
+
+[END]
+
+=== af | 14ecc | 76 ===
+Hey, pal, want me to take
+you on a guided tour of the
+sewers?[BRK]
+
+Make sure you bring enough
+silver to get back out!
+
+
+
+
+
+[END]
+
+=== b0 | 14f50 | 47 ===
+[POR09]
+Sure, i'd like to be alone
+with you in the dark for a
+few moments...[END]
+
+=== b1 | 14f9c | 14 ===
+Meribia ramus' store[END]
+
+=== b2 | 15b04 | 99 ===
+Bandits from taben's peak
+are really playing havoc
+with life around here![BRK]
+
+What to do about the problem
+is the most popular topic of
+conversation in here![END]
+
+=== b3 | 15bb0 | 7e ===
+I heard that the bandits of
+taben's peak were just kids![BRK]
+
+If that's true, i say we
+round them up and give them
+a good whippin'![END]
+
+=== b4 | 15c3e | 7e ===
+I wonder if the ads in
+ramus' store are true?[BRK]
+
+They say that our world was
+saved by humans that were
+equipped with his goods...[END]
+
+=== b5 | 15cca | 58 ===
+[POR07]
+That guy! He's a mega-money
+hog if i've ever seen one![BRK]
+
+He'll say anything for a
+buck![END]
+
+=== b6 | 15d36 | 128 ===
+It...it was awful![BRK]
+
+Those rotten bandits
+barricaded the path
+through taben's peak![BRK]
+
+We tried to turn around, but
+they ambushed us! It seemed
+like they were everywhere![BRK]
+
+We barely escaped with our
+lives! Those lousy vermin
+must be wiped out![BRK]
+
+They're a threat to the
+safety of all citizens of
+meribia![END]
+
+=== b7 | 15e76 | ff ===
+If you know what's good for
+you, steer clear of taben's
+peak!![BRK]
+
+Those bandits are erecting
+barricades to trap hapless
+travelers![BRK]
+
+God knows i would have been
+one of their victims if I
+wasn't such a stud.[BRK]
+
+I managed to escape, but you
+might not be so lucky...[END]
+
+=== b8 | 15f82 | 42 ===
+[POR02]
+Stud? Stud? I don't think
+so...[BRK]
+
+I was thinking more like
+'pud!'[END]
+
+=== b9 | 15fdc | c0 ===
+I went back to taben's peak
+to destroy the barricades,
+but they were gone![BRK]
+
+I think the bandits heard I
+was coming back and got
+scared.[BRK]
+
+You know, my incredible
+prowess is legendary around
+here.[END]
+
+=== ba | 160b8 | a3 ===
+Those bandits are nothing
+but chickens![BRK]
+
+They're afraid to take me
+on mano-a-mano...wimps![BRK]
+
+[POR02]
+Man! If nall heard you
+talking like that, he'd kick
+your sorry grits.
+[END]
+
+=== bb | 1616a | 97 ===
+You know, i was just getting
+ready to kick that zophar's
+butt![BRK]
+
+Those other heroes beat me
+to it, though.[BRK]
+
+[POR02]
+You are the biggest fibber
+i have ever met![END]
+
+=== bc | 16214 | 74 ===
+<Hick> nooobudy baleeves me
+'bout seein' tha masked man
+goooin' toward taben's peek,[BRK]
+
+buuud thad's whut i saw!
+<Hick>[END]
+
+=== bd | 16296 | 6d ===
+[POR10]
+Are you certain? It's very
+important you remember![BRK]
+
+[POR00]
+Haaay laady! Thad's jus'
+what i saaw! <Hick> promiz![END]
+
+=== be | 1631a | 9f ===
+Wheee...<hick>! Tha masked
+man wuz goin' toward taben's
+peeeek! I <hick> promiz![BRK]
+
+[POR10]
+Oh dear! He's obviously
+toasted beyond coherence.
+He had to be dreaming...
+[END]
+
+=== bf | 163d0 | ab ===
+Haaayy! <Hick> knoow whad I
+jus' saw! It was a white
+kiddy cat wi' wings![BRK]
+
+Yaaaa! It <hick> wuz flyin'
+'round <hick> taben's peek![BRK]
+
+It freeked...<hick> freeked
+me oud, man!
+[END]
+
+=== c0 | 1648c | 74 ===
+[POR02]
+Is he talking about the one
+we saw, hiro?[BRK]
+
+[POR00]
+Ahhhh! Id's...<hick>...id's
+baack! An', an' id's red
+now! Ahhhhhhh!
+[END]
+
+=== c1 | 1651c | d9 ===
+Everybuddy says i <hick>...
+i'm jus' uh hopeless drunk,[BRK]
+
+bud' i god feelins jus' like
+<hick> anyone else. Ya need
+to hanndul me with care![BRK]
+
+[POR02]
+Whew! Don't worry! The way
+you smell, i wouldn't lay a
+finger on you anyway![END]
+
+=== c2 | 16604 | 155 ===
+Everybuddy...<hick>...says
+i'm jus' a worthless drunk
+who imaginns things.[BRK]
+
+Bud, i tell ya, i <hick> I
+saw what i saw! That cad
+was flyin'![BRK]
+
+An' tha crazy pard wuz thad
+it <hick> turned inta uh
+kid! Freeked me oud uhgin![BRK]
+
+[POR02]
+You know, that's one freaky
+trick i have yet to learn![BRK]
+
+I can't wait until i can
+freak out worthless bums all
+by myself![END]
+
+=== c3 | 1676c | c5 ===
+All the people in this town
+are nothing but idiots![BRK]
+
+Those bandits at taben's
+peak aren't children! [BRK]
+
+They're evil slaves of
+zophar![BRK]
+
+If you know what's good for
+you, you'll stay away from
+that place![END]
+
+=== c4 | 1683e | 3b ===
+[POR08]
+But...i don't think zophar
+is anywhere near the peak...
+[END]
+
+=== c5 | 16890 | 8f ===
+I'm tellin' ya, if you know
+what's good for ya, you'll
+stay away from taben's peak![BRK]
+
+The evil spirits there serve
+zophar. They can't be
+trusted![END]
+
+=== c6 | 16936 | 8c ===
+Listen up, kiddies! Long ago
+taben's peak was a fortress
+of a maniac named ghaleon.[BRK]
+
+I think the evil that now
+lurks there must be his
+ghost![END]
+
+=== c7 | 169d0 | 23 ===
+[POR08]
+...ghaleon!? How can that
+be...?[END]
+
+=== c8 | 16a0e | d6 ===
+Ghaleon has returned from
+the dead to wreak havoc on
+our time...i know it![BRK]
+
+[POR02]
+Oh, come on! You can't
+honestly believe that![BRK]
+
+But wait! Maybe he's the
+destroyer coming to battle
+with althena yet again![BRK]
+
+[POR01]
+....
+.....
+[END]
+
+=== c9 | 16af8 | 83 ===
+Dragonmaster ghaleon? Did
+you say dragonmaster?[BRK]
+
+That's the most foolish
+thing i think i've ever
+heard![BRK]
+
+[POR02]
+Shyeah! Tell me about it![END]
+
+=== ca | 16b8e | 49 ===
+I heard that the bandits of
+taben's peak were actually
+just poor orphans![END]
+
+=== cb | 16be8 | 94 ===
+[POR05]
+Poor? You mean p-o-o-r? I
+don't think so! Hahahaha![BRK]
+
+Those little punks are
+living like kings![BRK]
+
+Their place makes neverland
+ranch look like a dump![END]
+
+=== cc | 16c94 | 97 ===
+I've heard talk that the
+bandits of taben's peak have
+blocked the road to vane.[BRK]
+
+In fact, it's said they even
+steal children that stray
+near their base![END]
+
+=== cd | 16d38 | ca ===
+[POR07]
+Hey hey hey! This sounds
+like a mega-opportunity to
+these ears![BRK]
+
+If we rescue the kidnapped
+kiddies, i'm sure their
+parents will be overjoyed.[BRK]
+
+They'll bury us in mountains
+of cold, hard, reward cash!![END]
+
+=== ce | 16e1a | 70 ===
+Do you think the bandits are
+preying on attractive women?[BRK]
+
+I hope not! My whole family
+is cursed with good looks![END]
+
+=== cf | 16e9e | 81 ===
+I'm beginning to doubt that
+these stupid bandits even
+exist![BRK]
+
+I've walked near there
+plenty of times lately, and
+not seen a thing![END]
+
+=== d0 | 16f2e | 9c ===
+Ha! So the bandits were just
+little kids! That explains a
+lot![BRK]
+
+No wonder they didn't try to
+kidnap me![BRK]
+
+They're too immature to
+appreciate my womanly
+charms![END]
+
+=== d1 | 16fda | f1 ===
+Master lunn, one of the four
+heroes of althena, is a very
+powerful man, but...[BRK]
+
+I heard there is another
+named dragonmaster that is
+even stronger![BRK]
+
+I've heard that this
+'dragonmaster' is a member
+of althena's cult![BRK]
+
+Hmm...maybe i should join...[END]
+
+=== d2 | 170de | 74 ===
+What?! The legendary
+masterworker of evil
+named ghaleon has returned?[BRK]
+
+But...tell me he fights for
+good now...please?[END]
+
+=== d3 | 17164 | 38 ===
+[POR02]
+I'm not so sure of that...
+be afraid. Be very afraid.[END]
+
+=== d4 | 171b0 | 6c ===
+Master ghaleon...yes, i am
+planning to visit his grave
+at vane.[BRK]
+
+I just wish he had stayed
+with us this time.[END]
+
+=== d5 | 17234 | 87 ===
+Ohhhh...master ghaleon...too
+bad he couldn't stay. He was
+just soooo handsome![BRK]
+
+Whoo! Call me overheated and
+throw me in some icy water![END]
+
+=== d6 | 172ca | a6 ===
+You know, i didn't know that
+being a karate master was
+such hard work,[BRK]
+
+but daaammn! That lunn rode
+my butt night and day![BRK]
+
+I finally said 'forget it!'
+And dropped out![END]
+
+=== d7 | 17388 | 9c ===
+I knew in my heart i wasn't
+cut out for karate, but I
+had to give it a shot.[BRK]
+
+The chicks back in my home
+town dig a guy that can bust
+bricks with his tongue.[END]
+
+=== d8 | 17432 | 73 ===
+[POR07]
+Who wouldn't?! You mean to
+say that lunn can actually
+do that???!![BRK]
+
+Tell me...um, is he seeing
+anyone right now?
+[END]
+
+=== d9 | 174c0 | 56 ===
+My life is a total wreck now
+that i've dropped out of
+lunn's dojo![BRK]
+
+What am i gonna do?[END]
+
+=== da | 17526 | 13b ===
+I can't show up back home
+and admit that i didn't have
+the stuff to stick it out![BRK]
+
+Everyone would just laugh
+at me again![BRK]
+
+Oh yeah...i forgot to
+mention...this has happened
+before...[BRK]
+
+Last time, i went away to
+become a chippendale's
+dancer,[BRK]
+
+but they said i was too fat
+and sent me home![BRK]
+
+It was just plain
+humiliating!
+[END]
+
+=== db | 1766e | 65 ===
+[POR02]
+Well, you are kinda fat...[BRK]
+
+I mean, who wants to stuff
+money in the sticky rolls of
+a fatso dancer![END]
+
+=== dc | 176dc | e ===
+Meribia tavern[END]
+
+=== dd | 17dfa | 2e ===
+Hello there! How can i be
+of assistance today?[END]
+
+=== de | 17e32 | f ===
+Thanks! See ya![END]
+
+=== df | 17e46 | 11 ===
+Meribia item shop[END]
+
+=== e0 | 18510 | 46 ===
+Welcome to the best weapon
+shop on the continent! How
+may i serve you?[END]
+
+=== e1 | 18560 | 11 ===
+Well then, ta-ta![END]
+
+=== e2 | 18576 | 13 ===
+Meribia weapon shop[END]
+
+=== e3 | 18c3a | 48 ===
+So glad you decided to come
+to my shop today. What did
+you have in mind?[END]
+
+=== e4 | 18c8c | 67 ===
+Thank you, thank you! It
+was a pleasure serving you!
+Do come again![BRK]
+
+And again, and again, and
+again...
+[END]
+
+=== e5 | 18cf8 | 12 ===
+Meribia armor shop[END]
+
+=== e6 | 193ba | 127 ===
+Hey! What are you doing in
+here? We don't want any of
+whatever you're selling![BRK]
+
+...oh! You're not a sales-
+man? Well then, why didn't
+you knock first? Really!!![BRK]
+
+You know, the bigger this
+town gets, the more nutcases
+like you come around!!![BRK]
+
+Get out of my house! That's
+right...shooo! Shooo, i say![END]
+
+=== e7 | 194f8 | 169 ===
+Excuse me, but didn't i tell
+you people to get out of my
+house and not come back?[BRK]
+
+Honestly! What is this town
+coming to?![BRK]
+
+[POR07]
+I'm very sorry we
+inconvenienced you, ma'am.
+I'll tell you what![BRK]
+
+Just for that, i'll give you
+a great discount on a
+genuine vane magic broom![BRK]
+
+Does nagging housework in
+half the time![BRK]
+
+The prototype was featured
+in a major motion picture![END]
+
+=== e8 | 19674 | 7f ===
+That 'ramus' fellow started
+a new department for his
+store.[BRK]
+
+It's a real-estate division
+that my husband is helping
+get started.[END]
+
+=== e9 | 19706 | 84 ===
+My husband is so busy
+working for that bratty
+ramus kid...[BRK]
+
+That he seems to never be
+around the house![BRK]
+
+I wish he'd find another
+job![END]
+
+=== ea | 1979a | bf ===
+I'm beginning to think that
+my husband's long nights...[BRK]
+
+Have more to do with that
+sexy new girl in his office
+than with work![BRK]
+
+If i find her flirting with
+him, i'll have her lips for
+dinner!!![END]
+
+=== eb | 1985e | f ===
+Meribia house 1[END]
+
+=== ec | 19ee8 | 79 ===
+People are flocking to this
+town because of the port
+and master lunn's dojo![BRK]
+
+We need to find a way to
+control the growth![END]
+
+=== ed | 19f78 | 11f ===
+Say, you look like you're
+worn from travel. Are you
+tired and hungry?[BRK]
+
+What do you say? Shall I
+make you a molded tuna-eye
+sandwich for the road?[BRK]
+
+My husband finds it quite
+invigorating! I'd love to
+fix you one...[BRK]
+
+[POR02]
+Uh, hehe, no thanks. That
+sounds worse than grandpa
+gwyn's garbage stew![END]
+
+=== ee | 1a0aa | 9b ===
+Ramus' new haunted tunnels
+attraction is pulling in
+people from all over![BRK]
+
+I hope the city zoning board
+makes him pay for improve-
+ments to handle the load![END]
+
+=== ef | 1a154 | 7e ===
+Even though master lunn is
+not there, his dojo is
+growing more popular daily![BRK]
+
+I wonder why people still
+want to learn his way?[END]
+
+=== f0 | 1a1e6 | 82 ===
+Lunn is one of the four
+heroes of althena's cult![BRK]
+
+He's now decided to take an
+active part in the cult's
+agenda![BRK]
+
+I don't like it...[END]
+
+=== f1 | 1a280 | ac ===
+Lunn decided not to allow
+the construction of a shrine
+for the althena cult here.[BRK]
+
+He wanted all the power and
+glory for himself, i think.[BRK]
+
+That man is evil! I can feel
+it...[END]
+
+=== f2 | 1a340 | 61 ===
+Ramus' new ride is really
+scary! I almost didn't make
+it back alive![BRK]
+
+It's going to be a huge hit![END]
+
+=== f3 | 1a3b0 | 96 ===
+Now that lunn has left
+meribia, i feel much better
+about the town in general.[BRK]
+
+I just don't get that
+creeping, icky feeling i got
+when he was around...[END]
+
+=== f4 | 1a44c | f ===
+Meribia house 2[END]
+
+=== f5 | 1ab10 | 70 ===
+Master lunn has made meribia
+safe for old farts like me.[BRK]
+
+Before he came, this place
+was goin' to pot, i tell ya![END]
+
+=== f6 | 1ab98 | 9e ===
+I was thinkin' 'bout goin'
+to sign up at master lunn's
+dojo. Whadaya think, kiddo?[BRK]
+
+Is there enough kick left in
+these bones to be a blue
+dragon karate master?[END]
+
+=== f7 | 1ac46 | bd ===
+Well, i went and signed up
+for lessons at master lunn's
+dojo, by crackee![BRK]
+
+Trouble was...[BRK]
+
+...my incontinence wraps
+kept gettin' in the way of
+my kicks.[BRK]
+
+They finally told me just
+to leave...
+[END]
+
+=== f8 | 1ad10 | 118 ===
+[POR10]
+Oh, that's so sad...and
+there's no excuse for it![BRK]
+
+My grandma's wraps didn't
+get in her way when she
+danced![BRK]
+
+She was one of the best in
+the troupe...despite her
+problem...[BRK]
+
+....
+.....[BRK]
+
+And the occasional smell...[BRK]
+
+....
+.....[BRK]
+
+...hmm, come to think of it,
+maybe it's better this way.[END]
+
+=== f9 | 1ae40 | b5 ===
+Meribia has been a very
+prosperous town under lunn's
+watchful eye.[BRK]
+
+In fact, this town has
+almost always been
+successful.[BRK]
+
+I think it has something to
+do with its geographic
+location.[END]
+
+=== fa | 1af10 | 8b ===
+My foolish imp of a husband
+has the idiotic idea that he
+wants to be a karate master![BRK]
+
+Honestly! I don't know
+what's gotten into him
+lately![END]
+
+=== fb | 1afae | a1 ===
+I think my husband is
+setting himself up for
+a big disappointment...[BRK]
+
+His movements are simply
+too unpredictable![BRK]
+
+One high kick and he could
+mess the whole joint![END]
+
+=== fc | 1b05e | 83 ===
+Ever since my husband went
+and got kicked out of master
+lunn's dojo,[BRK]
+
+he's been doing nothing but
+sulking! I can't stand it
+anymore![END]
+
+=== fd | 1b0ee | 4d ===
+[POR10]
+Hmm...maybe i can cheer him
+up! I'll tell him some of my
+karate stories...[END]
+
+=== fe | 1b140 | f ===
+Meribia house 3[END]
+
+=== ff | 1b80a | a3 ===
+Meribia has turned from a
+big commercial center to a
+center of karate knowledge.[BRK]
+
+It's fine with me, though.
+There's still enough variety
+to make this a great town![END]
+
+=== 100 | 1b8c4 | 41 ===
+Have you been to ramus'
+store? You have to visit!
+It's wonderful![END]
+
+=== 101 | 1b918 | 74 ===
+Have you been in ramus'
+newest attraction yet?[BRK]
+
+The rush of the tunnels of
+carnage is incredible! You
+have to try it![END]
+
+=== 102 | 1b99c | 78 ===
+The thing i like best about
+the tunnels of carnage is
+that it's all so real![BRK]
+
+And even better, it's
+different every time![END]
+
+=== 103 | 1ba22 | 62 ===
+[POR07]
+Hmmm...maybe we can copy it
+and open a mega-better one
+in vane![BRK]
+
+That should pull in the
+crowds![END]
+
+=== 104 | 1ba98 | e8 ===
+When i was a child, ramus'
+store was much larger than
+it is now.[BRK]
+
+Back then, the owner was
+a guy named grant. He ruined
+the place's reputation.[BRK]
+
+His son, ramus the 6th, is
+trying to salvage the family
+business.[BRK]
+
+I'm pullin' for him...
+[END]
+
+=== 105 | 1bb98 | 3f ===
+I still am not sure that
+ramus has the skill to save
+the store.[END]
+
+=== 106 | 1bbea | 8f ===
+This new ramus kid is full
+of new ideas. He may pull
+off saving the store![BRK]
+
+I hope for the town's sake
+that he does. We need a
+place like his...[END]
+
+=== 107 | 1bc88 | 10d ===
+I tried ramus' new ride.[BRK]
+
+What's the big deal?! It's
+just the sewers, for god's
+sake![BRK]
+
+He just is letting people
+walk around in the stinky
+town sewers![BRK]
+
+They've been there forever!
+What's so exciting about
+that?[BRK]
+
+Really! P.T. Barnum junior
+is what that kid is![BRK]
+
+Sheesshh...
+[END]
+
+=== 108 | 1bd9a | f ===
+Meribia house 4[END]
+
+=== 109 | 1c44a | cc ===
+So you've come to learn from
+the best, have ya?[BRK]
+
+This is master lunn's dojo. 
+He's upstairs tending to 
+important business.[BRK]
+
+If you've come to sign up
+for lessons, i don't think
+he's accepting new students.[END]
+
+=== 10a | 1c52a | 84 ===
+Taben's peak? Well, it's to
+the east of meribia...[BRK]
+
+But if i were you, i'd stay
+away from that place. The 
+bandits take no prisoners.[END]
+
+=== 10b | 1c5c2 | 73 ===
+Lunn built this dojo to 
+encourage people to study 
+the martial arts.[BRK]
+
+Some say he's the best 
+teacher in the world.[END]
+
+=== 10c | 1c648 | bb ===
+Master lunn isn't in meribia
+at the moment.[BRK]
+
+He was summoned to the holy 
+city pentagulia by the 
+goddess.[BRK]
+
+There must be trouble in the
+world if she's requested 
+lunn to come and help her.[END]
+
+=== 10d | 1c716 | 43 ===
+Master lunn is not in at 
+this time. May i take a 
+message for him?[END]
+
+=== 10e | 1c768 | 86 ===
+I'm sorry, but master lunn
+still hasn't returned to
+meribia.[BRK]
+
+He's probably off saving the
+world from evil.  Lunn is 
+just a great guy![END]
+
+=== 10f | 1c7fe | b9 ===
+It seems that the bandits of
+taben's peak have blocked 
+the path leading to vane.[BRK]
+
+But they're afraid of
+master lunn.[BRK]
+
+I think he's going to go 
+there and put an end to 
+their rebellion.
+[END]
+
+=== 110 | 1c8ca | 8b ===
+Master lunn has made sure
+that the peace in this 
+district is maintained.[BRK]
+
+He's even had to crack a few
+skulls to get his peace plan
+across![END]
+
+=== 111 | 1c964 | b6 ===
+I've heard the bandits of
+taben's peak have enlisted
+children to fight for them.[BRK]
+
+What kind of sick person 
+would cause children to 
+fight in a war??[BRK]
+
+[POR02]
+Evidently, a really sick 
+one![END]
+
+=== 112 | 1ca2e | a6 ===
+Some say lunn was born to 
+fight...[BRK]
+
+Others say it's because he
+got tired of being beaten
+up when he was a kid.[BRK]
+
+I think lunn just likes to
+beat the crap out of people![END]
+
+=== 113 | 1caec | 86 ===
+I'm training so that i can
+go with lunn to taben's
+peak.[BRK]
+
+I just want to go with him
+and watch him beat the 
+snot out of those bandits.[END]
+
+=== 114 | 1cb8a | 94 ===
+I think it's going to be so
+fun to watch lunn fight in
+actual combat.[BRK]
+
+I can just see him pounding 
+on those bandits, beating
+them into the ground...[END]
+
+=== 115 | 1cc3a | 45 ===
+I don't know why lunn takes
+such delight in beating up
+us new guys...[END]
+
+=== 116 | 1cc92 | 6d ===
+I think master lunn is way
+too busy to train all of us.[BRK]
+
+His business for the goddess
+keeps him really busy...[END]
+
+=== 117 | 1cd0e | 95 ===
+Many people think that lunn
+should be given the title
+of 'holy karate master'...[BRK]
+
+I don't know if lunn would
+accept such a self-serving
+title as that.[END]
+
+=== 118 | 1cdb0 | 1f ===
+[POR10]
+Somehow, i think he
+would...[END]
+
+=== 119 | 1cde2 | a6 ===
+I heard a nasty little rumor
+that master lunn isn't going
+to continue to train us...[BRK]
+
+If master lunn doesn't want
+to train us, then i don't 
+know what i'm going to do.[END]
+
+=== 11a | 1cea0 | 80 ===
+I'm thinking about quitting
+this whole karate thing...[BRK]
+
+It's been kind of boring 
+since they started the new
+safer-kinder karate.[END]
+
+=== 11b | 1cf34 | 7f ===
+My dad says he remembers 
+when you could just beat
+the crap out of people.[BRK]
+
+He said that's the best kind
+of karate in the world![END]
+
+=== 11c | 1cfc6 | 7e ===
+People say that you should
+learn karate for self-
+defense...[BRK]
+
+Then why is it that we spend
+so much time on offensive
+maneuvers?[END]
+
+=== 11d | 1d05c | 114 ===
+I've heard all about you,
+jean, but i thought it was
+just a rumor...[BRK]
+
+Since master lunn isn't due
+back for awhile, do you 
+think you could train us?[BRK]
+
+[POR10]
+I'm sorry, but i just don't
+believe in teaching people
+how to fight...[BRK]
+
+I only fight because i have
+to, not because i want to.[END]
+
+=== 11e | 1d18c | bd ===
+Sure you only fight because
+you have to...[BRK]
+
+That's why your skills are 
+nearly perfected! I don't
+think so.[BRK]
+
+You don't want to teach me
+because you're afraid that
+i'll become better than you.[END]
+
+=== 11f | 1d25c | 96 ===
+Please don't disturb any of
+the fighters. They're in the
+middle of a special session.[BRK]
+
+It's designed to prepare
+them for the special karate
+tournament.[END]
+
+=== 120 | 1d300 | 3b ===
+[POR10]
+Horam!?
+That town has nothing but
+bad memories for me...[END]
+
+=== 121 | 1d352 | 81 ===
+We've never lost a match
+since master lunn started
+training us.[BRK]
+
+Every victory we win is a
+testament to his great
+teaching skills.[END]
+
+=== 122 | 1d3e6 | 9f ===
+Lunn travels all over the
+place...[BRK]
+
+He goes to pentagulia to
+meet with the goddess,[BRK]
+
+then he goes to horam to 
+check on that city, and then
+back here to meribia.[END]
+
+=== 123 | 1d494 | 73 ===
+Lunn left me in charge of
+their training.[BRK]
+
+I have to make sure that
+these guys practice at least
+18 hours every day.[END]
+
+=== 124 | 1d514 | 1c ===
+[POR10]
+That seems so inhumane...[END]
+
+=== 125 | 1d544 | 46 ===
+Get lost!! Don't you know
+we're trying to practice
+for the tournament.[END]
+
+=== 126 | 1d5a2 | 33 ===
+Get lost!! I don't have time
+to chit-chat with you![END]
+
+=== 127 | 1d5e4 | 67 ===
+Please leave us alone!
+We're right in the middle
+of our practice.[BRK]
+
+Haaaaay-yaaaaa!
+Haaaaaaay-yaaaaaaa!!![END]
+
+=== 128 | 1d65e | 59 ===
+I told you, i'm not going to
+be so easy on you today![BRK]
+
+Your beating is going to be
+severe![END]
+
+=== 129 | 1d6ca | 2d ===
+All right, fat boy, show me
+what you can do.
+[END]
+
+=== 12a | 1d70a | 51 ===
+Missed me, punky-chops! Guess
+it's kinda hard for you to
+move with all that fat.
+[END]
+
+=== 12b | 1d76e | c5 ===
+I can't believe i'm creamin'
+this guy! He's such a waste
+of my skills![BRK]
+
+[POR10]
+Your practice shouldn't be 
+filled with actual fighting![BRK]
+
+You should want to help the
+weaker learn how to be more
+effective![END]
+
+=== 12c | 1d846 | 27 ===
+Don't talk to me while i'm
+practicing!![END]
+
+=== 12d | 1d884 | 49 ===
+Dammit! You just broke my
+concentration! I'm going
+to get you thrown out![END]
+
+=== 12e | 1d8dc | 87 ===
+Didn't you hear me the first
+time?! I said, 'don't talk
+to me while i practice!'[BRK]
+
+Geez. Remember that next 
+time you want to talk to
+me![END]
+
+=== 12f | 1d976 | 55 ===
+Haaaaaaayy-yaaaaaaa![BRK]
+
+Kinda makes you scared 
+hearing me scream like that,
+doesn't it?[END]
+
+=== 130 | 1d9e2 | 85 ===
+I figure if i work on my
+screams, i'll deafen the
+competition![BRK]
+
+They won't be able to hear
+anything, which will get
+them disqualified.[END]
+
+=== 131 | 1da76 | 51 ===
+I've begun to work with a
+voice coach! Listen to this![BRK]
+
+Haaaaaaaay-yaaaaaaaa!!!!!![END]
+
+=== 132 | 1dada | 8c ===
+Some say that blue dragon
+karate is the best karate
+in the world...[BRK]
+
+They say that the one who
+uses blue dragon karate can
+never be defeated.[END]
+
+=== 133 | 1db74 | 6b ===
+[POR10]
+That is true. Blue dragon
+karate is also the most 
+deadly...[BRK]
+
+For you can never let your
+opponent live...[END]
+
+=== 134 | 1dbf6 | 87 ===
+Lunn is going to make sure
+that we are all prepared
+for the competition...[BRK]
+
+He's increased our training
+sessions to 18 hours 
+every day.[END]
+
+=== 135 | 1dc90 | 44 ===
+Master lunn says that the
+more we practice, the better
+we'll become.[END]
+
+=== 136 | 1dce4 | 7e ===
+With all this practice, i 
+don't even get to see my
+wife...[BRK]
+
+I'm going to request that
+master lunn let us have
+conjugal visits![END]
+
+=== 137 | 1dd68 | e ===
+Lunn's dojo 1f[END]
+
+=== 138 | 1e880 | 539 ===
+[POR10]
+Master lunn, my name is 
+jean. I, too, am fluid in
+the way of the blue dragon.[BRK]
+
+But i was also taught the
+black karate of death...[BRK]
+
+I'm sure you're aware that
+this type of karate was used
+for assassination.[BRK]
+
+[POR16]
+Black karate of death?!
+Assassination!?[BRK]
+
+I've never heard anything 
+like this before...[BRK]
+
+[POR10]
+I know. For the person who
+created this karate remains
+a mystery to me.[BRK]
+
+He is a coward that hides
+behind a mask so that no one
+may learn his true identity.[BRK]
+
+A long time ago i was
+enslaved to his wicked
+group, but i escaped...[BRK]
+
+He calls his devilish sect
+the blue dragon cult,[BRK]
+
+but his teachings are far
+removed from the light of
+the blue dragon.[BRK]
+
+He must be stopped.[BRK]
+
+[POR16]
+Jean, thank you for bringing
+this matter to my attention.[BRK]
+
+I cannot forgive anyone that
+would train another in the
+ways of such evil.[BRK]
+
+I will find this masked man
+and put an end to his reign
+of terror![BRK]
+
+It is rumored that the blue
+dragon cult is located near
+taben's peak...[BRK]
+
+I believe that these may be
+the same 'bandits' that are
+attacking people there.[BRK]
+
+Jean, i would like to make
+a request of you...[BRK]
+
+Go to taben's peak and
+search for a link between
+the bandits and this 'cult.'[BRK]
+
+Once you find their hideout,
+i will lead an attack on it.[BRK]
+
+Know this: i will bring
+them to justice.[BRK]
+
+One way or another...[BRK]
+
+[POR10]
+I will do all that you have
+requested of me! Thank you,
+master lunn.
+[END]
+
+=== 139 | 1edd4 | 217 ===
+[POR16]
+Jean, you do not dress like
+someone who practices 
+karate.[BRK]
+
+[POR10]
+After i escaped from the
+blue dragon cult, i swore
+never to use karate...[BRK]
+
+I'm still torn as to the
+path i should take, however.[BRK]
+
+[POR16]
+You must realize that karate
+is not evil. Only the weak
+use karate in evil ways.[BRK]
+
+There is nothing wrong with
+you using karate as long as
+you use it correctly.[BRK]
+
+Jean...come--train under
+my watchful eye...[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+Please, i need time to think
+about your offer...[BRK]
+
+But for now i'm going to go
+to taben's peak to find this
+masked terror!
+
+[END]
+
+=== 13a | 1f006 | eb ===
+[POR16]
+Have you finally decided if
+you're going to accept my 
+offer and train with me?[BRK]
+
+[POR10]
+Lunn, i still need time to 
+think about it...[BRK]
+
+I don't know if i want to
+devote my life to fighting,[BRK]
+
+when dance gives me the
+power to be truly free...[END]
+
+=== 13b | 1f100 | 65 ===
+Lunn is well respected
+by everyone in meribia.[BRK]
+
+He has worked hard to make
+this city a peaceful haven.[END]
+
+=== 13c | 1f178 | ce ===
+I've worked so closely with
+master lunn during the last
+few years...[BRK]
+
+That i have devoted myself
+to continue in his 
+footsteps.[BRK]
+
+I hope that master lunn will
+pick me to join him in any
+of his future missions.[END]
+
+=== 13d | 1f25a | 5c ===
+I'm still practicing my
+karate...[BRK]
+
+But master lunn said that I
+need to exercise my brain
+too.[END]
+
+=== 13e | 1f2c6 | 85 ===
+I've decided that the really
+powerful people have great
+minds.[BRK]
+
+I've decided that i'm going
+to train my mind before I
+work on my body.[END]
+
+=== 13f | 1f358 | 6c ===
+[POR02]
+From my vantage point, i 
+think you should invest
+some time in that body.[BRK]
+
+Perhaps 'deal a meal'
+can help?[END]
+
+=== 140 | 1f3d8 | 84 ===
+Some say that master lunn is
+as strong as lord leo.[BRK]
+
+I think that if they ever 
+fought, we'd have one hell
+of a pay-per-view special.[END]
+
+=== 141 | 1f474 | 53 ===
+I would like to be lunn's
+fight promoter.[BRK]
+
+I would become filthy rich
+promoting him.[END]
+
+=== 142 | 1f4e2 | 5f ===
+I'm tired of promoting these
+little guys.[BRK]
+
+It's a waste of time and
+there's no money to be
+made.[END]
+
+=== 143 | 1f550 | 7b ===
+I tell ya, you only get
+one chance at fame![BRK]
+
+Too bad some try to stay
+in the spotlight long after
+their welcome is worn out.[END]
+
+=== 144 | 1f5de | 8e ===
+I can't believe that master
+lunn is able to do all his
+work for the goddess...[BRK]
+
+...and still have time to
+train us all in the ways of
+karate.
+
+[END]
+
+=== 145 | 1f684 | 34 ===
+I'm trying to be a great
+master of karate like lunn.[END]
+
+=== 146 | 1f6d0 | 51 ===
+You should've seen me last
+night! I really kicked the
+stuffing out of this guy...[END]
+
+=== 147 | 1f73c | 50 ===
+The tournament in horam is
+coming up in the next few
+weeks. I've gotta practice.[END]
+
+=== 148 | 1f79c | 95 ===
+I really want to go to 
+lunch, but the new guy won't
+be here for another hour...[BRK]
+
+I'm going to talk to my boss
+and see if i can work the 
+night shift.[END]
+
+=== 149 | 1f844 | 91 ===
+I really hate studying about
+the four heroes in school...[BRK]
+
+History-schmistery...it's
+all just boring crap about
+old farts![BRK]
+
+Who needs to know that?[END]
+
+=== 14a | 1f8ec | 7e ===
+We just started learning 
+about dragonmaster alex and
+his companions...[BRK]
+
+I'm starting to warm up to
+this whole history thing...[END]
+
+=== 14b | 1f982 | cc ===
+I learned that dragonmaster
+alex was just a kid like me,[BRK]
+
+but he was chosen by the
+white dragon to become the
+next dragonmaster...[BRK]
+
+...and save our world from
+evil. Whooo...dragonmasters
+seem soooo cool..
+
+[END]
+
+=== 14c | 1fa5c | 3a ===
+[POR10]
+I wonder what ever became 
+of the last dragonmaster...?[END]
+
+=== 14d | 1fab2 | 43 ===
+Some say that there's a
+new dragonmaster that
+protects the goddess.[END]
+
+=== 14e | 1fb08 | ce ===
+History is really starting
+to become boring again...[BRK]
+
+We've started learning about
+the stupid blue star and how
+our ancestors came here...[BRK]
+
+I'd rather be studying about
+the four dragons and the
+dragonmasters.[END]
+
+=== 14f | 1fbe6 | 69 ===
+Master lunn said i should
+study harder in school...[BRK]
+
+He's starting to sound just
+like my stupid parents...[END]
+
+=== 150 | 1fc5e | 84 ===
+Master lunn is in his 
+private chambers right now.[BRK]
+
+He is listening to all of 
+our problems. If you've got
+a problem, go talk to him.[END]
+
+=== 151 | 1fcfa | d1 ===
+Master lunn's karate draws
+on the teachings of several
+different styles.[BRK]
+
+He's trying to develop the
+most powerful karate ever
+known to man.[BRK]
+
+Don't let his quest for 
+power fool ya. He's really 
+got a big heart.[END]
+
+=== 152 | 1fde6 | 7c ===
+Last time i checked, lunn
+was in there, but then
+again,[BRK]
+
+he has been known to sneak
+outta here quietly, if ya
+get my drift...[END]
+
+=== 153 | 1fe72 | 74 ===
+Lunn has taken over the 
+town of horam.[BRK]
+
+That's the town where only
+the most dedicated students
+go to study karate...[END]
+
+=== 154 | 1fefe | a5 ===
+Lunn won't be back for a
+long time.[BRK]
+
+The goddess althena made a
+request that he go to 
+pentagulia...[BRK]
+
+I'm sure he won't be back
+until he's solved that 
+little problem.[END]
+
+=== 155 | 1ffbe | 8b ===
+If something is troubling
+you, my child, you can
+discuss it with me.[BRK]
+
+Don't worry. As a priest,
+i cannot tell anyone what
+you've told me.
+
+
+[END]
+
+=== 156 | 20058 | 7d ===
+The goddess althena taught
+us that humans have true
+power...[BRK]
+
+...and that power can be
+used to overcome almost any
+obstacle...[END]
+
+=== 157 | 200da | e ===
+Lunn's dojo 2f[END]
+
+=== 158 | 20cb4 | 539 ===
+[POR10]
+Master lunn, my name is 
+jean. I, too, am fluid in
+the way of the blue dragon.[BRK]
+
+But i was also taught the
+black karate of death...[BRK]
+
+I'm sure you're aware that
+this type of karate was used
+for assassination.[BRK]
+
+[POR16]
+Black karate of death?!
+Assassination!?[BRK]
+
+I've never heard anything 
+like this before...[BRK]
+
+[POR10]
+I know. For the person who
+created this karate remains
+a mystery to me.[BRK]
+
+He is a coward that hides
+behind a mask so that no one
+may learn his true identity.[BRK]
+
+A long time ago i was
+enslaved to his wicked
+group, but i escaped...[BRK]
+
+He calls his devilish sect
+the blue dragon cult,[BRK]
+
+but his teachings are far
+removed from the light of
+the blue dragon.[BRK]
+
+He must be stopped.[BRK]
+
+[POR16]
+Jean, thank you for bringing
+this matter to my attention.[BRK]
+
+I cannot forgive anyone that
+would train another in the
+ways of such evil.[BRK]
+
+I will find this masked man
+and put an end to his reign
+of terror![BRK]
+
+It is rumored that the blue
+dragon cult is located near
+taben's peak...[BRK]
+
+I believe that these may be
+the same 'bandits' that are
+attacking people there.[BRK]
+
+Jean, i would like to make
+a request of you...[BRK]
+
+Go to taben's peak and
+search for a link between
+the bandits and this 'cult.'[BRK]
+
+Once you find their hideout,
+i will lead an attack on it.[BRK]
+
+Know this: i will bring
+them to justice.[BRK]
+
+One way or another...[BRK]
+
+[POR10]
+I will do all that you have
+requested of me! Thank you,
+master lunn.
+[END]
+
+=== 159 | 21208 | 217 ===
+[POR16]
+Jean, you do not dress like
+someone who practices 
+karate.[BRK]
+
+[POR10]
+After i escaped from the
+blue dragon cult, i swore
+never to use karate...[BRK]
+
+I'm still torn as to the
+path i should take, however.[BRK]
+
+[POR16]
+You must realize that karate
+is not evil. Only the weak
+use karate in evil ways.[BRK]
+
+There is nothing wrong with
+you using karate as long as
+you use it correctly.[BRK]
+
+Jean...come--train under
+my watchful eye...[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+Please, i need time to think
+about your offer...[BRK]
+
+But for now i'm going to go
+to taben's peak to find this
+masked terror!
+
+[END]
+
+=== 15a | 2143a | eb ===
+[POR16]
+Have you finally decided if
+you're going to accept my 
+offer and train with me?[BRK]
+
+[POR10]
+Lunn, i still need time to 
+think about it...[BRK]
+
+I don't know if i want to
+devote my life to fighting,[BRK]
+
+when dance gives me the
+power to be truly free...[END]
+
+=== 15b | 21534 | 65 ===
+Lunn is well respected
+by everyone in meribia.[BRK]
+
+He has worked hard to make
+this city a peaceful haven.[END]
+
+=== 15c | 215ac | ce ===
+I've worked so closely with
+master lunn during the last
+few years...[BRK]
+
+That i have devoted myself
+to continue in his 
+footsteps.[BRK]
+
+I hope that master lunn will
+pick me to join him in any
+of his future missions.[END]
+
+=== 15d | 2168e | 5c ===
+I'm still practicing my
+karate...[BRK]
+
+But master lunn said that I
+need to exercise my brain
+too.[END]
+
+=== 15e | 216fa | 85 ===
+I've decided that the really
+powerful people have great
+minds.[BRK]
+
+I've decided that i'm going
+to train my mind before I
+work on my body.[END]
+
+=== 15f | 2178c | 6c ===
+[POR02]
+From my vantage point, i 
+think you should invest
+some time in that body.[BRK]
+
+Perhaps 'deal a meal'
+can help?[END]
+
+=== 160 | 2180c | 84 ===
+Some say that master lunn is
+as strong as lord leo.[BRK]
+
+I think that if they ever 
+fought, we'd have one hell
+of a pay-per-view special.[END]
+
+=== 161 | 218a8 | 53 ===
+I would like to be lunn's
+fight promoter.[BRK]
+
+I would become filthy rich
+promoting him.[END]
+
+=== 162 | 21916 | 5f ===
+I'm tired of promoting these
+little guys.[BRK]
+
+It's a waste of time and
+there's no money to be
+made.[END]
+
+=== 163 | 21984 | 7b ===
+I tell ya, you only get
+one chance at fame![BRK]
+
+Too bad some try to stay
+in the spotlight long after
+their welcome is worn out.[END]
+
+=== 164 | 21a12 | 8e ===
+I can't believe that master
+lunn is able to do all his
+work for the goddess...[BRK]
+
+...and still have time to
+train us all in the ways of
+karate.
+
+[END]
+
+=== 165 | 21ab8 | 34 ===
+I'm trying to be a great
+master of karate like lunn.[END]
+
+=== 166 | 21b04 | 51 ===
+You should've seen me last
+night! I really kicked the
+stuffing out of this guy...[END]
+
+=== 167 | 21b70 | 50 ===
+The tournament in horam is
+coming up in the next few
+weeks. I've gotta practice.[END]
+
+=== 168 | 21bd0 | 95 ===
+I really want to go to 
+lunch, but the new guy won't
+be here for another hour...[BRK]
+
+I'm going to talk to my boss
+and see if i can work the 
+night shift.[END]
+
+=== 169 | 21c78 | 91 ===
+I really hate studying about
+the four heroes in school...[BRK]
+
+History-schmistery...it's
+all just boring crap about
+old farts![BRK]
+
+Who needs to know that?[END]
+
+=== 16a | 21d20 | 7e ===
+We just started learning 
+about dragonmaster alex and
+his companions...[BRK]
+
+I'm starting to warm up to
+this whole history thing...[END]
+
+=== 16b | 21db6 | cc ===
+I learned that dragonmaster
+alex was just a kid like me,[BRK]
+
+but he was chosen by the
+white dragon to become the
+next dragonmaster...[BRK]
+
+...and save our world from
+evil. Whooo...dragonmasters
+seem soooo cool....[END]
+
+=== 16c | 21e90 | 3a ===
+[POR10]
+I wonder what ever became 
+of the last dragonmaster...?[END]
+
+=== 16d | 21ee6 | 43 ===
+Some say that there's a
+new dragonmaster that
+protects the goddess.[END]
+
+=== 16e | 21f3c | ce ===
+History is really starting
+to become boring again...[BRK]
+
+We've started learning about
+the stupid blue star and how
+our ancestors came here...[BRK]
+
+I'd rather be studying about
+the four dragons and the
+dragonmasters.[END]
+
+=== 16f | 2201a | 69 ===
+Master lunn said i should
+study harder in school...[BRK]
+
+He's starting to sound just
+like my stupid parents...[END]
+
+=== 170 | 22092 | 84 ===
+Master lunn is in his 
+private chambers right now.[BRK]
+
+He is listening to all of 
+our problems. If you've got
+a problem, go talk to him.[END]
+
+=== 171 | 2212e | d1 ===
+Master lunn's karate draws
+on the teachings of several
+different styles.[BRK]
+
+He's trying to develop the
+most powerful karate ever
+known to man.[BRK]
+
+Don't let his quest for 
+power fool ya. He's really 
+got a big heart.[END]
+
+=== 172 | 2221a | 7c ===
+Last time i checked, lunn
+was in there, but then
+again,[BRK]
+
+he has been known to sneak
+outta here quietly, if ya
+get my drift...[END]
+
+=== 173 | 222a6 | 74 ===
+Lunn has taken over the 
+town of horam.[BRK]
+
+That's the town where only
+the most dedicated students
+go to study karate...[END]
+
+=== 174 | 22332 | a5 ===
+Lunn won't be back for a
+long time.[BRK]
+
+The goddess althena made a
+request that he go to 
+pentagulia...[BRK]
+
+I'm sure he won't be back
+until he's solved that 
+little problem.[END]
+
+=== 175 | 223f2 | 8b ===
+If something is troubling 
+you, my child, you can
+discuss it with me.[BRK]
+
+Don't worry. As a priest,
+i cannot tell anyone what
+you've told me.
+
+[END]
+
+=== 176 | 2248c | 7d ===
+The goddess althena taught
+us that humans have true
+power...[BRK]
+
+...and that power can be
+used to overcome almost any
+obstacle...[END]
+
+=== 177 | 2250e | e ===
+Lunn's dojo 2f[END]
+

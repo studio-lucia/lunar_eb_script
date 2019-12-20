@@ -1,0 +1,43 @@
+File: M45.GRP
+
+Messages: 11
+
+=== 0 | 102f0 | 11 ===
+Zophar's tower 1f[END]
+
+=== 1 | 10e16 | 69 ===
+[POR08]
+Hi...ro....four sealed...
+...power....to open the
+....way...[BRK]
+
+...go away....too....
+......dangerous....[END]
+
+=== 2 | 10e84 | 11 ===
+Zophar's tower 3f[END]
+
+=== 3 | 11a02 | 11 ===
+Zophar's tower 5f[END]
+
+=== 4 | 12526 | 11 ===
+Zophar's tower 7f[END]
+
+=== 5 | 13082 | 11 ===
+Zophar's tower 9f[END]
+
+=== 6 | 13bb4 | 11 ===
+Zophar's tower 2f[END]
+
+=== 7 | 14260 | 11 ===
+Zophar's tower 4f[END]
+
+=== 8 | 14a78 | 11 ===
+Zophar's tower 6f[END]
+
+=== 9 | 15290 | 10 ===
+Zophar's keep 8f[END]
+
+=== a | 15aa8 | 14 ===
+Zophar's tower tubes[END]
+

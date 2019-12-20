@@ -1,0 +1,221 @@
+File: M18.GRP
+
+Messages: 22
+
+=== 0 | 1153a | 1a4 ===
+[POR07]
+Whoa! Mega-cool! The old
+thing actually works![BRK]
+
+You know, i don't think
+anyone has been down here
+for centuries![BRK]
+
+In the old days, this cave
+was used as a sort of magic
+skill 'final exam.'[BRK]
+
+It separated those that were
+worthy to join the guild
+from those that weren't.[BRK]
+
+Anyway...that's ancient
+history...we've got a job
+to do. Let's get moving.[BRK]
+
+But be careful! I don't
+know what kind of freaks
+lurk in this creepy joint!
+[END]
+
+=== 1 | 11700 | 5d ===
+[POR07]
+Hey, hiro![BRK]
+
+Any kind of treasures we
+find in here are mine![BRK]
+
+So keep your hands off
+of them![END]
+
+=== 2 | 11770 | b2 ===
+[POR02]
+Hiro, if i were you, I
+wouldn't open those chests
+without asking lemina first.[BRK]
+
+She seems to think that
+they're all property of
+vane...[BRK]
+
+And by extension...
+property of lemina.
+[END]
+
+=== 3 | 11834 | 10 ===
+Cave of trial 5f[END]
+
+=== 4 | 12c70 | 52 ===
+[POR07]
+Hiro! How dare you![BRK]
+
+These are obviously private
+jewel chests.[BRK]
+
+Leave them to me![END]
+
+=== 5 | 12cd6 | 36 ===
+[POR02]
+Hiro, i think we'd better
+leave the chests alone...[END]
+
+=== 6 | 12d1e | 10 ===
+Cave of trial b4[END]
+
+=== 7 | 140be | 7e ===
+[POR07]
+Hiro![BRK]
+
+These chests are ancient
+historical treasures![BRK]
+
+You have no right to take
+them! I thought you'd know
+better than that![END]
+
+=== 8 | 14150 | 58 ===
+[POR02]
+Um, it's probably better
+if we don't open this.[BRK]
+
+If we do, lemina might blow
+a gasket![END]
+
+=== 9 | 141ba | 10 ===
+Cave of trial b3[END]
+
+=== a | 15282 | 82 ===
+[POR07]
+Hiro! I would have never
+pegged you as a thief![BRK]
+
+But how else can i explain
+why you're trying to kipe
+vane's ancient treasures?![END]
+
+=== b | 15318 | 5a ===
+[POR02]
+Um, let's not rock the
+boat, hiro.[BRK]
+
+I think lemina's pretty
+attached to these treasures.[END]
+
+=== c | 15384 | 10 ===
+Cave of trial b2[END]
+
+=== d | 166ba | 6a ===
+[POR07]
+Hiro, if it wasn't for me
+you wouldn't even be here![BRK]
+
+So keep your grubby mitts
+off the treasures, okay?[END]
+
+=== e | 16738 | 6b ===
+[POR02]
+I think we better not touch
+anything in these chests![BRK]
+
+If we do, lemina just might
+have a conniption fit.[END]
+
+=== f | 167c2 | 9b ===
+[POR10]
+Master lunn, we must fight
+one more time.[BRK]
+
+It's the only way that i 
+can know if my skills are
+truly complete.[BRK]
+
+I must know before my
+battle with zophar!![END]
+
+=== 10 | 16878 | a7 ===
+[POR10]
+This will be my last time I
+use blue dragon karate.[BRK]
+
+Once we've defeated zophar,
+i will never again practice
+this deadly ancient art.[BRK]
+
+The knowledge will die with
+me.[END]
+
+=== 11 | 1693a | a3 ===
+[POR10]
+Lucia cannot die! We must
+all band together to save
+her from this fate![BRK]
+
+If she dies, our world is
+certain to perish also![BRK]
+
+We must find a way to
+overcome zophar![END]
+
+=== 12 | 169f4 | 117 ===
+[POR16]
+Practice hard, jean! Your
+power has surpassed mine,
+but zophar is stronger yet![BRK]
+
+Remember when you fight 
+him that the real enemy
+lies within yourself.[BRK]
+
+If you let your fear take 
+hold of you, you'll be 
+powerless to stop him.[BRK]
+
+Control your fear and your
+victory will be assured.[END]
+
+=== 13 | 16b26 | ca ===
+[POR16]
+Jean, once zophar is
+defeated, you must forget
+all that i have taught you.[BRK]
+
+Learn from my mistakes and
+pursue the true teachings of
+althena instead.[BRK]
+
+You must never again use the
+black karate of death.[END]
+
+=== 14 | 16c04 | fd ===
+[POR16]
+Jean...go now and complete
+your destiny.[BRK]
+
+Remember all that i have
+taught you and you will
+find success.[BRK]
+
+[POR10]
+Master lunn...i can never
+forgive what you did to
+me,[BRK]
+
+but your sincerity gives
+me hope for our future...[BRK]
+
+I will fight valiantly
+to preserve it![END]
+
+=== 15 | 16d06 | 10 ===
+Cave of trial b1[END]
+

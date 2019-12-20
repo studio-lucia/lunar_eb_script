@@ -1,0 +1,90 @@
+File: M4B.GRP
+
+Messages: 3
+
+=== 0 | f23e | 232 ===
+You will regret coming here
+for the rest of your lives.[BRK]
+
+....
+.....[BRK]
+
+Which should be about three
+minutes, by my count.[BRK]
+
+Ha ha ha ha ha ha ha![BRK]
+
+I see the foolish resolve in
+your blank stares...[BRK]
+
+You don't have any idea what
+you're up against, do you?[BRK]
+
+Let me lay it out for you
+in the simplest possible
+terms...[BRK]
+
+Now that i control althena's
+power, you are condemned to
+death.[BRK]
+
+But if you wish to amuse me
+with an embarrassingly weak
+assault,[BRK]
+
+that is your choice. It will
+not affect the outcome.[BRK]
+
+If that is your wish, step
+forth and taste the eternal
+sting of my kiss...
+[END]
+
+=== 1 | f47a | 1df ===
+[POR07]
+Wa...wait a minute.[BRK]
+
+I...i think we're still
+alive![BRK]
+
+D...did we defeat zophar?[BRK]
+
+[POR05]
+Yep! We laid the big kahuna
+to waste![BRK]
+
+I almost can't believe it
+myself![BRK]
+
+[POR02]
+Ha! What were we afraid of?
+He wasn't that hard![BRK]
+
+I mean, borgan was way
+tougher, don't you think?[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR10]
+I've got a bad feeling about
+this. It's almost as if he
+let us win...[BRK]
+
+We'd better keep on our
+guard until we get out of
+here...[BRK]
+
+[POR09]
+I agree. We mustn't let our
+guard down for an instant![BRK]
+
+[POR01]
+Wait! Listen...
+
+[END]
+
+=== 2 | f666 | 11 ===
+Zophar's coliseum[END]
+

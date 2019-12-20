@@ -1,0 +1,2627 @@
+File: M2F.GRP
+
+Messages: 206
+
+=== 0 | 18066 | 180 ===
+Heh heh heh....[BRK]
+
+The competition is about to
+begin. We've already sold 
+more tickets than expected.[BRK]
+
+In fact, we're sold out!! [BRK]
+
+Boy, this year looks like
+it's gonna be the bloodiest
+yet![BRK]
+
+If you don't have a good
+stomach, you'll be heavin'
+before the second round![BRK]
+
+[POR10]
+I think i have the stomach
+for it.[BRK]
+
+In fact, our team is in
+the competition this year![BRK]
+
+See?[BRK]
+
+[POR00]
+[0xB][0][0x5]Showed the invitation.[END]
+
+=== 1 | 181f0 | 125 ===
+Heh heh...you must be one
+crazy freak to enter this
+competition.[BRK]
+
+These guys play for keeps,
+and you don't look like the
+type to stop them.[BRK]
+
+The only trick you're gonna
+manage is to bleed all over
+the mat![BRK]
+
+Talk about an easy win![BRK]
+
+I gotta find out what kind
+of odds they're putting on
+your match![END]
+
+=== 2 | 18328 | 79 ===
+Hey! What are you kids
+doing in here?[BRK]
+
+This is a tournament for
+karate masters only![BRK]
+
+You know...invitation
+only![BRK]
+
+So scram![END]
+
+=== 3 | 183c8 | 69 ===
+I can't wait for the title
+match.[BRK]
+
+Last year there was so much
+blood spilled that the blood
+bank ran out! [END]
+
+=== 4 | 18444 | cf ===
+Heh, heh, heh...[BRK]
+
+I just love the color of
+blood. It's just sooo...
+...red![BRK]
+
+Just make sure that during
+your match you try to get
+in at least one face-crush![BRK]
+
+No one likes a boring match![BRK]
+
+Blood, blood, blood!
+
+[END]
+
+=== 5 | 1852a | 79 ===
+The competition is all over.[BRK]
+
+You know, it really wasn't
+that bloody this year.[BRK]
+
+Or maybe i'm getting
+desensitized to it...[END]
+
+=== 6 | 185b4 | 1c9 ===
+[POR02]
+You retard! If you like
+the sight of blood so much,[BRK]
+
+why don't you spill a little
+of your own?[BRK]
+
+[POR00]
+What a novel idea. I didn't
+even think of that!![BRK]
+
+<Whack> <slam> <bam> [BRK]
+
+Heh heh heh, i just gave
+myself a bloody nose![BRK]
+
+....
+.....[BRK]
+
+Look!......look at the
+blood! Wooowwww![BRK]
+
+[POR02]
+...whew! This guy needs some
+serious help![BRK]
+
+I'm thinking...[BRK]
+
+Sad-[BRK]
+
+Sad-o-[BRK]
+
+Sad-o-mas-[BRK]
+
+Sad-o-mas-o-[BRK]
+
+Sad-o-mas-o-chist...[BRK]
+
+Big time![BRK]
+
+Let's get out of here
+before he gets any new
+bloody ideas!
+[END]
+
+=== 7 | 18798 | 92 ===
+I've hit myself so many 
+times in the head that I
+have a headache.[BRK]
+
+But man! Can my head
+bleed![BRK]
+
+It was spewing like old
+faithful![BRK]
+
+Talk about cool!
+[END]
+
+=== 8 | 1883a | 69 ===
+I've seen so much of my
+blood during the last few
+minutes that...[BRK]
+
+...i...can't...keep...
+a...wa...ke....
+[END]
+
+=== 9 | 188a8 | 44 ===
+Check out my wares from
+all over the land![BRK]
+
+Lowest prices guaranteed![END]
+
+=== a | 188f6 | 3f ===
+Thanks! And remember, you
+won't find it anywhere
+else for less![END]
+
+=== b | 18944 | 118 ===
+The 1st level  match no. 1
+Gale karate
+            vs. Bunny karate[BRK]
+
+The 1st level  match no. 2
+Wolf karate
+            vs. Drunk karate[BRK]
+
+The 1st level  match no. 3
+Jean and party
+         vs. Assassin karate[BRK]
+
+The 1st level  match no. 4
+Armadillo karate 
+      vs. Blue dragon karate[END]
+
+=== c | 18a70 | 34 ===
+[0x5]Who won the first level? 
+List for the second level[END]
+
+=== d | 18ab4 | d1 ===
+The 1st level  match no. 1
+  Winner = bunny karate[BRK]
+
+The 1st level  match no. 2
+   Winner = wolf karate[BRK]
+
+The 1st level  match no. 3
+  Winner = jean and party[BRK]
+
+The 1st level  match no. 4
+Winner = blue dragon karate[END]
+
+=== e | 18b96 | 92 ===
+The 2nd level  match no. 1
+Blue dragon karate
+            vs. Bunny karate[BRK]
+
+The 2nd level  match no. 2
+Jean and party
+             vs. Wolf karate [END]
+
+=== f | 18c3c | 35 ===
+[0x5]Who won the second match?
+How about the final stage?[END]
+
+=== 10 | 18c80 | 6b ===
+The 2nd level  match no. 1
+Winner = blue dragon karate[BRK]
+
+The 2nd level  match no. 2
+  Winner = jean and party[END]
+
+=== 11 | 18cfc | 47 ===
+        The final match
+blue dragon karate
+          vs. Jean and party[END]
+
+=== 12 | 18d56 | d7 ===
+Well, this is a shock! The
+winner of this year's 
+competition is...[BRK]
+
+Jean's dojo![BRK]
+
+[POR05]
+Darn! In all the excitement,
+i forgot to place a bet. [BRK]
+
+[POR10]
+It's time to face lunn.[BRK]
+
+Someone has to stop him! I
+just hope i'm ready...[END]
+
+=== 13 | 18e40 | a3 ===
+Whew! Talk about humiliating
+a guy![BRK]
+
+You completely wasted the
+blue karate master![BRK]
+
+I've never seen anyone fight
+like you before.[BRK]
+
+Say, can i...have your
+autograph?
+
+[END]
+
+=== 14 | 18ef2 | 73 ===
+You must be one of the
+most gifted fighters
+anywhere![BRK]
+
+I can't wait to see what
+you do in next year's
+competition.
+
+[END]
+
+=== 15 | 18f72 | 7a ===
+[POR10]
+I can tell you what i'll
+do next year right now.[BRK]
+
+....
+.....[BRK]
+
+I won't be here. And,
+hopefully, this barbarism
+will cease![END]
+
+=== 16 | 18ffa | a5 ===
+[POR07]
+Come on, jean! I could
+promote you![BRK]
+
+We could make some really
+big bucks![BRK]
+
+Don't worry, i won't become 
+like don king![BRK]
+
+All i want is three-fourths
+of the profits!
+
+[END]
+
+=== 17 | 190b6 | e5 ===
+The competition is set up
+so that whoever wins will
+proceed to the next bout.[BRK]
+
+Losers will be carried out
+in shame to have their
+wounds attended.[BRK]
+
+There are eight teams of
+three participating this
+year.[BRK]
+
+It looks like a tough
+field.[END]
+
+=== 18 | 1919e | 72 ===
+Well, let's begin the first
+round. Is your team ready  
+to fight?      
+[0x5]We're ready.
+I'd like a few more minutes.[END]
+
+=== 19 | 19220 | 37 ===
+Good. Now which three from
+your group will be fighting?[END]
+
+=== 1a | 19260 | 294 ===
+[POR10]
+I will be the team leader.[BRK]
+
+Hiro will be second.[BRK]
+
+...that is, if you would
+like to fight with me,
+hiro.[BRK]
+
+Great! I knew you would.[BRK]
+
+And the last one will be...[BRK]
+
+[POR05]
+Jean, you don't have to 
+ask. I know as the only guy
+left you have to choose me.[BRK]
+
+[POR07]
+Don't you know that women
+are just as good as men
+these days?[BRK]
+
+[POR05]
+Ookey-dokey...fine then!
+Lemina, why don't you take
+my place...[BRK]
+
+[POR07]
+Ha! Just watch me kick their
+mega-sorry butts![BRK]
+
+[POR05]
+...but you do know that
+there's no money in it
+for you, don't you?[BRK]
+
+[POR07]
+....
+.....[BRK]
+
+Well, jean, good luck.
+I'll stand right over there
+and cheer for all of you![BRK]
+
+[POR10]
+I don't think we'll have any
+trouble in this first round.[BRK]
+
+Here we go!
+
+
+[END]
+
+=== 1b | 19516 | 60 ===
+We can't start the second
+round until all the first
+round matches are over.[BRK]
+
+Just wait a while...[END]
+
+=== 1c | 19580 | 3e ===
+Waaaahhhhhhhh!!![BRK]
+
+[POR02]
+Whew! What the heck is
+going on up there?![END]
+
+=== 1d | 195c8 | 69 ===
+Your karate is a disgrace
+to this tournament.[BRK]
+
+You should never have
+challenged us, weaklings![BRK]
+
+Take this!![END]
+
+=== 1e | 1963a | af ===
+Ha ha ha...what a pathetic
+waste of skin![BRK]
+
+They deserved to be
+terminated![BRK]
+
+Soon, all will know the
+strength of the blue
+dragon cult![BRK]
+
+We will reign supreme over
+this tournament![END]
+
+=== 1f | 196f2 | 105 ===
+[POR01]
+...![BRK]
+
+[POR02]
+I...i can't believe what I
+just witnessed![BRK]
+
+It was sick! The fight was
+already over and they just
+...well...you know...[BRK]
+
+[POR10]
+The karate of the blue
+dragon cult is nothing but
+evil.[BRK]
+
+There is no mercy shown to
+opponents. It must be
+stopped at any cost.
+
+
+[END]
+
+=== 20 | 1980c | 59 ===
+Listen, you don't have a
+minute.[BRK]
+
+If you miss the start of the
+match, you're disqualified.[END]
+
+=== 21 | 19894 | 7f ===
+The second level round of 
+the tournament is ready to
+begin. Are you ready?
+[0x5]As ready as we'll ever be.
+Can we take a breather?[END]
+
+=== 22 | 19922 | 1a ===
+Then let the match begin!
+[END]
+
+=== 23 | 1995e | c1 ===
+You've won![BRK]
+
+You are now qualified to
+compete in the final match.[BRK]
+
+Your opponent is the clan
+of the blue dragon cult.[BRK]
+
+[POR02]
+Be careful, hiro![BRK]
+
+These guys are dangerous![BRK]
+
+You saw what they did
+earlier![END]
+
+=== 24 | 19a34 | 6d ===
+If you need a break, you
+won't stand a chance against
+the cult![BRK]
+
+Enjoy the break. It'll
+probably be your last.[END]
+
+=== 25 | 19ab4 | 94 ===
+Okay, the next match is
+set to begin.[BRK]
+
+Your opponents are from the
+cult of the blue dragon.[BRK]
+
+Are you ready?
+[0x5]You'd better believe it!
+No...i'm scared![END]
+
+=== 26 | 19b58 | cb ===
+Then let the final battle
+begin![BRK]
+
+[POR10]
+Hiro, ronfar, these guys
+don't mess around. They're
+cold-blooded killers.[BRK]
+
+Don't lower your guard for
+even a second![BRK]
+
+Remember what i've taught
+you, and follow my lead!
+[END]
+
+=== 27 | 19c44 | 174 ===
+Whuh ho! What a fight!![BRK]
+
+That was incredible![BRK]
+
+The winners are the clan
+of jean's dojo![BRK]
+
+[POR02]
+Ha! I knew you'd kick their
+blue bottoms![BRK]
+
+I wasn't worried for a
+second![BRK]
+
+[POR05]
+What's this 'us,' ruby? All
+you did was sit on your pink
+bottom and watch.[BRK]
+
+[POR02]
+I'm sorry. Did anyone hear
+that?[BRK]
+
+I could've sworn i heard
+some annoying person
+talking.[BRK]
+
+Hmm...maybe it was just my
+imagination...[END]
+
+=== 28 | 19dce | 3d ===
+Scared or not, this is no
+time to back out. Get in 
+the ring![END]
+
+=== 29 | 19e1e | fb ===
+This competition used to be
+a peaceful event.[BRK]
+
+But now, i think lunn uses
+it as a recruiting ground.[BRK]
+
+He's here today talking
+about his new all-powerful
+black karate of death.[BRK]
+
+....
+.....[BRK]
+
+There's something wrong with
+that guy. I think he's
+turned evil...[END]
+
+=== 2a | 19f2c | 7b ===
+We have been studying the
+teachings of master lunn.[BRK]
+
+But after your display of
+fighting prowess, we'd like
+to follow you...
+[END]
+
+=== 2b | 19fb6 | 6f ===
+Master lunn will no doubt
+want to see you.[BRK]
+
+He doesn't appreciate being
+upstaged in the tournament
+by newcomers.[END]
+
+=== 2c | 1a03c | 181 ===
+[POR16]
+Hrmph...jean! I see you
+found your way out of
+your cell.[BRK]
+
+Did you claw your way out
+just to fight me?[BRK]
+
+I'm flattered.[BRK]
+
+[POR10]
+Don't be.[BRK]
+
+I came here to stop you from
+corrupting the minds of
+any more innocent children.[BRK]
+
+I will fight until my last
+breath to stop your wicked
+cult.[BRK]
+
+[POR16]
+My, my, i don't think i've
+ever seen you so focused.[BRK]
+
+You must be quite serious in
+your intent, foolish girl.
+[END]
+
+=== 2d | 1a1d8 | 175 ===
+[POR16]
+My blue dragon cult will
+dominate this competition.[BRK]
+
+I have trained each and
+every one of them
+personally.[BRK]
+
+In order for you to fight
+me, you must first defeat
+my followers.[BRK]
+
+And in that endeavor, I
+expect you to fail
+miserably![BRK]
+
+Ha ha ha ha![BRK]
+
+[POR10]
+Lunn, i give you my word.[BRK]
+
+I will not rest until I
+have defeated you.[BRK]
+
+I will defeat your
+followers. And then, i'm
+coming for you![END]
+
+=== 2e | 1a360 | 100 ===
+[POR16]
+Ha ha ha! Why have you
+come back to me?[BRK]
+
+You defeated the babies of
+this tournament. You're
+no match for me![BRK]
+
+There are more rounds yet
+to go. We'll see how you
+fare in them...[BRK]
+
+[POR10]
+If this is as hard as it
+gets, you'd better start 
+looking for a back door.[END]
+
+=== 2f | 1a474 | 19e ===
+[POR16]
+At last, the time has come
+for my precious cult to
+show you the light.[BRK]
+
+Your next match is with
+the best of my clan.[BRK]
+
+And remember, once you are
+lying on the mat drained of
+power, do not beg for mercy.[BRK]
+
+My clan has been trained to
+ignore the anguished pleas
+of the damned.[BRK]
+
+[POR10]
+I know your evil ways, lunn.
+But this time, there will be
+no anguish on my part.[BRK]
+
+I will win this next match.
+And then i'm coming for
+you.
+[END]
+
+=== 30 | 1a62a | 115 ===
+[POR16]
+Ha! So, the student has
+returned to the master.[BRK]
+
+But she has the black mist
+of revenge in her eyes.[BRK]
+
+You're a fool for returning,
+jean.[BRK]
+
+[POR10]
+I am not here for revenge.
+I've come to right a wrong
+that has slipped my grasp.[BRK]
+
+Until now.[BRK]
+
+Lunn, your misuse of karate
+must stop...now!
+[END]
+
+=== 31 | 1a74c | 1a3 ===
+[POR10]
+If i win this match, you
+will stop corrupting the
+art of karate.[BRK]
+
+And you will free all the
+children you yet hold under
+your spell.[BRK]
+
+[POR16]
+Ha ha ha! I find it amusing
+that you are even enter-
+taining the hope of winning.[BRK]
+
+This match is a match to the
+death. There can be only one
+winner.[BRK]
+
+And when i win, i will kill
+all your associates, too.[BRK]
+
+When you challenge me, you
+agree to these terms.[BRK]
+
+It's your choice, little
+one.
+
+[END]
+
+=== 32 | 1a8f2 | 32 ===
+[0x5]Um, let me think about it.
+I will stop you, lunn![END]
+
+=== 33 | 1a934 | ac ===
+[POR16]
+Ha ha ha...[BRK]
+
+Indecision in what should
+be your finest hour?[BRK]
+
+I thought you were better
+than this.[BRK]
+
+Come back when you truly
+have the fortitude to face
+your end. Ha ha ha...[END]
+
+=== 34 | 1a9f2 | 3a6 ===
+[POR10]
+I know i can win, but i need
+to know that you all agree
+that i should fight.[BRK]
+
+After all, if i lose, lunn
+has vowed to kill all of
+you, too.[BRK]
+
+[POR07]
+Go for it, jean![BRK]
+
+I know you have the skill to
+beat this guy into a pile of
+mega-waste![BRK]
+
+[POR05]
+Yeah, jean. We all believe
+in you.[BRK]
+
+In fact, i found a place
+that gave me 10 to 1 odds
+on you winning.[BRK]
+
+I'm gonna make a killing![BRK]
+
+[POR10]
+You...bet...on...?!![BRK]
+
+...uh...thanks, ronfar.[BRK]
+
+That bet is the highest vote
+of confidence you could have
+given me.[BRK]
+
+[POR08]
+Jean, you must fight well.[BRK]
+
+The entire future of this
+world rests on this battle.[BRK]
+
+If we do not get the blue
+dragon aura, we cannot
+complete my quest.[BRK]
+
+And all will be lost.[BRK]
+
+[POR10]
+Don't worry, lucia. I've
+waited all my life for
+this moment.[BRK]
+
+It's strange. I've dreamt
+of this moment for so long,
+i'm not even afraid.[BRK]
+
+The need to stop lunn once
+and for all has consumed
+me.[BRK]
+
+I will not fail.[BRK]
+
+....
+.....[BRK]
+
+Okay, lunn! It's just you
+and me, now.[BRK]
+
+Get in the ring!
+
+
+[END]
+
+=== 35 | 1add2 | 332 ===
+[POR16]
+Well...well done, jean.
+But ho...how can...[BRK]
+
+This makes...no sense...
+...i...am...the master![BRK]
+
+We share the knowledge of
+blue dragon karate, but
+yours is somehow different.[BRK]
+
+[POR10]
+I fight not to kill, but
+to conquer.[BRK]
+
+My blue dragon karate is
+never used aggressively.[BRK]
+
+Once i believed in the power
+of good within my soul,[BRK]
+
+i knew i could never be
+overcome by evil again.[BRK]
+
+Your power draws from the
+well of darkness and
+corruption.[BRK]
+
+It will always be overcome
+by the power of good.[BRK]
+
+[POR16]
+You have proven the power
+that can be attained when
+the mind and heart...[BRK]
+
+...are united. When that
+happens, nothing is
+insurmountable.[BRK]
+
+....
+.....[BRK]
+
+So, now you will spare my
+life, even though i was
+intent on ending yours.[BRK]
+
+Jean, you truly have become
+the master.[BRK]
+
+I am humbled before you.[BRK]
+
+Please find it in your heart
+to forgive me.[BRK]
+
+[POR10]
+....
+.....[END]
+
+=== 36 | 1b10e | a0 ===
+[POR08]
+...lunn, you must surrender
+the blue dragon's aura.[BRK]
+
+[POR16]
+Certainly.[BRK]
+
+Here, take it. I have no
+use for it any longer.[BRK]
+
+[POR00]
+[0xB][0][0x6]Received the aura of the
+blue dragon![END]
+
+=== 37 | 1b1b8 | 1ca ===
+[POR16]
+The sanctuary of the blue 
+dragon is located in a cave
+north of here.[BRK]
+
+However, you can't reach
+it by heading directly
+north.[BRK]
+
+Follow the river back to
+horam, then head south and
+east.[BRK]
+
+The river will then lead 
+you north.[BRK]
+
+....
+.....[BRK]
+
+I know that you will find
+success in your quest.[BRK]
+
+Jean, my new training will
+be based on the knowledge
+that you imparted to me.[BRK]
+
+You have my word on that.[BRK]
+
+I just hope that you find
+it in your heart to
+forgive me.[BRK]
+
+[POR10]
+....
+.....[END]
+
+=== 38 | 1b39e | 60 ===
+[POR16]
+Our fight is to the death.[BRK]
+
+And once i am victorious,
+i will eliminate your
+friends, as well.
+[END]
+
+=== 39 | 1b41a | 1f0 ===
+[POR16]
+Jean, listen to me. I
+was not always the monster
+you have come to know.[BRK]
+
+When i started, karate was
+a way to defend myself.[BRK]
+
+I enjoyed the peace of mind
+practice brought, and i no
+longer feared anyone.[BRK]
+
+However, i forgot that
+original peace, and began to
+crave power.[BRK]
+
+That's when i sold my soul
+to zophar.[BRK]
+
+I began to teach blue dragon
+karate, twisted for my own
+selfish purposes.[BRK]
+
+This defeat has shown me the
+original way once again.[BRK]
+
+I am forever in your debt.
+Please...forgive me.[BRK]
+
+[POR10]
+....
+.....
+[END]
+
+=== 3a | 1b626 | dc ===
+[POR16]
+Take the blue dragon aura
+i have given you and go to
+the blue dragon sanctuary.[BRK]
+
+Release the blue dragon-
+power from the seal and
+stop zophar.[BRK]
+
+I believe in you.[BRK]
+
+....
+.....[BRK]
+
+I hope one day you can
+believe in me again.
+
+
+[END]
+
+=== 3b | 1b71a | 77 ===
+[POR16]
+I will retrain myself in
+the teachings of my old
+master.[BRK]
+
+The way of truth will once
+again shine brightly before
+me.
+[END]
+
+=== 3c | 1b7a8 | f7 ===
+[POR16]
+Jean, i'm developing a new
+karate. It is holy karate.[BRK]
+
+This is what my former
+master taught me, and i will
+teach it to my students.[BRK]
+
+It is but the first step in
+my redemption.[BRK]
+
+One day, i hope you find it
+in your heart to forgive me.[BRK]
+
+[POR10]
+....
+.....[END]
+
+=== 3d | 1b8ba | 81 ===
+[POR16]
+Holy karate has become my
+life.[BRK]
+
+I teach only the use of
+karate for defense, now.[BRK]
+
+Soon, aggression will be
+a thing of the past.[END]
+
+=== 3e | 1b952 | 1dd ===
+[POR16]
+Ah, jean! It's been so long
+since i last saw you.[BRK]
+
+As i promised, the way of
+blue dragon karate is taught
+no more.[BRK]
+
+In fact, the mention of that
+name is forbidden.[BRK]
+
+The punishment for doing so
+is a good caning.[BRK]
+
+Only one has been foolish
+enough to spray paint the
+name on these walls...[BRK]
+
+Now michael cannot sit. He
+can think about his trans-
+gression while standing.[BRK]
+
+[POR10]
+That certainly is good
+news.[BRK]
+
+One day, perhaps i can 
+forgive what you once did to
+me, but i can never forget.[END]
+
+=== 3f | 1bb4a | 55 ===
+[POR16]
+Jean your life will only
+be limited by what you can
+dream.[BRK]
+
+Remember that always...[END]
+
+=== 40 | 1bbae | df ===
+I'm a member of the blue
+dragon cult.[BRK]
+
+I live for combat.[BRK]
+
+I pine for sweat.[BRK]
+
+I thirst for blood.[BRK]
+
+I dream of conflict.[BRK]
+
+I rally for aggression.[BRK]
+
+I am the ultimate killing
+machine.[BRK]
+
+But on the weekends, i'm an
+althena-fearing guy.[END]
+
+=== 41 | 1bca4 | 3f ===
+I am the greatest fighter
+in the world. I cannot be 
+defeated. [END]
+
+=== 42 | 1bcfe | 5d ===
+I think i've been in too
+many of these fights.[BRK]
+
+The thrill of the kill has
+diminished, lately.[END]
+
+=== 43 | 1bd6e | 86 ===
+I'm going to make my next 
+opponent wish he was dead.[BRK]
+
+Just when he's beggin' for
+mercy, i'm gonna dig into
+his jugular and finish him.[END]
+
+=== 44 | 1be0c | b7 ===
+Crud! Crap! Poop! I lost!
+I can't believe i lost!
+Crap! Craaap![BRK]
+
+[POR02]
+Kinda a baby-man vocabulary
+for such a cold-hearted
+killer, don't you think?[BRK]
+
+[POR10]
+Well, this is rated 'k-a,'
+you know.[END]
+
+=== 45 | 1bede | 5f ===
+No...way! I don't believe
+it![BRK]
+
+We've never lost. Lunn told
+us we were invincible![BRK]
+
+This can't be![END]
+
+=== 46 | 1bf50 | 8e ===
+Master lunn has banned blue
+dragon karate...[BRK]
+
+...and especially the black
+karate of death.[BRK]
+
+In fact, just the mention
+of these can get me caned![END]
+
+=== 47 | 1bfee | 90 ===
+Master lunn is teaching us
+a new karate style.[BRK]
+
+Blu...well, that old kind of
+karate is no longer
+practiced here.[BRK]
+
+We're kindler, gentler
+warriors![END]
+
+=== 48 | 1c08e | eb ===
+Ha! You think you guys 
+are going to win? [BRK]
+
+Don't kid yourselves.[BRK]
+
+We've been practicing night
+and day for as long as I
+can recall.[BRK]
+
+And we're trained to show
+no mercy to the fools that
+oppose us.[BRK]
+
+Only an idiot would face us
+in the ring.
+[END]
+
+=== 49 | 1c18c | 91 ===
+Don't worry. When we fight,
+i'll try to go easy on you.[BRK]
+
+I'll tear your aorta out
+quickly.[BRK]
+
+Consider that a guarantee.
+If i were you, i'd quit now.[END]
+
+=== 4a | 1c230 | 54 ===
+You're our next opponent?[BRK]
+
+Ha ha ha ha![BRK]
+
+Aahhhh ha ha ha ha ha![BRK]
+
+You're kidding, right?[END]
+
+=== 4b | 1c298 | 60 ===
+Now that you've beaten all
+the others, lunn is all that
+remains.[BRK]
+
+Fool! You don't stand a
+chance![END]
+
+=== 4c | 1c30c | 89 ===
+Curse lunn! I can't believe
+he lost to...to...to a 
+stupid girl.[BRK]
+
+Girls are stupid.[BRK]
+
+Only boys should fight.[BRK]
+
+I hate girls.[BRK]
+
+They're so dumb.[END]
+
+=== 4d | 1c3a4 | 9a ===
+Ban all girls from sports.[BRK]
+
+....
+.....[BRK]
+
+Ban all girls from sports![BRK]
+
+Now i can't beat people
+up and rip out entrails,
+thanks to you, jean![BRK]
+
+I hate you so much![END]
+
+=== 4e | 1c44e | ec ===
+This is the best tournament!
+I can't believe we get to
+beat people up![BRK]
+
+And what's better, is that
+these cretins are no match
+for our superior skill![BRK]
+
+Like little lambs to the
+slaughter...he he he he...[BRK]
+
+We're number one!
+We're number one![END]
+
+=== 4f | 1c54e | 8b ===
+The time has come for all
+to fear the power of blue
+dragon karate.[BRK]
+
+I'm gonna make mincemeat
+outta my opponents! And...[BRK]
+
+...i love mincemeat.[END]
+
+=== 50 | 1c5ec | a7 ===
+There is no one that can
+match the superiority of
+our fighting skill.[BRK]
+
+This tournament is a joke![BRK]
+
+They should just hand over
+the trophy and admit that
+we are the best!
+[END]
+
+=== 51 | 1c6aa | b8 ===
+There's no way that a girl
+defeated the masters of blue
+dragon karate![BRK]
+
+I refuse to admit it![BRK]
+
+It wasn't a girl it was a
+guy in drag! I know it![BRK]
+
+I saw those hairy pits![BRK]
+
+Cheater! Cheater![END]
+
+=== 52 | 1c77e | 60 ===
+I know...it's a dream...
+yeah, this is a dream...[BRK]
+
+No, not a dream...[BRK]
+
+.............a nightmare!
+
+[END]
+
+=== 53 | 1c7f2 | 86 ===
+I still won't believe that
+lunn was defeated by a 
+girl.[BRK]
+
+This has to be some kind
+of cruel joke![BRK]
+
+Someone, please tell me 
+it's a joke![END]
+
+=== 54 | 1c888 | 89 ===
+After lunn slapped me a few
+times, i realized how silly
+i was acting.[BRK]
+
+....
+.....[BRK]
+
+But i still say girls
+should be banned from all
+sports!
+[END]
+
+=== 55 | 1c920 | 78 ===
+This competition is as good
+as ours right now.[BRK]
+
+We've trained hard for the
+last week.[BRK]
+
+The coach even made us do
+push-ups![END]
+
+=== 56 | 1c9ac | d6 ===
+We've failed! Our training
+wasn't good enough![BRK]
+
+I think that we should start
+training one month before
+the tournament next year.[BRK]
+
+[POR02]
+Ooooh! A whole month before
+the tournament?[BRK]
+
+That'll make a big
+difference......not![END]
+
+=== 57 | 1ca96 | 13f ===
+You guys are actually quite
+strong![BRK]
+
+I was amazed at how quickly
+you put us away.[BRK]
+
+How do you train?[BRK]
+
+Do you get into bar fights
+to practice?[BRK]
+
+You gotta have some killer
+regimen to have defeated us![BRK]
+
+[POR02]
+No, you just suck.[BRK]
+
+Plain and simple.[BRK]
+
+It's really quite pathetic,
+actually.[BRK]
+
+Your wives must be really,
+really embarrassed.[END]
+
+=== 58 | 1cbe4 | c5 ===
+I'm going to become strong
+like you. Then i can save
+this world.[BRK]
+
+What should i do first to
+get into shape?[BRK]
+
+[POR02]
+I'd recommend losing the
+beer gut...[BRK]
+
+Then, you might want to
+try looking for a spine...[END]
+
+=== 59 | 1ccb8 | 6e ===
+Hey! You guys look like a
+buncha silk-panty weaklings.[BRK]
+
+....
+.....[BRK]
+
+I thought they stopped 
+fixing these fights.[END]
+
+=== 5a | 1cd3a | 67 ===
+Whew![BRK]
+
+I didn't think that you 
+guys were that tough![BRK]
+
+You sure as hell didn't 
+look like karate masters![END]
+
+=== 5b | 1cdb4 | 43 ===
+Oh man! At the next
+tournament you're gonna pay![BRK]
+
+Man, will you pay![END]
+
+=== 5c | 1ce06 | 99 ===
+You think you're so tough![BRK]
+
+You come here, beat up a
+couple of us, and all of
+the sudden you're the best![BRK]
+
+Well, i got news for ya!
+You're not. Nyah, nyah![END]
+
+=== 5d | 1ceb2 | 112 ===
+Our form of karate is 
+called virtual assassin
+karate.[BRK]
+
+We're trained by advanced
+virtual technology.[BRK]
+
+I know we're going to win.
+We've trained too hard to
+lose now.[BRK]
+
+Besides, the money you get
+for winning is worth getting
+your brains kicked in.[BRK]
+
+[POR05]
+Do you guys have a promoter?[END]
+
+=== 5e | 1cfdc | 73 ===
+We're using virtual reality
+to train.[BRK]
+
+It's prepared us for this
+tournament, and we didn't
+even have to go to a gym![END]
+
+=== 5f | 1d062 | 66 ===
+Crap! We invested so much
+in technology, and now look!
+We lost![BRK]
+
+Curse you, technology. Curse
+you!
+
+
+
+
+[END]
+
+=== 60 | 1d0dc | 95 ===
+I knew we should have 
+practiced on real people.[BRK]
+
+But our stupid programmer
+assured us that the virtual
+opponents were tough enough.[BRK]
+
+....
+.....[BRK]
+
+Liar!
+[END]
+
+=== 61 | 1d180 | 13c ===
+You guys won first place in
+the tournament? I don't 
+believe it!![BRK]
+
+Say, do you think you could
+write a book on your 
+fighting techniques?[BRK]
+
+Or, better yet, why don't
+you train us? We could use
+that cat for practice!![BRK]
+
+[POR02]
+Oh yeah?? I'd like to see
+you try that, buster![BRK]
+
+I can take you with both
+wings tied behind my back![END]
+
+=== 62 | 1d2cc | 9e ===
+We are members of the bunny
+karate dojo.[BRK]
+
+It's basically made up of 
+bored housewives who love to
+beat the snot out of men.[BRK]
+
+Our motto is 'sniff, sniff,
+snarf!'[END]
+
+=== 63 | 1d37e | 90 ===
+Wow! You won, too? 
+No one thought that we
+would even win one match.[BRK]
+
+But we showed everyone![BRK]
+
+We made it to the next
+round![BRK]
+
+Sniff, sniff, snarf!
+[END]
+
+=== 64 | 1d422 | fc ===
+The guys from the blue 
+dragon karate didn't even
+care that we were girls![BRK]
+
+I even wore the tight outfit
+we designed to distract
+opponents![BRK]
+
+He didn't even blink twice!
+He just moved in for the
+kill.[BRK]
+
+I don't think they're even
+human![BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 65 | 1d536 | b9 ===
+You guys are, like, totally
+buff.[BRK]
+
+But i can't believe you're
+winning dressed like that![BRK]
+
+Jean, don't you know that
+green is out this season?[BRK]
+
+A definite fashion 'no!'[BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 66 | 1d60a | a5 ===
+Some say it's just an honor 
+to be invited to the
+competition,[BRK]
+
+and that it doesn't matter
+if you win or lose.[BRK]
+
+Liars!!! I really wanted to 
+win!![BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 67 | 1d6be | d6 ===
+At next year's competition,
+we are going to win first
+place if it kills us!![BRK]
+
+We're practicing a new 
+karate technique.[BRK]
+
+It's called the high-leg,
+double-flip, half-twist
+knee to the groin. [BRK]
+
+Sniff, sniff, snarf!
+
+
+
+
+[END]
+
+=== 68 | 1d7a8 | c3 ===
+The secret of bunny karate 
+is to stun your male 
+opponent with your beauty.[BRK]
+
+Once they have become 
+fixated on you, they'll
+let you beat them up.[BRK]
+
+Some even say they enjoy
+it.[BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 69 | 1d882 | 86 ===
+What? You're in this 
+competition, too? Oh no,
+i just told you our secret![BRK]
+
+Sniff, sniff, snarf![BRK]
+
+[POR10]
+Don't worry, i'm not 
+impressed...
+[END]
+
+=== 6a | 1d91c | dc ===
+Due to very strict regimens,
+many of the men here have
+never even seen a girl.[BRK]
+
+That's why they don't know
+what to do when we fight
+them. It's an easy win.[BRK]
+
+Our curves turn 'em on,
+and we turn 'em out![BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 6b | 1da0c | df ===
+I can't believe we lost.
+We did everything right...[BRK]
+
+...tight outfits, athletic
+jumping kicks, coquettish
+winks, strategic melvins...[BRK]
+
+Those guys didn't fall for
+any of it! In fact, they
+nearly killed us![BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 6c | 1db02 | 82 ===
+We're always looking for new
+members to join the
+bunny karate dojo.[BRK]
+
+Say, goldilocks, do you
+want to join us?[BRK]
+
+Sniff, sniff, snarf!
+[END]
+
+=== 6d | 1db92 | 41 ===
+[POR07]
+Geez, you'd have to pay
+me a ton of silver to
+dress like that.[END]
+
+=== 6e | 1dbe0 | bb ===
+[POR05]
+I'd pay you to dress 
+like that.[BRK]
+
+[POR07]
+I should have expected a
+comment like that from you,
+ronfar![BRK]
+
+[POR02]
+Don't be so uptight, lemina.
+I'd pay to see you dress
+like that, too.[BRK]
+
+He he he he...[END]
+
+=== 6f | 1dcb6 | c6 ===
+I'm sorry, but i think
+next year we're going
+to have designer clothes.[BRK]
+
+We need a little more of
+a 'distraction factor.'[BRK]
+
+I'm thinking we need to
+go the pasties and thong
+route...[BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 70 | 1dd8c | 74 ===
+I think i'm gonna give this
+fighting thing up.[BRK]
+
+I really picture myself as
+more of a director...[BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 71 | 1de14 | ed ===
+Soon bunny karate will
+become the most feared
+karate in the world![BRK]
+
+Men will soon learn that
+women have the power to
+rule their lives.[BRK]
+
+And if they disagree with 
+us, pow!! Right in the 
+kisser![BRK]
+
+Sniff, sniff, snarf![BRK]
+
+[POR02]
+You said it, sister![END]
+
+=== 72 | 1df18 | fa ===
+If we win this competition,
+people will finally sit up
+and take notice of us.[BRK]
+
+Sniff, sniff, snarf![BRK]
+
+[POR02]
+Oh, with those outfits, I
+think you already have them
+standing at attention![BRK]
+
+They're probably waiting
+to give you a twenty-one
+gun salute right now![END]
+
+=== 73 | 1e026 | 7c ===
+Look at that guy over there.
+He's such a hunk!![BRK]
+
+I can't wait to fight him.[BRK]
+
+I'm gonna hurt him so bad...[BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 74 | 1e0b6 | 71 ===
+Those blue dragon guys were
+too serious! They scared me.[BRK]
+
+Their eyes look so...so...
+...dead![BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 75 | 1e13e | 72 ===
+You guys totally kicked some
+major butt today![BRK]
+
+Say, jean, do you think
+you'd want to join us?[BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 76 | 1e1be | 35 ===
+[POR10]
+I'm sorry, there's no way I
+could dress like that.[END]
+
+=== 77 | 1e200 | 59 ===
+[POR08]
+Jean, these clothes look
+somewhat like your dancing
+attire...[BRK]
+
+What is wrong with that?[END]
+
+=== 78 | 1e274 | 4c ===
+I still think you should
+consider my offer and join
+us.[BRK]
+
+Sniff, sniff, snarf![END]
+
+=== 79 | 1e2d4 | 69 ===
+Wait until you see next 
+year's costumes.[BRK]
+
+We're sure to win that 
+competition without lifting
+one finger.[END]
+
+=== 7a | 1e350 | fc ===
+Have you changed your mind?
+I knew you would...[BRK]
+
+In fact, i've already
+ordered a costume for you![BRK]
+
+[POR10]
+I don't think so...[BRK]
+
+[POR02]
+Come on, jean! I think you'd
+look cute in that outfit.[BRK]
+
+A little fuzzy bunny tail
+on your posterior would be
+so cute![BRK]
+
+He he he...
+[END]
+
+=== 7b | 1e460 | 74 ===
+We are the wolf karate
+team.[BRK]
+
+We act like crazy, wild 
+animals and bite our
+opponents to death.[BRK]
+
+[POR02]
+Ahhhhh...bite me!
+[END]
+
+=== 7c | 1e4ec | 28 ===
+Stand back, or i'll bite
+you to death!!![END]
+
+=== 7d | 1e522 | 3d ===
+Are you our next opponent?[BRK]
+
+Good. I hope you're ready to
+lose![END]
+
+=== 7e | 1e576 | 91 ===
+I hate you! Why...why...
+couldn't you let us win?[BRK]
+
+Now our dojo has been
+dishonored![BRK]
+
+[POR02]
+You may act like an animal,
+but you still cry like a
+baby![END]
+
+=== 7f | 1e622 | 65 ===
+We've already begun to
+train for next year.[BRK]
+
+With our new werewolf
+attack, there's no way
+we can lose![END]
+
+=== 80 | 1e696 | 5a ===
+Hey you, why don't you
+join us?[BRK]
+
+You look like you've got
+a pretty good set of fangs
+on ya![END]
+
+=== 81 | 1e6fe | 61 ===
+[POR09]
+I'm sorry, i will only
+participate in a fair
+fight.[BRK]
+
+Biting is not an honorable
+way to victory.[END]
+
+=== 82 | 1e772 | 74 ===
+I've had my fangs enlarged.
+Now i'll be able to bite
+my victims on the neck.[BRK]
+
+I'm now favored to win all
+my matches!![END]
+
+=== 83 | 1e7f4 | 27 ===
+[POR05]
+Care to make a little
+wager on that?[END]
+
+=== 84 | 1e828 | 55 ===
+[POR05]
+Guess what!? You're my next
+opponents.[BRK]
+
+Check out these fangs, and
+quake with fear.[END]
+
+=== 85 | 1e894 | 55 ===
+I'm not scared of any of
+you![BRK]
+
+You're going to curse the
+day you ever laid eyes
+on me![END]
+
+=== 86 | 1e8f6 | 3a ===
+You don't stand a chance
+of beating us![BRK]
+
+Pansy-wuss-losers![END]
+
+=== 87 | 1e944 | 43 ===
+Humans will never possess
+more power than those of
+the beast class![END]
+
+=== 88 | 1e996 | d0 ===
+Next year we will not lose,
+for our training will be
+very hard.[BRK]
+
+We will fight with wild 
+dogs...[BRK]
+
+We will spar with ferocious
+kittens...[BRK]
+
+We will hog-tie hamsters...[BRK]
+
+We will do whatever it takes
+to be the best![END]
+
+=== 89 | 1ea7a | 51 ===
+I'm the leader of the wolf-
+pack karate dojo.[BRK]
+
+My blood runs hungry like
+the wolf![END]
+
+=== 8a | 1eae2 | 48 ===
+I've gotta relax. My pulse
+rate is way up there...[BRK]
+
+I think i'm having...[END]
+
+=== 8b | 1eb3e | 80 ===
+Don't worry. After my heart
+attack, i don't let stress
+bother me...[BRK]
+
+But we must win! If we
+don't win i'll...i'll
+kill myself!!
+
+[END]
+
+=== 8c | 1ebce | 96 ===
+My doctor said that i've
+gotta stop training so hard.[BRK]
+
+It's not good for my heart.[BRK]
+
+Once my blood pressure 
+drops, i'm gonna be right
+back in that ring![END]
+
+=== 8d | 1ec78 | 78 ===
+The blue dragon cult's bark
+is worse than their bite![BRK]
+
+The armadillo dojo will
+defeat them without even
+breaking a sweat.[END]
+
+=== 8e | 1ed08 | 6c ===
+The whole purpose of our
+training is to practice
+defense.[BRK]
+
+If your opponent can't hit
+you, then he can't win.[END]
+
+=== 8f | 1ed88 | 4f ===
+Well...now that i think
+about it, [BRK]
+
+i guess we should've
+practiced how to punch.[END]
+
+=== 90 | 1ede4 | 5d ===
+The blue dragon cult still
+attacked, even after i threw
+in the towel!!![BRK]
+
+They have no honor...[END]
+
+=== 91 | 1ee54 | 47 ===
+I really think we should've
+concentrated more on 
+offensive techniques.[END]
+
+=== 92 | 1eea8 | 64 ===
+[POR10]
+Well, duh! That should've
+been part of your training.[BRK]
+
+You looked like a stinkin'
+idiot out there![END]
+
+=== 93 | 1ef20 | eb ===
+With this steel armor, i'll
+roll up into a small ball
+so no one can hit me.[BRK]
+
+Then, when they're tired of
+hitting me, that's when I
+get 'em.[BRK]
+
+[POR10]
+With all that armor, why
+do you need the sword?[BRK]
+
+[POR00]
+What? Oh! That's my custom
+back-scratcher.[END]
+
+=== 94 | 1f022 | 33 ===
+Offense...[BRK]
+
+Dang, i knew we forgot
+about something.
+[END]
+
+=== 95 | 1f068 | 67 ===
+Look at my armor. The blue
+dragon guys beat it to bits![BRK]
+
+I don't think i'm cut out
+to be an armadillo...[END]
+
+=== 96 | 1f0de | 7c ===
+We've decided to go on
+strike for better pay.[BRK]
+
+Sure, the fans will be
+pissed, but i need somethin'
+shiny to put in my wallet.[END]
+
+=== 97 | 1f16a | 74 ===
+I hate all this armor.[BRK]
+
+I can barely move.[BRK]
+
+In fact, i don't think i'll
+be able to get onto the
+mat without some help.[END]
+
+=== 98 | 1f1f2 | 9b ===
+I surrendered to the blue
+dragon cult and they still
+beat the crap out of me.[BRK]
+
+If i were you, i'd be very
+afraid.[BRK]
+
+Get out of your match while
+you still can.[END]
+
+=== 99 | 1f29a | 2d ===
+[POR10]
+Don't worry. I've no 
+intention of losing.[END]
+
+=== 9a | 1f2d6 | c6 ===
+We've decided to eliminate
+the heavy steel armor,[BRK]
+
+and go with something like
+foam padding. [BRK]
+
+That way our opponents will
+never be able to hurt us.[BRK]
+
+I just can't wait to try it
+out in real competition![END]
+
+=== 9b | 1f3a2 | 8 ===
+Zen zone[END]
+
+=== 9c | 20782 | eb ===
+Please, no more practices.
+I hate fighting. Please!
+Just let me go home.[BRK]
+
+What!? You're not a member
+of the blue dragon cult?[BRK]
+
+That's wonderful! Do you
+think you could take me
+with you?[BRK]
+
+[POR10]
+Stay right here. You'll be
+free to go very soon![END]
+
+=== 9d | 20884 | 65 ===
+Please, i'm begging you!
+Take me with you![BRK]
+
+[POR10]
+As i said before, be patient
+and you will soon be free![END]
+
+=== 9e | 20900 | 85 ===
+Thank you so much for
+crushing the blue dragon
+cult![BRK]
+
+Not that i approve of your
+violent behavior, but i 
+sure enjoyed seeing 'em cry.[END]
+
+=== 9f | 2099c | 56 ===
+I think i'm going to become
+a singer![BRK]
+
+Jean, i'm gonna dedicate my
+first album to you!![END]
+
+=== a0 | 20a02 | a0 ===
+I decided to write a song 
+for you, jean. What title
+do you like best?[BRK]
+
+'Hot leggin' jean' 
+or 'jean, jean, killing
+machine?'[BRK]
+
+[POR02]
+Boy, that's a tough 
+choice...
+
+[END]
+
+=== a1 | 20ab0 | 8e ===
+[POR10]
+Perhaps you can think of
+another couple titles so
+i have more to choose from.[BRK]
+
+You know, you need a title
+that'll really grab your
+listener.[END]
+
+=== a2 | 20b52 | 134 ===
+I'm the strongest fighter
+in the world. I've never
+lost a match.[BRK]
+
+[POR10]
+Hrmph![BRK]
+
+Your caved-in face tells
+another story.[BRK]
+
+[POR00]
+What are you talking about?
+My face is the proof that
+i'm a great warrior.[BRK]
+
+[POR10]
+...or proof that you make a 
+great punching bag.[BRK]
+
+[POR00]
+Come on, fight me! Let's
+fight right now![BRK]
+
+[POR10]
+...maybe later.[END]
+
+=== a3 | 20c9e | 97 ===
+So, you've come back for
+your beating![BRK]
+
+Come on! This time it's
+personal.[BRK]
+
+[POR10]
+Please, don't flatter 
+yourself. I really don't
+have the time to fight you.[END]
+
+=== a4 | 20d48 | 74 ===
+I don't care that you
+won the competition.[BRK]
+
+You still haven't beaten
+me. I'm still the greatest
+fighter in the world.[END]
+
+=== a5 | 20dcc | a1 ===
+I don't care if you defeated
+zophar![BRK]
+
+I remember fighting him last
+week. He was a wimp![BRK]
+
+I'm the strongest being in 
+the world! I cannot be
+defeated!!! Hahahaha...[END]
+
+=== a6 | 20e80 | d3 ===
+Oh jean! The rumors were
+true! You've come to
+fight in the tournament![BRK]
+
+I never thought i would
+see you again...[BRK]
+
+But are you really strong
+enough to beat lunn?[BRK]
+
+[POR10]
+Don't worry. I can't lose.
+This is my destiny...
+[END]
+
+=== a7 | 20f6a | ee ===
+I can't stop you, jean.
+I understand your reasons
+for fighting...[BRK]
+
+I just wish i were as strong
+as you.[BRK]
+
+Perhaps then i could've
+stopped lunn, or even
+escaped like you did.[BRK]
+
+Hurry, jean! You mustn't be
+late for the fight. I know
+you'll win.
+[END]
+
+=== a8 | 21070 | 7a ===
+I knew it! You were always
+lunn's best pupil...[BRK]
+
+The best part about it is
+that now all the kidnapped
+children can go home.[END]
+
+=== a9 | 21102 | 4c ===
+Jean, from now on, children
+will never have to suffer
+as you did.[BRK]
+
+Thank you![END]
+
+=== aa | 21162 | 8d ===
+Many of these kids don't
+remember where their homes
+are located.[BRK]
+
+I've decided i'm going to
+stay and make sure all of
+them find their parents.[END]
+
+=== ab | 21202 | b3 ===
+Some of these kids no 
+longer have parents.[BRK]
+
+I've decided to start a
+big happy orphanage.[BRK]
+
+Newt would be proud![BRK]
+
+[POR10]
+Forget newt. I'm proud that
+you're taking that kind of
+initiative![END]
+
+=== ac | 212ba | f ===
+Zen zone dojo 1[END]
+
+=== ad | 219a0 | 105 ===
+Hey!! You look like...you
+are![BRK]
+
+Jean! I didn't know you
+were still alive![BRK]
+
+Why have you come back?[BRK]
+
+You do know they'll try
+to kill you, don't you?[BRK]
+
+[POR10]
+I've come back to bring to
+a close this chapter in my
+life.[BRK]
+
+I will do whatever it takes
+to stop that maniac lunn![END]
+
+=== ae | 21abc | 44 ===
+It seems you have been 
+practicing. Your skills are
+very impressive.[END]
+
+=== af | 21b1c | 4e ===
+Were you able to defeat our
+captor?[BRK]
+
+That's great! Now we can
+leave this place![END]
+
+=== b0 | 21b8a | 6e ===
+I think i'll go to horam
+and start my own karate
+school![BRK]
+
+There i will teach people
+the real meaning of karate.[END]
+
+=== b1 | 21c10 | 64 ===
+Jean, i'm going to follow
+your teachings.[BRK]
+
+To teach people that you
+don't have to fight to
+be strong.[END]
+
+=== b2 | 21c88 | 46 ===
+I hope that one day, the
+memories of this place won't
+haunt my dreams.[END]
+
+=== b3 | 21ce2 | a4 ===
+Jean, i owe you so much!
+I don't know how to repay
+you.[BRK]
+
+Please come and visit me
+in horam and see my karate
+school.[BRK]
+
+[POR10]
+I'll be the first one in
+when the doors open![END]
+
+=== b4 | 21d9a | c0 ===
+I'm forced to practice 
+karate everyday.[BRK]
+
+There is no rest. There
+is only practice.[BRK]
+
+[POR10]
+Don't worry. Soon you won't
+have to practice at all![BRK]
+
+This inhumane torture of
+innocent children will stop![END]
+
+=== b5 | 21e72 | 5d ===
+They are beginning to teach 
+me the art of assassination.[BRK]
+
+But i don't want to hurt
+anyone...
+[END]
+
+=== b6 | 21ee6 | 59 ===
+What!? I don't have to
+practice karate anymore!?[BRK]
+
+Thank the maker! I...i...
+love you guys![END]
+
+=== b7 | 21f5a | 53 ===
+I don't know how to thank
+you for saving me. Just know
+that i'm eternally grateful.[END]
+
+=== b8 | 21fbc | 99 ===
+Everyone wants me to go to
+the town of horam to learn
+a new type of karate.[BRK]
+
+Quite frankly, i don't want
+to ever see another dojo for
+the rest of my life.[END]
+
+=== b9 | 22068 | ef ===
+Jean! You're alive!?
+I don't believe it![BRK]
+
+They told us you died when
+you attempted to escape.[BRK]
+
+They made an example of your
+death![BRK]
+
+[POR10]
+They had to tell you that.
+They knew that if you
+learned of my escape,[BRK]
+
+many others would try to
+escape too.[END]
+
+=== ba | 2216e | b3 ===
+Jean, don't try to fight
+the blue dragon cult! 
+They'll kill you!![BRK]
+
+It's not worth risking your
+life just to save a few 
+children.[BRK]
+
+[POR10]
+Don't talk like that! Every
+life is precious!
+[END]
+
+=== bb | 2223c | b4 ===
+I just heard of your 
+victory![BRK]
+
+Congratulations!![BRK]
+
+This is so grand! I can't
+wait to get out of this 
+place and go home.[BRK]
+
+I just...i just hope my
+parents haven't forgotten
+about me...[END]
+
+=== bc | 22310 | b0 ===
+The first thing i'm gonna
+do when i get home is go
+shopping.[BRK]
+
+No, wait, maybe i'll go out
+to eat first. No, wait...[BRK]
+
+[POR10]
+Don't worry. You'll have 
+time to do all of those
+things.
+[END]
+
+=== bd | 223d8 | 6e ===
+Jean always seemed so
+dedicated to her practice.[BRK]
+
+Maybe that's why they never
+thought she would try to 
+escape.[END]
+
+=== be | 22456 | 8b ===
+My dream didn't come true.
+Jean, i don't have a family
+anymore.[BRK]
+
+That's why all of us have 
+decided to stay together.
+This is my family now.[END]
+
+=== bf | 224ee | 6b ===
+[POR10]
+I think you all will make
+one great, big, happy
+family.[BRK]
+
+Maybe we'll rename this
+place 'zen walton zone.'[END]
+
+=== c0 | 2256c | d3 ===
+I...i...tried...to escape
+like...you...jean...[BRK]
+
+They...beat me...so bad...
+that...i...don't have...
+any...feeling in...my legs.[BRK]
+
+[POR10]
+Those bastards will pay for
+this![BRK]
+
+Don't worry, kid, i'll beat
+them into custard!
+[END]
+
+=== c1 | 22656 | 43 ===
+Is that...you, jean??[BRK]
+
+Oh no! I think i'm 
+beginning to hallucinate![END]
+
+=== c2 | 226b4 | 7d ===
+Jean, did you...win one
+for...me?[BRK]
+
+I hope you beat the crap
+out of them.[BRK]
+
+[POR10]
+I did worse than that!
+Just wait until you see...
+[END]
+
+=== c3 | 22750 | 1e ===
+Momma...[BRK]
+
+Momma...is that you?
+[END]
+
+=== c4 | 22786 | 6e ===
+My health has been restored.
+I'm able to move freely.[BRK]
+
+Where's jean? I want so much
+to thank you for saving me.[END]
+
+=== c5 | 22804 | 97 ===
+I don't think i'll ever
+practice karate again.[BRK]
+
+It causes me too much
+pain.[BRK]
+
+The physical pain was easy
+to get over, but the mental
+pain never goes away.[END]
+
+=== c6 | 228ae | d0 ===
+This is the room where 
+we train our blue dragon
+team.[BRK]
+
+...no way!! I don't believe
+my eyes. Is that you, jean?[BRK]
+
+[POR10]
+Yes. I've come back to stop
+the blue dragon cult.[BRK]
+
+You'd better decide where
+your loyalty lies.[END]
+
+=== c7 | 22996 | 50 ===
+Don't worry, jean. I believe
+in you! Now get in there and
+kick their blue butts![END]
+
+=== c8 | 22a02 | b7 ===
+Jean, you defeated them.
+We all owe you our lives.[BRK]
+
+If there's anything that I
+can do for you, just let
+me know...[BRK]
+
+[POR10]
+Please, take care of these
+kids. I still have one more
+fight left.[END]
+
+=== c9 | 22ad8 | 2b ===
+Jean, thank you. We're all
+doing fine, now.[END]
+
+=== ca | 22b1a | 92 ===
+These kids love me.[BRK]
+
+You know, if you feed 'em
+nothing but sugar,[BRK]
+
+they sure get their chores
+done quick![BRK]
+
+Little kids are bouncin'
+off the walls!
+
+
+[END]
+
+=== cb | 22bbc | d3 ===
+Jean, so many of these kids
+look up to you. You've 
+become their hero.[BRK]
+
+Some want to continue to
+train so that they can 
+fight like you.[BRK]
+
+Others want singing and
+dancing lessons so that
+they can join the carnival.[END]
+
+=== cc | 22c9c | b3 ===
+[POR10]
+I'm truly honored. Is there
+anything i can do to help?[BRK]
+
+[POR00]
+Some of them want you to
+teach them how to dance.[BRK]
+
+[POR10]
+When i finish this little
+task, i'll be back and we'll
+all dance.[END]
+
+=== cd | 22d54 | f ===
+Zen zone dojo 2[END]
+

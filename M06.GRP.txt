@@ -1,0 +1,563 @@
+File: M06.GRP
+
+Messages: 38
+
+=== 0 | 9a94 | 10c ===
+[POR04]
+...hmmm? What's wrong with
+lucia? She seems to be...
+hesitating...[BRK]
+
+Hiro, i don't think she's
+human...her magic is too
+strong.[BRK]
+
+Perhaps she is a destroyer,
+as lord leo said. But why
+would she come here?[BRK]
+
+Hrmph! Fiddle, m'boy...it 
+makes no sense...no sense at
+all...
+
+[END]
+
+=== 1 | 9baa | 87 ===
+[POR04]
+Well, that seals it, m'boy.
+She's definitely not human.[BRK]
+
+'Least not like any other
+i've known. But i can't
+believe she's a destroyer.[END]
+
+=== 2 | 9c4c | 4e ===
+[POR02]
+Hiro...where are you going?
+You can't leave without
+lucia and grandpa gwyn![END]
+
+=== 3 | 9cb2 | bc ===
+[POR02]
+What was zophar talking...
+and lucia...ohh![BRK]
+
+Hiro, i'm scared. This is
+too big for us. We don't
+belong in this struggle.[BRK]
+
+If only we hadn't taken
+that dragon eye jewel from
+the ruins...
+
+[END]
+
+=== 4 | 9d86 | db ===
+[POR04]
+Lucia says she came from
+the blue star. But did
+she say why?[BRK]
+
+[POR02]
+She came here to meet the
+goddess althena![BRK]
+
+[POR04]
+Goddess althena? You mean
+the one that the cultists
+serve?[BRK]
+
+I can't believe that it
+could be the same one.
+[END]
+
+=== 5 | 9e6a | 64 ===
+[POR08]
+Althena...i sense her power,
+but cannot detect her
+presence here.[BRK]
+
+I must find out where she
+is...[END]
+
+=== 6 | 9ed8 | 25b ===
+[POR02]
+Hiro...tell me i'm having a
+bad dream....wake me up...[BRK]
+
+Please![BRK]
+
+[POR04]
+It's no dream, ruby. These
+are strange goings-on....
+strange, indeed.[BRK]
+
+Hmm, yes. It seems that this
+zophar fellow has cursed her
+very soul.[BRK]
+
+If we don't break the spell,
+she'll most certainly die.[BRK]
+
+[POR08]
+Unghh...i...have...to...
+...althena...before...
+...unghhhh...[BRK]
+
+[POR04]
+Young lady, save your
+strength. You can tell us
+all about it later.[BRK]
+
+[POR08]
+But...time is...i must...
+...only althena can...
+..Zophar...unnghhh...[BRK]
+
+[POR04]
+Come, hiro. We've got to get
+her back to the house.[BRK]
+
+Maybe one of my books will
+give us a clue about how to
+break this curse...[END]
+
+=== 7 | a15e | be ===
+[POR04]
+Hmmmmm...[BRK]
+
+I never thought i'd get to
+see the blue spire this
+close.[BRK]
+
+It seems my research is
+about to pay off...[BRK]
+
+[POR02]
+Let's hope you've learned
+all there is to know about
+what we might find![END]
+
+=== 8 | a234 | 33 ===
+Hey, you slackers! What
+are you waiting around for?[END]
+
+=== 9 | a26a | ca ===
+[POR02]
+Nall![BRK]
+
+[POR11]
+Time is short. If we don't
+hurry, zophar will return!
+We must go to pentagulia.[BRK]
+
+The blue and black dragons   
+are waiting near there. [BRK]
+
+We have to attack while
+zophar is still weak.[BRK]
+
+Let's go![END]
+
+=== a | a33e | 11 ===
+Blue spire garden[END]
+
+=== b | b83c | 10c ===
+[POR04]
+...hmmm? What's wrong with
+lucia? She seems to be...
+hesitating...[BRK]
+
+Hiro, i don't think she's
+human...her magic is too
+strong.[BRK]
+
+Perhaps she is a destroyer,
+as lord leo said. But why
+would she come here?[BRK]
+
+Hrmph! Fiddle, m'boy...it 
+makes no sense...no sense at
+all...
+
+[END]
+
+=== c | b952 | 87 ===
+[POR04]
+Well, that seals it, m'boy.
+She's definitely not human.[BRK]
+
+'Least not like any other
+i've known. But i can't
+believe she's a destroyer.[END]
+
+=== d | b9f4 | 4e ===
+[POR02]
+Hiro...where are you going?
+You can't leave without
+lucia and grandpa gwyn![END]
+
+=== e | ba5a | bc ===
+[POR02]
+What was zophar talking...
+and lucia...ohh![BRK]
+
+Hiro, i'm scared. This is
+too big for us. We don't
+belong in this struggle.[BRK]
+
+If only we hadn't taken
+that dragon eye jewel from
+the ruins...
+
+[END]
+
+=== f | bb2e | db ===
+[POR04]
+Lucia says she came from
+the blue star. But did
+she say why?[BRK]
+
+[POR02]
+She came here to meet the
+goddess althena![BRK]
+
+[POR04]
+Goddess althena? You mean
+the one that the cultists
+serve?[BRK]
+
+I can't believe that it
+could be the same one.
+[END]
+
+=== 10 | bc12 | 64 ===
+[POR08]
+Althena...i sense her power,
+but cannot detect her
+presence here.[BRK]
+
+I must find out where she
+is...[END]
+
+=== 11 | bc80 | 25b ===
+[POR02]
+Hiro...tell me i'm having a
+bad dream...wake me up...[BRK]
+
+Please![BRK]
+
+[POR04]
+It's no dream, ruby. These
+are strange goings-on...
+strange, indeed.[BRK]
+
+Hmm, yes, it seems that this
+zophar fellow has cursed her
+very soul.[BRK]
+
+If we don't break the spell,
+she'll most certainly die.[BRK]
+
+[POR08]
+Unghh...i...have...to....
+...althena...before...
+...unghhhh...[BRK]
+
+[POR04]
+Young lady, save your
+strength. You can tell us
+all about it later.[BRK]
+
+[POR08]
+But...time is...i must...
+...only althena can...
+..Zophar...unnghhh...[BRK]
+
+[POR04]
+Come, hiro. We've got to get
+her back to the house.[BRK]
+
+Maybe one of my books will
+give us a clue about how to
+break this curse...
+[END]
+
+=== 12 | bf06 | be ===
+[POR04]
+Hmmmmm...[BRK]
+
+I never thought i'd get to
+see the blue spire this
+close.[BRK]
+
+It seems my research is
+about to pay off...[BRK]
+
+[POR02]
+Let's hope you've learned
+all there is to know about
+what we might find![END]
+
+=== 13 | bfdc | 33 ===
+Hey, you slackers! What
+are you waiting around for?[END]
+
+=== 14 | c012 | ca ===
+[POR02]
+Nall![BRK]
+
+[POR11]
+Time is short. If we don't
+hurry, zophar will return!
+We must go to pentagulia.[BRK]
+
+The blue and black dragons   
+are waiting near there. [BRK]
+
+We have to attack while
+zophar is still weak.[BRK]
+
+Let's go![END]
+
+=== 15 | c0e6 | 11 ===
+Blue spire garden[END]
+
+=== 16 | d5c2 | bd ===
+[POR04]
+Ah, m'boy, we've arrived at
+the seventh floor of the
+spire.[BRK]
+
+The ancient writings speak
+of a secret way to the top
+floor somewhere in here.[BRK]
+
+We must search this room
+thoroughly to find it.[END]
+
+=== 17 | d69a | 22c ===
+[POR04]
+Bah! Oh! Confound it all,
+son! Don't scare me like
+that![BRK]
+
+You had me beside myself
+with worry, young man![BRK]
+
+I've been looking all over
+for you! Where in tarnation
+did you go?[BRK]
+
+....
+.....[BRK]
+
+...oh dear! Who's this
+you've found?[BRK]
+
+[POR02]
+Her name is lucia. We found
+her in a room with a big
+crystal jewel![BRK]
+
+And guess what, grandpa
+gwyn! She's from the blue
+star![BRK]
+
+[POR04]
+By althena herself! A girl
+has traveled to us from
+the blue star!?[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+[POR04]
+Hiro, we've got to get out
+of here.[BRK]
+
+If leo finds her, we're in
+big trouble, and so is she.
+We'll talk later...let's go![END]
+
+=== 18 | d8e2 | 95 ===
+[POR04]
+There's got to be a way
+to the top floor from
+this room, lad.[BRK]
+
+We just have to look harder
+to find it.[BRK]
+
+Examine everything! Leave no
+stone unturned![END]
+
+=== 19 | d98a | 4a ===
+[POR02]
+Whoa, hiro! Look at that!
+I bet this is the place
+grandpa talked about.[END]
+
+=== 1a | d9ec | 5f ===
+[POR02]
+Hmmm...nothing is happening
+this time. But last time,
+it...[BRK]
+
+Maybe it doesn't work
+anymore...[END]
+
+=== 1b | da58 | d ===
+[POR08]
+....
+.....[END]
+
+=== 1c | da74 | 4f ===
+[POR02]
+This is where we met lucia
+for the first time.
+Remember, hiro?[BRK]
+
+[POR01]
+....
+.....[END]
+
+=== 1d | dac8 | d ===
+Blue spire 7f[END]
+
+=== 1e | e6e6 | cd ===
+[POR02]
+H-hiro...i don't think
+we're in kansas anymore...[BRK]
+
+I...i...think this must be
+the secret room grandpa
+was talking about![BRK]
+
+I hope that destroyer leo's
+looking for isn't lurking
+around here...[BRK]
+
+[POR01]
+....
+.....[END]
+
+=== 1f | e7d0 | 14f ===
+[POR01]
+Althena? You mean the
+goddess althena?[BRK]
+
+I don't know if i can help
+you, but i'm willing to
+try![BRK]
+
+[POR08]
+Who are you?[BRK]
+
+[POR01]
+Oh...sorry, i'm hiro.
+And, uh, that's ruby.[BRK]
+
+[POR02]
+In the flesh...[BRK]
+
+[POR08]
+If you are residents of this
+world, you must help me find
+the goddess althena.[BRK]
+
+It's urgent that i find her.
+The fate of your world hangs
+in the balance.[END]
+
+=== 20 | e938 | 1d ===
+[0xB][0][0xB]Hiro took lucia's
+pendant.[END]
+
+=== 21 | e95a | 11 ===
+Transmission room[END]
+
+=== 22 | fbde | 1df ===
+[POR02]
+Whoa! This is fantastic!
+I've never seen anything
+like it![BRK]
+
+[POR08]
+This has been collecting the
+magic of your world for many
+thousands of years.[BRK]
+
+The power it collected was
+to be used to restore the
+blue star someday.[BRK]
+
+...and restoring the blue
+star is the reason for my
+being.[BRK]
+
+[POR02]
+You mean your whole life is
+dedicated to restoring the
+blue star?[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+If we use some of the power
+that's collected here, it
+should revive hiro.[BRK]
+
+I'll transport him to the
+center of the circle.
+[END]
+
+=== 23 | fdc0 | 4d ===
+[POR08]
+Power of magic, flow from
+within. Break the bonds
+that confine this soul!![END]
+
+=== 24 | fe10 | 1b3 ===
+[POR01]
+....
+.....[BRK]
+
+L...lucia? Where...where
+am i? What is thi...this
+place?[BRK]
+
+[POR08]
+Hiro?! Oh hiro! You're alive
+again![BRK]
+
+[POR02]
+You had us all worried there
+for a while![BRK]
+
+[POR05]
+Ya got eight lives left,
+kiddo.[BRK]
+
+[POR10]
+Whew! I was scared this
+wouldn't work and we'd have
+to face zophar alone![BRK]
+
+[POR07]
+We would have paid almost
+anything to get you back![BRK]
+
+[POR08]
+Now that hiro is restored,
+we must go to pentagulia
+immediately![BRK]
+
+Zophar may already have
+the power of althena![END]
+
+=== 25 | ffd6 | 16 ===
+Blue spire energy room[END]
+

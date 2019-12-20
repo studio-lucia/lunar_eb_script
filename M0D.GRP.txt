@@ -1,0 +1,198 @@
+File: M0D.GRP
+
+Messages: 28
+
+=== 0 | 1ab8c | f7 ===
+[POR02]
+Whew! That was too close for
+comfort! Inferno ghouls, 
+booby traps, huge rocks...[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR02]
+But we scored a big reward
+this time, and that makes
+it all worthwhile![BRK]
+
+Oop! We'd better be getting
+back to grandpa's house
+before he worries...
+[END]
+
+=== 1 | 1acae | 99 ===
+[POR02]
+Hiro, remember? This is the
+rock that almost ran us
+over![BRK]
+
+We can't get back into the
+dragon ruins...at least not
+this way. It's blocked.[BRK]
+
+[POR01]
+....
+.....[END]
+
+=== 2 | 1ad54 | 63 ===
+[POR02]
+Besides, we'd better be
+getting back home to
+grandpa.[BRK]
+
+He'll be worried if we're
+not home soon...[END]
+
+=== 3 | 1adca | 74 ===
+[POR02]
+We're not going anywhere
+while this rock is plugging
+the entrance...[BRK]
+
+We'd better just forget
+about going in here.[END]
+
+=== 4 | 1ae5a | 15 ===
+Dragon ruins entrance[END]
+
+=== 5 | 1bcec | f7 ===
+[POR02]
+Whew! That was too close for
+comfort! Inferno ghouls, 
+booby traps, huge rocks...[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR02]
+But we scored a big reward
+this time, and that makes
+it all worthwhile![BRK]
+
+Oop! We'd better be getting
+back to grandpa's house
+before he worries...
+[END]
+
+=== 6 | 1be0e | 99 ===
+[POR02]
+Hiro, remember? This is the
+rock that almost ran us
+over![BRK]
+
+We can't get back into the
+dragon ruins...at least not
+this way. It's blocked.[BRK]
+
+[POR01]
+....
+.....[END]
+
+=== 7 | 1beb4 | 63 ===
+[POR02]
+Besides, we'd better be
+getting back home to
+grandpa.[BRK]
+
+He'll be worried if we're
+not home soon...[END]
+
+=== 8 | 1bf2a | 74 ===
+[POR02]
+We're not going anywhere
+while this rock is plugging
+the entrance...[BRK]
+
+We'd better just forget
+about going in here.[END]
+
+=== 9 | 1bfba | 15 ===
+Dragon ruins entrance[END]
+
+=== a | 1d700 | 27 ===
+[0xB][0][BRK]
+
+Received the right dragon
+eye jewel.[END]
+
+=== b | 1d73e | 26 ===
+[0xB][0][0xD]Received the left dragon
+eye jewel.[END]
+
+=== c | 1d76e | 31 ===
+[POR02]
+Ha! We finally have the left
+dragon eye jewel![END]
+
+=== d | 1d7ac | 63 ===
+[POR02]
+Now that we have the left
+dragon eye jewel, i wonder
+where the right one is?[BRK]
+
+Do you know, hiro??[END]
+
+=== e | 1d81c | 77 ===
+[POR02]
+Now that we have both the
+dragon eye jewels, we can
+get into the star tower.[BRK]
+
+I think it's over in the
+salyan desert.[END]
+
+=== f | 1d8aa | 7c ===
+[POR02]
+Hiro, do you just get your
+kicks playing indy? You
+already got both the jewels.[BRK]
+
+There's nothing left here
+for us to take![END]
+
+=== 10 | 1d934 | 2f ===
+[POR02]
+Hmmm...where is that other
+dragon eye jewel?[END]
+
+=== 11 | 1d974 | 5d ===
+[POR02]
+Okay, hiro, you've got both
+the dragon eyes. Let's go
+to the star tower![BRK]
+
+Lucia is waiting![END]
+
+=== 12 | 1d9d6 | f ===
+Dragon ruins 1f[END]
+
+=== 13 | 1e078 | f ===
+Dragon ruins 1f[END]
+
+=== 14 | 1eff6 | f ===
+Dragon ruins 2f[END]
+
+=== 15 | 1fd84 | f ===
+Dragon ruins 3f[END]
+
+=== 16 | 20c42 | f ===
+Dragon ruins 4f[END]
+
+=== 17 | 21bcc | f ===
+Dragon ruins 5f[END]
+
+=== 18 | 227dc | f ===
+Dragon ruins 6f[END]
+
+=== 19 | 2350a | f ===
+Dragon ruins 7f[END]
+
+=== 1a | 241ee | f ===
+Dragon ruins 8f[END]
+
+=== 1b | 24e68 | f ===
+Dragon ruins 9f[END]
+

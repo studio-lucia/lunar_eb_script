@@ -1,0 +1,3162 @@
+File: M12.GRP
+
+Messages: 211
+
+=== 0 | 19186 | 44a ===
+[POR00]
+Ah! You've returned! I...i
+don't know how to thank
+you!![BRK]
+
+All of the carnival members
+have returned safely.[BRK]
+
+And the best part is that
+the thicket disappeared!
+The exit is now clear![BRK]
+
+[POR10]
+That is good news, indeed![BRK]
+
+We were successful in part
+because i was able to modify
+my dance steps for combat...[BRK]
+
+...but...giban, the time
+has come for me to...[BRK]
+
+[POR00]
+...!? Jean, what's the
+matter?[BRK]
+
+You seem troubled, dear...[BRK]
+
+[POR10]
+I've decided that i'm going
+to leave the carnival for
+a while.[BRK]
+
+I've got to face some
+problems i've been running
+away from...[BRK]
+
+I wish i could tell you 
+more...just know that it's
+something i must do.[BRK]
+
+[POR00]
+Jean, i know your demons
+haunt you.[BRK]
+
+If the time to face them
+has come, so be it![BRK]
+
+You'll never be at peace 
+until you put an end to 
+what's troubling you.[BRK]
+
+Perhaps karate master lunn
+in meribia will help you
+through this.[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+[POR00]
+Jean, we've all done things
+in the past that we wish we
+could change.[BRK]
+
+You've been given a chance
+at redemption. I pray that
+you do not waste it.[BRK]
+
+[POR10]
+I don't know what to say...[BRK]
+
+[POR00]
+Just tell me that you'll
+return in one piece. [BRK]
+
+Now get out of here...
+
+[END]
+
+=== 1 | 195e8 | 46 ===
+[POR02]
+Listen, hiro! It sounds
+like music...[BRK]
+
+What's going on over
+there?
+
+[END]
+
+=== 2 | 19638 | 79 ===
+[POR10]
+Say, how did you find us?
+We don't like to be
+followed...[BRK]
+
+[POR02]
+Relax. We're just passing
+through. Let's get going,
+hiro.[END]
+
+=== 3 | 196c8 | 206 ===
+[POR10]
+Hiro...hmm, that's the
+strangest name i've ever
+heard...[BRK]
+
+And this is the most rag-
+tag party i've ever seen...[BRK]
+
+A weird flying creature,
+a lady in a strange red
+dress, and a card shark.[BRK]
+
+[POR02]
+I'm not strange! Why don't
+you take a look at yourself?[BRK]
+
+[POR05]
+I'll show you what i really
+want to be remembered for.[BRK]
+
+It'll just take five 
+minutes...[BRK]
+
+[POR08]
+...what's wrong with my
+.......dress!?[BRK]
+
+[POR10]
+Hey, relax! I wasn't making
+fun of you![BRK]
+
+I was just making an
+observation...[BRK]
+
+Anyway, you're free to 
+stay with us as long as
+you like.
+
+[END]
+
+=== 4 | 198e6 | 121 ===
+[POR10]
+Hiro, where are you and
+your companions headed?[BRK]
+
+What?...the holy city of
+pentagulia! Are you going
+to go see the goddess?[BRK]
+
+I thought that the goddess
+was just a legend...[BRK]
+
+I wonder if she really does
+exist?[BRK]
+
+[POR08]
+Why do so many people doubt
+the existence of althena?[BRK]
+
+It is so very strange...[END]
+
+=== 5 | 19a22 | 82 ===
+[POR10]
+Don't be shy. You are free
+to go anywhere in our little
+caravan.[BRK]
+
+We have no secrets from the
+outside world. See for
+yourself...[END]
+
+=== 6 | 19ac0 | 1a9 ===
+[POR10]
+We were passing through this
+forest, but were stopped by
+the thicket over there.[BRK]
+
+I don't think there's a way
+around it.[BRK]
+
+To make matters worse, we
+have heard a terrible noise
+coming from the woods.[BRK]
+
+It sounds like a terrible
+monster...perhaps the one
+that made the thicket.[BRK]
+
+Some of the performers are
+getting really scared...[BRK]
+
+[POR02]
+Oh, great! This is the part
+where she asks us to help
+her...[BRK]
+
+Just watch...i know it's
+coming...[END]
+
+=== 7 | 19c7c | 29f ===
+[POR10]
+If only i knew exactly where
+the sounds were coming from![BRK]
+
+Maybe then, i could find the
+monster and get back the
+kidnapped...[BRK]
+
+[POR02]
+What did i say!? Looks like
+they need our help.[BRK]
+
+Say, jean, the voices are
+coming from the hole in the
+eastern tree over there...[BRK]
+
+[POR10]
+...what hole!? I...i don't
+see any hole in the tree
+over there...???[BRK]
+
+[POR02]
+That's because it has a
+magic spell on it. Only
+we can see it.[BRK]
+
+[POR10]
+Hmmm...the magic must've
+been cast to keep outsiders
+from finding it.[BRK]
+
+Show me this hole...perhaps
+with your help, we can
+defeat this, this...beast![BRK]
+
+[POR02]
+Of course! We should be able
+to make short work of this
+thing![BRK]
+
+[POR10]
+Let's go![BRK]
+
+I will find a way to get
+my friends back...[END]
+
+=== 8 | 19f24 | 74 ===
+[POR10]
+Okay, ruby, show me the
+way.[BRK]
+
+[POR02]
+Come on, hiro, we'd better
+hurry and get that monster
+before it gets anyone else![END]
+
+=== 9 | 19fb0 | 1fb ===
+[POR00]
+Howdy, strangers! My name is
+giban. I'm in charge of this
+little caravan.[BRK]
+
+We were on our way to the
+carnival in the madoria
+plains area.[BRK]
+
+But we seem to be unable
+to exit from this part
+of the forest.[BRK]
+
+We've just been stuck here
+practicing for a carnival
+we may never reach...[BRK]
+
+[POR02]
+Is that what jean was doing?
+Practicing? It was awfully
+good...[BRK]
+
+[POR00]
+Oh, you saw jean dancing?
+She's the best dancer we
+have.[BRK]
+
+Whenever she creates a new
+dance step, she puts on a
+show for us.[BRK]
+
+That's what she was doing
+earlier...[END]
+
+=== a | 1a1c2 | 108 ===
+[POR00]
+I met jean when she was a
+scared and lonely young
+lady.[BRK]
+
+I've raised her as my own
+daughter since she was
+found.[BRK]
+
+I think dancing is the only
+thing that keeps her from
+her dark secrets.[BRK]
+
+I've grown quite attached
+to the girl...don't know
+what i'd do without her...[END]
+
+=== b | 1a2de | 74 ===
+[POR00]
+You mark my words, jean is
+going to be the best dancer
+in the whole world...[BRK]
+
+...if we all live to see
+that day...[END]
+
+=== c | 1a366 | d5 ===
+[POR00]
+You're going after the
+monster that did this, hm?[BRK]
+
+Jean, are you sure you're
+making the right decision?[BRK]
+
+I'd die if i lost you...[BRK]
+
+[POR10]
+Yes, giban. I have to go.
+If i don't, soon we'll all
+be captives of this thing.[END]
+
+=== d | 1a44a | d3 ===
+[POR00]
+Well, it looks like we're
+ready to get out of this
+forest.[BRK]
+
+...jean, you know that you
+can always come with us...[BRK]
+
+I know, you have to take 
+care of your past. Just
+hurry back...[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+Thank you, giban.[END]
+
+=== e | 1a52c | 76 ===
+Hey?! How did you get here?[BRK]
+
+If i was you, i would go
+back the way you came.[BRK]
+
+I've got a bad feeling about
+this place...[END]
+
+=== f | 1a5b6 | eb ===
+You'd better hurry and get
+out of here before the noise
+starts again.[BRK]
+
+I just know it's some sort
+of terrible monster...[BRK]
+
+[POR02]
+I heard those voices, too.
+Come on, hiro! Let's find
+a way outta this place![BRK]
+
+[POR00]
+Hopefully...it's not too
+late...[END]
+
+=== 10 | 1a6aa | 133 ===
+Ohhh nooo! There it is
+again! I've gotta get
+outta here![BRK]
+
+[POR02]
+Ronfar, the sound seemed to
+be coming from the enchanted
+path in this tree![BRK]
+
+But these people can't see
+it because they don't have
+the woodsman's spell...[BRK]
+
+[POR05]
+If that creepy sound was
+coming from there,[BRK]
+
+that monster has got to
+be somewhere nearby...[END]
+
+=== 11 | 1a7e0 | 39 ===
+[POR02]
+Oh no, hiro! Did you see
+that? What're we gonna
+do???![END]
+
+=== 12 | 1a82c | 91 ===
+Jean, thank you for saving
+my life. I'm forever in your
+debt.[BRK]
+
+[POR10]
+No, you're not. You should
+be thanking hiro and the
+others for saving your life.[END]
+
+=== 13 | 1a8cc | d0 ===
+Don't you just love our
+carefree way of life?[BRK]
+
+We have no worries. We take
+life one day at a time.[BRK]
+
+This path blockage is our
+only problem.[BRK]
+
+....
+.....[BRK]
+
+Okay! So it's a big problem!
+As if you don't have
+problems![END]
+
+=== 14 | 1a9b0 | 91 ===
+Did...did you see what just
+happened? Oh my god![BRK]
+
+The ground...it just opened
+up and swallowed half the
+troupe![BRK]
+
+We'll never get out of here
+alive![END]
+
+=== 15 | 1aa50 | ad ===
+Yes!!! I don't know how to
+thank you.[BRK]
+
+If we hurry, we'll be able
+to get to the carnival
+before it's over, jean.[BRK]
+
+[POR10]
+I'm sorry, but i've got
+to take care of something
+first...[END]
+
+=== 16 | 1ab14 | 94 ===
+'Join the carnival! Go see
+the world! You'll have an
+adventure!' They all said.[BRK]
+
+Now i'm probably stuck in
+these creepy woods forever![BRK]
+
+Some life...
+
+[END]
+
+=== 17 | 1abc4 | 96 ===
+I hate it here. This
+carnival is no fun at
+all.[BRK]
+
+I knew i should've been an
+undertaker...but nooooooo,[BRK]
+
+'try the carnival,' they all
+said. Ha! Some fun![END]
+
+=== 18 | 1ac76 | 7e ===
+I tell ya, if althena cared
+at all about us, we wouldn't
+be stuck here.[BRK]
+
+[POR08]
+Why do people blame althena
+for all their problems?[END]
+
+=== 19 | 1ad04 | 99 ===
+Geez, it took you forever to
+come and find me![BRK]
+
+What were you waiting for?
+The monster to eat me?[BRK]
+
+[POR10]
+You seem a bit ungrateful
+for what we did, don't you?[END]
+
+=== 1a | 1adac | d0 ===
+Are you tired of those 
+phony fortune-tellers?[BRK]
+
+Then step right up! I've got
+the best set of cards in the
+business.[BRK]
+
+You'll love my friendly, 
+quality service.[BRK]
+
+I'm even endorsed by a 
+former star of miami vice.[END]
+
+=== 1b | 1ae90 | f0 ===
+I knew that you were going
+to come and save me, jean.
+I read it in the cards...[BRK]
+
+[POR10]
+Yeah, just like you foretold
+that the end of the world
+was coming five years ago.[BRK]
+
+And the time when you said
+that i was going to meet
+a handsome stranger...
+[END]
+
+=== 1c | 1af98 | 77 ===
+I've just read in the cards
+that jean will be leaving
+the carnival...[BRK]
+
+And i also predict that
+you will return to us...
+[END]
+
+=== 1d | 1b022 | 60 ===
+Ahhh....what a beautiful
+day to be alive...[BRK]
+
+The clean, fresh air...
+i think i've found paradise![END]
+
+=== 1e | 1b09a | 53 ===
+I think i'm going to skip
+practice today and just take
+in the beauty of this place.[END]
+
+=== 1f | 1b0fc | 92 ===
+I'm kinda depressed that you
+rescued me.[BRK]
+
+I just love the whole under-
+ground cave thing. I wish I
+was still there.[BRK]
+
+[POR10]
+Uh...i'm sorry...i think...?[END]
+
+=== 20 | 1b19e | 86 ===
+Of all the people i have 
+taught how to dance, only 
+jean has mastered the art.[BRK]
+
+She is, without a doubt, the
+best dancer in the world.[END]
+
+=== 21 | 1b238 | 6e ===
+Please! You have to find
+a way to stop the terrible
+monster![BRK]
+
+Our friends...all of our
+friends are just...gone![END]
+
+=== 22 | 1b2b4 | 39 ===
+[POR10]
+Don't worry, we'll find some
+way to get them all back![END]
+
+=== 23 | 1b300 | 109 ===
+Jean! You're still alive!![BRK]
+
+This is great! Now everyone
+will know that i'm the best
+teacher in the world.[BRK]
+
+There is nobody that can
+dance, sing, and fight as
+well as you.[BRK]
+
+And i taught you![BRK]
+
+[POR10]
+I'm grateful for all that
+you have shown me. You
+are an excellent teacher.
+[END]
+
+=== 24 | 1b420 | d9 ===
+I'm going to make sure that
+everyone knows that i 
+trained you, jean...[BRK]
+
+They must know that i 
+trained the best fighter 
+and dancer in the world.[BRK]
+
+[POR10]
+I want to be known for my
+dance, not my fighting.
+Please honor that.[END]
+
+=== 25 | 1b508 | fb ===
+Just look at my totally buff
+body. It drives the women
+mad.[BRK]
+
+They all want to come and 
+weave their names in my 
+chest hair.[BRK]
+
+[POR05]
+Pshaw! That's nothing,
+sonny boy.[BRK]
+
+I've had women tattoo my 
+name all over their butts![BRK]
+
+[POR02]
+I'd tattoo hiro's name on
+my butt![END]
+
+=== 26 | 1b616 | ec ===
+You can't stay away from my
+beauty, can you?[BRK]
+
+Even as darkness falls
+around us and our mortal
+souls are in danger...[BRK]
+
+...still you appreciate my
+smashing good looks.[BRK]
+
+I'm glad that i could bring
+some joy to your life in
+this dark moment...[END]
+
+=== 27 | 1b710 | 11 ===
+[POR10]
+Oh, please...
+[END]
+
+=== 28 | 1b730 | ea ===
+Jean, thank you for saving
+me.[BRK]
+
+It would have been a
+travesty if a body like this
+were destroyed...[BRK]
+
+Now all womankind will once
+again be able to shudder at
+the sight of perfection...[BRK]
+
+[POR10]
+I'm thinking i should've let
+the monster eat you.[END]
+
+=== 29 | 1b82e | 198 ===
+I saw you guys talking with
+jean. Please don't drag her
+into any trouble![BRK]
+
+I don't think i could live 
+with myself if anything 
+ever happened to her...[BRK]
+
+I remember the first day I
+saw jean...[BRK]
+
+She looked as if she was 
+dead. Her clothes were torn
+and bloody...[BRK]
+
+It was several days before
+she even had the strength
+to open her eyes.[BRK]
+
+Jean has never told me what
+she ran away from, but i 
+know it still haunts her.[END]
+
+=== 2a | 1b9de | 6f ===
+It was rumored that jean
+used to be a trained 
+assassin...[BRK]
+
+But i just can't imagine
+dear jean hurting a fly...
+[END]
+
+=== 2b | 1ba60 | 48 ===
+Now that the monster has
+taken all our friends, what
+are we going to do?[END]
+
+=== 2c | 1babc | 78 ===
+What's happened to everyone?
+Jean, you aren't going to go
+fight, are you?[BRK]
+
+[POR10]
+...i'll be back. I have to
+save my friends![END]
+
+=== 2d | 1bb44 | 95 ===
+Jean, i've prayed for your
+safe return...[BRK]
+
+...and now you're thinking
+about leaving again, i hear.[BRK]
+
+[POR10]
+I must. I can't run away
+from my past forever...[END]
+
+=== 2e | 1bbec | 64 ===
+Jean and i are going to 
+dance together soon at the
+world finals.[BRK]
+
+I know we'll win. Jean's
+the best![END]
+
+=== 2f | 1bc68 | b1 ===
+I will admit that some-
+times, i get a bit jealous
+of jean's talent.[BRK]
+
+Usually it's when people are
+gaga over her and ignoring
+me.[BRK]
+
+I hate myself for it, but
+hey! I'm only human...[END]
+
+=== 30 | 1bd30 | 5d ===
+Oh no, what's happening to
+us?[BRK]
+
+Goddess althena! Please save
+us from the evil that is
+upon us![END]
+
+=== 31 | 1bda0 | 8a ===
+Jean, is it true that you're
+going to join forces with
+these outsiders?[BRK]
+
+Does giban know about this?[BRK]
+
+[POR10]
+Yes, so don't worry about
+it, okay?[END]
+
+=== 32 | 1be42 | 9a ===
+Hey, jean, if you're leaving,
+that means i'm the new head
+dancer![BRK]
+
+[POR10]
+Don't get too comfortable in
+your new position. I'll be 
+back before you know it!
+
+
+
+[END]
+
+=== 33 | 1bef0 | 111 ===
+Welcome to our little 
+traveling carnival![BRK]
+
+I hope that you'll be able
+to stay a while and enjoy 
+these pleasant surroundings.[BRK]
+
+We're trying to find a way 
+to get past that giant 
+thicket up ahead.[BRK]
+
+I hope they find a way
+around this thing.[BRK]
+
+Otherwise, i think we're
+all stuck.[END]
+
+=== 34 | 1c018 | 6a ===
+I'm responsible for training
+all the wild animals in this
+carnival.[BRK]
+
+Wanna see where the lion 
+bit me last?[END]
+
+=== 35 | 1c096 | 8a ===
+Say, we're looking for some
+new blood to join us here
+in the carnival.[BRK]
+
+[POR02]
+Now that half your troupe
+got sucked away, i bet you
+are...
+
+
+
+
+[END]
+
+=== 36 | 1c130 | 108 ===
+Thank you for saving my 
+life! I thought i was going
+to die down there.[BRK]
+
+Jean, i didn't know you
+could fight like that.[BRK]
+
+Say, i'm going to work out a
+new act with you and some of
+the wild animals, okay?[BRK]
+
+[POR10]
+I don't think so. I won't
+fight for the amusement of
+others![END]
+
+=== 37 | 1c24c | ba ===
+Ke...ke...eeee
+ku ke...ku...ke
+ka ka...ka...ka![BRK]
+
+[POR08]
+I don't think i've ever
+seen anything like this
+before. What is it?[BRK]
+
+[POR02]
+Uh, hello, lucia? It's a
+bird. Just a dumb old bird.[BRK]
+
+Sheesh....
+[END]
+
+=== 38 | 1c31e | b8 ===
+What the hell is going on
+here?![BRK]
+
+Wiiillllbbuuurrr![BRK]
+
+[POR08]
+Ruby, it can talk! It seems
+like it's frightened of
+something...[BRK]
+
+[POR02]
+Oh man! It looks like it's
+going to freak out any 
+minute now![END]
+
+=== 39 | 1c3ea | bc ===
+Don't just look at me like
+that! Unhook me from these
+damn wagons!![BRK]
+
+Didn't you see what the
+monster just did? We gotta
+get outta here![BRK]
+
+[POR02]
+I think i liked you better
+when you didn't talk...[END]
+
+=== 3a | 1c4ba | 112 ===
+Whew! That was close! At
+least you pulled it off at
+the last minute![BRK]
+
+I thought we were all
+dead meat back there,
+wiiilllburrr![BRK]
+
+[POR02]
+Why do you keep calling me
+that??!!![BRK]
+
+[POR05]
+I think it thinks it's a
+horse, of course.[BRK]
+
+[POR02]
+Ronfar, that's ridiculous!
+Where'd you ever get that
+idea?[END]
+
+=== 3b | 1c5d2 | 12 ===
+Ill woods clearing[END]
+
+=== 3c | 1e2da | 44a ===
+[POR00]
+Ah! You've returned! I...i
+don't know how to thank
+you!![BRK]
+
+All of the carnival members
+have returned safely.[BRK]
+
+And the best part is that
+the thicket disappeared!
+The exit is now clear![BRK]
+
+[POR10]
+That is good news, indeed![BRK]
+
+We were successful in part
+because i was able to modify
+my dance steps for combat...[BRK]
+
+...but...giban, the time
+has come for me to...[BRK]
+
+[POR00]
+...!? Jean, what's the
+matter?[BRK]
+
+You seem troubled, dear...[BRK]
+
+[POR10]
+I've decided that i'm going
+to leave the carnival for
+a while.[BRK]
+
+I've got to face some
+problems i've been running
+away from...[BRK]
+
+I wish i could tell you 
+more...just know that it's
+something i must do.[BRK]
+
+[POR00]
+Jean, i know your demons
+haunt you.[BRK]
+
+If the time to face them
+has come, so be it![BRK]
+
+You'll never be at peace 
+until you put an end to 
+what's troubling you.[BRK]
+
+Perhaps karate master lunn
+in meribia will help you
+through this.[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+[POR00]
+Jean, we've all done things
+in the past that we wish we
+could change.[BRK]
+
+You've been given a chance
+at redemption. I pray that
+you do not waste it.[BRK]
+
+[POR10]
+I don't know what to say...[BRK]
+
+[POR00]
+Just tell me that you'll
+return in one piece. [BRK]
+
+Now get out of here...
+
+[END]
+
+=== 3d | 1e73c | 46 ===
+[POR02]
+...listen, hiro! It sounds
+like music.[BRK]
+
+What's going on over
+there?
+[END]
+
+=== 3e | 1e78c | 79 ===
+[POR10]
+Say, how did you find us?
+We don't like to be
+followed...[BRK]
+
+[POR02]
+Relax, we're just passing
+through. Let's get going,
+hiro.[END]
+
+=== 3f | 1e81c | 206 ===
+[POR10]
+Hiro...hmm, that's the
+strangest name i've ever
+heard...[BRK]
+
+And this is the most rag-
+tag party i've ever seen...[BRK]
+
+A weird flying creature,
+a lady in a strange red
+dress, and a card shark.[BRK]
+
+[POR02]
+I'm not strange! Why don't
+you take a look at yourself?[BRK]
+
+[POR05]
+I'll show you what i really
+want to be remembered for.[BRK]
+
+It'll just take five 
+minutes...[BRK]
+
+[POR08]
+...what's wrong with my
+.......dress!?[BRK]
+
+[POR10]
+Hey, relax! I wasn't making
+fun of you![BRK]
+
+I was just making an
+observation....[BRK]
+
+Anyway, you're free to 
+stay with us as long as
+you like.
+[END]
+
+=== 40 | 1ea3a | 121 ===
+[POR10]
+Hiro, where are you and
+your companions headed?[BRK]
+
+What?...the holy city of
+pentagulia! Are you going
+to go see the goddess?[BRK]
+
+I thought that the goddess
+was just a legend...[BRK]
+
+I wonder if she really does
+exist?[BRK]
+
+[POR08]
+Why do so many people doubt
+the existence of althena?[BRK]
+
+It is so very strange...[END]
+
+=== 41 | 1eb76 | 82 ===
+[POR10]
+Don't be shy. You are free
+to go anywhere in our little
+caravan.[BRK]
+
+We have no secrets from the
+outside world. See for
+yourself...[END]
+
+=== 42 | 1ec14 | 1a9 ===
+[POR10]
+We were passing through this
+forest, but were stopped by
+the thicket over there.[BRK]
+
+I don't think there's a way
+around it.[BRK]
+
+To make matters worse, we
+have heard a terrible noise
+coming from the woods.[BRK]
+
+It sounds like a terrible
+monster...perhaps the one
+that made the thicket.[BRK]
+
+Some of the performers are
+getting really scared...[BRK]
+
+[POR02]
+Oh, great! This is the part
+where she asks us to help
+her...[BRK]
+
+Just watch...i know it's
+coming...[END]
+
+=== 43 | 1edd0 | 29f ===
+[POR10]
+If only i knew exactly where
+the sounds were coming from![BRK]
+
+Maybe then i could find the
+monster and get back the
+kidnapped...[BRK]
+
+[POR02]
+What did i say!? Looks like
+they need our help.[BRK]
+
+Say jean, the voices are
+coming from the hole in the
+eastern tree over there...[BRK]
+
+[POR10]
+...what hole!? I...i don't
+see any hole in the tree
+over there....???[BRK]
+
+[POR02]
+That's because it has a
+magic spell on it. Only
+we can see it.[BRK]
+
+[POR10]
+Hmmm...the magic must've
+been cast to keep outsiders
+from finding it.[BRK]
+
+Show me this hole...perhaps
+with your help, we can
+defeat this, this...beast![BRK]
+
+[POR02]
+Of course! We should be able
+to make short work of this
+thing![BRK]
+
+[POR10]
+Let's go![BRK]
+
+I will find a way to get
+my friends back...
+[END]
+
+=== 44 | 1f078 | 74 ===
+[POR10]
+Okay, ruby, show me the
+way.[BRK]
+
+[POR02]
+Come on, hiro, we'd better
+hurry and get that monster
+before it gets anyone else![END]
+
+=== 45 | 1f104 | 1fb ===
+[POR00]
+Howdy, strangers! My name is
+giban. I'm in charge of this
+little caravan.[BRK]
+
+We were on our way to the
+carnival in the madoria
+plains area.[BRK]
+
+But we seem to be unable
+to exit from this part
+of the forest.[BRK]
+
+We've just been stuck here
+practicing for a carnival
+we may never reach...[BRK]
+
+[POR02]
+Is that what jean was doing?
+Practicing? It was awfully
+good...[BRK]
+
+[POR00]
+Oh, you saw jean dancing?
+She's the best dancer we
+have.[BRK]
+
+Whenever she creates a new
+dance step, she puts on a
+show for us.[BRK]
+
+That's what she was doing
+earlier...[END]
+
+=== 46 | 1f316 | 108 ===
+[POR00]
+I met jean when she was a
+scared and lonely young
+lady.[BRK]
+
+I've raised her as my own
+daughter since she was
+found.[BRK]
+
+I think dancing is the only
+thing that keeps her from
+her dark secrets.[BRK]
+
+I've grown quite attached
+to the girl...don't know
+what i'd do without her...[END]
+
+=== 47 | 1f432 | 74 ===
+[POR00]
+You mark my words, jean is
+going to be the best dancer
+in the whole world...[BRK]
+
+...if we all live to see
+that day...[END]
+
+=== 48 | 1f4ba | d5 ===
+[POR00]
+You're going after the
+monster that did this, hm?[BRK]
+
+Jean, are you sure you're
+making the right decision?[BRK]
+
+I'd die if i lost you...[BRK]
+
+[POR10]
+Yes, giban. I have to go.
+If i don't, soon we'll all
+be captives of this thing.[END]
+
+=== 49 | 1f59e | d3 ===
+[POR00]
+Well, it looks like we're
+ready to get out of this
+forest.[BRK]
+
+...jean, you know that you
+can always come with us...[BRK]
+
+I know, you have to take 
+care of your past. Just
+hurry back...[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+Thank you, giban.[END]
+
+=== 4a | 1f680 | 76 ===
+Hey?! How did you get here?[BRK]
+
+If i was you, i would go
+back the way you came.[BRK]
+
+I've got a bad feeling about
+this place...[END]
+
+=== 4b | 1f70a | eb ===
+You'd better hurry and get
+out of here before the noise
+starts again.[BRK]
+
+I just know it's some sort
+of terrible monster...[BRK]
+
+[POR02]
+I heard those voices, too.
+Come on, hiro! Let's find
+a way outta this place![BRK]
+
+[POR00]
+Hopefully...it's not too
+late...[END]
+
+=== 4c | 1f7fe | 133 ===
+Ohhh nooo! There it is
+again! I've gotta get
+outta here![BRK]
+
+[POR02]
+Ronfar, the sound seemed to
+be coming from the enchanted
+path in this tree![BRK]
+
+But these people can't see
+it because they don't have
+the woodsman's spell...[BRK]
+
+[POR05]
+If that creepy sound was
+coming from there,[BRK]
+
+that monster has got to
+be somewhere nearby...[END]
+
+=== 4d | 1f934 | 39 ===
+[POR02]
+Oh no, hiro! Did you see
+that? What're we gonna
+do???![END]
+
+=== 4e | 1f980 | 91 ===
+Jean, thank you for saving
+my life. I'm forever in your
+debt.[BRK]
+
+[POR10]
+No, you're not. You should
+be thanking hiro and the
+others for saving your life.[END]
+
+=== 4f | 1fa20 | d0 ===
+Don't you just love our
+carefree way of life?[BRK]
+
+We have no worries. We take
+life one day at a time.[BRK]
+
+This path blockage is our
+only problem.[BRK]
+
+....
+.....[BRK]
+
+Okay! So it's a big problem!
+As if you don't have
+problems![END]
+
+=== 50 | 1fb04 | 91 ===
+Did...did you see what just
+happened? Oh my god![BRK]
+
+The ground...it just opened
+up and swallowed half the
+troupe![BRK]
+
+We'll never get out of here
+alive![END]
+
+=== 51 | 1fba4 | ad ===
+Yes!!! I don't know how to
+thank you.[BRK]
+
+If we hurry, we'll be able
+to get to the carnival
+before it's over, jean.[BRK]
+
+[POR10]
+I'm sorry, but i've got
+to take care of something
+first...[END]
+
+=== 52 | 1fc68 | 94 ===
+'Join the carnival! Go see
+the world! You'll have an
+adventure!' They all said.[BRK]
+
+Now i'm probably stuck in
+these creepy woods forever![BRK]
+
+Some life...
+
+[END]
+
+=== 53 | 1fd18 | 96 ===
+I hate it here. This
+carnival is no fun at
+all.[BRK]
+
+I knew i should've been an
+undertaker...but nooooooo,[BRK]
+
+'try the carnival,' they all
+said. Ha! Some fun![END]
+
+=== 54 | 1fdca | 7e ===
+I tell ya, if althena cared
+at all about us, we wouldn't
+be stuck here.[BRK]
+
+[POR08]
+Why do people blame althena
+for all their problems?[END]
+
+=== 55 | 1fe58 | 99 ===
+Geez, it took you forever to
+come and find me![BRK]
+
+What were you waiting for?
+The monster to eat me?[BRK]
+
+[POR10]
+You seem a bit ungrateful
+for what we did, don't you?[END]
+
+=== 56 | 1ff00 | d0 ===
+Are you tired of those 
+phony fortune-tellers?[BRK]
+
+Then step right up! I've got
+the best set of cards in the
+business.[BRK]
+
+You'll love my friendly, 
+quality service.[BRK]
+
+I'm even endorsed by a 
+former star of miami vice.[END]
+
+=== 57 | 1ffe4 | f0 ===
+I knew that you were going
+to come and save me, jean.
+I read it in the cards...[BRK]
+
+[POR10]
+Yeah, just like you foretold
+that the end of the world
+was coming five years ago.[BRK]
+
+And the time when you said
+that i was going to meet
+a handsome stranger...
+[END]
+
+=== 58 | 200ec | 77 ===
+I've just read in the cards
+that jean will be leaving
+the carnival...[BRK]
+
+And i also predict that
+you will return to us...
+[END]
+
+=== 59 | 20176 | 60 ===
+Ahhh....what a beautiful
+day to be alive...[BRK]
+
+The clean, fresh air...
+i think i've found paradise![END]
+
+=== 5a | 201ee | 53 ===
+I think i'm going to skip
+practice today and just take
+in the beauty of this place.[END]
+
+=== 5b | 20250 | 92 ===
+I'm kinda depressed that you
+rescued me.[BRK]
+
+I just love the whole under-
+ground cave thing. I wish I
+was still there.[BRK]
+
+[POR10]
+Uh...i'm sorry...i think...?[END]
+
+=== 5c | 202f2 | 86 ===
+Of all the people i have 
+taught how to dance, only 
+jean has mastered the art.[BRK]
+
+She is, without a doubt, the
+best dancer in the world.[END]
+
+=== 5d | 2038c | 6e ===
+Please! You have to find
+a way to stop the terrible
+monster![BRK]
+
+Our friends...all of our
+friends are just...gone![END]
+
+=== 5e | 20408 | 39 ===
+[POR10]
+Don't worry, we'll find some
+way to get them all back![END]
+
+=== 5f | 20454 | 109 ===
+Jean! You're still alive!![BRK]
+
+This is great! Now everyone
+will know that i'm the best
+teacher in the world.[BRK]
+
+There is nobody that can
+dance, sing, and fight as
+well as you.[BRK]
+
+And i taught you![BRK]
+
+[POR10]
+I'm grateful for all that
+you have shown me. You
+are an excellent teacher.
+[END]
+
+=== 60 | 20574 | d9 ===
+I'm going to make sure that
+everyone knows that i 
+trained you, jean...[BRK]
+
+They must know that i 
+trained the best fighter 
+and dancer in the world.[BRK]
+
+[POR10]
+I want to be known for my
+dance, not my fighting.
+Please honor that.[END]
+
+=== 61 | 2065c | fb ===
+Just look at my totally buff
+body. It drives the women
+mad.[BRK]
+
+They all want to come and 
+weave their names in my 
+chest hair.[BRK]
+
+[POR05]
+Pshaw! That's nothing,
+sonny boy.[BRK]
+
+I've had women tattoo my 
+name all over their butts![BRK]
+
+[POR02]
+I'd tattoo hiro's name on
+my butt![END]
+
+=== 62 | 2076a | ec ===
+You can't stay away from my
+beauty, can you?[BRK]
+
+Even as darkness falls
+around us and our mortal
+souls are in danger...[BRK]
+
+...still you appreciate my
+smashing good looks.[BRK]
+
+I'm glad that i could bring
+some joy to your life in
+this dark moment...[END]
+
+=== 63 | 20864 | 11 ===
+[POR10]
+Oh, please...
+[END]
+
+=== 64 | 20884 | ea ===
+Jean, thank you for saving
+me.[BRK]
+
+It would have been a
+travesty if a body like this
+were destroyed...[BRK]
+
+Now all womankind will once
+again be able to shudder at
+the sight of perfection...[BRK]
+
+[POR10]
+I'm thinking i should've let
+the monster eat you.[END]
+
+=== 65 | 20982 | 198 ===
+I saw you guys talking with
+jean. Please don't drag her
+into any trouble![BRK]
+
+I don't think i could live 
+with myself if anything 
+ever happened to her...[BRK]
+
+I remember the first day I
+saw jean...[BRK]
+
+She looked as if she was 
+dead. Her clothes were torn
+and bloody...[BRK]
+
+It was several days before
+she even had the strength
+to open her eyes.[BRK]
+
+Jean has never told me what
+she ran away from, but i 
+know it still haunts her.[END]
+
+=== 66 | 20b32 | 6f ===
+It was rumored that jean
+used to be a trained 
+assassin...[BRK]
+
+But i just can't imagine
+dear jean hurting a fly...
+[END]
+
+=== 67 | 20bb4 | 48 ===
+Now that the monster has
+taken all our friends, what
+are we going to do?[END]
+
+=== 68 | 20c10 | 78 ===
+What's happened to everyone?
+Jean, you aren't going to go
+fight, are you?[BRK]
+
+[POR10]
+...i'll be back. I have to
+save my friends![END]
+
+=== 69 | 20c98 | 95 ===
+Jean, i've prayed for your
+safe return...[BRK]
+
+...and now you're thinking
+about leaving again, i hear.[BRK]
+
+[POR10]
+I must. I can't run away
+from my past forever...[END]
+
+=== 6a | 20d40 | 64 ===
+Jean and i are going to 
+dance together soon at the
+world finals.[BRK]
+
+I know we'll win. Jean's
+the best![END]
+
+=== 6b | 20dbc | b1 ===
+I will admit that some-
+times, i get a bit jealous
+of jean's talent.[BRK]
+
+Usually it's when people are
+gaga over her and ignoring
+me.[BRK]
+
+I hate myself for it, but
+hey! I'm only human...[END]
+
+=== 6c | 20e84 | 5d ===
+Oh no, what's happening to
+us?[BRK]
+
+Goddess althena! Please save
+us from the evil that is
+upon us![END]
+
+=== 6d | 20ef4 | 8a ===
+Jean, is it true that you're
+going to join forces with
+these outsiders?[BRK]
+
+Does giban know about this?[BRK]
+
+[POR10]
+Yes, so don't worry about
+it, okay?[END]
+
+=== 6e | 20f96 | 9a ===
+Hey, jean, if you're leaving,
+that means i'm the new head
+dancer![BRK]
+
+[POR10]
+Don't get too comfortable in
+your new position. I'll be 
+back before you know it!
+
+
+
+[END]
+
+=== 6f | 21044 | 111 ===
+Welcome to our little 
+traveling carnival![BRK]
+
+I hope that you'll be able
+to stay a while and enjoy 
+these pleasant surroundings.[BRK]
+
+We're trying to find a way 
+to get past that giant 
+thicket up ahead.[BRK]
+
+I hope they find a way
+around this thing.[BRK]
+
+Otherwise, i think we're
+all stuck.[END]
+
+=== 70 | 2116c | 6a ===
+I'm responsible for training
+all the wild animals in this
+carnival.[BRK]
+
+Wanna see where the lion 
+bit me last?[END]
+
+=== 71 | 211ea | 8a ===
+Say, we're looking for some
+new blood to join us here
+in the carnival.[BRK]
+
+[POR02]
+Now that half your troupe
+got sucked away, i bet you
+are...
+
+
+
+
+[END]
+
+=== 72 | 21284 | 108 ===
+Thank you for saving my 
+life! I thought i was going
+to die down there.[BRK]
+
+Jean, i didn't know you
+could fight like that.[BRK]
+
+Say, i'm going to work out a
+new act with you and some of
+the wild animals, okay?[BRK]
+
+[POR10]
+I don't think so. I won't
+fight for the amusement of
+others![END]
+
+=== 73 | 213a0 | ba ===
+Ke...ke...eeee
+ku ke...ku...ke
+ka ka...ka...ka![BRK]
+
+[POR08]
+I don't think i've ever
+seen anything like this
+before. What is it?[BRK]
+
+[POR02]
+Uh, hello, lucia? It's a
+bird. Just a dumb old bird.[BRK]
+
+Sheesh....
+[END]
+
+=== 74 | 21472 | b8 ===
+What the hell is going on
+here?![BRK]
+
+Wiiillllbbuuurrr![BRK]
+
+[POR08]
+Ruby, it can talk! It seems
+like it's frightened of
+something...[BRK]
+
+[POR02]
+Oh man! It looks like it's
+going to freak out any 
+minute now![END]
+
+=== 75 | 2153e | bc ===
+Don't just look at me like
+that! Unhook me from these
+damn wagons!![BRK]
+
+Didn't you see what the
+monster just did? We gotta
+get outta here![BRK]
+
+[POR02]
+I think i liked you better
+when you didn't talk...[END]
+
+=== 76 | 2160e | 112 ===
+Whew! That was close! At
+least you pulled it off at
+the last minute![BRK]
+
+I thought we were all
+dead meat back there,
+wiiilllburrr![BRK]
+
+[POR02]
+Why do you keep calling me
+that??!!![BRK]
+
+[POR05]
+I think it thinks it's a
+horse, of course.[BRK]
+
+[POR02]
+Ronfar, that's ridiculous!
+Where'd you ever get that
+idea?[END]
+
+=== 77 | 21726 | 12 ===
+Ill woods clearing[END]
+
+=== 78 | 233f8 | 44a ===
+[POR00]
+Ah! You've returned! I...i
+don't know how to thank
+you!![BRK]
+
+All of the carnival members
+have returned safely.[BRK]
+
+And the best part is that
+the thicket disappeared!
+The exit is now clear![BRK]
+
+[POR10]
+That is good news, indeed![BRK]
+
+We were successful in part
+because i was able to modify
+my dance steps for combat...[BRK]
+
+...but...giban, the time
+has come for me to...[BRK]
+
+[POR00]
+...!? Jean, what's the
+matter?[BRK]
+
+You seem troubled, dear...[BRK]
+
+[POR10]
+I've decided that i'm going
+to leave the carnival for
+a while.[BRK]
+
+I've got to face some
+problems i've been running
+away from...[BRK]
+
+I wish i could tell you 
+more...just know that it's
+something i must do.[BRK]
+
+[POR00]
+Jean, i know your demons
+haunt you.[BRK]
+
+If the time to face them
+has come, so be it![BRK]
+
+You'll never be at peace 
+until you put an end to 
+what's troubling you.[BRK]
+
+Perhaps karate master lunn
+in meribia will help you
+through this.[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+[POR00]
+Jean, we've all done things
+in the past that we wish we
+could change.[BRK]
+
+You've been given a chance
+at redemption. I pray that
+you do not waste it.[BRK]
+
+[POR10]
+I don't know what to say...[BRK]
+
+[POR00]
+Just tell me that you'll
+return in one piece. [BRK]
+
+Now get out of here...
+
+[END]
+
+=== 79 | 2385a | 46 ===
+[POR02]
+...listen, hiro! It sounds
+like music.[BRK]
+
+What's going on over
+there?
+[END]
+
+=== 7a | 238aa | 79 ===
+[POR10]
+Say, how did you find us?
+We don't like to be
+followed...[BRK]
+
+[POR02]
+Relax, we're just passing
+through. Let's get going,
+hiro.[END]
+
+=== 7b | 2393a | 206 ===
+[POR10]
+Hiro...hmm, that's the
+strangest name i've ever
+heard...[BRK]
+
+And this is the most rag-
+tag party i've ever seen...[BRK]
+
+A weird flying creature,
+a lady in a strange red
+dress, and a card shark.[BRK]
+
+[POR02]
+I'm not strange! Why don't
+you take a look at yourself?[BRK]
+
+[POR05]
+I'll show you what i really
+want to be remembered for.[BRK]
+
+It'll just take five 
+minutes...[BRK]
+
+[POR08]
+...what's wrong with my
+.......dress!?[BRK]
+
+[POR10]
+Hey, relax! I wasn't making
+fun of you![BRK]
+
+I was just making an
+observation....[BRK]
+
+Anyway, you're free to 
+stay with us as long as
+you like.
+[END]
+
+=== 7c | 23b58 | 121 ===
+[POR10]
+Hiro, where are you and
+your companions headed?[BRK]
+
+What?...the holy city of
+pentagulia! Are you going
+to go see the goddess?[BRK]
+
+I thought that the goddess
+was just a legend...[BRK]
+
+I wonder if she really does
+exist?[BRK]
+
+[POR08]
+Why do so many people doubt
+the existence of althena?[BRK]
+
+It is so very strange...[END]
+
+=== 7d | 23c94 | 82 ===
+[POR10]
+Don't be shy. You are free
+to go anywhere in our little
+caravan.[BRK]
+
+We have no secrets from the
+outside world. See for
+yourself...[END]
+
+=== 7e | 23d32 | 1a9 ===
+[POR10]
+We were passing through this
+forest, but were stopped by
+the thicket over there.[BRK]
+
+I don't think there's a way
+around it.[BRK]
+
+To make matters worse, we
+have heard a terrible noise
+coming from the woods.[BRK]
+
+It sounds like a terrible
+monster...perhaps the one
+that made the thicket.[BRK]
+
+Some of the performers are
+getting really scared...[BRK]
+
+[POR02]
+Oh, great! This is the part
+where she asks us to help
+her...[BRK]
+
+Just watch...i know it's
+coming...[END]
+
+=== 7f | 23eee | 29f ===
+[POR10]
+If only i knew exactly where
+the sounds were coming from![BRK]
+
+Maybe then, i could find the
+monster and get back the
+kidnapped...[BRK]
+
+[POR02]
+What did i say!? Looks like
+they need our help.[BRK]
+
+Say, jean, the voices are
+coming from the hole in the
+eastern tree over there...[BRK]
+
+[POR10]
+...what hole!? I...i don't
+see any hole in the tree
+over there...???[BRK]
+
+[POR02]
+That's because it has a
+magic spell on it. Only
+we can see it.[BRK]
+
+[POR10]
+Hmmm...the magic must've
+been cast to keep outsiders
+from finding it.[BRK]
+
+Show me this hole...perhaps
+with your help, we can
+defeat this, this...beast![BRK]
+
+[POR02]
+Of course! We should be able
+to make short work of this
+thing![BRK]
+
+[POR10]
+Let's go![BRK]
+
+I will find a way to get
+my friends back...[END]
+
+=== 80 | 24196 | 74 ===
+[POR10]
+Okay, ruby, show me the
+way.[BRK]
+
+[POR02]
+Come on, hiro, we'd better
+hurry and get that monster
+before it gets anyone else![END]
+
+=== 81 | 24222 | 1fb ===
+[POR00]
+Howdy, strangers! My name is
+giban. I'm in charge of this
+little caravan.[BRK]
+
+We were on our way to the
+carnival in the madoria
+plains area.[BRK]
+
+But we seem to be unable
+to exit from this part
+of the forest.[BRK]
+
+We've just been stuck here
+practicing for a carnival
+we may never reach...[BRK]
+
+[POR02]
+Is that what jean was doing?
+Practicing? It was awfully
+good...[BRK]
+
+[POR00]
+Oh, you saw jean dancing?
+She's the best dancer we
+have.[BRK]
+
+Whenever she creates a new
+dance step, she puts on a
+show for us.[BRK]
+
+That's what she was doing
+earlier...[END]
+
+=== 82 | 24434 | 108 ===
+[POR00]
+I met jean when she was a
+scared and lonely young
+lady.[BRK]
+
+I've raised her as my own
+daughter since she was
+found.[BRK]
+
+I think dancing is the only
+thing that keeps her from
+her dark secrets.[BRK]
+
+I've grown quite attached
+to the girl...don't know
+what i'd do without her...[END]
+
+=== 83 | 24550 | 74 ===
+[POR00]
+You mark my words, jean is
+going to be the best dancer
+in the whole world...[BRK]
+
+...if we all live to see
+that day...[END]
+
+=== 84 | 245d8 | d5 ===
+[POR00]
+You're going after the
+monster that did this, hm?[BRK]
+
+Jean, are you sure you're
+making the right decision?[BRK]
+
+I'd die if i lost you...[BRK]
+
+[POR10]
+Yes, giban. I have to go.
+If i don't, soon we'll all
+be captives of this thing.[END]
+
+=== 85 | 246bc | d3 ===
+[POR00]
+Well, it looks like we're
+ready to get out of this
+forest.[BRK]
+
+...jean, you know that you
+can always come with us...[BRK]
+
+I know, you have to take 
+care of your past. Just
+hurry back...[BRK]
+
+[POR10]
+....
+.....[BRK]
+
+Thank you, giban.[END]
+
+=== 86 | 2479e | 76 ===
+Hey?! How did you get here?[BRK]
+
+If i was you, i would go
+back the way you came.[BRK]
+
+I've got a bad feeling about
+this place...[END]
+
+=== 87 | 24828 | eb ===
+You'd better hurry and get
+out of here before the noise
+starts again.[BRK]
+
+I just know it's some sort
+of terrible monster...[BRK]
+
+[POR02]
+I heard those voices, too.
+Come on hiro! Let's find
+a way outta this place![BRK]
+
+[POR00]
+Hopefully...it's not too
+late...
+[END]
+
+=== 88 | 2491c | 133 ===
+Ohhh nooo! There it is
+again! I've gotta get
+outta here![BRK]
+
+[POR02]
+Ronfar, the sound seemed to
+be coming from the enchanted
+path in this tree![BRK]
+
+But these people can't see
+it because they don't have
+the woodsman's spell...[BRK]
+
+[POR05]
+If that creepy sound was
+coming from there,[BRK]
+
+that monster has got to
+be somewhere nearby...[END]
+
+=== 89 | 24a52 | 39 ===
+[POR02]
+Oh no, hiro! Did you see
+that? What're we gonna
+do???![END]
+
+=== 8a | 24a9e | 91 ===
+Jean, thank you for saving
+my life. I'm forever in your
+debt.[BRK]
+
+[POR10]
+No, you're not. You should
+be thanking hiro and the
+others for saving your life.[END]
+
+=== 8b | 24b3e | d0 ===
+Don't you just love our
+carefree way of life?[BRK]
+
+We have no worries. We take
+life one day at a time.[BRK]
+
+This path blockage is our
+only problem.[BRK]
+
+....
+.....[BRK]
+
+Okay! So it's a big problem!
+As if you don't have
+problems![END]
+
+=== 8c | 24c22 | 91 ===
+Did...did you see what just
+happened? Oh my god![BRK]
+
+The ground...it just opened
+up and swallowed half the
+troupe![BRK]
+
+We'll never get out of here
+alive![END]
+
+=== 8d | 24cc2 | ad ===
+Yes!!! I don't know how to
+thank you.[BRK]
+
+If we hurry, we'll be able
+to get to the carnival
+before it's over, jean.[BRK]
+
+[POR10]
+I'm sorry, but i've got
+to take care of something
+first...[END]
+
+=== 8e | 24d86 | 94 ===
+'Join the carnival! Go see
+the world! You'll have an
+adventure!' They all said.[BRK]
+
+Now, i'm probably stuck in
+these creepy woods forever![BRK]
+
+Some life...
+[END]
+
+=== 8f | 24e36 | 96 ===
+I hate it here. This
+carnival is no fun at
+all.[BRK]
+
+I knew i should've been an
+undertaker...but nooooooo,[BRK]
+
+'try the carnival,' they all
+said. Ha! Some fun![END]
+
+=== 90 | 24ee8 | 7e ===
+I tell ya, if althena cared
+at all about us, we wouldn't
+be stuck here.[BRK]
+
+[POR08]
+Why do people blame althena
+for all their problems?[END]
+
+=== 91 | 24f76 | 99 ===
+Geez, it took you forever to
+come and find me![BRK]
+
+What were you waiting for?
+The monster to eat me?[BRK]
+
+[POR10]
+You seem a bit ungrateful
+for what we did, don't you?[END]
+
+=== 92 | 2501e | d0 ===
+Are you tired of those 
+phony fortune-tellers?[BRK]
+
+Then step right up! I've got
+the best set of cards in the
+business.[BRK]
+
+You'll love my friendly, 
+quality service.[BRK]
+
+I'm even endorsed by a 
+former star of miami vice.[END]
+
+=== 93 | 25102 | f0 ===
+I knew that you were going
+to come and save me, jean.
+I read it in the cards...[BRK]
+
+[POR10]
+Yeah, just like you foretold
+that the end of the world
+was coming five years ago.[BRK]
+
+And the time when you said
+that i was going to meet
+a handsome stranger...
+[END]
+
+=== 94 | 2520a | 77 ===
+I've just read in the cards
+that jean will be leaving
+the carnival...[BRK]
+
+And i also predict that
+you will return to us...
+[END]
+
+=== 95 | 25294 | 60 ===
+Ahhh...what a beautiful
+day to be alive...[BRK]
+
+The clean, fresh air...
+i think i've found paradise!
+[END]
+
+=== 96 | 2530c | 53 ===
+I think i'm going to skip
+practice today and just take
+in the beauty of this place.[END]
+
+=== 97 | 2536e | 92 ===
+I'm kinda depressed that you
+rescued me.[BRK]
+
+I just love the whole under-
+ground cave thing. I wish I
+was still there.[BRK]
+
+[POR10]
+Uh...i'm sorry...i think...?[END]
+
+=== 98 | 25410 | 86 ===
+Of all the people i have 
+taught how to dance, only 
+jean has mastered the art.[BRK]
+
+She is, without a doubt, the
+best dancer in the world.[END]
+
+=== 99 | 254aa | 6e ===
+Please! You have to find
+a way to stop the terrible
+monster![BRK]
+
+Our friends...all of our
+friends are just...gone![END]
+
+=== 9a | 25526 | 39 ===
+[POR10]
+Don't worry, we'll find some
+way to get them all back![END]
+
+=== 9b | 25572 | 109 ===
+Jean! You're still alive!![BRK]
+
+This is great! Now everyone
+will know that i'm the best
+teacher in the world.[BRK]
+
+There is nobody that can
+dance, sing, and fight as
+well as you.[BRK]
+
+And i taught you![BRK]
+
+[POR10]
+I'm grateful for all that
+you have shown me. You
+are an excellent teacher.
+[END]
+
+=== 9c | 25692 | d9 ===
+I'm going to make sure that
+everyone knows that i 
+trained you, jean...[BRK]
+
+They must know that i 
+trained the best fighter 
+and dancer in the world.[BRK]
+
+[POR10]
+I want to be known for my
+dance, not my fighting.
+Please honor that.[END]
+
+=== 9d | 2577a | fb ===
+Just look at my totally buff
+body. It drives the women
+mad.[BRK]
+
+They all want to come and 
+weave their names in my 
+chest hair.[BRK]
+
+[POR05]
+Pshaw! That's nothing,
+sonny boy.[BRK]
+
+I've had women tattoo my 
+name all over their butts![BRK]
+
+[POR02]
+I'd tattoo hiro's name on
+my butt![END]
+
+=== 9e | 25888 | ec ===
+You can't stay away from my
+beauty, can you?[BRK]
+
+Even as darkness falls
+around us and our mortal
+souls are in danger...[BRK]
+
+...still you appreciate my
+smashing good looks.[BRK]
+
+I'm glad that i could bring
+some joy to your life in
+this dark moment...[END]
+
+=== 9f | 25982 | 11 ===
+[POR10]
+Oh, please...
+[END]
+
+=== a0 | 259a2 | ea ===
+Jean, thank you for saving
+me.[BRK]
+
+It would have been a
+travesty if a body like this
+were destroyed...[BRK]
+
+Now all womankind will once
+again be able to shudder at
+the sight of perfection...[BRK]
+
+[POR10]
+I'm thinking i should've let
+the monster eat you.[END]
+
+=== a1 | 25aa0 | 198 ===
+I saw you guys talking with
+jean. Please don't drag her
+into any trouble![BRK]
+
+I don't think i could live 
+with myself if anything 
+ever happened to her...[BRK]
+
+I remember the first day I
+saw jean...[BRK]
+
+She looked as if she was 
+dead. Her clothes were torn
+and bloody...[BRK]
+
+It was several days before
+she even had the strength
+to open her eyes.[BRK]
+
+Jean has never told me what
+she ran away from, but i 
+know it still haunts her.[END]
+
+=== a2 | 25c50 | 6f ===
+It was rumored that jean
+used to be a trained 
+assassin...[BRK]
+
+But i just can't imagine
+dear jean hurting a fly...
+[END]
+
+=== a3 | 25cd2 | 48 ===
+Now that the monster has
+taken all our friends, what
+are we going to do?[END]
+
+=== a4 | 25d2e | 78 ===
+What's happened to everyone?
+Jean, you aren't going to go
+fight, are you?[BRK]
+
+[POR10]
+...i'll be back. I have to
+save my friends![END]
+
+=== a5 | 25db6 | 95 ===
+Jean, i've prayed for your
+safe return...[BRK]
+
+...and now you're thinking
+about leaving again, i hear.[BRK]
+
+[POR10]
+I must. I can't run away
+from my past forever...[END]
+
+=== a6 | 25e5e | 64 ===
+Jean and i are going to 
+dance together soon at the
+world finals.[BRK]
+
+I know we'll win. Jean's
+the best![END]
+
+=== a7 | 25eda | b1 ===
+I will admit that some-
+times, i get a bit jealous
+of jean's talent.[BRK]
+
+Usually it's when people are
+gaga over her and ignoring
+me.[BRK]
+
+I hate myself for it, but
+hey! I'm only human...[END]
+
+=== a8 | 25fa2 | 5d ===
+Oh no, what's happening to
+us?[BRK]
+
+Goddess althena! Please save
+us from the evil that is
+upon us![END]
+
+=== a9 | 26012 | 8a ===
+Jean, is it true that you're
+going to join forces with
+these outsiders?[BRK]
+
+Does giban know about this?[BRK]
+
+[POR10]
+Yes, so don't worry about
+it, okay?[END]
+
+=== aa | 260b4 | 9a ===
+Hey, jean, if you're leaving,
+that means i'm the new head
+dancer![BRK]
+
+[POR10]
+Don't get too comfortable in
+your new position. I'll be 
+back before you know it!
+
+
+
+[END]
+
+=== ab | 26162 | 111 ===
+Welcome to our little 
+traveling carnival![BRK]
+
+I hope that you'll be able
+to stay a while and enjoy 
+these pleasant surroundings.[BRK]
+
+We're trying to find a way 
+to get past that giant 
+thicket up ahead.[BRK]
+
+I hope they find a way
+around this thing.[BRK]
+
+Otherwise, i think we're
+all stuck.[END]
+
+=== ac | 2628a | 6a ===
+I'm responsible for training
+all the wild animals in this
+carnival.[BRK]
+
+Wanna see where the lion 
+bit me last?[END]
+
+=== ad | 26308 | 8a ===
+Say, we're looking for some
+new blood to join us here
+in the carnival.[BRK]
+
+[POR02]
+Now that half your troupe
+got sucked away, i bet you
+are...
+
+
+
+
+[END]
+
+=== ae | 263a2 | 108 ===
+Thank you for saving my 
+life! I thought i was going
+to die down there.[BRK]
+
+Jean, i didn't know you
+could fight like that.[BRK]
+
+Say, i'm going to work out a
+new act with you and some of
+the wild animals, okay?[BRK]
+
+[POR10]
+I don't think so. I won't
+fight for the amusement of
+others![END]
+
+=== af | 264be | ba ===
+Ke...ke...eeee
+ku ke...ku...ke
+ka ka...ka...ka![BRK]
+
+[POR08]
+I don't think i've ever
+seen anything like this
+before. What is it?[BRK]
+
+[POR02]
+Uh, hello, lucia? It's a
+bird. Just a dumb old bird.[BRK]
+
+Sheesh...
+
+[END]
+
+=== b0 | 26590 | b8 ===
+What the hell is going on
+here?![BRK]
+
+Wiiillllbbuuurrr![BRK]
+
+[POR08]
+Ruby, it can talk! It seems
+like it's frightened of
+something...[BRK]
+
+[POR02]
+Oh man! It looks like it's
+going to freak out any 
+minute now![END]
+
+=== b1 | 2665c | bc ===
+Don't just look at me like
+that! Unhook me from these
+damn wagons!![BRK]
+
+Didn't you see what the
+monster just did? We gotta
+get outta here![BRK]
+
+[POR02]
+I think i liked you better
+when you didn't talk...[END]
+
+=== b2 | 2672c | 112 ===
+Whew! That was close! At
+least you pulled it off at
+the last minute![BRK]
+
+I thought we were all
+dead meat back there,
+wiiilllburrr![BRK]
+
+[POR02]
+Why do you keep calling me
+that??!!![BRK]
+
+[POR05]
+I think it thinks it's a
+horse, of course.[BRK]
+
+[POR02]
+Ronfar, that's ridiculous!
+Where'd you ever get that
+idea?[END]
+
+=== b3 | 26844 | 12 ===
+Ill woods clearing[END]
+
+=== b4 | 283e8 | 13e ===
+My big sister jean is a fan
+dancer now, but i heard she
+used to be a karate master![BRK]
+
+Okay, so she's not my real
+sister, but we were raised
+together.[BRK]
+
+One day, i want to grow up
+to be a strong karate
+fighter![BRK]
+
+I've asked jean to teach me
+karate, but she always gets
+sad when i mention it.[BRK]
+
+I wish i knew why she did
+that...[END]
+
+=== b5 | 2853e | 75 ===
+I want to learn to be a
+karate master, but my sister
+won't teach me.[BRK]
+
+I love making the noise...[BRK]
+
+Hiiiiiiii---yaaaaaaa![END]
+
+=== b6 | 285c6 | 4a ===
+I'm scared! Please defeat
+the bad monster before it
+takes any more people![END]
+
+=== b7 | 2861e | 4e ===
+[POR10]
+I'll do what i can, little
+brother. But i don't think
+i need to use karate.[END]
+
+=== b8 | 2867c | 15d ===
+Jean...you're going to leave
+us, aren't you? Please don't
+go![BRK]
+
+I-i need you to stay so you
+can teach me karate![BRK]
+
+[POR10]
+Don't worry, little brother.
+I'll be back soon to teach
+you what you need to know.[BRK]
+
+But i won't teach you the
+aggressive karate of death,
+only the defensive moves.[BRK]
+
+That's all you need to know
+to become a strong defender
+of our troupe.
+
+[END]
+
+=== b9 | 287e8 | 11e ===
+That jean! Always pretending
+no one notices her![BRK]
+
+Before she came, i was the
+best dancer in our caravan![BRK]
+
+Then, we had to go and
+rescue that stupid girl![BRK]
+
+When we found her she was
+just a poor urchin in torn
+karate rags![BRK]
+
+Hah! I wish she had never
+joined us. Then i would
+still be the best![END]
+
+=== ba | 2891a | 43 ===
+Ah...ahhh...ahhhh! That...
+that thing! It's going to
+kill us all!
+
+[END]
+
+=== bb | 28970 | 75 ===
+Jean...this is really
+tough for me to admit,[BRK]
+
+....
+.....[BRK]
+
+But you saved our caravan,
+and i owe you my deepest
+thanks.
+
+[END]
+
+=== bc | 289fc | ff ===
+I've been jealous of your
+talent. I want that to
+change.[BRK]
+
+Jean, i know we haven't been
+the best of friends, but i'd
+like to try.[BRK]
+
+[POR10]
+Oh! That's so good to hear
+from you! I never wanted to
+be rivals anyway.[BRK]
+
+From now on, we're nothing
+but the best of friends![END]
+
+=== bd | 28b0e | 1f8 ===
+...oh jean! Do you know the
+affection i feel for you?[BRK]
+
+Ever since i first saw your
+flowing skirt rise in tempo
+to the music...i knew.[BRK]
+
+I don't care that your past
+is shrouded in secrecy. I
+can live with your sins.[BRK]
+
+I want to be with you, to
+hold you...to, to...rub warm
+goat's milk on your...[BRK]
+
+[POR02]
+Whew! Is it getting hot in
+here? I think it's getting
+hotter in here...[BRK]
+
+You know, i think this jean
+gal needs to be warned about
+this guy.[BRK]
+
+[POR00]
+Warned? Why? Why would you
+have to warn jean of the
+depth of my love?[END]
+
+=== be | 28d1e | 8c ===
+Jean, jean, jelly bean. Let
+me wrap my tongue around
+your gourmet sweets...[BRK]
+
+[POR02]
+Have you said this stuff to
+jean's face?[BRK]
+
+I bet she'd slap it![END]
+
+=== bf | 28dbe | 15f ===
+What? A monster is attacking
+our caravan?! Oh, why'd it
+have to be today!!??[BRK]
+
+If i didn't have diarrhea, 
+i'd be able to show jean
+my brave skill![BRK]
+
+[POR02]
+Um, yeah...right. Diarrhea.
+You should try anyway.[BRK]
+
+Maybe you could immobilize
+the monster like one of
+those sticky-foam guns.[BRK]
+
+It could be your secret
+weapon.[BRK]
+
+Hehe...or better yet...your
+stinky weapon...[END]
+
+=== c0 | 28f30 | bd ===
+Oh jean! I knew you would
+be able to defeat that
+terrible, terrible monster.[BRK]
+
+Jean...sweetheart, come to
+me so i can hold you close.[BRK]
+
+[POR10]
+Excuse me? Do i know you?[BRK]
+
+There must be some mistake.
+[END]
+
+=== c1 | 29004 | a1 ===
+I've heard you're leaving
+the caravan, jean.[BRK]
+
+Just know that anytime you
+need a shoulder to cry on,
+i'll be here waiting.[BRK]
+
+[POR10]
+Excuse me? Where is this
+coming from?[END]
+
+=== c2 | 290aa | f ===
+Caravan coach 1[END]
+
+=== c3 | 296c2 | 13c ===
+La la la la la la la
+la la la la....[BRK]
+
+I just love to sing. It does
+something to my spirit, my
+soul...[BRK]
+
+But the head of the althena
+cult doesn't allow any song
+in his shrine![BRK]
+
+I thought that was strange,
+since the althena of legend
+was known for her singing...[BRK]
+
+[POR08]
+But what is the purpose of
+song? I don't understand...
+
+[END]
+
+=== c4 | 29816 | 43 ===
+O goddess of light, sing
+for me a song tonight.[BRK]
+
+La la la la la...
+
+[END]
+
+=== c5 | 2986c | 8f ===
+A monster, a monster! It
+came to our door![BRK]
+
+A monster! A monster! Is
+outside no more![BRK]
+
+[POR02]
+Man! This guy must really
+like singing! He never
+stops![END]
+
+=== c6 | 2990a | 169 ===
+In return for you helping
+our little caravan, i'll
+make a song for you.[BRK]
+
+It starts out like this...[BRK]
+
+'Welcome to the jungle, we
+got weeds to tame...[BRK]
+
+If they stoke your allergies
+well, it's the price you
+pay.'[BRK]
+
+....
+.....[BRK]
+
+What do you think? I just
+made that part up! I'll work
+on the rest...[BRK]
+
+[POR02]
+I can't put my finger right
+on it, but that sounds
+awfully familiar...[END]
+
+=== c7 | 29a82 | 103 ===
+I'm afraid i'm not a very
+good dancer. Especially
+compared to jean.[BRK]
+
+But i keep trying. Someday
+i hope to dance in one of
+the festivals to althena.[BRK]
+
+[POR08]
+Why do they dance at these
+festivals to althena?[BRK]
+
+Did althena tell them to?
+I don't understand any of
+this...
+[END]
+
+=== c8 | 29b98 | 51 ===
+Ohhhh! This is terrible!
+Just terrible...the monster
+will get us all, eventually![END]
+
+=== c9 | 29bf8 | 92 ===
+I'm so happy that you
+defeated that loathsome
+monster![BRK]
+
+Now we can all get to the
+carnival.[BRK]
+
+[POR10]
+Remember, save a spot for
+me in the dancing roster!
+[END]
+
+=== ca | 29c90 | f ===
+Caravan coach 2[END]
+
+=== cb | 2a2bc | 1a3 ===
+Have you ever seen anything
+like this baby?[BRK]
+
+It's called a magic arrow.
+It'll be one of our most
+popular attractions.[BRK]
+
+[POR02]
+Attractions? Looks more like
+an accident waiting to
+happen to me![BRK]
+
+[POR00]
+Oh, no! It's quite safe, i'm
+certain.[BRK]
+
+I've got it all worked out
+on paper, and we've already
+sent monkeys up in it![BRK]
+
+Aside from a little brain
+swelling, they're fine.[BRK]
+
+Besides, i think i've fixed
+the thing that caused that
+anyway...[END]
+
+=== cc | 2a472 | 95 ===
+If only this magic arrow
+were bigger! Then everyone
+could fly away in it.[BRK]
+
+But it's not, so what shall
+we do about this monster?
+Oh dear...oh dear...
+[END]
+
+=== cd | 2a516 | 108 ===
+I'm actually getting too
+old for this kind of life.[BRK]
+
+I was toying with the idea
+of settling down and giving
+up this job.[BRK]
+
+But i'm the only person
+that knows how to work the
+magic arrow...[BRK]
+
+...and it's our number one
+attraction! Oh...i don't
+know what i'm gonna do...
+[END]
+
+=== ce | 2a624 | 44 ===
+Hello! Joe the carpetbagger,
+at your service! What can I
+do for you?[END]
+
+=== cf | 2a672 | 40 ===
+Thanks for stopping by! Come
+again anytime...if you can
+find me![END]
+
+=== d0 | 2a6b8 | f ===
+Caravan coach 3[END]
+
+=== d1 | 2ace4 | 154 ===
+[POR02]
+We did it! Now the people
+of the gypsy caravan are
+safe![BRK]
+
+[POR10]
+....
+.....[BRK]
+
+[POR10]
+Those dance steps i knew
+worked pretty good in
+combat...[BRK]
+
+I don't think we could have
+taken that beast without it.[BRK]
+
+[POR05]
+Hey, and don't forget the
+power of my lucky dice,
+babe![BRK]
+
+I was rollin' thunder back
+there![BRK]
+
+[POR02]
+Yeah, and i was rollin'
+my eyes, you arrogant
+boob...[END]
+
+=== d2 | 2ae42 | 10 ===
+Plantella's lair[END]
+

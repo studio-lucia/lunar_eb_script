@@ -1,0 +1,182 @@
+File: M05.GRP
+
+Messages: 20
+
+=== 0 | 1a720 | 63 ===
+[POR02]
+Uh...h-hiro, this statue
+gives me the creeps. It's
+staring at me.[BRK]
+
+Let's get away from it,
+okay?
+[END]
+
+=== 1 | 1a790 | a8 ===
+[POR04]
+They are the guardians of
+the blue spire.[BRK]
+
+They'll only be trouble if
+the tower is threatened.[BRK]
+
+It's probably better not
+to tempt fate, though. You
+better step away...[END]
+
+=== 2 | 1a858 | 41 ===
+[POR04]
+This is the entrance. Hiro,
+hand me back the dragon eye
+jewel.[END]
+
+=== 3 | 1a89c | 80 ===
+[POR04]
+Hmmm...now if we put the
+jewel in the eye here, the
+door should...[BRK]
+
+[POR00]
+[0xB][0]
+Gwyn placed the dragon eye
+jewel in the left socket.[END]
+
+=== 4 | 1a926 | 61 ===
+[POR04]
+....
+.....[BRK]
+
+Hmmm, that's strange. The
+door should have become
+visible...[BRK]
+
+Very, very...strange.
+[END]
+
+=== 5 | 1a9a2 | 109 ===
+[POR04]
+I'm sure that putting the
+jewel in the left eye should
+have opened the door.[BRK]
+
+Maybe something has changed?
+I can't imagine what...[BRK]
+
+[POR02]
+Hiro...this face looks like
+the one we saw in the cave![BRK]
+
+Maybe the eye we took from
+that one will work in this
+dragon's right eye![END]
+
+=== 6 | 1aac4 | 35 ===
+[0xB][0][BRK]
+
+Hiro put the right dragon
+eye jewel in the socket.[END]
+
+=== 7 | 1ab02 | d9 ===
+[POR04]
+Eureka! The entrance to
+the blue spire![BRK]
+
+I didn't know you found
+another dragon's eye jewel,
+hiro.[BRK]
+
+What else haven't you told
+your grandpa, hmmm?[BRK]
+
+Oh well, no time for that.
+Let's get inside while the
+door beckons...[END]
+
+=== 8 | 1abe4 | 13 ===
+Blue spire entrance[END]
+
+=== 9 | 1be32 | 11 ===
+Blue labyrinth b3[END]
+
+=== a | 1f72e | 10 ===
+Blue labrynth b2[END]
+
+=== b | 20584 | 12 ===
+Blue lab star room[END]
+
+=== c | 20bfc | 11 ===
+Blue lab sun room[END]
+
+=== d | 21272 | 12 ===
+Blue lab moon room[END]
+
+=== e | 21904 | 12 ===
+Blue lab mystic rm[END]
+
+=== f | 21f96 | 157 ===
+[POR04]
+Oh, fiddle! I suspected this
+might happen.[BRK]
+
+Look, hiro! The guardian's
+awake! Now we'll have to
+fight to get out![BRK]
+
+[POR02]
+Are you kidding, grandpa?!
+Look at the size of that
+thing's flail![BRK]
+
+It'll pummel us into sewage!
+Uh-uh. No thanks. There's
+got to be a better way...[BRK]
+
+[POR04]
+Ruby, i wish there were, but
+there's not. We've just got
+to outsmart it.
+[END]
+
+=== 10 | 22104 | b2 ===
+[POR02]
+I don't like this...not one
+bit![BRK]
+
+But if this is the only
+way, let's go.[BRK]
+
+Just remember...[BRK]
+
+When he's tying our entrails
+into neat little packages,
+don't say i didn't warn you!
+
+[END]
+
+=== 11 | 221c6 | 40 ===
+[POR02]
+This statue is giving me the
+creeps. Let's get out of
+here...[END]
+
+=== 12 | 22214 | fd ===
+[POR04]
+Oh dear, this is turning
+into quite an ordeal! Here's
+another guardian![BRK]
+
+Fortunately, we haven't done
+anything to threaten the
+spire![BRK]
+
+One hostile act on our part,
+and we'd be in a serious
+world of hurt![BRK]
+
+C'mon, kids...hurry along.
+We must keep moving!
+[END]
+
+=== 13 | 2232e | 10 ===
+Blue labrynth b1[END]
+

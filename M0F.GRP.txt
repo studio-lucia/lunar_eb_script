@@ -1,0 +1,1686 @@
+File: M0F.GRP
+
+Messages: 139
+
+=== 0 | 14296 | 7f ===
+Halt! You have no business
+aboard the dragon steam-
+ship destiny![BRK]
+
+You'd better leave before
+lord leo returns from
+gwyn's house![END]
+
+=== 1 | 14322 | 49 ===
+[POR02]
+Hiro? What is lord leo
+doing at grandpa's house?
+We'd better find out![END]
+
+=== 2 | 1437e | 8e ===
+This is the dragonship
+destiny, pride of the
+entire althena guard![BRK]
+
+What? Lord leo? He's
+retired to his quarters.
+You'd better not bother him.
+[END]
+
+=== 3 | 1441a | 43 ===
+[POR04]
+But i must tell him of
+the events at the blue
+tower! Let us in!
+[END]
+
+=== 4 | 1446c | 3b ===
+This area is off-limits
+without the permission
+of lord leo.[END]
+
+=== 5 | 144b6 | 67 ===
+Halt! Who goes there?![BRK]
+
+Freakin' thrill-seekers!
+If ya don't vacate the ship
+right now, i'll haul ya in![END]
+
+=== 6 | 1452c | 82 ===
+The dragonship destiny was
+given to lord leo by the
+goddess althena.[BRK]
+
+It is equipped with a mighty
+white dragon cannon at its
+bow.
+[END]
+
+=== 7 | 145be | 8f ===
+We are retained by the
+goddess althena herself to
+keep our world from harm.[BRK]
+
+This ship draws on her
+power, and lord leo
+answers directly to her.[END]
+
+=== 8 | 1465c | b9 ===
+The goddess althena is
+fairest of the fair.[BRK]
+
+I saw her once, and i'll
+never forget it...[BRK]
+
+That milky skin, the curve
+of her hips...those smooth,
+supple br...[BRK]
+
+.............uh, never mind!
+[END]
+
+=== 9 | 1473c | 7d ===
+[POR09]
+Ha ha ha ha!
+Is that everything you've
+got, my boy?[BRK]
+
+With such paltry skill,
+you don't stand a chance
+of changing anything![END]
+
+=== a | 147c6 | c0 ===
+[POR09]
+Hiro, your skill is without
+equal. Perhaps you are the
+one of legend.[BRK]
+
+Please take this. It holds
+the power of the white
+dragon within it.[BRK]
+
+[POR00]
+[0xB][0][0x4]Received the white dragon
+aura from lord leo.[END]
+
+=== b | 14890 | d3 ===
+[POR09]
+The white dragon sleeps
+within the iceberg of the
+north sea.[BRK]
+
+Take my ship. It will get
+you there swiftly. You've
+no time to waste![BRK]
+
+Take to the seas outside
+meribia and use the helm
+of the destiny to navigate.[END]
+
+=== c | 1496c | 10b ===
+[POR09]
+The time has come for me
+to relinquish command of
+the destiny.[BRK]
+
+Take the helm, hiro. You are
+now the destiny's captain.[BRK]
+
+I cannot remain with you to
+fight, so it is here that
+we must part ways.[BRK]
+
+[POR01]
+But...leo.[BRK]
+
+[POR09]
+Fight bravely, fight well,
+and most of all fight fair.
+[END]
+
+=== d | 14a96 | 67 ===
+[POR09]
+Come on, lad! I know you
+can do better than that![BRK]
+
+I'll give you another shot.
+Concentrate this time![END]
+
+=== e | 14b14 | d ===
+[POR01]
+....
+.....[END]
+
+=== f | 14b40 | 7b ===
+[POR02]
+Hey! Hey, hiro! Let's get
+this ship moving![BRK]
+
+Didn't leo say that we
+could move the ship from
+the helm?[BRK]
+
+Hop to it, buster![END]
+
+=== 10 | 14bd2 | 18a ===
+[POR02]
+Hiro! Lucia! Look! It's the
+port of pentagulia![BRK]
+
+[POR08]
+I'm certain that althena's
+impostor has closed the
+transmission spring by now.[BRK]
+
+So the only way to get back
+to althena's tower will be
+to break zophar's seal.[BRK]
+
+Once we arrive, i can try to
+use dragonpower to break it.[BRK]
+
+Hopefully there will be
+enough power...and then...[BRK]
+
+....
+.....[BRK]
+
+Oh, althena must trust me,
+even if the result is...[BRK]
+
+[POR01]
+.....?
+[END]
+
+=== 11 | 14d66 | 1f0 ===
+[ROR08]
+I know your plan, ghaleon.[BRK]
+
+You have joined with zophar
+to destroy this world![BRK]
+
+[ROR14]
+Me? Destroy the world?
+Oh dear, that sounds so,
+so...barbaric.[BRK]
+
+Hmm, hmm, hmm, hmmm...[BRK]
+
+I love it.[BRK]
+
+But don't confuse my
+intentions, sweet child.[BRK]
+
+I fully intend to recreate
+the world with zophar once
+the impurities are removed.[BRK]
+
+And i've decided to start
+my impurity abatement 
+program with you, lucia.[BRK]
+
+Wave bye-bye to your little
+boyfriend, dear.[BRK]
+
+I sense a coming....chill
+in your relationship...[BRK]
+
+Ha ha ha ha ha!
+
+
+[END]
+
+=== 12 | 14f60 | 2f3 ===
+[ROR14]
+Hrmph! What a seriously
+confused little boy.[BRK]
+
+If he had minded his own
+business, he'd still be
+alive.[BRK]
+
+But now that he's out of
+the way, lucia is all mine![BRK]
+
+[ROR08]
+Hiro!?...hiro!!!
+Nooooooo![BRK]
+
+[ROR14]
+....
+.....[BRK]
+
+[ROR08]
+Hiro! Why did you...[BRK]
+
+[ROR14]
+Ha ha ha! Poor, lost, little
+lucia. You care for hiro
+more than yourself.[BRK]
+
+That's so touching. You
+know, there is a way you can
+save your true love...[BRK]
+
+If you were to give me the
+secret of the blue tower's
+true power, i could...[BRK]
+
+[ROR08]
+Ghaleon! How do you know
+about the blue tower's
+secret power?![BRK]
+
+[ROR14]
+Ha ha ha. I know many 
+things, my dear.[BRK]
+
+I also know that you now 
+control the destiny of your
+little hiro.[BRK]
+
+Go to pentagulia and finish
+your mission, or return to 
+the blue tower to save hiro.[BRK]
+
+It's up to you...hm hm hm
+hm hm hm...
+
+[END]
+
+=== 13 | 15274 | 16e ===
+[POR02]
+Oh no! Hiro! Hiro!
+Lucia, you have to save
+hiro! Please???[BRK]
+
+[POR05]
+Looks like our luck's taken
+a turn for the worse...
+damn that ghaleon![BRK]
+
+[POR07]
+If ghaleon can change a
+human into crystal, who can
+stop him?[BRK]
+
+[POR10]
+Lucia has the power to save
+hiro and stop ghaleon...he
+said it himself...[BRK]
+
+[POR08]
+If i use the secret power of
+the blue tower, i can save
+hiro...[BRK]
+
+...but that would...
+[END]
+
+=== 14 | 15402 | 1c6 ===
+[POR08]
+....
+.....hiro.[BRK]
+
+If the world is destroyed
+because of my decision,
+you'll never forgive me.[BRK]
+
+Before i met you, my 
+thoughts were so clear.[BRK]
+
+I had simply to come here
+and accomplish my simple
+mission. But now...[BRK]
+
+Oh, hiro! What shall i do?
+Nothing makes sense anymore.[BRK]
+
+....
+.....[BRK]
+
+Regardless of what happens,
+know that i will always...[BRK]
+
+[POR02]
+...lucia! It's the blue
+tower! We're here! Let's
+get moving and restore hiro![BRK]
+
+[POR08]
+....
+.....[BRK]
+
+...okay, ruby. I'm coming.[END]
+
+=== 15 | 155e0 | 1cd ===
+[POR01]
+C'mon, lucia! Grandpa
+gwyn is waiting for us![BRK]
+
+[POR08]
+Yes, i suppose we should
+continue on...[BRK]
+
+....
+.....[BRK]
+
+...but...[BRK]
+
+[POR01]
+But what, lucia?
+What's the matter?[BRK]
+
+[POR08]
+No...nothing. Forget it.[BRK]
+
+I'm just glad to know
+that someone will always
+be here for me.[BRK]
+
+[POR01]
+That's kind of a weird
+thing to say out of the
+blue...[BRK]
+
+Of course you'll always
+have me around![BRK]
+
+[POR08]
+Y-you're right. From now
+on, no more bad thoughts![BRK]
+
+Okay. As ruby would say,[BRK]
+
+'let's get this show on
+the road, hiro!'
+[END]
+
+=== 16 | 157ba | 229 ===
+[POR01]
+Penny for your thoughts,
+lucia.[BRK]
+
+[POR08]
+Hmm? Oh, hiro.[BRK]
+
+[POR01]
+You seemed to be lost in
+pretty deep thought. What
+were you thinking about?[BRK]
+
+[POR08]
+Oh, nothing, really...[BRK]
+
+I-i was just wishing we
+could continue this journey
+forever...[BRK]
+
+I know it's silly.[BRK]
+
+[POR01]
+Oh, lucia. It's not that
+stupid.[BRK]
+
+I've had that same thought
+myself. Ya know, after we
+visit gramps,[BRK]
+
+we can take the destiny and
+start another adventure![BRK]
+
+Whaddaya think? Cool, huh?[BRK]
+
+[POR08]
+That sounds lovely, hiro.
+I'd die to do that...[BRK]
+
+....
+.....[BRK]
+
+[POR01]
+Okay then! We'll call it
+a plan! I can't wait!
+This'll be great!
+[END]
+
+=== 17 | 159ec | fc ===
+[POR01]
+It looks like we're here.
+We'd better get moving! I
+can't wait to tell grand--[BRK]
+
+[POR08]
+...wait! Hiro, i'd like to
+stop at the blue tower,
+first.[BRK]
+
+[POR01]
+But...lucia? Why can't we
+visit grandpa gwyn first?[BRK]
+
+[POR08]
+Please hiro? For me?[BRK]
+
+[POR01]
+...okay, lucia. For you.
+
+
+[END]
+
+=== 18 | 15b10 | b9 ===
+[POR02]
+Remember, leo said the cave
+of the white dragon was in
+an iceberg by the north sea.[BRK]
+
+If we leave meribia's port
+and head west, we're sure
+to find it.[BRK]
+
+Let's go, hiro! Adventure
+awaits![END]
+
+=== 19 | 15bfc | 51 ===
+[POR09]
+There's no time for
+indecision, lad! Zophar
+will be here any time![BRK]
+
+Let's move![END]
+
+=== 1a | 15c60 | bf ===
+[POR08]
+Oh, hiro. You sacrificed
+your life, so that i 
+could live.[BRK]
+
+I owe you everything.[BRK]
+
+[POR02]
+Lucia, we have to hurry
+and get to the blue spire
+to restore hiro.[BRK]
+
+[POR08]
+But there's no time.
+Zophar is...
+[END]
+
+=== 1b | 15d32 | 83 ===
+[POR08]
+Oh, hiro! How can i even
+consider leaving you in
+this state?![BRK]
+
+There must be a way to
+revive you and still take
+care of zophar...[END]
+
+=== 1c | 15dc2 | 4f ===
+[POR08]
+But my first priority is
+to use the power of the 
+blue spire to revive you.
+[END]
+
+=== 1d | 15e28 | 1eb ===
+[POR05]
+Are you going to save 
+hiro by using the power
+of the blue spire?[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+Ronfar, continue the course
+to pentagulia.[BRK]
+
+[POR05]
+But that's the opposite
+direction of the blue spire![BRK]
+
+If you don't go there and
+restore hiro, that will be
+the....end...of.....him...[BRK]
+
+[POR02]
+He was stricken trying to
+save your life! How can you
+turn your back on him now?[BRK]
+
+[POR08]
+Ruby, please understand. I
+must accomplish my task, or
+all will be...[BRK]
+
+[POR02]
+I'm not listening! La la la
+la la la la la la la la la 
+la la la.....[END]
+
+=== 1e | 1602a | 2e7 ===
+[POR05]
+Listen, i know how important
+it is not to let zophar 
+revive, [BRK]
+
+but i will not let hiro die
+like this! I'm going to the
+port at dalton.[BRK]
+
+I can take him to the blue
+spire from there.[BRK]
+
+Maybe i can figure out how
+to revive him. You can do
+what you want.[BRK]
+
+[POR08]
+Ronfar, you don't understand
+anything![BRK]
+
+If zophar revives before
+althena, he will seize
+althena's power,[BRK]
+
+and become the most powerful
+being in the universe,[BRK]
+
+with the absolute power of
+creation and destruction.[BRK]
+
+Once his evil is infused
+with this power, it will be
+the end of everything![BRK]
+
+This is our only chance to
+stop him.[BRK]
+
+[POR02]
+But lucia...[BRK]
+
+[POR08]
+I am lucia, guardian of the
+blue star. I came here to
+save the world.[BRK]
+
+I must continue my mission,
+regardless of the cost.[BRK]
+
+Do what you must, ronfar.
+[END]
+
+=== 1f | 1631a | 49 ===
+[POR05]
+But lucia...wait! This
+is the last chance to save
+hiro![BRK]
+
+[POR08]
+....
+.....
+[END]
+
+=== 20 | 1637a | 106 ===
+[POR05]
+I knew you'd change your
+mind, lucia.[BRK]
+
+I know that you are gambling
+with the fate of both our
+worlds to do this.[BRK]
+
+But you're doing the right
+thing by going to the blue
+spire first to save hiro.[BRK]
+
+Trust me...it'll all be
+peachy keen, jelly bean.
+...you'll see...
+
+[END]
+
+=== 21 | 16494 | 9b ===
+[POR10]
+Lucia...why do you hesitate?
+You aren't thinking of
+letting hiro die, are you?[BRK]
+
+I know you're not that
+cold-hearted! You simply
+can't be...[BRK]
+
+[POR08]
+....
+.....[END]
+
+=== 22 | 16542 | 98 ===
+[POR10]
+Whew! For a while there, I
+was worried that you were
+going to let hiro die![BRK]
+
+But you've now shown that
+you have the one trait I
+prize most: integrity.[END]
+
+=== 23 | 165ee | b4 ===
+[POR07]
+With money, practically
+anything is possible...[BRK]
+
+But i'm pretty sure that
+there's no way we can buy
+hiro back from the dead.[BRK]
+
+You've got to save him,
+lucia![BRK]
+
+[POR08]
+But lemina...i...
+
+[END]
+
+=== 24 | 166b6 | 90 ===
+[POR07]
+Hey hey! You know what they
+say: 'time is money.' And
+time's mega-a-wastin'.[BRK]
+
+Let's make tracks for the
+blue spire and wake prince
+charming!
+
+[END]
+
+=== 25 | 1674c | 13 ===
+Dragonship destiny
+[END]
+
+=== 26 | 17090 | 35 ===
+Halt! You'll pass this
+checkpoint over my dead 
+body![END]
+
+=== 27 | 170e0 | 11 ===
+...u...ummmmm...
+[END]
+
+=== 28 | 1710c | 40 ===
+You look like spies from
+the cult of zophar! Halt
+and surrender![END]
+
+=== 29 | 17168 | 10 ===
+...uhhhhhh...
+
+
+[END]
+
+=== 2a | 17194 | 45 ===
+Haay...what the hell are
+you runts doin' down here?
+Prepare to fight![END]
+
+=== 2b | 171f4 | 1f ===
+Mama...i-is that you...
+mama?
+
+[END]
+
+=== 2c | 1722e | 45 ===
+Halt, you miserable, 
+stinkin' cretins! You're
+under arrest, ya hear?[END]
+
+=== 2d | 1728e | 40 ===
+Ohhhhh...i think i wet
+my pants...don't tell
+lord leo, o-okay?
+
+[END]
+
+=== 2e | 172e2 | 79 ===
+Hey, i haven't seen you
+around here before. [BRK]
+
+Anyway, ya better not bring
+fire in here...the room's
+loaded with gunpowder![END]
+
+=== 2f | 1736e | 4d ===
+Hey! What in blazes is that
+freaky flying fireball doin'
+in here? Get it out![END]
+
+=== 30 | 173c8 | c8 ===
+[POR02]
+Excuse me, lint-brain, but
+i think you had better...[BRK]
+
+[POR05]
+Uh, ahem, ruby. I think he's
+talking about keeping you
+away from the gunpowder...[BRK]
+
+You know...fire plus gun-
+powder equals monster 
+explosion?[END]
+
+=== 31 | 174a8 | 8a ===
+This has got to be the
+most boring job in all
+the universe![BRK]
+
+No one in their right mind
+would try to storm the
+weapons room on the destiny![END]
+
+=== 32 | 1754a | 15e ===
+Ohhhh lookie! It's a
+purdy leetle kitty-kat![BRK]
+
+I love animals! Can i hold
+the kitty? I promise not
+to hurt it.[BRK]
+
+[POR02]
+Hey, dingle-breath, i am not
+a 'kitty', okay?[BRK]
+
+[POR00]
+Oh, it's a talking kitty! I
+like talking kitties! Want
+some fishies to eat?[BRK]
+
+[POR02]
+Fish? You have fish? Uh,
+that sounds kinda...tasty.[BRK]
+
+Uh, i could really go for
+a fish or two. Is it okay,
+hiro?[END]
+
+=== 33 | 176ac | 2a ===
+[0x5]Sure, ruby, go ahead.
+Ruby, are you nuts?[END]
+
+=== 34 | 176e6 | 91 ===
+[POR01]
+Sure, ruby, go ahead.
+Just remember to catch
+up to us later, okay?[BRK]
+
+[POR02]
+Gotcha, thanks! See ya
+after i bleed this hick
+of all the fish he's got![END]
+
+=== 35 | 17792 | a0 ===
+[POR01]
+Ruby, are you nuts? Grandpa
+gwyn told us never to take
+stuff from strangers![BRK]
+
+[POR02]
+Weeellll, he did say that,
+but geez, hiro, this guy's
+got fresh fish! Please?[END]
+
+=== 36 | 1784e | 99 ===
+Huh, huh! Ken't i pet the
+purdy flying kitty? I'll
+feed it some fishies![BRK]
+
+[POR02]
+Come on, hiro! This guy's
+a model of basement i.Q.!
+He won't hurt me! Please?[END]
+
+=== 37 | 178fe | 77 ===
+Huh, huh! I like the soft,
+purdy flying kitty! It
+tickles when ya pet it.[BRK]
+
+Whare did it go? Here...
+kitty kitty kitty...[END]
+
+=== 38 | 1798c | 13e ===
+I like this little kitty
+a lot! Can i keep her? I'll
+feed her fishies every day![BRK]
+
+[POR02]
+Uh, it's been real swell
+eating all your fish, but
+i'm not gonna be your pet![BRK]
+
+[POR00]
+Duh, huh, huh...well, why
+not, purdy kitty?[BRK]
+
+[POR01]
+Hehe, yeah, ruby, why not?[BRK]
+
+[POR02]
+Hiro! Don't even joke about
+leaving me with this, this,
+this........thing!
+
+[END]
+
+=== 39 | 17ae6 | 91 ===
+Heya, kitty! Did you decide
+to come back and be my
+special friend?[BRK]
+
+[POR02]
+Uh...no. Just checking to
+make sure i hadn't dreamt it
+all. I didn't.[BRK]
+
+Bye.
+[END]
+
+=== 3a | 17b8a | 67 ===
+[POR02]
+Hey! Stop trying to tickle
+me, you brainless dork![BRK]
+
+I...do...not.....like...
+being........tickled!!!![END]
+
+=== 3b | 17c04 | af ===
+It's unbelievable to me
+that a girl with eyes of
+pale mist and moonlight...[BRK]
+
+...could hold the power to
+ruin our world forever.[BRK]
+
+But that's what the goddess
+althena once said...[END]
+
+=== 3c | 17cc6 | 79 ===
+Pentagulia is the holy city
+of the goddess althena.[BRK]
+
+Only the chosen can enter,
+so you don't stand a chance
+of getting in.[END]
+
+=== 3d | 17d4c | 55 ===
+Have you heard the legend of
+the sauced boys? Ho, ho, ho!
+Ya gotta hear it some time![END]
+
+=== 3e | 17dc2 | 4a ===
+Pentagulia is protected by a
+power said to originate with
+althena herself![END]
+
+=== 3f | 17e14 | 75 ===
+Long ago, a powerful evil
+being was sealed in penta-
+gulia.[BRK]
+
+We of althena's guard keep
+an extra patrol on that 
+area.[END]
+
+=== 40 | 17e9c | 82 ===
+Althena has returned to
+pentagulia and our world to
+deliver us from destruction.[BRK]
+
+Soon, everything will be
+okay again...won't it?
+
+[END]
+
+=== 41 | 17f32 | 87 ===
+I can't believe that leo
+told us to treat that devil-
+woman as a guest![BRK]
+
+She's plotting the ruin of
+our world right now! I just
+know it![END]
+
+=== 42 | 17fd0 | b9 ===
+One of the guards below
+is nuts about animals.[BRK]
+
+When he sees your flying
+cat there, he'll go off
+his rocker to pet it.[BRK]
+
+[POR02]
+Geez! I am not a cat! Are
+all of leo's men complete
+idiots? Man![END]
+
+=== 43 | 180a4 | 61 ===
+If you let marvin catch
+sight of your cat. He'll
+want to keep it.[BRK]
+
+You'd better be careful,
+buddy.[END]
+
+=== 44 | 18118 | 8d ===
+Ha! Told ta! Marvin tries
+to keep all the animals
+he finds.[BRK]
+
+The guy's a raving lunatic!
+Be patient, though. He gets
+bored of 'em pretty easy.[END]
+
+=== 45 | 181b8 | 4a ===
+Keep an eye on marvin. If
+he's got your flyin' cat,
+he won't give it back![END]
+
+=== 46 | 18216 | 66 ===
+
+        !! Bulletin !!
+[BRK]
+
+A reward of 1000s has been
+offered for the slaying of
+all opposed to althena.[END]
+
+=== 47 | 18290 | f6 ===
+
+       Today's menu
+[BRK]
+
+Breakfast: rocky mountain
+oyster omelets, toast,
+toad juice, and milk.[BRK]
+
+Lunch: baked seagull beak
+and pork lips casserole, 
+hargle beans, and milk.[BRK]
+
+Dinner: barnacle bean stew,
+roast tuna tail, snail
+rolls, and chocolate milk.[END]
+
+=== 48 | 18396 | 42 ===
+By order of lord leo,
+all soldiers must leave
+the destiny at once![END]
+
+=== 49 | 183de | e ===
+The destiny b1[END]
+
+=== 4a | 1968e | 48 ===
+You don't have proper
+clearance to be down here!
+I'll put a stop to you![END]
+
+=== 4b | 196f2 | 26 ===
+Help...i've fallen and I
+can't get up![END]
+
+=== 4c | 19734 | 4e ===
+Ooohhh, a few spies tryin'
+to unload the secrets of
+the destiny, eh? Eat this![END]
+
+=== 4d | 1979e | 14 ===
+Wha...what happened?[END]
+
+=== 4e | 197ce | 35 ===
+Okay, ya little sneaks!
+You're under arrest, ya
+hear?[END]
+
+=== 4f | 1981e | 3f ===
+Why'd ya have ta go and
+do that? Can't we all just
+get along???[END]
+
+=== 50 | 19878 | 23 ===
+Hey! Halt! You're all
+under arrest![END]
+
+=== 51 | 198b6 | d ===
+...ohhhhh....[END]
+
+=== 52 | 198d2 | 4e ===
+[POR02]
+Hiro, this door is locked!
+We need a key to open it,
+and we don't have one.[END]
+
+=== 53 | 19944 | dd ===
+M'lord, she sounded honest
+to me. Why don't we take
+her to goddess althena?[BRK]
+
+[POR09]
+Hmmm...that is one
+possibility. Perhaps she
+would be of use to us.[BRK]
+
+I'll talk to her. If she
+cooperates, i may be able
+to stay her execution...[END]
+
+=== 54 | 19a34 | 82 ===
+Lord leo said that he
+was going to talk to that
+girl named lucia.[BRK]
+
+I wonder if she really is
+the foretold destroyer of
+our world...[END]
+
+=== 55 | 19aee | 9d ===
+[POR09]
+Do not misunderstand me, 
+my lad. I do not yet fully
+trust lucia.[BRK]
+
+If she dares to harm the
+goddess althena, she will
+be executed on the spot.[BRK]
+
+Count on it.[END]
+
+=== 56 | 19ba6 | aa ===
+[POR09]
+I'll let althena decide
+the nature of lucia's true
+intentions and her fate,[BRK]
+
+instead of executing her on
+the spot, as i was ordered.[BRK]
+
+That is the limit of my
+generosity.[END]
+
+=== 57 | 19c68 | b9 ===
+[POR05]
+Looks like we'll be in
+pentagulia soon.[BRK]
+
+Hrmph! I never thought i'd
+see the inside of that joint
+again![BRK]
+
+It's been so long since i've
+been there. I've got a lot
+of catching up to do...[END]
+
+=== 58 | 19d3c | 61 ===
+[POR05]
+Well, come hell or high 
+water,[BRK]
+
+looks like we're gonna
+make it to pentagulia!
+Congrats, chief![END]
+
+=== 59 | 19db4 | 13a ===
+[POR10]
+I bet you'd like to have
+some private time with
+lucia...[BRK]
+
+Too bad you've always got
+ruby hanging around...[BRK]
+
+[POR02]
+What do you mean, jean?
+Are you saying i'm a
+pain in hiro's butt?[BRK]
+
+You take that back![BRK]
+
+[POR01]
+Sheesh, ruby! You sure
+do yelp when jean yanks
+your chain. Calm down.[BRK]
+
+She's just joking...[BRK]
+
+.............i think.
+[END]
+
+=== 5a | 19f0a | 7b ===
+[POR10]
+Oh...pentagulia![BRK]
+
+Look at me! I'm quivering
+in anticipation of what's
+going to happen.[BRK]
+
+I wonder if lunn is still
+there?
+
+[END]
+
+=== 5b | 19fb0 | 113 ===
+[POR07]
+What? Lucia? Oh, she left
+here a moment ago.[BRK]
+
+I don't know where she
+went. I wish i did, though.[BRK]
+
+These guards are so ga-ga
+over her, they'd pay just
+to oogle![BRK]
+
+[POR02]
+Pay? Oogle? What are you?
+Some sort of greedy little
+profiteer in a dress?[BRK]
+
+[POR07]
+I'm simply a good business
+woman![END]
+
+=== 5c | 1a0de | a4 ===
+[POR07]
+We're almost to pentagulia![BRK]
+
+I'm going to show that no-
+good toad borgan my true
+power![BRK]
+
+Oh, mother! Hold on just a
+little longer...i'll find
+a way to release you![END]
+
+=== 5d | 1a1ae | b9 ===
+Ya know, this is my first
+trip to pentagulia. I've
+kinda got the jitters.[BRK]
+
+[POR02]
+Calm down, jim. You just
+need to switch to sanka
+brand decaffeinated coffee.[BRK]
+
+Try it! You'll be glad you
+did.[END]
+
+=== 5e | 1a282 | 4b ===
+I'd give anything to be in
+your shoes! Going to see
+the goddess...sheesh!
+
+[END]
+
+=== 5f | 1a2e4 | 7e ===
+With the speed of the
+destiny on our side, we'll
+arrive at pentagulia soon.[BRK]
+
+It's just a short distance
+from the port of azado.[END]
+
+=== 60 | 1a37e | 43 ===
+Pentagulia...pentagulia...
+hmmm, i wonder what the
+city name means?[END]
+
+=== 61 | 1a3d4 | 51 ===
+I told you we'd get here in
+no time flat! The destiny is
+the fastest ship around![END]
+
+=== 62 | 1a438 | 57 ===
+Since lord leo has 
+granted you guest status,[BRK]
+
+you can go wherever you
+wish on the ship.[END]
+
+=== 63 | 1a4a2 | 77 ===
+Lord leo told us of his
+mercy toward the girl.[BRK]
+
+He's supposed to execute
+her, but instead, he's 
+letting althena decide.[END]
+
+=== 64 | 1a530 | 90 ===
+I wonder what's for lunch
+today?[BRK]
+
+Lately, the mess hall's been
+serving up some pretty
+rancid slop.[BRK]
+
+I'm kinda afraid to even
+check the daily menu![END]
+
+=== 65 | 1a5d8 | 74 ===
+Even though this world is
+immense, we can get to
+any point very quickly.[BRK]
+
+Mark my words, we'll soon
+be at pentagulia.[END]
+
+=== 66 | 1a668 | 78 ===
+Since you are guests of
+lord leo, you have free
+reign of the ship.[BRK]
+
+All i ask is that you don't
+bother the crew too much.[END]
+
+=== 67 | 1a6f8 | bc ===
+Say there, you look a little
+blue. Are you feeling okay?[BRK]
+
+[POR02]
+I think it's called 'sea-
+sickness.'[BRK]
+
+It's okay as long as i keep
+flying, but when i land,
+look out below![BRK]
+
+Some adventurers, huh?[END]
+
+=== 68 | 1a7ba | e ===
+The destiny b2[END]
+
+=== 69 | 1b860 | 1f ===
+[POR02]
+Hey! That sounds like
+lucia![END]
+
+=== 6a | 1b882 | 1a4 ===
+[POR08]
+But you're only a human!
+You can't possibly under-
+stand![BRK]
+
+I must see althena in
+person! Your world hangs in
+the balance![BRK]
+
+[POR09]
+Hold on there, miss. First,
+i want to know why you came
+to our world...[BRK]
+
+What's your real plan?[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+[POR09]
+Answer me![BRK]
+
+[POR08]
+I...i can't. You wouldn't
+understand...you're only...
+...human.[BRK]
+
+[POR09]
+Excuses, excuses! You are 
+a miserable liar, [BRK]
+
+and, i now have no choice
+but to carry out my orders.
+[END]
+
+=== 6b | 1ba2a | 5d ===
+[POR09]
+Engage the force field, and
+let no one open it without
+me personally present![BRK]
+
+[POR00]
+Yes, sir![END]
+
+=== 6c | 1ba8a | 58 ===
+[POR09]
+Your crime is treason. Your
+sentence: execution.[BRK]
+
+You will be hanged tomorrow
+at noon.[END]
+
+=== 6d | 1bae6 | 153 ===
+Sir, is it true that she is
+the destroyer that was
+foretold to ruin our land?[BRK]
+
+She looks so...so normal.
+I can't believe that she
+has that kind of power.[BRK]
+
+[POR09]
+Ah, never let the curve of
+a hip or the charm in a
+woman's eyes sway you.[BRK]
+
+Many a man has made that
+mistake, to their eternal
+damnation.[BRK]
+
+I just hope althena's right
+about this one...
+
+[END]
+
+=== 6e | 1bc50 | e2 ===
+[POR08]
+Ohh! Hiro....and ruby![BRK]
+
+What are you doing here?
+Don't you know you'll be
+killed if they catch you?[BRK]
+
+[POR02]
+Duh! We didn't think they
+were going to throw us a
+huge party![BRK]
+
+[POR08]
+Then hurry! We must get
+out of here before leo
+returns![END]
+
+=== 6f | 1bd4e | 134 ===
+[POR09]
+Damn! I fell for the
+oldest trick in the book![BRK]
+
+Don't think you'll get
+away with this! I won't
+rest until you're found![BRK]
+
+You idiots don't have a
+prayer of success![BRK]
+
+[POR02]
+Nee ner, nee ner, nee ner!
+Seems like leo is running
+on about half a brain.[BRK]
+
+Looks like he's the idiot!
+Hee hee. Let's get out of
+here, hiro.[END]
+
+=== 70 | 1be9e | c4 ===
+[POR09]
+Sure! Run away like the
+cowards you are, hiro and
+ronfar! But remember this:[BRK]
+
+My mission is to capture and
+execute that monster you're
+helping...[BRK]
+
+I won't give up until the
+task is accomplished.
+[END]
+
+=== 71 | 1bf76 | db ===
+[POR08]
+If i don't make it to see
+althena before zophar comes,
+we're all in danger.[BRK]
+
+But in my current form, I
+cannot protect even myself.[BRK]
+
+In this form, meeting the
+goddess althena will be
+very...[BRK]
+
+Oh, hiro, what should i do?
+[END]
+
+=== 72 | 1c054 | 2f ===
+[0x5]I want to see althena.
+Let's go to pentagulia.[END]
+
+=== 73 | 1c092 | 46 ===
+[POR01]
+I want to see althena, too.
+If she really is here, 
+she'll help us.[END]
+
+=== 74 | 1c0e8 | 4a ===
+[POR01]
+Let's go to pentagulia. I
+think the answer to our
+problem lies there...[END]
+
+=== 75 | 1c136 | 213 ===
+[POR01]
+Lucia, i'll help you until
+we get to see the goddess.[BRK]
+
+This will be the start of
+a great adventure.[BRK]
+
+I can feel it...[BRK]
+
+[POR08]
+But hiro, my task is very
+dangerous. It is one that
+you cannot fully understand.[BRK]
+
+[POR02]
+Yeah, hiro! Are you sure
+you want to help her?[BRK]
+
+I mean, lord leo wants
+to kill her, and now he
+wants us, too![BRK]
+
+Besides, i think she's
+crowdin' our little party.[BRK]
+
+[POR08]
+I'm sorry if i've offended
+you, ruby. [BRK]
+
+I meant you no harm. Perhaps
+it would be better if I
+left.[BRK]
+
+[POR05]
+Hey! Pipe down, you guys...
+someone's coming! Get outta
+sight![END]
+
+=== 76 | 1c352 | 29 ===
+[POR09]
+What...? Why has the door
+been opened?[END]
+
+=== 77 | 1c37e | b2 ===
+[POR09]
+Damn! She's escaped! That
+little fox somehow out-
+smarted me![BRK]
+
+I bet her little friends
+have something to do with
+this![BRK]
+
+Guards! Guards! Come
+quickly! The destroyer has
+escaped![END]
+
+=== 78 | 1c448 | 25 ===
+[POR08]
+Thank you, hiro, ronfar,
+and ruby.[END]
+
+=== 79 | 1c476 | c7 ===
+[POR08]
+Why does leo want to
+kill me? Who has ordered
+my death?[BRK]
+
+I just don't understand.
+He said that he's working
+for althena...[BRK]
+
+[POR02]
+I don't understand his
+mission, either. But he
+is in althena's guard...[END]
+
+=== 7a | 1c554 | 43 ===
+[POR02]
+What the heck are you
+doing, hiro? We don't
+have time for games![END]
+
+=== 7b | 1c5b0 | 59 ===
+[POR09]
+What the.....![BRK]
+
+Damn! What are you doing,
+ronfar?!!![BRK]
+
+Why are you with these
+criminals?![END]
+
+=== 7c | 1c616 | 2f ===
+[POR02]
+Ha ha, hiro! You showed
+lord leo who's boss![END]
+
+=== 7d | 1c648 | 95 ===
+[POR09]
+Do you idiots know what
+you've done?[BRK]
+
+That girl will be the end
+of us all![BRK]
+
+[POR05]
+Hey there, leo! We've got
+our reasons, old bud![BRK]
+
+Trust me on this one![END]
+
+=== 7e | 1c6f8 | 54 ===
+[POR02]
+H-h-hey! Don't open that.
+Leave him locked in there![BRK]
+
+We've gotta get outta here!
+[END]
+
+=== 7f | 1c7a8 | 35 ===
+[POR05]
+Hey...hiro! Why don't we
+lock leo in his own cell?[END]
+
+=== 80 | 1c7f8 | 45 ===
+[POR05]
+Wait here a second. I'd
+like to share a few choice
+words with leo.[END]
+
+=== 81 | 1c840 | 1d9 ===
+[POR09]
+Ronfar, what could you
+possibly have to say to
+me now?!![BRK]
+
+[POR05]
+I just wanted to say that
+i'm going with hiro to
+pentagulia.[BRK]
+
+Thought you'd like to
+know...[BRK]
+
+[POR09]
+Don't you know that girl
+will be the end of our
+world? She's insane![BRK]
+
+[POR05]
+I don't think so, old bud.[BRK]
+
+I believe that she holds the
+key to something we don't
+yet understand.[BRK]
+
+I'm going to help her to
+accomplish her mission,[BRK]
+
+and if that means going
+to pentagulia, so be it.[BRK]
+
+Besides, i can use the
+opportunity to see mauri.[END]
+
+=== 82 | 1ca1c | af ===
+[POR05]
+Thanks for waiting up,
+hiro. Let's make tracks
+for pentagulia.[BRK]
+
+If we head out from dalton
+and go north,[BRK]
+
+we can get to pentagulia
+by crossing through the
+forest of illusion.[END]
+
+=== 83 | 1cad4 | e ===
+The destiny b3[END]
+
+=== 84 | 1da56 | 15 ===
+Destiny recovery room[END]
+
+=== 85 | 1e210 | 58 ===
+Halt! What are you doing
+in this area?[BRK]
+
+It is strictly off-limits
+to civilians![BRK]
+
+Get lost![END]
+
+=== 86 | 1e27c | 6d ===
+I overheard leo saying that
+the girl has come to destroy
+our whole world.[BRK]
+
+I really can't believe it's
+true...[END]
+
+=== 87 | 1e2ee | 44 ===
+    Managing seasickness
+          volume 1
+     urrp...there it is![END]
+
+=== 88 | 1e338 | 3b ===
+     Legends of lore
+        volume 4
+    dragonmaster dyne[END]
+
+=== 89 | 1e378 | 42 ===
+   Navigational blunders
+         volume 2
+   creative cannibalism[END]
+
+=== 8a | 1e3c0 | 18 ===
+Destiny tactical control[END]
+

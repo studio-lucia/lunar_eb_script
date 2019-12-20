@@ -1,0 +1,83 @@
+File: M13.GRP
+
+Messages: 14
+
+=== 0 | 15b60 | 11 ===
+E bandit butte 1f[END]
+
+=== 1 | 169c4 | 11 ===
+E bandit butte 2f[END]
+
+=== 2 | 17970 | 40 ===
+Ha ha ha ha![BRK]
+
+[POR08]
+This feeling! It's...[BRK]
+
+...somehow familiar...
+
+
+
+[END]
+
+=== 3 | 179ba | 126 ===
+[POR08]
+Why have you come to this
+place?[BRK]
+
+I warn you! Do not interfere
+with us![BRK]
+
+[POR00]
+Your time to come to this
+world is not yet![BRK]
+
+It is my duty to protect the
+gateway![BRK]
+
+[POR08]
+....
+.....[BRK]
+
+[POR02]
+Uh...uh...uh...w-w-what was
+that all about?[BRK]
+
+[POR08]
+It...it can't be....[BRK]
+
+...we need to get moving
+again...let's continue.
+
+[END]
+
+=== 4 | 17aea | 11 ===
+Bandit butte peak[END]
+
+=== 5 | 19996 | 11 ===
+W bandit butte 2f[END]
+
+=== 6 | 1a738 | 11 ===
+W bandit butte 1f[END]
+
+=== 7 | 1b406 | 13 ===
+E bandit butte 1f-a[END]
+
+=== 8 | 1c906 | 13 ===
+E bandit butte 2f-a[END]
+
+=== 9 | 1df40 | 13 ===
+E bandit butte 2f-b[END]
+
+=== a | 1e9f8 | 13 ===
+W bandit butte 1f-a[END]
+
+=== b | 1f5c0 | 13 ===
+W bandit butte 2f-a[END]
+
+=== c | 2183c | 13 ===
+W bandit butte 2f-c[END]
+
+=== d | 2244c | 13 ===
+W bandit butte 2f-b[END]
+

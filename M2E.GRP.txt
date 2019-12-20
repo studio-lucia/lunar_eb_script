@@ -1,0 +1,2330 @@
+File: M2E.GRP
+
+Messages: 210
+
+=== 0 | 142ea | e ===
+Donated 100s!
+[END]
+
+=== 1 | 14322 | 4d ===
+[POR02]
+Guess what, sphincter boy?[BRK]
+
+The door is locked! Maybe
+there's another way..[END]
+
+=== 2 | 14382 | 86 ===
+Welcome to neo-vane! [BRK]
+
+Behind me lies the new
+magic guild mansion.[BRK]
+
+It's far better than the
+old run-down guild mansion
+in ancient vane.[END]
+
+=== 3 | 14420 | a1 ===
+Master borgan is hard at
+work inside the guild
+mansion.[BRK]
+
+However, he's not alone. 
+Miria is inside with him.[BRK]
+
+Borgan fancies this his
+neo-love-pad.[BRK]
+
+It disgusts me![END]
+
+=== 4 | 144ce | 81 ===
+[POR07]
+Pooh! Borgan wouldn't
+know how to get a woman
+if he tried![BRK]
+
+The only reason my mother
+is in there is because he
+kidnapped her!![END]
+
+=== 5 | 14562 | 84 ===
+You know, if you walk by
+the house late at night
+you can hear strange sounds.[BRK]
+
+I think it's the sound of
+his royal obeseness snoring.[END]
+
+=== 6 | 145fa | 53 ===
+I don't believe that our
+beloved neo-vane fell...[BRK]
+
+Is this history repeating
+itself?[END]
+
+=== 7 | 14660 | c3 ===
+Master borgan has left here
+for ancient vane.[BRK]
+
+I think he likes spending 
+time there with miria.[BRK]
+
+I just wish he would loan me
+the keys to this place.[BRK]
+
+I'm dying to try out the
+heart-shaped jacuzzi![END]
+
+=== 8 | 14730 | 53 ===
+[POR07]
+You know what someone would
+pay for a place like this?[BRK]
+
+We're talking major cash![END]
+
+=== 9 | 1479a | 58 ===
+There's no one inside this
+mansion right now.[BRK]
+
+I wish borgan would trust
+me to house-sit.[END]
+
+=== a | 14806 | aa ===
+I just love it here in
+neo-vane. All those little
+peons below serving us.[BRK]
+
+You know, i'm glad i know
+how to use magic![BRK]
+
+I couldn't bear to be one
+of those miserable slaves![END]
+
+=== b | 148c8 | 76 ===
+Those slaves below need to
+work harder.[BRK]
+
+Perhaps we can get some
+wild dogs to nip at their
+heels...[BRK]
+
+...hmmm...yessss...[END]
+
+=== c | 14952 | ed ===
+Paradise gained to
+paradise lost...[BRK]
+
+That'll be my new book. In 
+it i'll tell of my hardships
+living in neo-vane...[BRK]
+
+And of course, the heart-
+stopping finale...[BRK]
+
+In which i tell of the fall
+of neo-vane.[BRK]
+
+I'm certain it'll be a best-
+seller.[END]
+
+=== d | 14a52 | dd ===
+Hey, i'm looking to get out
+of this dump![BRK]
+
+I was thinking a cute guy
+like you might want to take
+a girl away from all this.[BRK]
+
+Of course, you'll have to
+wait on me hand and foot.[BRK]
+
+But look how beautiful my
+hands and feet are!
+[END]
+
+=== e | 14b3c | 3b ===
+[POR05]
+Yer barkin' up the wrong
+tree, lady.[BRK]
+
+I'm not into that.
+[END]
+
+=== f | 14b8e | 42 ===
+Please take me with you. I
+really need someone to take
+care of me.[END]
+
+=== 10 | 14bde | 32 ===
+[POR05]
+Perhaps there's a state
+program or something...[END]
+
+=== 11 | 14c24 | f7 ===
+They always made fun of me
+when i was a kid.[BRK]
+
+But i showed them. I learned
+magic and the flame spell.[BRK]
+
+They weren't laughin' so
+hard when ol' lenny here
+flamed 'em![BRK]
+
+Hey, if anyone talks bad
+'bout lenny, you let lenny
+know.[BRK]
+
+...and lenny'll hurt 'em.
+[END]
+
+=== 12 | 14d32 | 97 ===
+Lenny's tired of people 
+talkin' behind his back.[BRK]
+
+Lenny's gonna learn new 
+magic and hurt 'em bad.[BRK]
+
+[POR02]
+I'm getting the impression
+that lenny's mental...[END]
+
+=== 13 | 14ddc | 35 ===
+Lenny's learnin' how to
+read. Then lenny'll be
+smart![END]
+
+=== 14 | 14e20 | 113 ===
+Lenny's found a new magic.
+It's called 'magic of boom!'[BRK]
+
+If'n anyone says bad things
+'bout lenny, lenny'll use
+his new magic on them.[BRK]
+
+But i'd never use it on
+your flyin' bunny.[BRK]
+
+Say, mister, can i pet it?[BRK]
+
+[POR02]
+First i'm a flying cat.
+Now i'm a flying bunny.
+Sheesh, what's next?
+[END]
+
+=== 15 | 14f40 | 48 ===
+[POR07]
+This is exactly the sort of
+person that we would never
+allow in vane.[END]
+
+=== 16 | 14f9c | e0 ===
+I can't believe they let me
+in here. I don't even know
+how to use magic.[BRK]
+
+All i did when i filled out
+my questionnaire was mark
+'practicing sage.'[BRK]
+
+That's all it took. They
+didn't even do a background
+check on me! Go figure...[END]
+
+=== 17 | 1508a | 10 ===
+[POR05]
+What? No way![END]
+
+=== 18 | 150b2 | 45 ===
+Look at this! I got free
+pens, notepads, and
+shampoo from the inn.
+
+
+[END]
+
+=== 19 | 1510a | 5f ===
+I...i...i...i...i...i
+don't...don't...li...
+like...falling![BRK]
+
+[POR02]
+Geez, we didn't fall that
+far.
+
+[END]
+
+=== 1a | 1517c | bb ===
+I've learned a valuable 
+lesson: don't ever lie on
+entrance exams...[BRK]
+
+This was a sign from the
+goddess. I could've been
+killed when neo-vane fell.[BRK]
+
+Fortunately, someone up
+there likes me...[END]
+
+=== 1b | 15244 | 59 ===
+[POR05]
+Yes, and she commanded
+that you should surrender
+all your money to me.[BRK]
+
+Fork it over...[END]
+
+=== 1c | 152b4 | 3a ===
+You know, borgan sure has
+turned into a really nice
+guy...[END]
+
+=== 1d | 152fc | 34 ===
+[POR07]
+Pooh! Nice guy, my foot!
+I still don't trust him![END]
+
+=== 1e | 15344 | e5 ===
+Borgan has proven that even
+humans can harness the power
+of the goddess.[BRK]
+
+He has made the magic city
+of neo-vane float high above
+the world of lunar.[BRK]
+
+[POR08]
+It is impossible for humans
+to contain that power.[BRK]
+
+Borgan's power is corrupt![END]
+
+=== 1f | 15440 | 4c ===
+You know, if i play my 
+cards right, maybe borgan
+will let me stay for free.[END]
+
+=== 20 | 154a0 | 69 ===
+I guess borgan didn't have
+any special power.[BRK]
+
+Turns out he was just
+leechin' power off the black
+dragon.
+[END]
+
+=== 21 | 15518 | c6 ===
+I just heard that humans 
+were able to destroy the god
+of destruction.[BRK]
+
+I wonder if humans have the
+strongest power of all?[BRK]
+
+[POR02]
+To have real power, you
+should become a dragon![BRK]
+
+That's true power, baby![END]
+
+=== 22 | 155f2 | 10d ===
+Lord zophar is the future of
+this world.[BRK]
+
+Althena is so last week.[BRK]
+
+Come on! Who needs a goddess
+who cares about song and
+dance?[BRK]
+
+That stuff's for chicks and
+fairies...[BRK]
+
+[POR08]
+You ignorant fool![BRK]
+
+You have no idea what you're
+saying![BRK]
+
+Zophar's only goal is to
+destroy this world![END]
+
+=== 23 | 15716 | 6c ===
+I know that lord zophar is
+a god of war, and we should
+all worship his godliness.[BRK]
+
+[POR08]
+You are so misguided...[END]
+
+=== 24 | 15796 | 4d ===
+Why has neo-vane fallen?
+Aaahhh!!![BRK]
+
+What have i done to make
+zophar so angry!?[END]
+
+=== 25 | 157f2 | 82 ===
+Oh no! I didn't realize 
+that i was worshipping
+an evil god.[BRK]
+
+I must be the reason neo-
+vane fell from the sky![BRK]
+
+I feel so...dirty!
+[END]
+
+=== 26 | 15888 | f2 ===
+I heard that miria has left
+ancient vane to be near
+borgan here in neo-vane.[BRK]
+
+I'm glad she left. She 
+doesn't deserve to live
+in that decrepit place.[BRK]
+
+[POR07]
+Vane isn't worn out! It's
+just a little...neglected.[BRK]
+
+Pretty soon, it'll be as
+good as new![END]
+
+=== 27 | 15992 | 6b ===
+I love it here in neo-vane.
+This place is so grand.[BRK]
+
+I'm so glad that i don't
+have to live in ancient 
+vane.[END]
+
+=== 28 | 15a10 | 50 ===
+I can't believe that 
+neo-vane has fallen.[BRK]
+
+This has just totally
+ruined my week.[END]
+
+=== 29 | 15a70 | 7f ===
+I don't understand why
+borgan is always going
+to ancient vane.[BRK]
+
+Maybe he just likes living
+there surrounded by all that
+history.[END]
+
+=== 2a | 15afc | 6b ===
+[POR07]
+Now that we know that my
+magic guild is the right
+one,[BRK]
+
+i'm gonna drop borgan from
+the membership roster.[END]
+
+=== 2b | 15b7a | 106 ===
+I heard that borgan is about
+to marry.[BRK]
+
+The rumor is that it's going
+to be miria, the former
+premier of the magic guild.[BRK]
+
+When borgan stands next to
+miria, it kinda looks like
+beauty and the beast.[BRK]
+
+[POR07]
+Yeah, well, i won't let that
+pig lay a hand on my
+mother!
+
+
+
+
+
+[END]
+
+=== 2c | 15c98 | 7d ===
+Wedding bells have already
+begun to ring for borgan
+and miria.[BRK]
+
+[POR07]
+No! No! Don't say that![BRK]
+
+I won't let my mother marry
+borgan![END]
+
+=== 2d | 15d28 | 70 ===
+Did you hear?[BRK]
+
+We're gonna have to
+postpone borgan's wedding...[BRK]
+
+All this turmoil has really
+screwed up this town![END]
+
+=== 2e | 15da6 | 2b ===
+[POR07]
+That's the best news i've
+heard all day![END]
+
+=== 2f | 15de0 | 5a ===
+Borgan now resides in
+ancient vane.[BRK]
+
+I think he's going there
+because miria loves it
+there.[END]
+
+=== 30 | 15e48 | 38 ===
+[POR07]
+When i get back there,
+i'm gonna boot that
+loser out![END]
+
+=== 31 | 15e94 | a7 ===
+I'm so glad that i passed
+the test![BRK]
+
+Now i'm free to roam amongst
+the elite of neo-vane.[BRK]
+
+If i apply myself, all my
+dreams should come true.[BRK]
+
+[POR02]
+Shyeah...keep dreaming...[END]
+
+=== 32 | 15f52 | 3b ===
+My life is going to be so
+easy once i complete my
+training.[END]
+
+=== 33 | 15fa4 | 50 ===
+Why did neo-vane have to
+fall?[BRK]
+
+My life is ruined. Ruined,
+i say! Ohhh, why me???[END]
+
+=== 34 | 16002 | d0 ===
+[POR07]
+Maybe you should come to
+vane. I'll let you study
+magic there...[BRK]
+
+[POR00]
+Vane!? No way! The premier
+of the guild is stingy and
+only interested in money.[BRK]
+
+[POR07]
+That's not true!! Who told
+you that? I demand to
+know![END]
+
+=== 35 | 160ee | 89 ===
+I can't wait to go to vane.[BRK]
+
+There's no elitist power-
+trips going on there.[BRK]
+
+It's my kind of place...[BRK]
+
+[POR02]
+Talk about changing your
+story...[END]
+
+=== 36 | 16186 | 8f ===
+I tried to get into vane's 
+magic guild, but the
+entrance fee was too high...[BRK]
+
+The leader of the guild is
+only interested in cold,
+hard cash...
+[END]
+
+=== 37 | 16222 | 76 ===
+[POR07]
+Pooh! I'm glad you couldn't
+afford to get in the guild![BRK]
+
+With an attitude like that,
+i don't even want you in
+vane!![END]
+
+=== 38 | 162ac | 70 ===
+I thought i was going to 
+enjoy it here in vane.[BRK]
+
+But these people are so 
+stuck up you can't even
+talk to them.
+[END]
+
+=== 39 | 16334 | 8d ===
+Hey, i'm talkin' to you![BRK]
+
+You know, you're just like
+everyone else here.[BRK]
+
+Think you're something
+special just 'cause you
+know how to use magic.[END]
+
+=== 3a | 163d8 | 7e ===
+Yeah! That'll teach these
+stuck-up weenies!![BRK]
+
+This is the best thing to 
+ever happen here. I'm glad
+neo-vane fell from the sky![END]
+
+=== 3b | 16472 | 54 ===
+You should see these people
+walk around here wallowing 
+in self-pity.[BRK]
+
+It's pathetic.[END]
+
+=== 3c | 164d6 | b6 ===
+I hope that all these people
+realize they're now losers,
+just like me.[BRK]
+
+[POR02]
+I'm certain that no one can
+be as big a loser as you.[BRK]
+
+I'm sure beck had you in
+mind when he wrote that
+song![END]
+
+=== 3d | 165a0 | 73 ===
+Down with neo-vane!
+Down with neo-vane![BRK]
+
+Neo-vane will crash just
+like vane![BRK]
+
+Down with neo-vane!
+Down with neo-vane![END]
+
+=== 3e | 1662a | 4b ===
+If i were you, i would get
+out of neo-vane before
+it crashes to the ground.[END]
+
+=== 3f | 1668c | 90 ===
+I'm seeking donations to
+help the less-fortunate...[BRK]
+
+Evacuate neo-vane before
+the big crash.[BRK]
+
+If you donate, you'll get 
+a free hat and t-shirt...[END]
+
+=== 40 | 1672a | 6c ===
+[POR07]
+I don't think so, buster.[BRK]
+
+My silver is too precious
+to give to your nutty
+cause![BRK]
+
+[POR02]
+I can vouch for that![END]
+
+=== 41 | 167b2 | 24 ===
+Ha! I told you neo-vane
+would crash![END]
+
+=== 42 | 167e6 | ab ===
+See, i told you neo-vane
+was going to fall from the
+sky![BRK]
+
+You should have donated to
+my cause.[BRK]
+
+I would've given you some 
+of the credit for warning
+people of the disaster. [END]
+
+=== 43 | 1689e | 48 ===
+[POR07]
+Give it a rest, buster![BRK]
+
+No one really cares about
+what you're saying.[END]
+
+=== 44 | 168fa | 151 ===
+When i was at dinner with 
+borgan. I gazed into his
+eyes. [BRK]
+
+His eyes were dark. Dark as
+night. They consumed me.
+I was drawn toward them.[BRK]
+
+I did not see hatred in
+those eyes, only love.[BRK]
+
+Love that's deeper than a
+thousand oceans.[BRK]
+
+Love that's warmer than a
+hundred suns.[BRK]
+
+Love that is all-consuming.[BRK]
+
+You know, he's really not
+what he seems...[END]
+
+=== 45 | 16a62 | 11c ===
+At the table, i dared not
+move for he had the look
+of all-consuming passion.[BRK]
+
+Passion for sweetcakes, for
+cupcakes, for pork, for
+berries, cream, and wine.[BRK]
+
+It was amazing, and, at the
+same time, terrifying.[BRK]
+
+I was afraid that if I
+moved, he'd grab my arm by
+mistake and start gnawing...[END]
+
+=== 46 | 16b96 | e8 ===
+Borgan has a power. Power
+that draws the weak toward
+him.[BRK]
+
+I know that i cannot escape
+his stare. For those eyes
+draw me closer still.[BRK]
+
+I want to resist, but i need
+to know his love...[BRK]
+
+[POR02]
+Uh...i'm thinkin' that
+you need to get a life![END]
+
+=== 47 | 16c9a | 83 ===
+Why? Why does he tease me
+this way? Borgan knows that
+i will always follow him.[BRK]
+
+And yet, my love goes
+unrequited.[BRK]
+
+I'm so depressed.[END]
+
+=== 48 | 16d2c | a4 ===
+I miss those eyes. Those
+eyes of borgan's.[BRK]
+
+Oh, how i used to love to
+gaze into those deep pools
+of silken blackness...[BRK]
+
+Yet that chance shall never
+again be mine...
+[END]
+
+=== 49 | 16de4 | a6 ===
+I'm getting sick of hearing
+how great and wonderful 
+borgan is.[BRK]
+
+Trust me, don't talk to
+that lady over there...[BRK]
+
+She's nuts about him. We're
+talkin' way over the edge![END]
+
+=== 4a | 16ea2 | a4 ===
+I'm thinking that if i'm
+lucky,[BRK]
+
+that woman who's nuts for
+borgan will fall off the
+edge of neo-vane.[BRK]
+
+I'm sure glad our little
+world isn't round. It
+gives me hope...[END]
+
+=== 4b | 16f5e | 54 ===
+I guess borgan isn't that
+powerful.[BRK]
+
+He can't even keep the city
+he built in the sky![END]
+
+=== 4c | 16fc0 | 72 ===
+[POR07]
+Exactly! That's what i've
+been trying to tell you 
+people...[BRK]
+
+Borgan's power is a joke![BRK]
+
+He's a fraudulent leech![END]
+
+=== 4d | 1704e | 75 ===
+I guess borgan really wasn't
+interested in furthering the
+cause of the magic guild.[BRK]
+
+He was only after fame and
+power.[END]
+
+=== 4e | 170d4 | 37 ===
+[POR10]
+His thirst for power has
+been his problem all along![END]
+
+=== 4f | 1711e | 52 ===
+I'm glad borgan left here.
+Now i don't have to listen
+to that crazy chick anymore.[END]
+
+=== 50 | 17184 | 135 ===
+Eesaka, na-cha-locho
+moze-no-lay, tobontano,
+leechy-mucho...[BRK]
+
+I'm practicing casting magic
+spells. Didn't that just 
+give you the creeps?[BRK]
+
+Even if i don't know how to
+cast a spell...[BRK]
+
+People will be scared when 
+they hear me chant something
+like that.[BRK]
+
+And whooo! Just wait 'til
+halloween![BRK]
+
+Spoookkyy! He he he...
+[END]
+
+=== 51 | 172d0 | 122 ===
+They say that some stupid
+girl is trying to revive
+the old magic guild.[BRK]
+
+Doesn't she know that it's
+a waste of time? Borgan is
+in control now.[BRK]
+
+[POR07]
+Don't worry. Sooner or later
+you'll come beggin' to be a
+part of ancient vane.[BRK]
+
+That's when you're really
+gonna have to pay![BRK]
+
+Ooough, will you pay![END]
+
+=== 52 | 17406 | 6b ===
+I can't believe that i was
+fooled by borgan...[BRK]
+
+His true power is not much
+greater than mine![BRK]
+
+What a loser!![END]
+
+=== 53 | 17480 | 8a ===
+I heard that borgan has
+abandoned us...[BRK]
+
+He's more interested in 
+spending time with miria.[BRK]
+
+[POR02]
+Shush! Don't say that![BRK]
+
+Lemina will flip out![END]
+
+=== 54 | 1751e | d9 ===
+This really sucks! That
+stupid kid has more magic
+power than me.[BRK]
+
+They say he's some sort of
+child prodigy![BRK]
+
+I think the mouthy little 
+brat needs a good, hard 
+whippin'![BRK]
+
+I'm practicing the magic of
+spank, just in case.[END]
+
+=== 55 | 1760e | 77 ===
+I've been studying all day
+and night.[BRK]
+
+Finally, i think i'm gonna
+be smarter than that kid.[BRK]
+
+[POR02]
+Keep dreamin', no-brains![END]
+
+=== 56 | 17696 | a2 ===
+[POR10]
+Ruby, one will only be as
+intelligent as one wishes
+to become. [BRK]
+
+[POR02]
+That sounds like some of
+that self-help mumbo-jumbo![BRK]
+
+Sorry, i don't subscribe.[BRK]
+
+[POR07]
+....
+.....[END]
+
+=== 57 | 17750 | 6f ===
+Crap!! Now that neo-vane 
+has crashed to the ground,[BRK]
+
+i'll never be able to show
+that kid how smart i've
+become.[END]
+
+=== 58 | 177ce | 9a ===
+I've decided that i don't
+need magic to be better
+than that kid...[BRK]
+
+I'm just gonna sneak up on
+him and cast the magic of
+spank.[BRK]
+
+I've got it all worked out![END]
+
+=== 59 | 1787c | b7 ===
+I love it here in neo-vane!
+See that simpleton over 
+there?[BRK]
+
+I've toasted his butt with
+the new magic spell I
+learned yesterday.[BRK]
+
+All he can do is curse me,
+'cause his magic is so weak![END]
+
+=== 5a | 1794a | 8a ===
+Last night i told him to 
+chant this one spell...[BRK]
+
+And he turned himself into
+a pig![BRK]
+
+For a while, we had two pigs
+in neo-vane! Ha ha ha ha![END]
+
+=== 5b | 179e8 | 87 ===
+I've found my true calling
+here in neo-vane.[BRK]
+
+I must master the magic of
+excessive boogers.[BRK]
+
+If i can just do it, i know
+it'll be a riot![END]
+
+=== 5c | 17a7e | 6f ===
+That man over there has been
+carving something out of
+wood.[BRK]
+
+Do you think you could find
+out what he's planning?[END]
+
+=== 5d | 17afa | 3c ===
+[POR05]
+I know what he's planning,
+and i'm coming back to 
+watch![END]
+
+=== 5e | 17b4a | bd ===
+You know i really think 
+borgan is trying hard to
+lose some weight.[BRK]
+
+He says there's a thin
+person inside just waiting
+to get out.[BRK]
+
+[POR07]
+I think there are several
+thin people trying to get
+out![END]
+
+=== 5f | 17c1e | 4a ===
+I wish borgan would try my
+new diet plan. I've lost
+62 pounds in one week![END]
+
+=== 60 | 17c7c | 75 ===
+I don't think borgan is
+concerned about losing
+weight anymore.[BRK]
+
+Why should he? He already
+has the woman of his dreams.[END]
+
+=== 61 | 17d00 | 63 ===
+Since i've lost so much
+weight, all the guys keep
+asking me out...[BRK]
+
+I think i'm going to be a
+model.[END]
+
+=== 62 | 17d70 | 66 ===
+[POR05]
+I'd like to sign you up
+to attend my new modeling
+school![BRK]
+
+We'll talk about the 
+entrance fee later![END]
+
+=== 63 | 17dea | b6 ===
+I was torn away from my wife
+and two kids once it was 
+discovered that i had magic.[BRK]
+
+I'm a prisoner here in neo-
+vane.[BRK]
+
+I live a life of ease while
+my family are prisoners in
+the mine![END]
+
+=== 64 | 17eb8 | 5a ===
+How can i practice magic?[BRK]
+
+All of my thoughts are 
+focused on the well-being 
+of my family![END]
+
+=== 65 | 17f26 | 63 ===
+Now that neo-vane has 
+become a failure, i'm
+leaving.[BRK]
+
+I can't wait to get home to
+my wife and kids.[END]
+
+=== 66 | 17f98 | 6f ===
+This is my last day in neo-
+vane. I'm leaving tonight
+to go home.[BRK]
+
+And i just can't wait to
+see the kids again!
+[END]
+
+=== 67 | 1801a | a3 ===
+Borgan, borgan, he's our
+man. If he can't eat it,
+no one can![BRK]
+
+You should have seen it here
+last week.[BRK]
+
+We had a food eating
+contest. Borgan dwarfed the
+competition![END]
+
+=== 68 | 180d4 | 46 ===
+Miria should be happy that
+she's getting someone like
+borgan to marry.[END]
+
+=== 69 | 1812e | 3d ===
+I'm glad that the fall of 
+neo-vane wasn't really that
+bad...[END]
+
+=== 6a | 1817a | 93 ===
+I've survived the crash.
+I've lived through most
+of this life without pain.[BRK]
+
+But i'm getting too old
+for all this stuff.[BRK]
+
+Stop the ride. I want off.
+[END]
+
+=== 6b | 18212 | 8 ===
+Neo-vane[END]
+
+=== 6c | 1accc | 11f ===
+Welcome to the threshold
+of neo-vane, strangers.[BRK]
+
+Only those with magic
+ability are allowed to
+enter.[BRK]
+
+Our magic tester will
+analyze your magic ability.[BRK]
+
+If you pass, you'll be
+allowed to enter.[BRK]
+
+If you fail, you'll be sent
+to the mines.[BRK]
+
+Now then, please follow me.
+I'll activate the tester.[END]
+
+=== 6d | 1ae10 | 101 ===
+Congratulations are in
+order![BRK]
+
+You've been selected to
+live here in neo-vane.[BRK]
+
+[POR07]
+What do you mean 'selected?'
+What's happening to ronfar
+and jean?[BRK]
+
+[POR00]
+My duty is to send those
+incompetent people back to
+the mines.[BRK]
+
+They don't belong here. They
+are common folk.[END]
+
+=== 6e | 1af30 | 70 ===
+How did you get back to
+neo-vane?[BRK]
+
+I'm going to call the
+authorities right this
+minute![BRK]
+
+They'll take care of you![END]
+
+=== 6f | 1afb2 | 42 ===
+[POR05]
+Well, this won't be the
+first time i've been
+wanted by the law.[END]
+
+=== 70 | 1b004 | 31 ===
+[POR10]
+Gee! Sounds like neo-vane
+is gonna be a blast.[END]
+
+=== 71 | 1b054 | 62 ===
+Get back here, fugitives![BRK]
+
+Guards! Guards! Come
+quickly![BRK]
+
+The two-timers have come
+back to neo-vane![END]
+
+=== 72 | 1b0ca | 5e ===
+Neo-vane has really gone
+into the toilet![BRK]
+
+I'm trying to find some
+way to get out of this
+dump.[END]
+
+=== 73 | 1b138 | 80 ===
+I can't believe they allowed
+the children from the mine
+to come back.[BRK]
+
+I'm tired of playing
+playground attendant for
+these brats![END]
+
+=== 74 | 1b1d0 | 119 ===
+[POR10]
+Hey! What's happening?[BRK]
+
+Ronfar! They've got us
+suspended in mid-air![BRK]
+
+[POR05]
+Whooa! Somehow i don't think
+this means we passed.[BRK]
+
+I just wonder what's down
+there.[BRK]
+
+[POR00]
+Neo-vane is no place for
+people like you to live.[BRK]
+
+You're sentenced to a life
+toiling away in zaback mine![BRK]
+
+Good riddance![END]
+
+=== 75 | 1b2ec | 11 ===
+[POR02]
+Ronfar! Jean!![END]
+
+=== 76 | 1b300 | 133 ===
+Those two don't belong
+here in neo-vane.[BRK]
+
+They knew the risk when
+they submitted to the
+test.[BRK]
+
+I don't know why people
+think that they can enter
+this city without magic.[BRK]
+
+I guess you always get those
+types that just want
+something they can't have.[BRK]
+
+Pathetic, isn't it?[BRK]
+
+Well, anyway, enjoy your
+stay in neo-vane![END]
+
+=== 77 | 1b43c | 15 ===
+Neo-vane judging area[END]
+
+=== 78 | 1c00e | e ===
+[POR07]
+...borgan!
+[END]
+
+=== 79 | 1c026 | 2ef ===
+[POR07]
+If you won't give up the
+black dragon aura willingly,
+i'll be forced to take it![BRK]
+
+[POR17]
+Oh, honey, you didn't
+think it would be that
+easy, did you?[BRK]
+
+I have no intention of
+giving up this utopia i've
+created.[BRK]
+
+If i give you the black
+dragon aura, i will lose all
+i have created.[BRK]
+
+And that would be a pity,
+don't you think?[BRK]
+
+[POR07]
+The only pity would be
+letting you continue with
+this mega-farce![BRK]
+
+Your rule is nothing more
+than a sham, built on the
+power of the black dragon.[BRK]
+
+I intend to show that to
+the world.[BRK]
+
+[POR17]
+I wouldn't expect anything
+less from you, dumpling.[BRK]
+
+I've been itching to try
+out my new gravity bomb
+spell.[BRK]
+
+And you and your pathetic
+friends will be the perfect
+subjects...[BRK]
+
+I'm certain you'll find it
+quite...impressive.[BRK]
+
+Gwa ha ha ha ha ha ha!
+
+
+[END]
+
+=== 7a | 1c31e | 2e ===
+[0xB][0][0x7]Received the black dragon
+aura from borgan![END]
+
+=== 7b | 1c356 | 1c1 ===
+[POR08]
+Just as he lost the power 
+from the black dragon,
+borgan will lose his.[BRK]
+
+His defeat is absolute.[BRK]
+
+[POR07]
+What are you talking about,
+lucia?[BRK]
+
+[POR08]
+Borgan's magic power was
+entirely dependent on
+possession of the aura.[BRK]
+
+Without it, he is unable
+to harness the power of
+the black dragon.[BRK]
+
+[POR07]
+If that's true, then
+neo-vane's very existence
+is in jeopardy.[BRK]
+
+Mega-cool! That means people
+will have to go to vane 
+again![BRK]
+
+I think i'm going to raise
+the entrance fee.[END]
+
+=== 7c | 1c532 | 114 ===
+[POR07]
+Borgan, where is my mother?[BRK]
+
+[POR17]
+....
+.....[BRK]
+
+[POR07]
+Borgan! Booorgaannn!!![BRK]
+
+What's wrong with him?
+Is he unconscious?[BRK]
+
+Wake up borgan! This is
+not naptime![BRK]
+
+I want you to return my
+mother to me![BRK]
+
+Oh, this is ridiculous!
+She must be around here
+somewhere...[BRK]
+
+I'll just find her myself!
+[END]
+
+=== 7d | 1c662 | 1d ===
+[POR17]
+....
+he...he...he...
+.....[END]
+
+=== 7e | 1c684 | 12 ===
+Neo-magic guild 1f[END]
+
+=== 7f | 1d328 | 298 ===
+[POR07]
+Mother!![BRK]
+
+Are you all right?[BRK]
+
+He didn't...hurt you,
+did he?[BRK]
+
+[POR22]
+...calm down, lemina!
+Oh, how i prayed that you
+would find me...[BRK]
+
+[POR07]
+Mother, you know that I
+would give my very life to
+save yours.[BRK]
+
+You're all that i have left.
+And...and i love you![BRK]
+
+If borgan has caused you any
+pain, i'll make him pay 
+ten-fold in misery![BRK]
+
+[POR22]
+No, my dear, borgan treated
+me like royalty.[BRK]
+
+Just take a look over there.
+See! He's spoiled me rotten
+with all of these gifts.[BRK]
+
+I told him that i would
+never accept anything from
+him, but he didn't listen.[BRK]
+
+I just don't know what i'm
+going to do...[BRK]
+
+[POR07]
+You're not seriously
+thinking about keeping them,
+are you?[BRK]
+
+...mother?[BRK]
+
+..........mother?
+
+
+
+[END]
+
+=== 80 | 1d5ca | 63 ===
+[POR07]
+...aaaaahhhhhh!
+What's happening??![BRK]
+
+[POR17]
+The entire city is falling
+to the ground![BRK]
+
+Gwa ha ha ha...[END]
+
+=== 81 | 1d630 | 157 ===
+[POR17]
+Now that i no longer have
+the power of the black
+dragon,[BRK]
+
+there is nothing keeping
+neo-vane suspended in the
+air.[BRK]
+
+Without me, there is no way
+that you can use the black
+dragon's power.[BRK]
+
+So what will you do now,
+dumpling?[BRK]
+
+If you want to save your
+life and the lives of those
+you care for,[BRK]
+
+you'll have to work with
+me, sweetcakes![BRK]
+
+Gwa ha ha ha![END]
+
+=== 82 | 1d78a | 138 ===
+[POR17]
+...well, lemina, the
+decision is all yours.[BRK]
+
+And unfortunately, there's
+no time for you to think
+about it...[BRK]
+
+Will you live with the blood
+of all these people on your
+head?[BRK]
+
+No, of course you can't,
+poopsie.[BRK]
+
+Now, give me the black
+dragon's aura before it's
+too late![BRK]
+
+[POR07]
+Borgan...[BRK]
+
+You're mega-lowest of the
+low...[END]
+
+=== 83 | 1d8c6 | 51 ===
+[POR08]
+In the name of althena, I
+call out...[BRK]
+
+Surrender the power to
+cushion our fall![END]
+
+=== 84 | 1d91a | 122 ===
+[POR08]
+We couldn't give the aura
+back to borgan.[BRK]
+
+I, too, can command the
+power of the dragons.[BRK]
+
+Neo-vane is now on the
+ground.[BRK]
+
+[POR17]
+Damn you, lucia![BRK]
+
+Your impudence will cost
+all of us dearly![BRK]
+
+....
+.....[BRK]
+
+Look what you've done!
+You've ruined me![BRK]
+
+Ruined me, i say![BRK]
+
+My dream of utopia is lost
+forever![END]
+
+=== 85 | 1da40 | 2c8 ===
+[POR07]
+...borgan. [BRK]
+
+This isn't the end of the
+dream. It's the beginning.[BRK]
+
+Neo-vane was never the
+rightful place for the magic
+guild.[BRK]
+
+Now i can concentrate on
+rebuilding ancient vane to
+its former glory.[BRK]
+
+I have the responsibility to
+help everyone who wants to
+learn magic to do so.[BRK]
+
+It doesn't matter if you 
+are able to use magic or 
+not, borgan.[BRK]
+
+Now is the time to put aside
+any past differences.[BRK]
+
+If you'll renounce your
+former ways, i'd be happy
+to let you join us.[BRK]
+
+[POR17]
+...what!?[BRK]
+
+Lemina, you are too kind.[BRK]
+
+I don't belong in a world
+of your design...[BRK]
+
+....
+.....[BRK]
+
+But you've proven your
+worth to me.[BRK]
+
+Here, take this. You'll need
+it to break the dragon seal.[BRK]
+
+[POR00]
+[0xB][0][0x8]Borgan gave lemina the key
+to the black dragon's cave!
+
+
+[END]
+
+=== 86 | 1dd12 | ba ===
+[POR17]
+That key will open the iron
+doors that seal the black
+dragon's cave.[BRK]
+
+The door is located in
+zaback mine.[BRK]
+
+Go now! This world cries
+out for your healing touch![BRK]
+
+[POR07]
+Oh, borgan...thanks!
+
+[END]
+
+=== 87 | 1ddec | b5 ===
+[POR22]
+Lemina, you have shown
+true wisdom this day.[BRK]
+
+You will bring great honor
+to the magic guild.[BRK]
+
+Hurry and finish your 
+quest, and then we can
+rebuild the guild together.[BRK]
+
+[POR07]
+Mother...[END]
+
+=== 88 | 1dec0 | cc ===
+[POR22]
+Don't worry about me. I'll
+be all right while you're
+gone.[BRK]
+
+You must release the power
+of the remaining dragons
+before it's too late.[BRK]
+
+I have faith in you, lemina.
+Go![BRK]
+
+[POR07]
+I'll be back before you know
+it.[END]
+
+=== 89 | 1dfa4 | 8e ===
+[POR22]
+Oh, how my little baby
+has grown up![BRK]
+
+She's turned into a fine
+leader.[BRK]
+
+Soon she will be strong
+enough to be the full
+premier of the guild...[END]
+
+=== 8a | 1e04e | 11e ===
+[POR17]
+I look forward to rebuilding
+ancient vane with you, 
+lemina. Gwa ha ha ha...[BRK]
+
+[POR07]
+I'm glad you want to help.
+But i need to tell you
+something...[BRK]
+
+The guild has no money,
+so you'll have to work
+for free.[BRK]
+
+[POR17]
+Gwa ha ha ha! I was waiting
+for you to 'fess up,
+dumpling.[BRK]
+
+I already knew that!
+[END]
+
+=== 8b | 1e18c | 174 ===
+[POR17]
+The best part about helping
+you rebuild vane is that
+your mother will be near.[BRK]
+
+[POR07]
+Listen. We need to get one
+thing straight, porky boy![BRK]
+
+If you make just one pass at
+my mother, i'll throw ya out
+on your fat butt![BRK]
+
+[POR17]
+Gwa ha ha ha![BRK]
+
+You can't put the brakes on
+true love, cream puff![BRK]
+
+Miria's thoughts have come
+to be on me all the time,
+lately.[BRK]
+
+[POR07]
+Liar! You take that back![END]
+
+=== 8c | 1e320 | b7 ===
+[POR17]
+Lemina, the cave of the 
+black dragon is in the mine.[BRK]
+
+Use the key that i gave you
+to unlock the door.[BRK]
+
+Once inside the cave, you'll
+have to make a leap of faith
+to reach the lair...[END]
+
+=== 8d | 1e42e | 74 ===
+[POR17]
+Gwa ha ha ha ha...[BRK]
+
+I've found true happiness
+here with my beloved miria.[BRK]
+
+Ahhh! This is what life was
+meant to be![END]
+
+=== 8e | 1e4a8 | 12 ===
+Neo-magic guild 2f[END]
+
+=== 8f | 1ebbc | c3 ===
+I can't believe that i'm
+treated like a common 
+criminal...[BRK]
+
+Just because i can't use
+magic. Since when did that
+become a crime?[BRK]
+
+[POR07]
+It's never been a crime! 
+Don't worry! I'll be back
+to free you.[END]
+
+=== 90 | 1ec96 | 4b ===
+I can't believe that we've
+been separated because of
+our magic abilities...[END]
+
+=== 91 | 1ecf4 | 23 ===
+I'm so glad borgan's been
+defeated![END]
+
+=== 92 | 1ed2a | 102 ===
+Borgan...borgan!! You
+big fat slob! Get your
+butt down here!![BRK]
+
+His plumpness is up there
+feasting, while i'm sitting
+down here starving...[BRK]
+
+[POR07]
+Oh no...hurry! We've got
+to find my mother...[BRK]
+
+If she's in this kind of
+condition, i'm going to
+kill that obese jerk!
+[END]
+
+=== 93 | 1ee44 | 90 ===
+I'm starving! Can't you 
+please go out and bring
+me back some food...[BRK]
+
+[POR07]
+Hang on. There will be 
+enough food for all of us
+when i defeat borgan.[END]
+
+=== 94 | 1eee8 | 57 ===
+I wanna get out of this
+place!![BRK]
+
+I'm so hungry, i've started
+eating the bugs in my cell.[END]
+
+=== 95 | 1ef52 | ac ===
+Borgan threw me in here
+because i was his school
+teacher...[BRK]
+
+He thought that if i told
+people how he was nothing
+but a failure in school...[BRK]
+
+They wouldn't respect him.[BRK]
+
+Loser![END]
+
+=== 96 | 1f016 | 3f ===
+I should've listened to my
+father and never become a
+teacher...[END]
+
+=== 97 | 1f068 | 52 ===
+I just don't know how he
+became so powerful...[BRK]
+
+I wonder who he sold his
+soul to...[END]
+
+=== 98 | 1f0c0 | 12 ===
+Neo-vane transport[END]
+
+=== 99 | 1f9b2 | 123 ===
+I'm so glad that i live here
+in neo-vane.[BRK]
+
+If i lived in ancient vane,
+the head of the guild would
+be taking all my money.[BRK]
+
+Borgan said that the vane
+magic guild is only out to
+steal our money.[BRK]
+
+[POR07]
+Liar!! I'm not interested
+in money for myself![BRK]
+
+I just need the money to
+restore the magic guild.[END]
+
+=== 9a | 1faec | bb ===
+Borgan said that the leader
+of the guild is using a cute
+little cat to make money![BRK]
+
+[POR02]
+...i'll show you just how
+cute i can be as i torch
+this joint![BRK]
+
+Think that'll be cute
+enough for you?
+[END]
+
+=== 9b | 1fbba | 6b ===
+I wonder if borgan is
+aware that neo-vane has
+fallen![BRK]
+
+What are we to do now that
+his promised land is gone?[END]
+
+=== 9c | 1fc38 | b9 ===
+So much for borgan creating
+a new society for us magic
+users.[BRK]
+
+That piece of fat has no 
+magic to speak of...[BRK]
+
+....
+.....[BRK]
+
+It's always the incompetent
+ones that want to change our
+world...[END]
+
+=== 9d | 1fd08 | 6d ===
+The children from the old
+mine are using neo-vane as
+their playground...[BRK]
+
+[POR02]
+So much for borgan's master
+plan![END]
+
+=== 9e | 1fd88 | d4 ===
+Martha tells me that she
+heard from borgan that this
+magic guild lady...[BRK]
+
+Only wants to admit the 
+wealthy to vane.[BRK]
+
+That's why borgan created
+neo-vane.[BRK]
+
+[POR07]
+That's the biggest line of
+maggot-fodder i've ever 
+heard![END]
+
+=== 9f | 1fe74 | 50 ===
+I can't believe how anyone
+would think that neo-vane
+isn't a diamond in the sky.[END]
+
+=== a0 | 1fed8 | 95 ===
+Listen to this piece of 
+gossip: it's rumored that
+borgan is in love![BRK]
+
+They say he's going to marry
+miria. She used to be the
+premier of ancient vane.[END]
+
+=== a1 | 1ff80 | 16b ===
+Only borgan has showed 
+himself to be the premier
+of the new magic guild...[BRK]
+
+That is why he has spent
+so much time fixing up 
+neo-vane.[BRK]
+
+This place is far superior
+to ancient vane in every
+way...[BRK]
+
+I've got a joke for you. How
+do you stop the leader of
+vane's magic guild?[BRK]
+
+Just drop a few coins and
+she'll spend the rest of her
+life looking for them! [BRK]
+
+Ha ha ha ha...
+[END]
+
+=== a2 | 200f8 | 14b ===
+[POR07]
+That's not true! I would
+rather kick borgan's ugly
+face in than find money![BRK]
+
+[POR02]
+Hey lemina, is that a piece
+of silver under that chair?[BRK]
+
+[POR07]
+Back off, everyone![BRK]
+
+I saw it first![BRK]
+
+That silver's mine!![BRK]
+
+[POR02]
+See what i mean?[BRK]
+
+The only thing more
+tenacious than that...[BRK]
+
+Is a buncha women fighting
+over the last bra on a blue-
+light special.[END]
+
+=== a3 | 2025a | 6c ===
+I'm tired of neo-vane![BRK]
+
+There's no juicy gossip here
+anymore. Where's the fun if
+you can't talk about people?[END]
+
+=== a4 | 202da | 114 ===
+The sole purpose of ancient
+vane was to elevate us above
+the commoners...[BRK]
+
+Now that ancient vane has 
+been grounded, neo-vane has
+assumed its legacy.[BRK]
+
+Borgan's name will go down 
+in history as being as the
+leader of the new guild.[BRK]
+
+[POR02]
+Um, i think you have the
+facts screwed up...[END]
+
+=== a5 | 20406 | 3b ===
+If you're a real magician,
+you'll want to live in
+neo-vane.[END]
+
+=== a6 | 2044e | 50 ===
+[POR07]
+...i'm a magician and i'd
+never want to live in this
+sterile, lifeless place![END]
+
+=== a7 | 204b2 | 8a ===
+Now that neo-vane has 
+fallen to the ground, i'm
+thinking about moving.[BRK]
+
+I don't know of anyone who
+still thinks neo-vane is 
+worth saving.[END]
+
+=== a8 | 2054c | 7a ===
+I can't believe that someone
+as weak as borgan could 
+control such power...[BRK]
+
+...i think we should find
+out how he did it...[END]
+
+=== a9 | 205cc | 10 ===
+Neo-vane house 1[END]
+
+=== aa | 21070 | ae ===
+All of my family qualified
+to live here in neo-vane.[BRK]
+
+Well, except for that stupid
+daughter of mine![BRK]
+
+She failed the magic test 
+and is now slaving day and
+night in the mine...[END]
+
+=== ab | 21136 | 6e ===
+Why did i have a child that
+was unable to use any kind
+of magic??[BRK]
+
+What did i do to deserve 
+this kind of pain?[END]
+
+=== ac | 211b8 | 81 ===
+I just wish that lemina
+liked borgan a little more.[BRK]
+
+He's really not a bad man.[BRK]
+
+I could see spending the
+rest of my life with him.[END]
+
+=== ad | 21248 | b6 ===
+Since borgan has lost
+control of neo-vane,[BRK]
+
+my daughter has returned to
+live here with us.[BRK]
+
+We're finally a family
+again![BRK]
+
+I'd like to give you some-
+thing as a reward for your
+efforts![END]
+
+=== ae | 2130c | c6 ===
+[POR07]
+Oh no, please, i don't want
+you to give me a reward.[BRK]
+
+....
+.....[BRK]
+
+But then again, i don't want
+to be disrespectful, either.[BRK]
+
+Okay, hand it over!![BRK]
+
+[POR02]
+I still haven't quite 
+figured you out, lemina...[END]
+
+=== af | 213e6 | 90 ===
+Neo-vane is great for all
+those of us blessed with
+magical powers.[BRK]
+
+Since my daughter has no 
+magical ability, i fear
+i'll never see her again...[END]
+
+=== b0 | 2148e | 6d ===
+I've heard that many 
+children die in the
+mine every day...[BRK]
+
+I just pray that my daughter
+isn't one of them...[END]
+
+=== b1 | 2150e | 4f ===
+Don't listen to what my
+husband says.[BRK]
+
+Deep down inside he loves
+our daughter...[END]
+
+=== b2 | 2156c | 36 ===
+I'm so glad that my daughter
+didn't die in the mine...[END]
+
+=== b3 | 215b6 | c1 ===
+I'm sick and tired of 
+hearing about how mom and 
+dad miss rachel.[BRK]
+
+They should be glad that we
+were chosen to help borgan
+build a better tomorrow.[BRK]
+
+Besides, now i get first
+pick on the bedrooms![END]
+
+=== b4 | 2168e | 58 ===
+It's so great not having
+rachel around.[BRK]
+
+Now i don't have to wear 
+hand-me-downs anymore![END]
+
+=== b5 | 216fe | 57 ===
+I think mom and dad really
+love rachel more than me.[BRK]
+
+I hope she doesn't ever
+come back![END]
+
+=== b6 | 21770 | 63 ===
+I'm really starting to miss
+my big sister.[BRK]
+
+I should've never said all 
+those mean things about her.[END]
+
+=== b7 | 217e2 | 52 ===
+I can't thank you enough for
+returning my sister to us![BRK]
+
+How can we ever repay you?[END]
+
+=== b8 | 21842 | 6c ===
+[POR07]
+Oh, don't mention it.[BRK]
+
+....
+.....[BRK]
+
+But i'll be expecting
+your massive donation to
+the magic guild of vane.
+[END]
+
+=== b9 | 218be | 92 ===
+It was such a terrible
+nightmare slaving in the
+mines.[BRK]
+
+Now it's as if i've awakened
+from a dark, evil sleep.[BRK]
+
+Thank you for making it
+all possible![END]
+
+=== ba | 21956 | 10 ===
+Neo-vane house 2[END]
+
+=== bb | 223f2 | b4 ===
+Howdy! Don't believe i've
+seen you in this town 
+before.[BRK]
+
+We've both been chosen by
+borgan himself to live here
+in neo-vane.[BRK]
+
+Most of our friends haven't
+been able to come live here.[END]
+
+=== bc | 224be | b9 ===
+I can't believe that some of
+the people here are so 
+concerned about their kids.[BRK]
+
+I mean, this is paradise!
+Forget about your snotty
+kids![BRK]
+
+Let 'em learn some
+responsibility in the mines![END]
+
+=== bd | 2258e | 5c ===
+I hope that neo-vane isn't
+opened up to the riff-raff.[BRK]
+
+I much prefer the elitist
+atmosphere.[END]
+
+=== be | 22606 | 10b ===
+I wonder how borgan keeps
+his b.O. From getting out
+of control...??[BRK]
+
+I mean, let's be real, here.
+He can't possibly wash every
+crease![BRK]
+
+[POR02]
+Oh...my....god! You just
+painted the most disgusting
+mental picture imaginable![BRK]
+
+Thanks! Now i have that
+forever burned in my
+mind![END]
+
+=== bf | 22720 | e2 ===
+People should want to live
+here in this glorious city.[BRK]
+
+For true power comes from
+one's ability to use magic.[BRK]
+
+[POR02]
+I can't believe how stupid
+humans are these days...[BRK]
+
+The strongest power in this
+world belongs to the four
+dragons.[END]
+
+=== c0 | 22810 | b2 ===
+[POR07]
+Sorry, ruby, but as head of
+the magic guild i know what
+the strongest magic is.[BRK]
+
+Because i've seen it in
+action.[BRK]
+
+....
+.....[BRK]
+
+There really is no match for
+the power of true love.[END]
+
+=== c1 | 228d6 | 14f ===
+I just don't know how 
+someone as butt-ugly as 
+borgan...[BRK]
+
+Can marry someone that is
+as beautiful as miria.[BRK]
+
+Miria must be blind, or
+maybe she's just desperate.[BRK]
+
+[POR07]
+Don't say that! My mother
+is being forced to marry
+borgan!![BRK]
+
+[POR02]
+Yeah...forced by her
+biological clock.[BRK]
+
+She's dying to have baby
+borgans running around![BRK]
+
+[POR07]
+Just shut up, ruby.[END]
+
+=== c2 | 22a3c | 6c ===
+When borgan and miria are 
+finally united in marriage,[BRK]
+
+they will become the most
+powerful couple in history.[END]
+
+=== c3 | 22ab6 | 45 ===
+[POR07]
+That's only a dream 'cause
+i'm never going to allow 
+it to happen![END]
+
+=== c4 | 22b12 | 84 ===
+I can't believe that neo-
+vane fell down right before
+borgan's wedding day.[BRK]
+
+I think you had something
+to do with that, little 
+girl![END]
+
+=== c5 | 22ba4 | 47 ===
+[POR07]
+I would never do anything
+to cause borgan to be
+unhappy. He he he...[END]
+
+=== c6 | 22bfe | 45 ===
+Thanks to you, borgan's put
+his wedding plans on hold 
+indefinitely.
+[END]
+
+=== c7 | 22c5a | 5e ===
+Everyone knows that the 
+only reason borgan is in
+vane is miria.[BRK]
+
+He's hoping she'll marry
+him.[END]
+
+=== c8 | 22cbe | 10 ===
+Neo-vane house 3[END]
+
+=== c9 | 23748 | 49 ===
+Welcome! We cater to buyers
+with discerning taste. What
+can i do for you?[END]
+
+=== ca | 2379a | 30 ===
+Thank you for visiting
+today. Please come again![END]
+
+=== cb | 237d0 | 12 ===
+Neo-vane item shop[END]
+
+=== cc | 241e8 | 65 ===
+I hope you're not just
+window shopping! I hate
+window shoppers![BRK]
+
+So then, what can i do for
+you today?[END]
+
+=== cd | 24256 | 1e ===
+Don't be a stranger,
+stranger.[END]
+
+=== ce | 2427a | 6e ===
+I only sell to those who
+are truly elite.[BRK]
+
+And you look like you fit
+the bill.[BRK]
+
+Now then, what can i do for
+you?[END]
+
+=== cf | 242f2 | 17 ===
+Stop by again any time![END]
+
+=== d0 | 2430e | d ===
+Neo-vane shop[END]
+
+=== d1 | 24cba | 12 ===
+Neo-magic guild 2f[END]
+

@@ -1,0 +1,468 @@
+File: M02.GRP
+
+Messages: 50
+
+=== 0 | e2ee | 13 ===
+Larpa secret pass 1[END]
+
+=== 1 | f198 | 13 ===
+Larpa secret pass 2[END]
+
+=== 2 | f95a | 13 ===
+Larpa secret pass 3[END]
+
+=== 3 | 10276 | 13 ===
+Larpa secret pass 4[END]
+
+=== 4 | 10cd6 | 70 ===
+[POR09]
+I'll find that girl for the
+goddess, if it's the last
+thing i do![BRK]
+
+We won't allow her to ruin
+all we've built![END]
+
+=== 5 | 10d72 | 9e ===
+Lord leo, you certainly
+look splendid today, if I
+might offer my opinion.[BRK]
+
+I don't usually say that
+to guys, you know...[BRK]
+
+You know...the oath, and
+all that...
+
+[END]
+
+=== 6 | 10e2b | 31 ===
+[0]P[0][0][0x3][0x10]
+n[0xC0][0xC0][BRK]
+
+[0][0][0][0xA][0x10][0]0&E[0][0xC0][BRK]
+
+[0][0][0][0xA]P[0][0xC0][0x4][0][0][0xC0][BRK]
+
+ [0xE]Gave 10s.
+
+
+[END]
+
+=== 7 | 10e50 | c ===
+Gave 10s.
+
+
+[END]
+
+=== 8 | 10e8a | 105 ===
+[POR05]
+Okay. Now then, everything
+is set to break the spell
+on lucia.[BRK]
+
+Goddess althena, hear my
+plea...take your holy light
+and cleanse this girl.[BRK]
+
+Loose the bonds that now
+bind the mind and heart of
+this tortured soul.[BRK]
+
+Shatter the darkness with
+rays of holy light!!![END]
+
+=== 9 | 10f98 | dd ===
+[POR08]
+Uuu...aaaahhhh![BRK]
+
+[POR02]
+Ronfar! What's wrong? 
+Lucia's in agony![BRK]
+
+[POR05]
+This is impossible! The
+spell she's under is 
+stronger than...[BRK]
+
+....
+.....[BRK]
+
+I-i've never failed to 
+break a spell, except once
+when...[BRK]
+
+....mauri was sick...
+[END]
+
+=== a | 1107e | 92 ===
+[POR05]
+Ohhhh....yes! I-it worked![BRK]
+
+...sweet success at the
+hands of ronfar![BRK]
+
+It's not complete, but the
+main spell is broken. She'll
+just have to...
+
+
+
+[END]
+
+=== b | 1111a | fc ===
+Oh! I didn't know anyone
+was still in here.[BRK]
+
+Yes, well, the sanctuary is
+closed for the day. Come 
+back tomorrow...[BRK]
+
+[POR05]
+No thanks, old man. I don't
+have any need to come back
+to this place.[BRK]
+
+Lucia, you can rest at my 
+house with your friends. 
+Let's go...[END]
+
+=== c | 11234 | 39 ===
+Are you still trying to
+break the curse on the
+poor girl?[END]
+
+=== d | 11270 | 60 ===
+The goddess is good to those
+that serve her well...[BRK]
+
+[POR02]
+Especially if they donate in
+cash, right?[END]
+
+=== e | 112e8 | 5e ===
+Please donate your spare
+money to the sanctuary. [BRK]
+
+Althena will reward your
+generosity someday.[END]
+
+=== f | 1135a | b6 ===
+The sanctuary is still
+closed for the day.[BRK]
+
+Please come back later.[BRK]
+
+[POR05]
+C'mon, hiro. Let's go to
+my house and let lucia 
+rest.[BRK]
+
+She's had a really tough
+time, and i'm sure she needs
+it.[END]
+
+=== 10 | 11438 | 88 ===
+Thanks be to althena, the
+goddess from which all
+goodness springs forth...[BRK]
+
+But goodness has a price to
+be paid...donate now, won't
+you?
+[END]
+
+=== 11 | 114e4 | 74 ===
+I now know that the goddess
+cannot fix all of mankind's
+mistakes.[BRK]
+
+We must take responsibility
+for our own actions...[END]
+
+=== 12 | 11568 | 8a ===
+The most important thing we
+all must possess is a
+willing spirit.[BRK]
+
+The goddess will not help
+those that are not willing
+to help themselves.[END]
+
+=== 13 | 11606 | c4 ===
+You're looking for the girl
+with red clothes?[BRK]
+
+If you pray to althena, and
+your heart is true, she will
+show you the way, i'm sure.[BRK]
+
+The best way to show that
+your heart is true is to
+donate freely.[END]
+
+=== 14 | 116de | 9d ===
+The people of this town
+are deserving only of
+althena's wrath![BRK]
+
+All they want to do is
+gamble their lives away![BRK]
+
+And they never donate any
+of their winnings...[END]
+
+=== 15 | 1178a | 72 ===
+We've worked so hard to
+build a peaceful, loving
+world here.[BRK]
+
+But it's come so close to
+destruction so many
+times!
+[END]
+
+=== 16 | 1180a | 53 ===
+[POR09]
+As long as the goddess is
+yet with us, zophar will not
+accomplish his evil here.[END]
+
+=== 17 | 11870 | 129 ===
+Ah, yes. I sense that the
+girl in the red robe is
+fading from us.[BRK]
+
+Quick, donate to althena
+and pray for her mercy.[BRK]
+
+[POR02]
+Uh, i really don't think
+that's gonna work...[BRK]
+
+Say, do you happen to
+know a priest named ronfar?[BRK]
+
+[POR00]
+Priest?!? Ronfar is no
+priest!![BRK]
+
+He has traded his calling
+for implements of sin.[END]
+
+=== 18 | 119b0 | 4b ===
+That miserable failure,
+ronfar, could have been the
+greatest priest of all.[END]
+
+=== 19 | 11a22 | 5e ===
+Our world now careens toward
+destruction...[BRK]
+
+Only the goddess althena has
+the power to save us.[END]
+
+=== 1a | 11a90 | 42 ===
+I can't believe that our
+world was saved from the
+brink by humans.[END]
+
+=== 1b | 11ae0 | 49 ===
+[POR05]
+Now you can get to more
+important jobs...like
+learning to shoot craps![END]
+
+=== 1c | 11b38 | 70 ===
+These miserable souls do
+not understand the danger
+our world is in.[BRK]
+
+If they did, they'd be
+crying like babies...[END]
+
+=== 1d | 11bbc | 77 ===
+Lucia? No, i can't say that
+i know of her.[BRK]
+
+Say, can i interest you in
+becoming a member of the
+sanctuary boosters club?[END]
+
+=== 1e | 11c56 | bc ===
+Say, can i cut you a deal
+on a slightly used althena
+statue?[BRK]
+
+They make great hall trees!
+Attractive and functional.[BRK]
+
+With the world going to hell
+in a handbasket, we don't
+need 'em anymore.[END]
+
+=== 1f | 11d20 | 78 ===
+[POR05]
+Say there, sis, don't beat
+yourself up about it.[BRK]
+
+Trot on over to the bar and
+forget your worries over a
+cold one!
+
+
+
+[END]
+
+=== 20 | 11dac | 74 ===
+Since the goddess althena
+herself resides in penta-
+gulia, [BRK]
+
+only specially chosen ones
+may enter its hallowed
+halls.[END]
+
+=== 21 | 11e2e | 30 ===
+[POR08]
+...althena resides in...
+pentagulia...hmm...
+[END]
+
+=== 22 | 11e62 | 3f ===
+I'm dreaming of the day i am
+chosen to serve in penta-
+gulia...[END]
+
+=== 23 | 11eb8 | 6c ===
+There's a rumor floating
+around about that dog
+ronfar.[BRK]
+
+They say he's been learning
+new tricks in pentagulia![END]
+
+=== 24 | 11f32 | 75 ===
+[POR05]
+Hrmph! Well, it's not true,
+but i kinda like the sound
+of it.[BRK]
+
+Kinda enhances my special
+mystique, don't you think?[END]
+
+=== 25 | 11fbe | d7 ===
+Huh? A girl wearing a red
+dress? No, i haven't seen
+her.[BRK]
+
+But rather than chasing
+skirts, why not repent from
+your sins and serve althena?[BRK]
+
+[POR05]
+Done it, seen it, been it.
+Sorry, no dice...[BRK]
+
+Uh, pardon the pun...hahaha!
+[END]
+
+=== 26 | 120b8 | 6c ===
+If zophar had succeeded,
+our world would have been
+lost forever![BRK]
+
+Thank heavens for the
+heroes that saved us![END]
+
+=== 27 | 12134 | 47 ===
+If you offer your silver
+to the goddess althena, 
+you will grow strong.[END]
+
+=== 28 | 1218e | a4 ===
+Some of the village folk
+give to the sanctuary,[BRK]
+
+but most are heathen pigs
+who will wither in the hot
+fires of althena's fury.[BRK]
+
+At least, i'm pretty sure
+they will...[END]
+
+=== 29 | 12242 | 6f ===
+You can ask althena to do
+anything on your behalf.[BRK]
+
+But it's really just good
+manners to donate something,
+too.
+[END]
+
+=== 2a | 122ca | 7e ===
+We are the guardians of
+althena's truth.[BRK]
+
+Through us, the world will
+come to know althena's
+goodness.[BRK]
+
+...if they donate enough.[END]
+
+=== 2b | 1234c | 69 ===
+But in all this time, we
+have not made even one
+person here convert![BRK]
+
+This town is crawlin' with
+sinners!
+[END]
+
+=== 2c | 123cc | ad ===
+Lucia...lucia...hmm...[BRK]
+
+I have heard that name once
+before. I think lord leo was
+trying to find her.[BRK]
+
+[POR02]
+Oh no! I don't like the
+sound of that one bit! We've
+got to find her!
+[END]
+
+=== 2d | 1248c | 88 ===
+I was thinking of starting
+a bingo tournament to pack
+this place.[BRK]
+
+Do you think it'll work?
+Of course, all proceeds will
+go to althena...[END]
+
+=== 2e | 12522 | 8a ===
+[POR05]
+Hey, that sounds like just
+the ticket to get the 
+sinners in here![BRK]
+
+Come right down to their
+level. At least, that's
+what i always said.[END]
+
+=== 2f | 125c6 | 32 ===
+What ever happened to the
+carefree days of before?[END]
+
+=== 30 | 125fc | 79 ===
+If there's one thing i've
+learned through all of this,
+it's this:[BRK]
+
+Believe in yourself and all
+your dreams will come true.[END]
+
+=== 31 | 1267e | f ===
+Larpa sanctuary[END]
+

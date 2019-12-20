@@ -1,0 +1,3602 @@
+File: M1F.GRP
+
+Messages: 336
+
+=== 0 | f4c2 | e8 ===
+Well, well, now! This is
+just what i like to see:
+anxious customers![BRK]
+
+Unfortunately, the carnival
+is not quite set up yet, so
+you'll have to come back.[BRK]
+
+[POR02]
+I knew it! I flew all the
+way over here and the dumb
+carnival isn't even open![END]
+
+=== 1 | f5be | 99 ===
+Well now, boys and girls,
+come on in and see the best
+carnival in the known world![BRK]
+
+There's something for every-
+one, so step right up and
+see the sights![END]
+
+=== 2 | f66a | d4 ===
+When our world teetered on
+the brink of destruction, I
+thought the show was over.[BRK]
+
+But now that the world has
+been saved, i know that the
+show must go on![BRK]
+
+So come on in! Enjoy the
+carnival and forget your
+worries![END]
+
+=== 3 | f752 | 74 ===
+Oh, ms. Jean! Your song and
+dance routine is a special
+event, indeed.[BRK]
+
+I'd love it if you'd perform
+for us tonight.
+
+[END]
+
+=== 4 | f7de | 9f ===
+Yippee! It's the carnival,
+dagnabbit! The lights, the
+smells, i just love it![BRK]
+
+I've wanted to be a carnival
+groupie since i was a boy,
+and my dream's come true![END]
+
+=== 5 | f88a | 2c ===
+[POR08]
+What are...carnival...
+......groupies? 
+
+[END]
+
+=== 6 | f8d2 | 72 ===
+There's no place in the
+world i'd rather be than
+the carnival![BRK]
+
+I've always been entranced
+by the lights and music.[END]
+
+=== 7 | f958 | 94 ===
+You know, kiddies, my
+favorite thing is watching
+the magic arrow fly.[BRK]
+
+When people get off that
+thing, by crackee, they
+spew geysers![BRK]
+
+It's hilarious![END]
+
+=== 8 | fa04 | 95 ===
+What? You say my grand-
+daughter's looking for me?[BRK]
+
+Why in tarnation would she
+be looking for me?[BRK]
+
+She knows i'm following the
+carnival now. Crazy kid![END]
+
+=== 9 | faa8 | c4 ===
+Oh, i remember now. I went
+and got that crazy kid from
+her parents in larpa.[BRK]
+
+Promised to show her the
+sights of the carnival.[BRK]
+
+I musta forgot all about
+her once i got here. I
+wonder where she went?[END]
+
+=== a | fb80 | 94 ===
+Have you seen my grampa?
+He took me to this place,
+then disappeared.[BRK]
+
+I'm scared. Mommy and daddy
+are back home, and i don't
+know how to get there...[END]
+
+=== b | fc22 | c7 ===
+You...you have special
+clothes. Are you a member
+of the carnival?[BRK]
+
+[POR08]
+Carnival...?[BRK]
+
+[POR00]
+Do you do tricks or some
+fun thing? [BRK]
+
+Maybe you can make my grampa
+appear...i'm scared that he
+won't come back...
+
+[END]
+
+=== c | fd00 | 3b ===
+Where is my grampa? I can't
+find my way home without
+him...[END]
+
+=== d | fd52 | 76 ===
+Mommy and daddy said grampa
+would watch me at the 
+carnival.[BRK]
+
+Now grampa has gone away,
+and i don't know where he
+is...[END]
+
+=== e | fddc | 115 ===
+Grampa will get in trouble
+if my mommy and daddy find
+out about this.[BRK]
+
+Daddy will be real mad. The
+last time grampa took me,
+he left me at the store.[BRK]
+
+I think he's getting too old
+to go places by himself.[BRK]
+
+Say, lady, you look like a
+magic performer. Can you
+make grampa come back?[END]
+
+=== f | ff08 | 7a ===
+Grampa, if you don't start
+remembering better,[BRK]
+
+mommy and daddy are going
+to put you away in a home.[BRK]
+
+I heard them say that.[END]
+
+=== 10 | ff96 | f2 ===
+Step right up, one and
+all! Examine the mystery
+and beauty of fire.[BRK]
+
+You're looking at the
+world's best human flame-
+thrower![BRK]
+
+Watch in amazement as I
+spew streams of flame high
+into the air.[BRK]
+
+[POR02]
+So he spits fire. Big deal.
+I can do that, too...[END]
+
+=== 11 | 10092 | 70 ===
+Wow, that looks like some
+kind of natural ability you
+have there...[BRK]
+
+Wanna join the carnival?[BRK]
+
+[POR02]
+Uh, no...thanks.[END]
+
+=== 12 | 1011a | cc ===
+Step right up...step close
+as you dare and witness the
+human flamethrower![BRK]
+
+A freak of nature that can
+spew flame high into the
+air! Watch and see![BRK]
+
+....
+.....[BRK]
+
+And, uh, kids...don't try
+this at home...ok?
+
+[END]
+
+=== 13 | 101fa | ad ===
+I heard from jean that you
+are a real red dragon![BRK]
+
+Will you show me the way
+you spout flame? Please?[BRK]
+
+[POR02]
+Sorry, i'm an adult now. To
+show off just for you would
+be childish...[END]
+
+=== 14 | 102b0 | 4c ===
+Ohh, that's so depressing.
+I was so looking forward
+to seeing you spew fire![END]
+
+=== 15 | 10314 | 95 ===
+Look, one and all, upon the
+face of an oddity! A human
+flamethrower![BRK]
+
+Please, turn away if you
+have a weak stomach. He will
+spew flame from his mouth![END]
+
+=== 16 | 103bc | 7a ===
+Hey there, kids! Want one
+of my colorful balloons?[BRK]
+
+I just made a new batch!
+The gas inside them can
+lift you into the sky![END]
+
+=== 17 | 1044c | 106 ===
+[POR02]
+Hiro! Hiro! Please? Can we
+get some balloons? I want
+to fly with one![BRK]
+
+[POR05]
+What are you talking about,
+ruby? You always fly![BRK]
+
+[POR02]
+Ronfar, you are the biggest
+drag on my enthusiasm![BRK]
+
+Every adventure party has a
+pooper. That's why we
+invited you...[BRK]
+
+...party pooper!
+[END]
+
+=== 18 | 1056a | 64 ===
+Say, how 'bout a nice new
+balloon to brighten your day
+and lift your spirits?[BRK]
+
+Just made a new batch![END]
+
+=== 19 | 105de | d2 ===
+Say, why don't you buy some
+of my colorful balloons?[BRK]
+
+If you buy a whole lot,
+they'll lift you into the
+sky![BRK]
+
+[POR02]
+I'm not some stupid kid you
+can sucker in with that
+tired sales pitch![BRK]
+
+...but i will take just one.[END]
+
+=== 1a | 106c4 | 51 ===
+Enjoy our carnival, see the
+sights, and don't forget to
+visit the hall of chance![END]
+
+=== 1b | 1072e | 1e7 ===
+[POR05]
+This is some sort of
+gamblin' joint? Whoo-hoo!
+I'll get my dice![BRK]
+
+[POR07]
+Ronfar? Where is your head?
+We don't have time to spend
+gambling![BRK]
+
+[POR05]
+Speaking of party poopers,
+i'd say that little missy
+money-pants is it![BRK]
+
+Besides, i can double my
+money in no time flat![BRK]
+
+[POR07]
+Double...did you say double
+your money?[BRK]
+
+Well, maybe we do have just
+a little time to hang around
+here...[BRK]
+
+...as long as you double my
+money, too.[BRK]
+
+[POR02]
+Look at that, hiro. Ronfar's
+got lemina hooked now! How
+completely pathetic![END]
+
+=== 1c | 1092c | 4d ===
+Come on in, see the lights,
+place a bet, take a chance!
+It's all in good fun![END]
+
+=== 1d | 10988 | 4d ===
+Come one, come all! There's
+always a new game starting
+in the hall of chance![END]
+
+=== 1e | 109e2 | 11b ===
+[POR05]
+My dice are red-hot! I've
+gotta take another crack
+at the games in there![BRK]
+
+I can double my money in
+just a few minutes![BRK]
+
+[POR02]
+Ronfar, i think you're using
+a lifetime's worth of luck
+tonight. [BRK]
+
+You'd better quit while
+you're ahead...[BRK]
+
+[POR05]
+You really know how to drag
+a guy down, don't ya?[END]
+
+=== 1f | 10b0c | 38 ===
+Don't bother me now. I have
+to concentrate on this song.[END]
+
+=== 20 | 10b54 | 62 ===
+If you make me mess up this
+song, my daughter is going
+to be mad.[BRK]
+
+So just don't talk to me,
+okay?
+[END]
+
+=== 21 | 10bca | 84 ===
+[0xDB]La la la la la...[BRK]
+
+[0xDB]When i was alone as one,
+my eyes were as blind,
+i know[0xDB].[BRK]
+
+[0xDB]Sky, brilliant with blue
+elegance[0xDB], i couldn't behold.[END]
+
+=== 22 | 10c5c | 30 ===
+When i was alone as one...[BRK]
+
+[POR08]
+La la la la la....[END]
+
+=== 23 | 10ca4 | 70 ===
+[0xDB]When i was alone as one,
+my heart was as ice,[0xDB]
+i know[0xDB].[BRK]
+
+[0xDB]Wind whispering sweet
+melodies, i could not
+behold.[0xDB].
+[END]
+
+=== 24 | 10d28 | 9a ===
+[0xDB]Laa, la la[0xDB] la...[BRK]
+
+[0xDB]Sight to my eyes, and
+warmth to my heart[0xDB][BRK]
+
+[0xDB]la la la la la laaaa...[BRK]
+
+[POR02]
+Hey, hiro! Isn't this the
+song lucia really liked?[BRK]
+
+[POR01]
+....
+.....[END]
+
+=== 25 | 10dda | 40 ===
+[0xDB]Our love eternal shall
+be...destiny[0xDB][BRK]
+
+[0xDB]Laaa, la la la la lala...[END]
+
+=== 26 | 10e2e | 88 ===
+This song brings back the
+sweetest of memories...[BRK]
+
+That was the song my wife
+used to love...[BRK]
+
+I sang it to her when I
+proposed marriage...[END]
+
+=== 27 | 10ece | 8a ===
+I was such a shy boy, not
+really sure of what i was
+doing...[BRK]
+
+But i was headed off to
+war, and i knew that i had
+to ask her before i left.
+[END]
+
+=== 28 | 10f6c | e2 ===
+After my wife died, i used
+this song to keep her alive
+in my heart.[BRK]
+
+She was my one and only
+love. Her passing was a
+great loss to me...[BRK]
+
+But i don't cry anymore,
+because we are still as one,[BRK]
+
+joined in a love that is
+eternal...
+[END]
+
+=== 29 | 11066 | 3f ===
+One day, i hope you find
+someone to love as deeply
+as i have...[END]
+
+=== 2a | 110b8 | 12d ===
+Hey jean! Long time, no
+see, girl![BRK]
+
+[POR10]
+Yeah, long time no see!
+Say, what happened to you?
+What's with the outfit?[BRK]
+
+[POR00]
+Well, i changed my clothes
+for the carnival. I wasn't
+getting much dancing work.[BRK]
+
+But as a bunnygirl, i'm
+really in demand![BRK]
+
+[POR10]
+Isn't that kind of demeaning
+to women?[BRK]
+
+[POR00]
+Uh...well...
+
+
+
+
+[END]
+
+=== 2b | 111fc | 7e ===
+I heard from giban you
+won't dance at the carnival
+this year, jean[BRK]
+
+i'm kinda disappointed. I
+wanted to see you dance
+again....[END]
+
+=== 2c | 11296 | 98 ===
+Jean! Speaking of changes,
+what happened to you? This
+is definitely a new look![BRK]
+
+[POR10]
+I'm helping out a friend by
+using my knowledge of blue
+dragon karate.[END]
+
+=== 2d | 1134e | b2 ===
+Girls have come from all
+across the land to dance at
+the carnival this year.[BRK]
+
+I'm sure that none of them
+hold a candle to you, jean.[BRK]
+
+You've got to come back next
+year and dance...[END]
+
+=== 2e | 11418 | 8b ===
+Jean's dancing is good, but
+don't you think she'd look
+sexier in this bunny outfit?[BRK]
+
+I certainly think she would.
+I know the guys'll dig it![END]
+
+=== 2f | 114b6 | a2 ===
+Jean's dancing is the best
+in the land.[BRK]
+
+After she came back, the
+carnival business went
+through the roof![BRK]
+
+People came from as far
+away as dalton to see her
+dance![END]
+
+=== 30 | 1156c | 83 ===
+Oh, jean! I wish i could
+dance half as well as you![BRK]
+
+[POR10]
+Don't be so hard on
+yourself! Enjoy what you do
+and it'll show in your work![END]
+
+=== 31 | 11602 | 7b ===
+Hey...that looks like a
+mighty rare flying cat![BRK]
+
+Say, why don't you let me
+put it in our freak gallery?
+It'll make you rich![END]
+
+=== 32 | 1168a | 86 ===
+[POR07]
+Stop that silly talk this
+instant! That's so inhumane
+even i wouldn't do it![BRK]
+
+[POR02]
+Says who? This girl is
+talking about serious money![END]
+
+=== 33 | 11728 | b6 ===
+I'm telling you, a few short
+months with your cat in the
+sideshow,[BRK]
+
+...and we can all retire![BRK]
+
+[POR02]
+I don't want to hear you
+suggest that again![BRK]
+
+I am not just some dumb
+animal, you know![END]
+
+=== 34 | 117ee | d5 ===
+I heard a rumor that this
+cat is really the actual
+red dragon![BRK]
+
+If that's true, one week
+in the sideshow and we'd
+all be able to retire![BRK]
+
+[POR02]
+No, no, no! I will not let
+you put me on display like,
+like some...animal![END]
+
+=== 35 | 118d0 | 98 ===
+[POR07]
+But ruby, you are an animal
+...in a weird sort of way...[BRK]
+
+Why not turn that gift into
+hard cash for all of us?[BRK]
+
+You know, a gift that keeps
+on giving!
+[END]
+
+=== 36 | 11978 | 33 ===
+This bar has exotic tonics
+from all over the world.[END]
+
+=== 37 | 119b8 | 43 ===
+Try one of our famous tonics
+before you leave. You won't
+regret it![END]
+
+=== 38 | 11a0e | 5c ===
+Be careful not to order two
+different tonics.[BRK]
+
+Some combinations will knock
+you on your butt.[END]
+
+=== 39 | 11a7a | 65 ===
+<Hick> haaay, whad are you
+doin' invadin' my space?[BRK]
+
+Don' you know i'm a bery
+'portant person?? <Hick>[END]
+
+=== 3a | 11aee | 7a ===
+Say, <hick> ledds go see
+thad cutie jean shake ger
+boody, huh? Huh? <Hick>[BRK]
+
+Bud, waid uh minnit whal
+i finnish 'dis dreenk.[END]
+
+=== 3b | 11b78 | 5b ===
+Dad, what are you still
+doing drinking here?[BRK]
+
+I want to go play and see
+the carnival sights![END]
+
+=== 3c | 11be6 | 75 ===
+Daaad! C'mon! We've got to
+go! Jean's the next one up
+to dance.[BRK]
+
+People say it's amazing, and
+i don't want to miss it![END]
+
+=== 3d | 11c72 | 1a5 ===
+Jean? Jean?!! Where are you
+going? Is your dance over?[BRK]
+
+Dad you idiot! We missed
+jean's dance! All because of
+your stupid drinking![BRK]
+
+I'll never forgive you for
+this! Booo hoooo hoooo![BRK]
+
+[POR10]
+I'm sorry you missed my
+dance because of your
+drunken father.[BRK]
+
+I have things to do, but
+when i return, i'll dance
+just for you! How's that?![BRK]
+
+[POR00]
+Really?! Oh, that would be
+the greatest![BRK]
+
+Didja hear that, dad? She's
+gonna dance just for me![END]
+
+=== 3e | 11e32 | 5d ===
+Oh, jean! I can't wait until
+i can see you dance![BRK]
+
+I want to be just like you
+when i grow up.
+[END]
+
+=== 3f | 11e9e | 34 ===
+Say, uh, what's a nice girl
+like you doing out here?[END]
+
+=== 40 | 11ee6 | 5d ===
+You know, these woods are
+pretty scary...[BRK]
+
+A girl could get hurt if
+she didn't watch her step.[END]
+
+=== 41 | 11f52 | 62 ===
+Say there, looks like you
+need an escort, honey pie.[BRK]
+
+Come here. I'll take real
+good care of you...[END]
+
+=== 42 | 11fc4 | 3f ===
+Avoiding bad seeds like
+you, buster.[BRK]
+
+Why are all men such pigs?[END]
+
+=== 43 | 12016 | 31 ===
+And a boy could get kneed,
+if he wasn't careful.
+[END]
+
+=== 44 | 12056 | 6e ===
+Come any closer, and i'll
+take permanent care of you,
+freak-boy![BRK]
+
+I know your kind, so just
+keep your distance![END]
+
+=== 45 | 120ca | a ===
+[0xE0]Carnival[0xE0][END]
+
+=== 46 | 13544 | 238 ===
+[POR00]
+...jean!?[BRK]
+
+What's the matter, jean?[BRK]
+
+[POR10]
+Listen, giban, i don't have 
+time to tell you everything
+that's going on right now.[BRK]
+
+In short, althena's cult has
+blocked the passage to get 
+to western nota and beyond.[BRK]
+
+Giban, i want you to use the
+magic arrow to fly us to
+west nota.[BRK]
+
+[POR00]
+...you can't be serious!?[BRK]
+
+The magic arrow has not
+been fully tested at that
+distance![BRK]
+
+[POR09]
+Who's in charge of this
+drunken revelry?! Come
+forth![BRK]
+
+I am leo, white knight of
+althena's guard. Again,
+who is in charge?![BRK]
+
+[POR00]
+Oh dear...they've found
+you...[BRK]
+
+Don't worry, jean, i'll take
+care of this...[END]
+
+=== 47 | 13786 | 174 ===
+[POR09]
+You there! I am looking for
+a woman that may have passed
+through this carnival.[BRK]
+
+She's dressed in an unusual
+red cloth. Have you seen 
+her?[BRK]
+
+[POR00]
+...as you can see, sir, 
+we've been here for some
+time,[BRK]
+
+but no one that fits your
+description passed through
+here...[BRK]
+
+[POR09]
+I trust that you are telling
+the truth...[BRK]
+
+But i warn you. It is not
+wise to betray my trust!
+Remember that![END]
+
+=== 48 | 138fe | 47 ===
+[POR09]
+All right, men, search the
+area! Leave no stone
+unturned!
+
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 49 | 13948 | 26b ===
+[POR10]
+...thank you, giban. Leo 
+is relentless. He wants
+lucia here...[BRK]
+
+[POR00]
+Jean, you don't have to
+thank me.[BRK]
+
+I would hide anybody that
+althena's guard is 
+searching for.[BRK]
+
+I've seen them punish too 
+many innocent people. They
+have no honor.[BRK]
+
+You know, lucia is too easy
+to spot in that clothing...[BRK]
+
+Jean, why don't you take 
+her to the costume tent and
+get her some new clothes?[BRK]
+
+[POR08]
+New clothes!? But i've
+never worn any other![BRK]
+
+[POR10]
+Don't worry, lucia, i'll help
+you find your style...[BRK]
+
+[POR07]
+I'll help you too! I love
+doing makeovers![BRK]
+
+[POR02]
+Don't leave me out! I wanna
+help, too![BRK]
+
+[POR00]
+Jean, you know where the
+costumes are. Help yourself.
+[END]
+
+=== 4a | 13bca | 7b ===
+[POR00]
+I'll let you use the magic
+arrow once lucia is finished
+changing.[BRK]
+
+For now, you'd better stay
+close. It's safer that way.[END]
+
+=== 4b | 13c5c | fc ===
+[POR00]
+...whoa! Those clothes
+really do you justice,
+lucia.[BRK]
+
+I've finished preparing
+the magic arrow, but you
+must ask the old man first.[BRK]
+
+[POR10]
+I appreciate your kindness,
+giban. You are truly a good
+friend.[BRK]
+
+[POR00]
+I am the one that should
+be thanking you, jean.
+
+[END]
+
+=== 4c | 13d74 | 4d ===
+[POR00]
+Don't worry, the magic arrow
+will take you to your 
+destination.[BRK]
+
+I hope...[END]
+
+=== 4d | 13dd4 | 50 ===
+[POR00]
+Oh! Are you guys okay? [BRK]
+
+Good! If you're not in a
+hurry you can rest in 
+here.[END]
+
+=== 4e | 13e38 | 5f ===
+[POR00]
+Jean, i hope you will come
+back to us very soon.[BRK]
+
+All of us miss your song
+and dance numbers.[END]
+
+=== 4f | 13ea4 | 23 ===
+[POR10]
+I will return.[BRK]
+
+You have my word.[END]
+
+=== 50 | 13eda | 69 ===
+[POR00]
+Everyone is singing and
+dancing because the world
+is at peace.[BRK]
+
+We owe you our eternal
+gratitude, hiro.[END]
+
+=== 51 | 13f5a | 10e ===
+[POR00]
+Jean, are you leaving
+again?[BRK]
+
+[POR10]
+I have to. My friends need
+my help...[BRK]
+
+[POR00]
+You have always placed 
+others' well-being ahead
+of your own.[BRK]
+
+I hope your friends realize
+all the sacrifices you have
+made for them.[BRK]
+
+Well, hurry back. You know
+that you are always welcome
+here.
+[END]
+
+=== 52 | 14084 | d1 ===
+[POR00]
+Jean, don't forget that this
+carnival is your home and we
+are your family...[BRK]
+
+[POR10]
+Giban, relax! I'm not going
+off to get killed or some-
+thing![BRK]
+
+I'll be back before you even
+have a chance to start 
+missing me![END]
+
+=== 53 | 14168 | 89 ===
+[POR05]
+...hey, hiro, what do you
+think they're doing inside
+that tent?[BRK]
+
+Look! There's a tear in 
+the tent. Waddaya say? Wanna
+grab an eyeful?![END]
+
+=== 54 | 141f4 | 52 ===
+[POR02]
+...lucia, there's so many
+different outfits.[BRK]
+
+Which one are you going to
+choose?[END]
+
+=== 55 | 14250 | 152 ===
+[POR08]
+...i don't care what I
+wear...[BRK]
+
+I just must...blend in
+better with the local
+people here...[BRK]
+
+The type of clothing does
+not matter...[BRK]
+
+[POR10]
+Come on, lucia! Of course it
+matters. You have to make
+a statement with your dress![BRK]
+
+[POR07]
+You should choose the most
+expensive garments, since
+you get them for free!![BRK]
+
+What have you got picked
+out...???
+
+
+[END]
+
+=== 56 | 143ac | 145 ===
+[POR05]
+...dammit![BRK]
+
+I can't see anything! 
+Hiro, let's trade positions![BRK]
+
+[POR01]
+In a minute, ronfar. You
+see this stuff everyday! [BRK]
+
+[POR05]
+...what!? Hey! Nothing like
+this![BRK]
+
+Now move! If i don't get a 
+glimpse i'm really going
+to be pissed.[BRK]
+
+...ungh...there...perfect
+view...[BRK]
+
+[POR01]
+Ronfar...let me see![BRK]
+
+[POR05]
+...oh yesss!!! Babydoll,
+come to papa!
+
+[END]
+
+=== 57 | 144f4 | 53 ===
+[POR05]
+...hiro, stop it! I'll let
+you see when i'm finished!![BRK]
+
+Stop! I said cut it out!![END]
+
+=== 58 | 1454a | 2d ===
+[POR05]
+Uh oh!! I think they
+heard us...[BRK]
+
+[POR01]
+....!?[END]
+
+=== 59 | 14580 | 40 ===
+[POR07]
+Ronfar!![BRK]
+
+[POR10]
+Hiro!?[BRK]
+
+[POR02]
+You....[BRK]
+
+    ....you[BRK]
+
+      ....peepers!![END]
+
+=== 5a | 145c8 | 164 ===
+[POR08]
+...i'm sorry, hiro, but did
+you want to help me pick out
+a new outfit?[BRK]
+
+[POR07]
+Lucia, what are you talking
+about? Aren't you
+embarrassed?[BRK]
+
+These two perverts were
+making their own little
+peep show![BRK]
+
+[POR08]
+....
+.....embarrassed?[BRK]
+
+[POR10]
+Lucia, you can't let guys
+take advantage of you like
+that![BRK]
+
+You have to show 'em who's
+boss![BRK]
+
+[POR08]
+....
+.....boss?[BRK]
+
+[POR10]
+Yeah, boss! Watch![END]
+
+=== 5b | 14730 | 46 ===
+[POR02]
+You live with someone all
+these years and you think
+you know them!![END]
+
+=== 5c | 14780 | 36 ===
+[POR10]
+Uh, don't do that again.[BRK]
+
+Okay, lucia...come on out![END]
+
+=== 5d | 147ba | 5e ===
+[POR10]
+So whaddaya think of lucia's
+new threads, hiro?[BRK]
+
+They really enhance her 
+charm, don't they?[END]
+
+=== 5e | 14822 | c4 ===
+[POR08]
+I feel kind of strange...[BRK]
+
+Why are you staring at me
+like that, hiro?[BRK]
+
+....
+.....[BRK]
+
+...is...is something...
+...wrong?[BRK]
+
+[POR01]
+Oh, uh...no! No! Everything
+is great![BRK]
+
+....
+.....[BRK]
+
+You look fantastic, lucia!
+[END]
+
+=== 5f | 148fa | 90 ===
+Jean, i haven't seen you 
+in ages![BRK]
+
+What? You want to fly to
+west nota using the magic
+arrow?[BRK]
+
+It's fine with me, but you
+need to ask giban first.[END]
+
+=== 60 | 1499e | ac ===
+Giban said you can use the
+arrow...[BRK]
+
+Give me a few minutes to get
+everything all set up...[BRK]
+
+Don't worry, you're in good
+hands, now. I'll make sure
+the arrow gets you to nota.[END]
+
+=== 61 | 14a5e | ce ===
+The arrow is all finished.[BRK]
+
+Just wait a second while I
+make one final adjustment to
+the destinationometer...[BRK]
+
+The darned thing's so
+touchy...[BRK]
+
+If that thing goes out of
+whack, no tellin' where
+you'll end up...[END]
+
+=== 62 | 14b36 | 34 ===
+...all right, who's going to
+be the first to get in?[END]
+
+=== 63 | 14b6e | 4b ===
+[POR09]
+I knew the old man was
+lying![BRK]
+
+...halt! I've finally found
+you, traitors![END]
+
+=== 64 | 14bbc | 39 ===
+[POR05]
+...come on! Hurry up and
+get in! Let's get outta
+here![END]
+
+=== 65 | 14bf8 | 4b ===
+[POR09]
+...ha!! Do you really think
+you can escape me!?[BRK]
+
+...guess again, vermin!![END]
+
+=== 66 | 14c46 | 55 ===
+[ROR09]
+Enjoy your little flight.[BRK]
+
+I'm afraid your itinerary
+has changed...[BRK]
+
+Ha ha ha ha ha![END]
+
+=== 67 | 14cb6 | 94 ===
+...i heard you didn't have
+a pleasant time flying the
+magic arrow.[BRK]
+
+Well, don't blame me! Leo's
+the one responsible for the
+change of flight plans!
+
+[END]
+
+=== 68 | 14d58 | 95 ===
+I think i can build a better
+arrow. I just need someone
+to test it out...[BRK]
+
+[POR10]
+I'm sorry, but after the
+last time, no one here is
+ready to volunteer...[END]
+
+=== 69 | 14e08 | 9e ===
+If i just would've taken the 
+expansion shield and crossed
+it over to the...[BRK]
+
+...don't worry, i'll have
+the bugs worked out of the 
+new one before you need it.[END]
+
+=== 6a | 14eba | ca ===
+J-42 to j-37. The black wire
+then crosses over and hooks
+on to yellow j-29.[BRK]
+
+Yikes! Geez, don't just walk
+up and scare me like that![BRK]
+
+I'm working hard to finish
+the new magic arrow so you
+guys can fly it.[END]
+
+=== 6b | 14f92 | 5a ===
+[POR10]
+I've told you a million 
+times, we're not going to 
+fly on your magic arrows![BRK]
+
+...ever!
+[END]
+
+=== 6c | 15004 | 86 ===
+Say, you don't know anyone
+that would like to take
+a magic arrow ride?[BRK]
+
+I need a guinea pi...i
+mean to say, volunteer...
+to try it out.[END]
+
+=== 6d | 1509e | 83 ===
+Geez, if lucia wanted to buy
+a dress, she should've come
+to my shop first.[BRK]
+
+Next time just make sure
+you check my store first,
+okay?[END]
+
+=== 6e | 15126 | 79 ===
+With all the travelin' 
+i've done, i got some pretty
+cool stuff![BRK]
+
+I buy and sell almost
+everything. What can i do
+for you?[END]
+
+=== 6f | 151a8 | 22 ===
+Just remember to come to
+me first![END]
+
+=== 70 | 151da | ab ===
+Please step back. Don't 
+you know who you are talking
+to?[BRK]
+
+I'm the most famous star of
+this carnival.[BRK]
+
+I just can't go outside 
+anymore because the women 
+keep attacking me![END]
+
+=== 71 | 15292 | 3f ===
+[POR05]
+Hey, i hear ya, buddy.[BRK]
+
+I have to beat 'em back with
+a stick![END]
+
+=== 72 | 152de | 53 ===
+[POR02]
+What are you talking about,
+ronfar? Usually the women
+are running away from you.[END]
+
+=== 73 | 1534c | 88 ===
+Oh, i just don't know
+what to do![BRK]
+
+I guess i need to hire some
+bodyguards to keep my fans
+away from me.[BRK]
+
+Being a celebrity sure does
+suck![END]
+
+=== 74 | 153e2 | 11 ===
+[POR05]
+Amen, brother![END]
+
+=== 75 | 1540e | 7d ===
+I'm in the middle of 
+answering all my fan mail.[BRK]
+
+I really need to get a 
+secretary so that she can
+take care of this for me.
+[END]
+
+=== 76 | 1549e | a1 ===
+I give and i give and it's
+just not good enough for 
+you people.[BRK]
+
+What more do you want from
+me?[BRK]
+
+Just go! It'll never be good
+enough for you anyway...
+leave me...[END]
+
+=== 77 | 15556 | 76 ===
+Hey, do you think i could 
+have your cat? [BRK]
+
+[POR02]
+Hiro, you're not seriously
+thinking about letting him 
+have me, are you?[END]
+
+=== 78 | 155e0 | 66 ===
+I have taught all the great
+dancers of the world.[BRK]
+
+My latest protege is jean.[BRK]
+
+I see that you've met...
+[END]
+
+=== 79 | 1565e | 30 ===
+I'm sorry, but i can't 
+accept any new students.[END]
+
+=== 7a | 156a2 | 7c ===
+Oh dear! Why is leo after
+jean? Is she in some sort
+of trouble?[BRK]
+
+This is terrible! My star
+pupil...wanted by althena's
+guard![END]
+
+=== 7b | 15736 | af ===
+Don't forget to practice
+your dancing every day,
+jean.[BRK]
+
+If you miss just one
+practice, your skills will
+start to fade.[BRK]
+
+[POR10]
+I know, practice makes 
+perfect, blah, blah, blah...
+
+[END]
+
+=== 7c | 157fc | 32 ===
+Oh!? You guys...
+what's...what's happened
+to jean?[END]
+
+=== 7d | 15846 | cd ===
+Love the new outfit, jean!
+I think it really makes
+you look hot![BRK]
+
+Maybe when you come back,
+you can teach me karate.[BRK]
+
+Then i can be a karate and
+dance expert, and i can 
+raise my rates. [BRK]
+
+[POR10]
+Uh, yeah...right.[END]
+
+=== 7e | 1592a | 4d ===
+Since jean has become 
+famous, my dancing school
+has become full of students.[END]
+
+=== 7f | 1598a | 98 ===
+After one lesson of karate
+with jean, i stopped taking
+lessons from her.[BRK]
+
+I got tired of her kicking
+the snot out of me. I think
+i'll stick to dancing...[END]
+
+=== 80 | 15a36 | 89 ===
+Jean!? Are you going back
+on the road with your 
+friends?[BRK]
+
+[POR10]
+Yeah, it's time that we
+finally bring an end to
+this chapter of hiro's life.[END]
+
+=== 81 | 15ad2 | 9c ===
+I'm the best dancer in this
+whole place. I've never met
+my equal.[BRK]
+
+[POR10]
+I'm sure you've worked hard
+to become so. Have you seen
+me dance?[BRK]
+
+...just wondering...
+[END]
+
+=== 82 | 15b86 | a2 ===
+I just won the world
+dancing competition...[BRK]
+
+Some of the people say I
+only won because jean wasn't
+able to attend...[BRK]
+
+[POR10]
+Enjoy the victory. You
+earned it, i'm sure.[END]
+
+=== 83 | 15c3c | 54 ===
+Lord leo certainly seemed
+to be agitated![BRK]
+
+What's the big deal? It's
+just one girl...[END]
+
+=== 84 | 15ca8 | ac ===
+I've heard that you won't
+be coming back for a
+while...[BRK]
+
+That's too bad. I guess
+everyone will have to enjoy
+my dancing.[BRK]
+
+[POR10]
+Just keep them entertained
+until i get back!
+
+
+
+
+[END]
+
+=== 85 | 15d6c | 63 ===
+Jean, you seem to be
+totally, like, happy.[BRK]
+
+Did you get some?[BRK]
+
+You know, just between
+you and me...
+
+[END]
+
+=== 86 | 15dea | a3 ===
+Jean, what's this new
+outfit?[BRK]
+
+Does this mean that you're
+going to give up dancing
+for good?[BRK]
+
+[POR10]
+No, no. I'm only doing this
+temporarily. I'll be back
+to dance soon.[END]
+
+=== 87 | 15eac | 41 ===
+I just can't find my way. I
+don't know what life has to
+offer me.[END]
+
+=== 88 | 15f18 | 85 ===
+I've been dancing my legs
+off and all i keep hearing
+is how great jean is.[BRK]
+
+Don't walk away from me,
+jean! We have a score to
+settle.
+[END]
+
+=== 89 | 15fb0 | b4 ===
+Jeeeaaannn...
+have you finally returned
+to dance?[BRK]
+
+It's about time we see who
+the best dancer is in this
+carnival.[BRK]
+
+[POR10]
+No! I'm just getting ready 
+to leave again. I'll see you
+later![END]
+
+=== 8a | 1607c | 1f1 ===
+[POR10]
+You came back, just like
+you promised![BRK]
+
+[POR02]
+Jean, i always thought
+you looked best dressed
+as a dancer.[BRK]
+
+[POR10]
+Thanks, ruby. I like being
+a dancer. Say, where's
+lucia?[BRK]
+
+After all, i did promise her
+that i would do a dance for
+her once we defeated zophar.[BRK]
+
+What's wrong with hiro? His
+eyes seem so...distant, so
+...lost...[BRK]
+
+What!? Lucia went back to
+the blue star without hiro?[BRK]
+
+....
+.....[BRK]
+
+Hiro, are you sure you want
+to go to the blue star?[BRK]
+
+Well, you know you can
+always count on me! Do
+you want my help?[END]
+
+=== 8b | 16270 | 34 ===
+[0x5]No, i'll do it myself.
+Yes, jean, i need your help.[END]
+
+=== 8c | 162b4 | ae ===
+[POR10]
+Okay, if that's how you
+feel, hiro. But i'm ready
+to help any time![BRK]
+
+After all, you helped me
+defeat lunn and put an end
+to the blue dragon cult.[BRK]
+
+Come on, let me help you.
+[END]
+
+=== 8d | 16378 | 7f ===
+[POR10]
+All right!! This is going to
+be just like old times.[BRK]
+
+Excuse me while i go put
+on something a little
+bit more appropriate...
+[END]
+
+=== 8e | 1640a | a1 ===
+[POR10]
+Guess i shouldn't have said
+i'd never use karate again,
+eh?[BRK]
+
+But this is kind of a
+special case.[BRK]
+
+We've got to find a way for
+you to get back to the blue
+star!
+[END]
+
+=== 8f | 164c6 | 95 ===
+[POR10]
+Hiro, stop your complaining!
+I already told you i'm
+willing to help![BRK]
+
+Are you just going to sit 
+there and act stupid? [BRK]
+
+Do you want my help or
+not?[END]
+
+=== 90 | 16564 | f ===
+North carnival [END]
+
+=== 91 | 170ae | 14 ===
+Hmmm...where's jean?[END]
+
+=== 92 | 170da | d9 ===
+Ahh! Hey, there's jean!
+Say, jean, have you come
+back to join the carnival?[BRK]
+
+[POR10]
+No, no. I just stopped by
+for a visit. I still have
+other things to do.[BRK]
+
+[POR00]
+Shucks, that sucks. We want
+you to come back and dance
+with us![END]
+
+=== 93 | 171ce | 2f ===
+I wish you didn't have to
+leave us again, jean.[END]
+
+=== 94 | 17210 | 6e ===
+I saw you guys fly in the
+magic arrow! It was sooo
+cool![BRK]
+
+...but weren't you afraid?
+It was so high in the air![END]
+
+=== 95 | 1728c | 2d ===
+[POR10]
+Me? Afraid? Naaah. It was a
+piece of cake![END]
+
+=== 96 | 172d0 | b8 ===
+Wow jean, that karate suit
+really makes you look
+dangerous.[BRK]
+
+Do you think you can teach
+me blue dragon karate some-
+day?[BRK]
+
+[POR10]
+Sure. I'd be happy to teach
+you the way of the blue
+dragon...[END]
+
+=== 97 | 173b4 | b5 ===
+It's sooo cool that jean
+has come back![BRK]
+
+She teaches me karate every
+day after she finishes her
+dance.[BRK]
+
+Pretty soon, i'll be big and
+strong enough to protect
+everyone in the carnival![END]
+
+=== 98 | 1747c | 6b ===
+I'll keep practicing the
+things you taught me, jean![BRK]
+
+[POR10]
+Keep it up. You're going to
+be very strong someday![END]
+
+=== 99 | 174fa | 5e ===
+Don't bother me! I'm
+practicing my new dance![BRK]
+
+Even jean will not be
+able to best me this time![END]
+
+=== 9a | 1756c | 93 ===
+J-jean! You came to the
+carnival! Are you still
+keeping up on your dance?[BRK]
+
+[POR10]
+Yes. I have a new step that
+i'll show you when i rejoin
+the carnival.
+[END]
+
+=== 9b | 17612 | a0 ===
+I watched as you guys got
+to ride the magic arrow.[BRK]
+
+It seemed to go so high!
+I was afraid you might not
+survive.[BRK]
+
+Especially since lord leo
+changed it all around![END]
+
+=== 9c | 176ce | 8f ===
+Jean?! What are you doing
+in a karate suit?[BRK]
+
+Have you...given up
+dancing?[BRK]
+
+[POR10]
+No, i just have to help
+a friend...i'll be back here
+in no time...
+[END]
+
+=== 9d | 1777c | 8d ===
+Honestly, jean, i've never
+seen you in better shape.[BRK]
+
+[POR10]
+I've been practicing my
+karate and doing something
+new called 'aerobics.'
+
+
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 9e | 17820 | 3b ===
+I really miss having the
+competition between me and
+jean...[END]
+
+=== 9f | 1786e | c8 ===
+I'm glad jean's back now,
+but i also worry that she's
+become a better dancer.[BRK]
+
+Oh no! What will happen to
+me if she has improved her
+dance skills?!![BRK]
+
+I'll be dead meat! No one
+will want to see me dance![END]
+
+=== a0 | 1794a | 76 ===
+Jean, these days your face
+is always flushed. Are you
+sick?[BRK]
+
+[POR10]
+I think i may be lovesick.[BRK]
+
+[POR00]
+You don't say...hmmmm...
+[END]
+
+=== a1 | 179d4 | 7e ===
+Jean...oh, my dear, sweet
+jean...i know she's crazy
+for me...[BRK]
+
+...but she cannot express
+her love for me because she
+is so shy.[END]
+
+=== a2 | 17a6a | dc ===
+Ah, my sweet moncherie.
+You have come back to your
+one true love.[BRK]
+
+I have waited for you to
+return so that we can fan
+the flames of our passion![BRK]
+
+[POR10]
+Uh, sorry to squirt on your
+fire, but we weren't even
+friends, remember?
+[END]
+
+=== a3 | 17b62 | b6 ===
+My sweet jean, come into my
+waiting arms and return to
+the love we once knew...[BRK]
+
+[POR10]
+Love we once knew? I think
+you're thinking about that
+doll in your closet...[BRK]
+
+We were never in love.[END]
+
+=== a4 | 17c30 | d8 ===
+Jean, jean, jean! Do not
+tear my beating heart from
+this tender flesh![BRK]
+
+Come back to me now...all
+is forgiven...be mine yet
+once more.[BRK]
+
+[POR10]
+Buddy, i think you should be
+in the market for some
+serious psychiatric help...[END]
+
+=== a5 | 17d3c | a4 ===
+Sweet, sweet flower! Come!
+Enter my willing embrace and
+know the love of eternity.[BRK]
+
+[POR10]
+Don't you mean the nut of
+eternity? Sorry, this sweet
+flower's not interested.[END]
+
+=== a6 | 17e00 | 95 ===
+Jean, jean, why do you deny
+our love? My heart lies
+crushed and bleeding...[BRK]
+
+[POR10]
+It's better than the fat lip
+you'll get if you keep this
+up, buster...[END]
+
+=== a7 | 17eac | bb ===
+Has jean gone away to hide
+from my affection?[BRK]
+
+Tell me where she is, so
+that i may tell her of my
+love once more...[BRK]
+
+[POR02]
+Man, talk about out of
+touch with reality! This
+guy takes the cake!
+
+[END]
+
+=== a8 | 17f7a | 79 ===
+My love jean keeps coming
+back here to be near me...[BRK]
+
+I know that a secret flame
+burns in her heart for me
+and me alone...[END]
+
+=== a9 | 18006 | d1 ===
+Jean, sweet jean...why do
+you let our love run cold?[BRK]
+
+I will love you until the
+end of time, and yet my
+love goes unrequited...[BRK]
+
+[POR10]
+You know, you'd be a lot
+happier if you just fixated
+on someone you could get.
+[END]
+
+=== aa | 180dc | 13 ===
+Carnival[0xDF]carriage 1[END]
+
+=== ab | 186fa | 13 ===
+Carnival[0xDF]carriage 2[END]
+
+=== ac | 18d16 | 4d ===
+It's carnival time! If you
+play your cards right, you
+can make tons of money![END]
+
+=== ad | 18d7a | 136 ===
+Hey, jean! I knew you'd come
+for the carnival.[BRK]
+
+I love the carnival. It's
+impossible to be sad at the
+carnival![BRK]
+
+[POR08]
+Really? What's so special
+about the carnival that
+makes you so happy?[BRK]
+
+[POR00]
+I don't know...the song,
+the dance...the rides...
+...the smells...i love it![BRK]
+
+[POR02]
+I think you need to get out
+more often...
+
+[END]
+
+=== ae | 18ecc | 44 ===
+Carnivals are the best
+stress relief in the whole
+world! I love 'em.[END]
+
+=== af | 18f24 | 86 ===
+Hey, thanks for showing us
+the trick of the magic
+arrow![BRK]
+
+I haven't ever seen it done
+quite like that![BRK]
+
+It was great! Ha ha ha
+ha ha...
+[END]
+
+=== b0 | 18fba | 61 ===
+You have any plans to ride
+the magic arrow again?[BRK]
+
+...i mean, after you stop
+looking greenish...
+
+[END]
+
+=== b1 | 1902e | 11f ===
+Hello, brave adventurers.
+Come near to me and i will
+sing a song of mystery.[BRK]
+
+Mirrors, mirrors 'round your
+souls. Which will take you
+where you'll go?[BRK]
+
+Mirrors, mirrors will take
+you where? A side for here,
+a side for there...[BRK]
+
+Pick your side and step on
+in. Then take a chance to
+go again.[END]
+
+=== b2 | 19164 | 86 ===
+If one side does not make
+you grin, turn around and
+try again...[BRK]
+
+There's mirrors, mirrors
+everywhere. Take your
+chances if you dare...[END]
+
+=== b3 | 19202 | c5 ===
+Remember this. Now listen
+close...there is a mirror
+with a single dose...[BRK]
+
+Find this mirror, and you
+will see, both the sides
+do agree...[BRK]
+
+Try it, try it! Fun it is.
+You might get rich if you
+live...[END]
+
+=== b4 | 192d4 | 4b ===
+[POR07]
+Really? We can get rich by
+using these mirrors? Where
+are they! Tell me![END]
+
+=== b5 | 1933a | 4d ===
+I'm working on my new song
+right now. I'll sing it for
+you when it's ready...[END]
+
+=== b6 | 1939a | 27 ===
+There once was a girl from
+nantucket...[END]
+
+=== b7 | 193d0 | e7 ===
+I gave up on that whole
+nantucket line on the song.[BRK]
+
+Listen to this opening
+verse, okay?[BRK]
+
+A shining star of light and
+blue that shields a heart
+from love so true...[BRK]
+
+What do ya think? Cool
+beginning, huh? The song
+will be about lucia![END]
+
+=== b8 | 194bc | 13 ===
+Carnival[0xDF]carriage 3[END]
+
+=== b9 | 19ade | 17 ===
+Welcome...he he he he!
+[END]
+
+=== ba | 19afa | 43 ===
+If you drop money in here,
+you'll never be able to
+find it again...[END]
+
+=== bb | 19b4e | 47 ===
+[POR07]
+Gwah ha ha ha!
+...oh...hey! I found 1s!
+Imagine that...gwah ha ha!
+
+[END]
+
+=== bc | 19bc0 | 31 ===
+[POR07]
+I guess that's all there
+was...gwah ha ha ha!
+[END]
+
+=== bd | 19c00 | a4 ===
+Ha ha! I've got you![BRK]
+
+[POR05]
+He...hey! Get off me, you
+flaming...geez! What are
+you doing?[BRK]
+
+[POR00]
+Oh no! Another man! All I
+ever trap is men! Don't
+any women come in here?
+
+[END]
+
+=== be | 19cb4 | 8f ===
+Ha ha! Got you now, missy![BRK]
+
+[POR02]
+Kyah! Hey! Stop...it...you
+...freak![BRK]
+
+[POR00]
+Oh, this is pathetic. Now
+i'm molesting cats! I gotta
+get out of here...
+[END]
+
+=== bf | 19d48 | 41 ===
+Oohh...this feels nice.[BRK]
+
+It's soft and gushy...dee he
+he he he...
+[END]
+
+=== c0 | 19d96 | 31 ===
+Oh no...oh man...it's...
+it's...grandpa's butt!
+
+[END]
+
+=== c1 | 19dd6 | 3e ===
+Hey...who...who's squeezing
+my butt?![BRK]
+
+Stop that this instant!
+[END]
+
+=== c2 | 19e28 | 37 ===
+Didn't i tell you to stop
+squeezing my butt? I mean
+it![END]
+
+=== c3 | 19e6e | 76 ===
+Whew, baby. That jacket
+you've got on is soft!
+Ha ha he he...[BRK]
+
+[POR02]
+That's no jacket! It's my
+coat! I was born with it!
+
+[END]
+
+=== c4 | 19ef4 | 84 ===
+Say, baby, what's a nice
+girl like you doin' in a
+place like this?[BRK]
+
+[POR02]
+Better yet, what's a sicko
+like you doing out of
+prison?
+
+
+
+
+
+[END]
+
+=== c5 | 19f8c | 74 ===
+Hey, since you found your
+way in here, can you lend
+me a match?[BRK]
+
+...i'd like to light my
+lamp and get outta here...
+
+[END]
+
+=== c6 | 1a012 | 31 ===
+[POR02]
+I don't have any matches,
+but i can blow fire![END]
+
+=== c7 | 1a04c | 33 ===
+[POR05]
+Ruby! Knock it off. You
+could've singed the man![END]
+
+=== c8 | 1a088 | 36 ===
+Hehe, wanna play post
+office? It's my favorite
+game...[END]
+
+=== c9 | 1a0ce | 92 ===
+I heard that this giggle den
+was dangerous, but i wanted
+to see what it was like.[BRK]
+
+It's so dark in here, I
+can't see my hand in front
+of my face...[END]
+
+=== ca | 1a174 | 71 ===
+Oh no! I seem to have lost
+my way...this will never
+do...[BRK]
+
+This adventure is just
+getting curiouser and
+curiouser![END]
+
+=== cb | 1a1f4 | 86 ===
+I came to the giggle den
+to see why it was called
+that.[BRK]
+
+Some people say it's filled
+with spooks. I think it's
+just vega and his men...[END]
+
+=== cc | 1a28e | 4a ===
+I wonder when robert is
+coming back with little fox
+to beam me outta here![END]
+
+=== cd | 1a2e8 | 5a ===
+You've come just in time.
+Wanna play our game?
+[0x5]Sure, sounds like fun.
+No, you go ahead...[END]
+
+=== ce | 1a352 | 8d ===
+Well now! Someone has quite
+the wrong impression of my
+game![BRK]
+
+It is not intended to be
+'fun', okay?[BRK]
+
+You don't deserve to play!
+Just...go away![END]
+
+=== cf | 1a3f4 | 7b ===
+Well, if you change your
+mind, we'll be right here.[BRK]
+
+If you didn't want to play,
+why'd you come to the
+giggle house, anyway?[END]
+
+=== d0 | 1a496 | 3e ===
+Where is this? What am
+i touching now?[BRK]
+
+Ohhh![BRK]
+
+That's your foot![END]
+
+=== d1 | 1a500 | 3f ===
+Where is this? What am
+i touching now?[BRK]
+
+Ohhhh![BRK]
+
+That's your hair![END]
+
+=== d2 | 1a56a | 40 ===
+Where is this? What am
+i touching now?[BRK]
+
+Ohhhh![BRK]
+
+That's your cheek![END]
+
+=== d3 | 1a5d6 | 3f ===
+Where is this? What am
+i touching now?[BRK]
+
+Ohhhh![BRK]
+
+That's your nose![END]
+
+=== d4 | 1a63c | 6c ===
+Where is this? What am
+i touching now?[BRK]
+
+Ohhhh![BRK]
+
+That's your...your...
+...ewwwww![BRK]
+
+Anyone have a
+handkerchief?
+
+[END]
+
+=== d5 | 1a6d0 | 31 ===
+Well, i've had my fun.
+Guess we'll call it quits.[END]
+
+=== d6 | 1a706 | 1c ===
+Oohh! I don't like the dark![END]
+
+=== d7 | 1a728 | 5f ===
+Zzzzzzzzzzz....
+...zzzzzzzzzz.....
+......zzzzzzzzzz.....[BRK]
+
+It's so dark in here, I
+fell asleep...[END]
+
+=== d8 | 1a78c | 50 ===
+I like the giggle den. Tee
+hee hee...[BRK]
+
+Everyone is beautiful in
+here. Gwah ha ha![END]
+
+=== d9 | 1a7e2 | 13 ===
+Carnival[0xDF]giggle den[END]
+
+=== da | 1afc8 | ab ===
+Say there, come on over and
+try your luck with the
+bones![BRK]
+
+If you win, you win big, and
+if you lose, so what? You
+can play again!
+[0x5]Okay, i'll try it.
+Sorry, i don't gamble.[END]
+
+=== db | 1b082 | 55 ===
+[0][0x3]`[0][0xC0][0x1A][0xC0][BRK]
+
+ Lah! Just what i like to see!
+Someone who can take control
+of their destiny![END]
+
+=== dc | 1b0e8 | b4 ===
+[POR05]
+Well then, mister, you won't
+mind if i insure my destiny
+by checking your dice...[BRK]
+
+[POR00]
+Oh...no, no. That's not
+necessary. We're a licensed
+establishment.[BRK]
+
+There's no cheating here.[END]
+
+=== dd | 1b1a0 | 59 ===
+Okay then, folks, what'll
+you wager? 
+[0x5]            10S
+            50s 
+          10,000s[END]
+
+=== de | 1b208 | 52 ===
+Are you betting your milk
+money? I haven't seen a bet
+that small since...well, ok.[END]
+
+=== df | 1b272 | 41 ===
+50 Silver it is! I like a
+person that's willing to
+risk a little![END]
+
+=== e0 | 1b2d4 | d8 ===
+10,000S?! We have a player
+here, folks! Gather round
+and watch the fun![BRK]
+
+[POR02]
+You can't gamble that much!
+If you lose, we'll be
+ruined![BRK]
+
+[POR00]
+Kid, ya gotta have 10,000s 
+before you can bet it![BRK]
+
+How about something smaller?
+[END]
+
+=== e1 | 1b3be | a4 ===
+[POR02]
+Hiro, betting 10,000s seems
+kinda reckless. I hope you
+know what you're doing...[BRK]
+
+[POR00]
+Okay, then! We've got some
+serious action rollin' here,
+folks. Gather 'round![END]
+
+=== e2 | 1b47e | 91 ===
+All right, now. Let's see
+some of that betting cash
+on the table.[BRK]
+
+...hey! You don't even have
+enough to cover your bets![BRK]
+
+Get out of here, ya bum![END]
+
+=== e3 | 1b518 | bd ===
+Okay, we're all set to play
+wings n' thighs. You just
+need to pick one.[BRK]
+
+Wings are even, thighs are
+odd. What do you want to
+bet on, wings or thighs?
+[0x5]I'll take wings.
+I'm betting on thighs.[END]
+
+=== e4 | 1b5e4 | 2d ===
+Okay, you chose wings. Let's
+roll them bones![END]
+
+=== e5 | 1b624 | 2e ===
+[0x4] [0x3] [0x4] [0x3] 
+Wings! Hmm...you won.
+Take yer money.[END]
+
+=== e6 | 1b66e | 34 ===
+[0x4] [0x3] [0x4] [0x3] 
+Thighs! Ya lost.
+Better luck next time, eh?[END]
+
+=== e7 | 1b6c4 | 4c ===
+Ahh, a thigh man, hmmm. I
+like that...let's roll the
+dice and test yer luck![END]
+
+=== e8 | 1b724 | 3d ===
+[0x4] [0x3] [0x4] [0x3] 
+Wings! Read 'em and weep.
+This round was mine, boys![END]
+
+=== e9 | 1b77c | 31 ===
+[0x4] [0x3] [0x4] [0x3] 
+Thighs! Take yer money.
+An' don't gloat![END]
+
+=== ea | 1b7be | 46 ===
+Okay then, wanna play
+another round?
+[0x5]Sure! What the heck?
+No, thanks.[END]
+
+=== eb | 1b834 | 4e ===
+You shouldn't leave the
+table until you give me a
+chance to win my money back.[END]
+
+=== ec | 1b898 | 37 ===
+Looks like you came out
+at even money. Good job,
+kiddo.[END]
+
+=== ed | 1b8e4 | 46 ===
+Hey, thanks a lot, kid! We
+need more guests like you.
+Got any friends?[END]
+
+=== ee | 1b942 | 4f ===
+Well, why'd ya come in here
+in the first place, kid?[BRK]
+
+This ain't no petting zoo![END]
+
+=== ef | 1b996 | 11 ===
+Carnival[0xDF]dice den[END]
+
+=== f0 | 1c024 | 4b ===
+I've been expecting you.
+Come in, take a seat and
+let me tell your fortune.[END]
+
+=== f1 | 1c084 | bb ===
+[POR07]
+Can you tell me if my future
+has money in it?...l-lots
+of it?!![BRK]
+
+[POR00]
+Ah, sweet one. The more you
+seek, the greater the cost.[BRK]
+
+[POR07]
+Yeah, yeah. More cost, I
+got it. So do i get rich
+or not?
+[END]
+
+=== f2 | 1c15a | 84 ===
+[POR02]
+Tell me if i will gain
+true love![BRK]
+
+[POR00]
+Little one, you will find
+your perfect match very
+soon...[BRK]
+
+[POR02]
+Are you sure i haven't
+already?[END]
+
+=== f3 | 1c1f6 | 5e ===
+...i see danger...and a
+great...no! It all will
+lie on the head of a girl![BRK]
+
+[POR08]
+.....
+....what?
+[END]
+
+=== f4 | 1c26c | 4d ===
+A solitary girl will change
+the course of our world
+forever...i've seen it...[END]
+
+=== f5 | 1c2d0 | 123 ===
+To the southwest point there
+is something of value.[BRK]
+
+To the south i see...water
+...sand...dragon...[BRK]
+
+To the west, i see...ocean
+...white...tower...[BRK]
+
+These images i see in my
+head must have some basis
+in reality.[BRK]
+
+Why not search for them as
+i have said? If you need
+more help, return to me.
+
+
+
+
+
+[END]
+
+=== f6 | 1c40a | 92 ===
+There is some...thing to the
+west...i see...ocean...white
+...an old tower.[BRK]
+
+And that's all. Go! Search
+out the things i have seen
+in your future...[END]
+
+=== f7 | 1c4b4 | d4 ===
+There is some...thing that
+is to be found to the
+south....[BRK]
+
+I think the thing is close
+to......water. I see...water
+...sand...dragon...[BRK]
+
+I can see no more. Take what
+i have told you and find the
+item you seek...
+
+
+[END]
+
+=== f8 | 1c5a4 | 1b3 ===
+Ah, brave one...you have
+returned for another glimpse
+of your future![BRK]
+
+Let me see...i see...i see
+...no! It cannot be! I've
+never been wrong, but...[BRK]
+
+[POR02]
+But what? You see yourself
+working for a psychic
+hotline in the near future?[BRK]
+
+[POR00]
+No...no! I see the brave one
+going to the blue star! It
+can't be! It's not possible.[BRK]
+
+[POR02]
+Well, if you saw it, it must
+be possible! I'll tell you
+how it turns out...[BRK]
+
+Oh, and say hi to dionne
+for me, okay?
+
+[END]
+
+=== f9 | 1c776 | 7a ===
+I have seen more of your
+future than i wanted to see.[BRK]
+
+Your destiny is too
+complicated for me...[BRK]
+
+...the blue star awaits...[END]
+
+=== fa | 1c802 | 77 ===
+The fortune teller in here
+is so accurate that i get
+scared sometimes.[BRK]
+
+But that's foolish, right?[BRK]
+
+...uh, hehe...right?
+[END]
+
+=== fb | 1c888 | 8a ===
+If you've lost something, or
+need to find a thing, come
+here.[BRK]
+
+This fortune teller is very
+accurate, and she doesn't
+charge $3.95 A minute.[END]
+
+=== fc | 1c922 | 78 ===
+I asked the teller to see
+my romantic future...[BRK]
+
+She said that i'll be a
+bitter old spinster. I wish
+i had never asked...[END]
+
+=== fd | 1c9aa | b1 ===
+I asked the fortune teller
+to see my romantic future
+again.[BRK]
+
+She said that the stars had
+changed and i might meet a
+cool guy here...[BRK]
+
+[POR02]
+Well, it's not hiro. Hiro's
+already taken![END]
+
+=== fe | 1ca60 | 16 ===
+Carnival[0xDF]fortune tellr[END]
+
+=== ff | 1d0e0 | 3e ===
+Hi there! Welcome to bunni's
+item shop. What can i do
+for you?[END]
+
+=== 100 | 1d128 | 2e ===
+Leaving so soon? Well, be
+sure and come again![END]
+
+=== 101 | 1d16a | 70 ===
+That darn hall of chance!
+I went in there loaded and
+came out broke![BRK]
+
+Don't they know that kids
+shouldn't gamble?[END]
+
+=== 102 | 1d1f2 | 46 ===
+Have you been to the giggle
+den? It's really fun! Sorta
+touchy-feelly.[END]
+
+=== 103 | 1d248 | 4b ===
+I wonder if this peace will
+last until the next
+carnival.[BRK]
+
+I sure hope so...[END]
+
+=== 104 | 1d298 | 12 ===
+Carnival[0xDF]item shop[END]
+
+=== 105 | 1d92a | 238 ===
+[POR00]
+...jean!?[BRK]
+
+What's the matter, jean?[BRK]
+
+[POR10]
+Listen, giban, i don't have 
+time to tell you everything
+that's going on right now.[BRK]
+
+In short, althena's cult has
+blocked the passage to get 
+to western nota and beyond.[BRK]
+
+Giban, i want you to use the
+magic arrow to fly us to
+west nota.[BRK]
+
+[POR00]
+...you can't be serious!?[BRK]
+
+The magic arrow has not
+been fully tested at that
+distance![BRK]
+
+[POR09]
+Who's in charge of this
+drunken revelry?! Come
+forth![BRK]
+
+I am leo, white knight of
+althena's guard. Again,
+who is in charge?![BRK]
+
+[POR00]
+Oh dear...they've found
+you...[BRK]
+
+Don't worry, jean, i'll take
+care of this.
+
+[END]
+
+=== 106 | 1db6c | 174 ===
+[POR09]
+You there! I am looking for
+a woman that may have passed
+through this carnival.[BRK]
+
+She's dressed in an unusual
+red cloth. Have you seen 
+her?[BRK]
+
+[POR00]
+...as you can see, sir, 
+we've been here for some
+time,[BRK]
+
+but no one that fits your
+description passed through
+here...[BRK]
+
+[POR09]
+I trust that you are telling
+the truth...[BRK]
+
+But i warn you: it is not
+wise to betray my trust!
+Remember that![END]
+
+=== 107 | 1dce4 | 47 ===
+[POR09]
+All right, men, search the
+area! Leave no stone
+unturned!
+
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 108 | 1dd2e | 26b ===
+[POR10]
+Thank you, giban. Leo 
+is relentless. He wants
+lucia here...[BRK]
+
+[POR00]
+Jean, you don't have to
+thank me.[BRK]
+
+I would hide anybody that
+althena's guard is 
+searching for.[BRK]
+
+I've seen them punish too 
+many innocent people. They
+have no honor...[BRK]
+
+You know, lucia is too easy
+to spot in that clothing...[BRK]
+
+Jean, why don't you take 
+her to the costume tent and
+get her some new clothes?[BRK]
+
+[POR08]
+New clothes!? But i've
+never worn any other![BRK]
+
+[POR10]
+Don't worry, lucia, i'll
+help you find your style...[BRK]
+
+[POR07]
+I'll help you too! I love
+doing makeovers![BRK]
+
+[POR02]
+Don't leave me out! I wanna
+help, too![BRK]
+
+[POR00]
+Jean, you know where the
+costumes are. Help yourself.
+
+[END]
+
+=== 109 | 1dfb0 | 7b ===
+[POR00]
+I'll let you use the magic
+arrow once lucia is finished
+changing.[BRK]
+
+For now, you'd better stay
+close. It's safer that way.[END]
+
+=== 10a | 1e042 | fc ===
+[POR00]
+...whoa! Those clothes
+really do you justice,
+lucia.[BRK]
+
+I've finished preparing
+the magic arrow, but you
+must ask the old man first.[BRK]
+
+[POR10]
+I appreciate your kindness,
+giban. You are truly a good
+friend.[BRK]
+
+[POR00]
+I am the one that should
+be thanking you, jean.
+
+[END]
+
+=== 10b | 1e15a | 4d ===
+[POR00]
+Don't worry, the magic arrow
+will take you to your 
+destination.[BRK]
+
+I hope...[END]
+
+=== 10c | 1e1ba | 50 ===
+[POR00]
+Oh! Are you guys okay? [BRK]
+
+Good! If you're not in a
+hurry you can rest in 
+here.[END]
+
+=== 10d | 1e21e | 5f ===
+[POR00]
+Jean, i hope you will come
+back to us very soon.[BRK]
+
+All of us miss your song
+and dance numbers.[END]
+
+=== 10e | 1e28a | 23 ===
+[POR10]
+I will return.[BRK]
+
+You have my word.[END]
+
+=== 10f | 1e2c0 | 69 ===
+[POR00]
+Everyone is singing and
+dancing because the world
+is at peace.[BRK]
+
+We owe you our eternal
+gratitude, hiro.[END]
+
+=== 110 | 1e340 | 10e ===
+[POR00]
+Jean, are you leaving
+again?[BRK]
+
+[POR10]
+I have to. My friends need
+my help...[BRK]
+
+[POR00]
+You have always placed
+others' well-being ahead
+of your own.[BRK]
+
+I hope your friends realize
+all the sacrifices you have
+made for them.[BRK]
+
+Well, hurry back. You know
+that you are always welcome
+here...[END]
+
+=== 111 | 1e46a | d1 ===
+[POR00]
+Jean, don't forget that this
+carnival is your home and we
+are your family...[BRK]
+
+[POR10]
+Giban, relax! I'm not going
+off to get killed or some-
+thing![BRK]
+
+I'll be back before you even
+have a chance to start 
+missing me![END]
+
+=== 112 | 1e54e | 89 ===
+[POR05]
+...hey, hiro, what do you
+think they're doing inside
+that tent?[BRK]
+
+Look! There's a tear in 
+the tent. Waddaya say? Wanna
+grab an eyeful?![END]
+
+=== 113 | 1e5da | 52 ===
+[POR02]
+...lucia, there's so many
+different outfits.[BRK]
+
+Which one are you going to
+choose?[END]
+
+=== 114 | 1e636 | 152 ===
+[POR08]
+...i don't care what I
+wear...[BRK]
+
+I just must...blend in
+better with the local
+people here...[BRK]
+
+The type of clothing does
+not matter...[BRK]
+
+[POR10]
+Come on, lucia! Of course it
+matters. You have to make
+a statement with your dress![BRK]
+
+[POR07]
+You should choose the most
+expensive garments, since
+you get them for free!![BRK]
+
+...what have you got picked
+out...???[END]
+
+=== 115 | 1e792 | 145 ===
+[POR05]
+...dammit![BRK]
+
+I can't see anything! 
+Hiro, let's trade positions![BRK]
+
+[POR01]
+In a minute, ronfar. You
+see this stuff everyday! [BRK]
+
+[POR05]
+...what!? Hey! Nothing like
+this![BRK]
+
+Now move! If i don't get a 
+glimpse i'm really going
+to be pissed.[BRK]
+
+...ungh...there...perfect
+view...[BRK]
+
+[POR01]
+Ronfar...let me see![BRK]
+
+[POR05]
+...oh yesss!!! Babydoll,
+come to papa!
+
+[END]
+
+=== 116 | 1e8da | 53 ===
+[POR05]
+...hiro, stop it! I'll let
+you see when i'm finished!![BRK]
+
+Stop! I said cut it out!![END]
+
+=== 117 | 1e930 | 2d ===
+[POR05]
+Uh oh!! I think they
+heard us...[BRK]
+
+[POR01]
+....!?[END]
+
+=== 118 | 1e966 | 40 ===
+[POR07]
+Ronfar!![BRK]
+
+[POR10]
+Hiro!?[BRK]
+
+[POR02]
+You....[BRK]
+
+    ....you[BRK]
+
+      ....peepers!![END]
+
+=== 119 | 1e9ae | 164 ===
+[POR08]
+...i'm sorry, hiro, but did
+you want to help me pick out
+a new outfit?[BRK]
+
+[POR07]
+Lucia, what are you talking
+about? Aren't you
+embarrassed?[BRK]
+
+These two perverts were
+making their own little
+peep show![BRK]
+
+[POR08]
+....
+.....embarrassed?[BRK]
+
+[POR10]
+Lucia, you can't let guys
+take advantage of you like
+that![BRK]
+
+You have to show 'em who's
+boss![BRK]
+
+[POR08]
+....
+.....boss?[BRK]
+
+[POR10]
+Yeah, boss! Watch![END]
+
+=== 11a | 1eb16 | 46 ===
+[POR02]
+You live with someone all
+these years and you think
+you know them!![END]
+
+=== 11b | 1eb66 | 36 ===
+[POR10]
+Uh, don't do that again.[BRK]
+
+Okay, lucia...come on out![END]
+
+=== 11c | 1eba0 | 5e ===
+[POR10]
+So whaddaya think of lucia's
+new threads, hiro?[BRK]
+
+They really enhance her 
+charm, don't they?[END]
+
+=== 11d | 1ec08 | c4 ===
+[POR08]
+I feel kind of strange...[BRK]
+
+Why are you staring at me
+like that, hiro?[BRK]
+
+....
+.....[BRK]
+
+...is...is something...
+...wrong?[BRK]
+
+[POR01]
+Oh, uh...no! No! Everything
+is great![BRK]
+
+....
+.....[BRK]
+
+You look fantastic, lucia!
+[END]
+
+=== 11e | 1ece0 | 90 ===
+Jean, i haven't seen you 
+in ages![BRK]
+
+What? You want to fly to
+west nota using the magic
+arrow?[BRK]
+
+It's fine with me, but you
+need to ask giban first.[END]
+
+=== 11f | 1ed84 | ac ===
+Giban said you can use the
+arrow...[BRK]
+
+Give me a few minutes to get
+everything all set up...[BRK]
+
+Don't worry, you're in good
+hands, now. I'll make sure
+the arrow gets you to nota.[END]
+
+=== 120 | 1ee44 | ce ===
+The arrow is all finished.[BRK]
+
+Just wait a second while I
+make one final adjustment to
+the destinationometer...[BRK]
+
+The darned thing's so
+touchy...[BRK]
+
+If that thing goes out of
+whack, no tellin' where
+you'll end up...[END]
+
+=== 121 | 1ef1c | 34 ===
+...all right, who's going to
+be the first to get in?[END]
+
+=== 122 | 1ef54 | 4b ===
+[POR09]
+I knew the old man was
+lying![BRK]
+
+...halt! I've finally found
+you, traitors![END]
+
+=== 123 | 1efa2 | 39 ===
+[POR05]
+...come on! Hurry up and
+get in! Let's get outta
+here![END]
+
+=== 124 | 1efde | 4b ===
+[POR09]
+...ha!! Do you really think
+you can escape me!?[BRK]
+
+...guess again, vermin!![END]
+
+=== 125 | 1f02c | 55 ===
+[ROR09]
+Enjoy your little flight.[BRK]
+
+I'm afraid your itinerary
+has changed...[BRK]
+
+Ha ha ha ha ha![END]
+
+=== 126 | 1f09c | 94 ===
+...i heard you didn't have
+a pleasant time flying the
+magic arrow.[BRK]
+
+Well, don't blame me! Leo's
+the one responsible for the
+change of flight plans!
+
+[END]
+
+=== 127 | 1f13e | 95 ===
+I think i can build a better
+arrow. I just need someone
+to test it out...[BRK]
+
+[POR10]
+I'm sorry, but after the
+last time, no one here is
+ready to volunteer...[END]
+
+=== 128 | 1f1ee | 9e ===
+If i just would've taken the 
+expansion shield and crossed
+it over to the...[BRK]
+
+...don't worry, i'll have
+the bugs worked out of the 
+new one before you need it.[END]
+
+=== 129 | 1f2a0 | ca ===
+J-42 to j-37. The black wire
+then crosses over and hooks
+on to yellow j-29.[BRK]
+
+Yikes! Geez, don't just walk
+up and scare me like that![BRK]
+
+I'm working hard to finish
+the new magic arrow so you
+guys can fly it.[END]
+
+=== 12a | 1f378 | 5a ===
+[POR10]
+I've told you a million 
+times, we're not going to 
+fly on your magic arrows![BRK]
+
+...ever!
+[END]
+
+=== 12b | 1f3ea | 86 ===
+Say, you don't know anyone
+that would like to take
+a magic arrow ride?[BRK]
+
+I need a guinea pi...i
+mean to say, volunteer...
+to try it out.[END]
+
+=== 12c | 1f484 | 83 ===
+Geez, if lucia wanted to buy
+a dress, she should've come
+to my shop first.[BRK]
+
+Next time just make sure
+you check my store first,
+okay?[END]
+
+=== 12d | 1f50c | 79 ===
+With all the travelin' 
+i've done, i got some pretty
+cool stuff![BRK]
+
+I buy and sell almost
+everything. What can i do
+for you?[END]
+
+=== 12e | 1f58e | 22 ===
+Just remember to come to
+me first![END]
+
+=== 12f | 1f5c0 | ab ===
+Please step back. Don't 
+you know who you are talking
+to?[BRK]
+
+I'm the most famous star of
+this carnival.[BRK]
+
+I just can't go outside 
+anymore because the women 
+keep attacking me![END]
+
+=== 130 | 1f678 | 3f ===
+[POR05]
+Hey, i hear ya, buddy.[BRK]
+
+I have to beat 'em back with
+a stick![END]
+
+=== 131 | 1f6c4 | 53 ===
+[POR02]
+What are you talking about,
+ronfar? Usually the women
+are running away from you.[END]
+
+=== 132 | 1f732 | 88 ===
+Oh, i just don't know
+what to do![BRK]
+
+I guess i need to hire some
+bodyguards to keep my fans
+away from me.[BRK]
+
+Being a celebrity sure does
+suck![END]
+
+=== 133 | 1f7c8 | 11 ===
+[POR05]
+Amen, brother![END]
+
+=== 134 | 1f7f4 | 7d ===
+I'm in the middle of 
+answering all my fan mail.[BRK]
+
+I really need to get a 
+secretary, so that she can
+take care of this for me.[END]
+
+=== 135 | 1f884 | a1 ===
+I give and i give and it's
+just not good enough for 
+you people.[BRK]
+
+What more do you want from
+me?[BRK]
+
+Just go! It'll never be good
+enough for you anyway...
+leave me...[END]
+
+=== 136 | 1f93c | 76 ===
+Hey, do you think i could 
+have your cat? [BRK]
+
+[POR02]
+Hiro, you're not seriously
+thinking about letting him 
+have me, are you?[END]
+
+=== 137 | 1f9c6 | 66 ===
+I have taught all the great
+dancers of the world.[BRK]
+
+My latest protege is jean.[BRK]
+
+I see that you've met...
+[END]
+
+=== 138 | 1fa44 | 30 ===
+I'm sorry, but i can't 
+accept any new students.[END]
+
+=== 139 | 1fa88 | 7c ===
+Oh dear! Why is leo after
+jean? Is she in some sort
+of trouble?[BRK]
+
+This is terrible! My star
+pupil...wanted by althena's
+guard![END]
+
+=== 13a | 1fb1c | af ===
+Don't forget to practice
+your dancing every day,
+jean.[BRK]
+
+If you miss just one
+practice, your skills will
+start to fade.[BRK]
+
+[POR10]
+I know, practice makes
+perfect, blah, blah, blah...
+
+
+[END]
+
+=== 13b | 1fbe2 | 32 ===
+Oh!? You guys...
+what's...what's happened
+to jean?[END]
+
+=== 13c | 1fc2c | cd ===
+Love the new outfit, jean!
+I think it really makes
+you look hot![BRK]
+
+Maybe when you come back,
+you can teach me karate.[BRK]
+
+Then i can be a karate and
+dance expert, and i can 
+raise my rates. [BRK]
+
+[POR10]
+Uh, yeah...right.[END]
+
+=== 13d | 1fd10 | 4d ===
+Since jean has become 
+famous, my dancing school
+has become full of students.[END]
+
+=== 13e | 1fd70 | 98 ===
+After one lesson of karate
+with jean, i stopped taking
+lessons from her.[BRK]
+
+I got tired of her kicking
+the snot out of me. I think
+i'll stick to dancing...[END]
+
+=== 13f | 1fe1c | 89 ===
+Jean!? Are you going back
+on the road with your 
+friends?[BRK]
+
+[POR10]
+Yeah. It's time that we
+finally bring an end to
+this chapter of hiro's life.[END]
+
+=== 140 | 1feb8 | 9c ===
+I'm the best dancer in this
+whole place. I've never met
+my equal.[BRK]
+
+[POR10]
+I'm sure you've worked hard
+to become so. Have you seen
+me dance?[BRK]
+
+...just wondering...
+[END]
+
+=== 141 | 1ff6c | a2 ===
+I just won the world
+dancing competition...[BRK]
+
+Some of the people say I
+only won because jean wasn't
+able to attend...[BRK]
+
+[POR10]
+Enjoy the victory. You
+earned it, i'm sure.[END]
+
+=== 142 | 20022 | 54 ===
+Lord leo certainly seemed
+to be agitated![BRK]
+
+What's the big deal? It's
+just one girl...[END]
+
+=== 143 | 2008e | ac ===
+I've heard that you won't be
+coming back for a while...[BRK]
+
+That's too bad. I guess 
+everyone will have to enjoy
+my dancing.[BRK]
+
+[POR10]
+Just keep them entertained
+until i get back!
+
+
+
+[END]
+
+=== 144 | 20152 | 63 ===
+Jean, you seem to be
+totally, like, happy.[BRK]
+
+Did you get some?[BRK]
+
+You know, just between you
+and me...
+
+[END]
+
+=== 145 | 201d0 | a3 ===
+Jean, what's this new
+outfit?[BRK]
+
+Does this mean that you're
+going to give up dancing
+for good?[BRK]
+
+[POR10]
+No, no. I'm only doing this
+temporarily. I'll be back
+to dance soon.[END]
+
+=== 146 | 20292 | 41 ===
+I just can't find my way. I
+don't know what life has to
+offer me.[END]
+
+=== 147 | 202fe | 85 ===
+I've been dancing my legs
+off and all i hear is how
+great jean is...[BRK]
+
+Don't walk away from me,
+jean! We have a score to
+settle.
+
+
+
+
+
+
+[END]
+
+=== 148 | 20396 | b4 ===
+Jeeeaaannn...
+have you finally returned
+to dance?[BRK]
+
+It's about time we see who
+the best dancer is in this
+carnival.[BRK]
+
+[POR10]
+No! I'm just getting ready 
+to leave again. I'll see you
+later![END]
+
+=== 149 | 20462 | 1f1 ===
+[POR10]
+You came back, just like
+you promised![BRK]
+
+[POR02]
+Jean, i always thought
+you looked best dressed
+as a dancer.[BRK]
+
+[POR10]
+Thanks, ruby. I like being
+a dancer. Say, where's
+lucia?[BRK]
+
+After all, i did promise her
+that i would do a dance for
+her once we defeated zophar.[BRK]
+
+What's wrong with hiro? His
+eyes seem so...distant, so
+...lost...[BRK]
+
+What!? Lucia went back to
+the blue star without hiro?[BRK]
+
+....
+.....[BRK]
+
+Hiro, are you sure you want
+to go to the blue star?[BRK]
+
+Well, you know you can
+always count on me! Do
+you want my help?[END]
+
+=== 14a | 20656 | 34 ===
+[0x5]No, i'll do it myself.
+Yes, jean, i need your help.[END]
+
+=== 14b | 2069a | ae ===
+[POR10]
+Okay, if that's how you
+feel, hiro. But i'm ready
+to help any time![BRK]
+
+After all, you helped me
+defeat lunn and put an end
+to the blue dragon cult.[BRK]
+
+Come on, let me help you.
+[END]
+
+=== 14c | 2075e | 7f ===
+[POR10]
+All right!! This is going to
+be just like old times.[BRK]
+
+Excuse me while i go put
+on something a little
+bit more appropriate...
+[END]
+
+=== 14d | 207f0 | a1 ===
+[POR10]
+Guess i shouldn't have said
+i'd never use karate again,
+eh?[BRK]
+
+But this is kind of a
+special case.[BRK]
+
+We've got to find a way for
+you to get back to the blue
+star!
+[END]
+
+=== 14e | 208ac | 95 ===
+[POR10]
+Hiro, stop your complaining!
+I already told you i'm
+willing to help![BRK]
+
+Are you just going to sit 
+there and act stupid? [BRK]
+
+Do you want my help or
+not?[END]
+
+=== 14f | 2094a | f ===
+North carnival [END]
+

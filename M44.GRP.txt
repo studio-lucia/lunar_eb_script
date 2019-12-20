@@ -1,0 +1,2790 @@
+File: M44.GRP
+
+Messages: 216
+
+=== 0 | 1af3e | 25a ===
+[POR14]
+Hm, hm, hm, hm...[BRK]
+
+You have simply no chance
+of defeating me, so why do
+you persist?[BRK]
+
+The magic powers of old have
+died out, and there is no
+hope for your world.[BRK]
+
+Now, throw your very lives
+before me that i may spare
+your miserable souls...[BRK]
+
+Or...fight me if you dare![BRK]
+
+[POR05]
+Hey, buster, you seem pretty
+confident about a fight that
+hasn't even begun![BRK]
+
+[POR10]
+We'd never surrender to the
+likes of you! Forget about
+it, ghaleon![BRK]
+
+[POR07]
+Even though i don't have my
+magic to rely on, i'll still
+kick your sorry butt![BRK]
+
+[POR09]
+I'll never again submit to
+the powers of darkness![BRK]
+
+I will resist you with every
+fiber of my being![END]
+
+=== 1 | 1b19c | d6 ===
+[POR02]
+That's right! If we all
+fight together, we can beat
+ghaleon at his own game![BRK]
+
+[POR14]
+Hm, hm, hm, hm...you poor
+delusional souls![BRK]
+
+I suppose i'd be sad, if I
+had a heart...[BRK]
+
+...but i don't. Prepare
+to witness my fury!
+
+[END]
+
+=== 2 | 1b290 | 7f ===
+[POR14]
+Hiro, take my sword. You'll
+need an advantage against
+zophar...[BRK]
+
+I pray it serves you well...[BRK]
+
+[POR00]
+[0xB][0]Kreceived ghaleon's sword.[END]
+
+=== 3 | 1b318 | 57 ===
+[POR14]
+Though i cannot go with you,
+know that i will be there in
+spirit always. Good-bye...[END]
+
+=== 4 | 1b3c8 | c ===
+...lemina!
+
+[END]
+
+=== 5 | 1b3de | 1da ===
+Oh, lemina! Thank althena
+you've come back! We're in
+big trouble!!![BRK]
+
+[POR07]
+Big trouble? What are you
+talking about? Did you lose
+your purse again?[BRK]
+
+[POR00]
+No. No! No!! Borgan has come
+to vane![BRK]
+
+[POR07]
+Borgan? You mean...that big,
+fat, evil...[BRK]
+
+[POR00]
+Yes! That borgan! He said he
+wanted to talk with your
+mother, miria.[BRK]
+
+We tried to stop him and
+the party of magicians he
+brought,[BRK]
+
+but they were just too
+strong. They stormed the
+guild mansion![BRK]
+
+[POR07]
+Oh no...mother! We've got
+to get over there!
+
+
+[END]
+
+=== 6 | 1b5c8 | 2eb ===
+As servants of the most high
+master borgan, we cannot
+allow anyone to enter vane.[BRK]
+
+Borgan has decreed that no
+one shall enter until he
+completes his business.[BRK]
+
+[POR07]
+Well, what business is he
+doing?[BRK]
+
+Number 1 or number 2?[BRK]
+
+Get out of my way, you
+morons![BRK]
+
+[POR00]
+Halt! Who are you?[BRK]
+
+[POR07]
+You don't know who i am? Now
+i know you really are
+simpletons![BRK]
+
+I am lemina, junior premier
+of the magic guild of vane![BRK]
+
+Now, if you'll be so kind as
+to get your mega-scrawny
+butts out of my way...[BRK]
+
+[POR00]
+We don't care if you're
+althena herself![BRK]
+
+Borgan has decreed that none
+shall enter, and we are here
+to enforce that edict.[BRK]
+
+Step back, girl![BRK]
+
+[POR07]
+I know much more about vane
+than you ever will. I'll
+find a way to get in,[BRK]
+
+and when i do, i'm going to
+make sure you're sorry,
+buster![END]
+
+=== 7 | 1b8bc | fd ===
+[POR07]
+Hey, guys, listen up. To the
+east of here there's a
+transmission spring.[BRK]
+
+If it still works, we can
+use it to enter vane behind
+their backs![BRK]
+
+C'mon, i know this is going
+to work. Let's get going.[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR07]
+Hiro! It's really very safe,
+i promise![END]
+
+=== 8 | 1b9d0 | 12f ===
+Halt! Step back![BRK]
+
+By order of master borgan,
+no one is to enter vane.[BRK]
+
+[POR07]
+By order of lemina, I
+command you to stand there
+and look like dorks![BRK]
+
+....
+.....[BRK]
+
+Hm! Look at that! They're
+doing it! Ha ha ha![BRK]
+
+Forget this. We can sneak in
+from the transmission
+spring.[BRK]
+
+It's located to the east of
+here. Let's go...[END]
+
+=== 9 | 1bb12 | 10d ===
+Grand master borgan insists
+that we cannot argue while
+in vane.[BRK]
+
+He respects the sanctity and
+rich tradition of this
+place.[BRK]
+
+[POR07]
+Borgan is a showman and a
+liar. He respects nothing
+but his own belly![BRK]
+
+If he's hurt my mother,
+i'll gut him with a paper-
+cutter and a spoon...[END]
+
+=== a | 1bc36 | 11c ===
+[POR07]
+And this..Is my home, the
+mansion of the magic guild
+of vane.[BRK]
+
+These walls are filled with
+the history of our world.[BRK]
+
+[POR02]
+Wow...hiro, this place is
+kinda run-down, isn't it?[BRK]
+
+I mean, look at the hole in
+the roof...and over there,
+that sign's broken.[BRK]
+
+Where's bob vila when you
+need him?[END]
+
+=== b | 1bd66 | 9f ===
+Borgan's men left here a
+while ago. Lemina, you'd
+better hurry to the mansion![BRK]
+
+I'm worried about what
+borgan may have done to
+your mother.[BRK]
+
+[POR07]
+I know, i know...[END]
+
+=== c | 1be18 | b5 ===
+Why are you staying around
+the entrance area to vane?[BRK]
+
+Your mother miria may be in
+grave danger, lemina! Go to
+the mansion!...now![BRK]
+
+[POR07]
+Oh, yeah...right! I'll get
+right over there...
+
+[END]
+
+=== d | 1bee4 | 9f ===
+You know, i have the utmost
+respect for lemina. She
+really cares about her mom.[BRK]
+
+She also cares a little too
+much about money, but hey,
+we all have our flaws...[END]
+
+=== e | 1bf9e | a6 ===
+Lemina, did you hear? Borgan
+has kidnapped your mother![BRK]
+
+[POR07]
+Yes, i know. Don't worry,
+though.[BRK]
+
+I won't let that oversized
+sloth get away with it!
+Believe me, he'll pay![END]
+
+=== f | 1c064 | 9e ===
+Oh, lemina! You're having
+such a bad string of luck.
+Are you okay, sweetie?[BRK]
+
+[POR07]
+Don't worry about me. I can
+take care of myself. And I
+will get my mother back![END]
+
+=== 10 | 1c132 | da ===
+I heard you rescued your
+mother! I knew you would,
+lemina![BRK]
+
+[POR07]
+Yep. I never really doubted
+it myself! It was a pretty
+hair-raising experience...[BRK]
+
+Say, i wonder if i can sell
+the rights to a made-for-
+tv movie...hmmm...
+
+[END]
+
+=== 11 | 1c220 | b4 ===
+You'd better not leave the
+confines of vane.[BRK]
+
+Ever since zophar revived, 
+monsters have become more
+violent and plentiful.[BRK]
+
+That's why we installed the
+barricade...to keep them
+out.
+[END]
+
+=== 12 | 1c2e8 | 9e ===
+I'm so proud of all of you!
+I didn't think you had it in
+you to beat zophar![BRK]
+
+All the inhabitants of vane
+are thinking about throwing
+a parade in your honor...[END]
+
+=== 13 | 1c396 | 6f ===
+Since lemina helped destroy
+zophar, vane is known as the
+city that saved the world![BRK]
+
+I'm so proud i could burst![END]
+
+=== 14 | 1c414 | 10b ===
+Uh, hey lemina! I tried the
+magic of blaze again, but
+i still can't get it right.[BRK]
+
+Isn't there an easier magic
+i can start with?[BRK]
+
+[POR07]
+Nope, sorry, kiddo. If you
+can't get the magic of blaze
+right,[BRK]
+
+you're probably not cut out
+for magic. Why not try a
+paper route instead?[END]
+
+=== 15 | 1c53a | 1af ===
+I'm gonna grow up and
+protect the magic guild
+from bad people.[BRK]
+
+Wherever there is a cry
+for help, i'll be there.[BRK]
+
+When a woman sheds a tear in
+silent fear, i'll be there.[BRK]
+
+When one refuses to leggo
+another's eggo, i'll be
+there.[BRK]
+
+[POR07]
+Hold the fantasy, kiddo.
+You can't do any of that
+until you learn some magic.[BRK]
+
+And you can't even master
+the magic of blaze yet![BRK]
+
+I'd suggest hitting the
+books before you turn the
+fantasy dial any higher.[END]
+
+=== 16 | 1c708 | f1 ===
+I'll never give up! I don't
+care if it takes me until
+the end of time.[BRK]
+
+I will master the magic of
+blaze![BRK]
+
+[POR07]
+That's the spirit, kid![BRK]
+
+[POR02]
+Uh, just between you and me,
+you think the kid'll ever
+get it right?[BRK]
+
+[POR07]
+Not a chance...[BRK]
+
+[POR02]
+Poor bastard...[END]
+
+=== 17 | 1c814 | a8 ===
+I feel so bad. I'm of no use
+to you if i don't know any
+magic...[BRK]
+
+[POR07]
+Well, just keep trying.
+You'll get it someday...[BRK]
+
+[POR02]
+You gotta give the kid
+credit for not giving up![END]
+
+=== 18 | 1c8dc | 3e ===
+I don't care what the others
+say. I will master magic
+someday![END]
+
+=== 19 | 1c92e | 3e ===
+One day, i'll be a great
+magician, and lemina will
+be my wife![END]
+
+=== 1a | 1c984 | 74 ===
+I think the girl named lucia
+has collected the magic
+power of our world.[BRK]
+
+Please, tell me...what will
+she do with it?[END]
+
+=== 1b | 1ca14 | 43 ===
+Now that lucia's magic power
+was captured, what are we
+going to do?[END]
+
+=== 1c | 1ca6e | 49 ===
+What happened to lemina?
+C'mon, man, spit it out!
+I love her, dammit!
+
+
+
+[END]
+
+=== 1d | 1cad2 | b7 ===
+I'm going to do my best not
+to let lemina down. I love
+her, after all.[BRK]
+
+When i grow up, i'm gonna
+marry her...[BRK]
+
+Sure, she'll be an old bag
+by the time i'm in my 30's,
+but what the heck![END]
+
+=== 1e | 1cba0 | c8 ===
+Lemina, give it to me
+straight. Do we stand a
+chance against zophar?[BRK]
+
+[POR07]
+You don't stand a chance
+against a stiff breeze,[BRK]
+
+but yes, i think my party
+stands a chance of defeating
+that little turd zophar.[END]
+
+=== 1f | 1cc84 | eb ===
+Please tell me we're not
+going to lose our fight
+against zophar...[BRK]
+
+[POR07]
+If we start thinking that
+loss is a possibility, then
+it will become a reality.[BRK]
+
+You've got to keep a
+positive attitude, kiddo![BRK]
+
+[POR00]
+Positive attitude...right!
+Got it!
+[END]
+
+=== 20 | 1cd82 | b5 ===
+Whoo hoo! I knew that lemina
+would win! I just kept a
+positive attitude![BRK]
+
+And i only had to sacrifice
+10 barneys on the burning
+altar of rage![BRK]
+
+That was definitely purple
+well-spent!
+[END]
+
+=== 21 | 1ce4a | 3d ===
+Hey! Hey! There's a party in
+my pants and everyone's
+invited![END]
+
+=== 22 | 1ce9a | b2 ===
+I gave up trying to learn
+magic. I just don't think
+i have an aptitude for it.[BRK]
+
+I'll still help restore vane
+to its former glory, though.[BRK]
+
+[POR07]
+Thanks, kiddo. That means a
+lot to me.[END]
+
+=== 23 | 1cf5c | 20e ===
+Why do you keep trying to
+return vane to its former
+glory? It'll never happen![BRK]
+
+You're bound to end up just
+like general leo, scrubbing
+toilets for a living![BRK]
+
+[POR07]
+Silly! Lord leo doesn't
+scrub toilets! What are you
+on?[BRK]
+
+[POR00]
+I didn't say 'lord' leo,
+stupid! I said 'general'
+leo![BRK]
+
+You know, the washed-up,
+has-been entertainment
+refugee...[BRK]
+
+...with the limited and
+very repetitive vocabulary?[BRK]
+
+I think scrubbing toilets
+is the perfect job for
+that loser![BRK]
+
+[POR02]
+No, i think licking the age-
+old muck from gutters would
+be more his speed...[END]
+
+=== 24 | 1d186 | 1bb ===
+Hey there, lemina! Who are
+these people you've brought
+with you?[BRK]
+
+[POR07]
+Them? Oh...they're...they're
+executive candidates for the
+new vane magic guild![BRK]
+
+I was just showing them the
+grounds and telling them of
+my plans...[BRK]
+
+They're quite interested...
+and very rich![BRK]
+
+[POR02]
+Shee! Get an earful of
+that...[BRK]
+
+I think someone's earning
+some serious frequent liar
+mileage right now.[BRK]
+
+Redeemable for a first-class
+ticket to hell on the good-
+intentions express...[END]
+
+=== 25 | 1d360 | a0 ===
+Somehow i can't believe that
+those friends of yours are
+guild material.[BRK]
+
+They seem more like that
+loser general leo.[BRK]
+
+You're not lying again, are
+you, lemina?
+
+
+
+[END]
+
+=== 26 | 1d414 | 71 ===
+You know, i don't know how
+someone as kind and giving
+as miria...[BRK]
+
+Had a child as unreliable
+and greedy as lemina![END]
+
+=== 27 | 1d49c | 127 ===
+I've heard that the girl
+called lucia is the
+destroyer althena foretold![BRK]
+
+I heard she even tried to
+steal the power of althena
+to destroy us![BRK]
+
+But she looked so kind and
+harmless. How could she be a
+destroyer of worlds?[BRK]
+
+[POR02]
+She's not! There's something
+bigger than you or i can see
+going on here!!
+[END]
+
+=== 28 | 1d5de | c7 ===
+That girl is a heartless
+destroyer.[BRK]
+
+She didn't even care about
+the lives she was wiping out
+by demolishing our world![BRK]
+
+[POR02]
+She's not a destroyer! She
+is trying to save our world,
+not finish it forever![END]
+
+=== 29 | 1d6b8 | 7f ===
+So, the girl was not the
+destroyer after all! It was
+zophar.[BRK]
+
+I'm just glad she was strong
+enough to protect our world
+from him![END]
+
+=== 2a | 1d744 | 73 ===
+[POR02]
+Funny, you seem to have
+changed your tune from the
+last time we were here![BRK]
+
+Before you wanted to string
+lucia up![END]
+
+=== 2b | 1d7ca | c7 ===
+Lemina has become very busy
+guiding the magic guild back
+to prominence.[BRK]
+
+If she keeps improvin' the
+place, i might just apply.[BRK]
+
+[POR02]
+What, have they put out a
+request for whiny guys who
+like to complain?[END]
+
+=== 2c | 1d8a8 | 6f ===
+Hey! I think i'd be an asset
+to the guild![BRK]
+
+I know the magic of sniffle-
+stop! It's very useful in
+the winter...[END]
+
+=== 2d | 1d926 | a0 ===
+Haayy thaar, leedle laady!
+Some straange folk weer
+goin' in tha guild mansion.[BRK]
+
+I jus' thod i'd tell ya...
+say, can ya spare a silver
+piece? I'm down on my luck.[END]
+
+=== 2e | 1d9e2 | 11d ===
+Sumbuddy tol' me thad you
+were gonna make vane fly
+in tha...<hick>...sky.[BRK]
+
+I had me uh good laugh over
+...<hick>...over thad one
+...ha...ha...ha![BRK]
+
+[POR07]
+Pooh! If you sucked a little
+less sauce, you'd know that
+i'm serious in my intent![BRK]
+
+I will get the great city of
+vane in the skies again!
+[END]
+
+=== 2f | 1db1e | 6d ===
+Haaay! Didja...<hick>...know
+thad lemina is tha premier
+uh vane?[BRK]
+
+Shee's uh...<hick>...uh
+looker, thad kid....[END]
+
+=== 30 | 1db9e | 91 ===
+I didn't think leemiina
+wuz serious 'bout gettin'
+thiis citty off tha ground![BRK]
+
+Thad liddle kid's god spunk!
+I like thad inna wuman!
+...<hick>...
+
+[END]
+
+=== 31 | 1dc46 | fb ===
+Haaaay...<hick>...[BRK]
+
+...haaaayy...<hick>[BRK]
+
+<Hick>...didja see 'im?[BRK]
+
+I heard thad zophar is here
+to deestroy tha world![BRK]
+
+Now thad hee's mack...<hick>
+...back, monstur attacks
+are up all ovur![BRK]
+
+Idd's nodd even safe ta go
+out an' gedd uh...<hick>...
+...drink!
+
+[END]
+
+=== 32 | 1dd5c | 93 ===
+Miria...<hick>...says thad
+the monsturs are commin'
+'cause uh that zophar guy.[BRK]
+
+Why would 'e wanna destroy
+our liddle...<hick>...liddle
+planet, huh?[END]
+
+=== 33 | 1de02 | 4a ===
+Zophar left 'an the world
+is safe again...<hick>...
+..I'll drink to thad!
+[END]
+
+=== 34 | 1de5c | 8e ===
+Dree cheers fur hiiiro, who
+saved 'r <hick> liddle
+budds from tha fire![BRK]
+
+An' how 'bout a line uh
+shots to cheer each one uh
+<hick> his friends?[END]
+
+=== 35 | 1defa | 143 ===
+Lemina, does your mother
+know that you're going into
+the trial cave?[BRK]
+
+Monsters in there have
+increased lately. You'd
+better stay out...[BRK]
+
+[POR07]
+Stay out? Oh, pooh! I'd like
+to meet the sorry monster
+that tries to attack me.[BRK]
+
+I'll give it to him...pow!
+Right in the kisser![BRK]
+
+...and you don't need to go
+telling my mom where i went!
+[END]
+
+=== 36 | 1e058 | 195 ===
+Lemina, if your mother saw
+you runnin' around skinnin'
+your knees like a tomboy...[BRK]
+
+I'm sure she'd be appalled!
+This is not the proper
+behavior for a lady.[BRK]
+
+[POR07]
+Pooh! I'm trying to get this
+run-down old place back in
+order and save the world...[BRK]
+
+It's not exactly the kind of
+work you do in a prom dress,
+ya know.[BRK]
+
+And my mother doesn't have
+to know anything about it.[BRK]
+
+After all, i'm just trying
+to help her...
+[END]
+
+=== 37 | 1e20c | a3 ===
+In my day a lady never would
+have been seen alone in the
+company of ruffians...[BRK]
+
+[POR07]
+These aren't ruffians.
+They're my friends, and they
+just might save your behind![END]
+
+=== 38 | 1e2c2 | bd ===
+I give lemina a hard time,
+but i know she's just trying
+to revive the guild.[BRK]
+
+She works very hard. Some
+people think she's greedy,[BRK]
+
+but all the money she
+collects goes toward
+reviving vane...[END]
+
+=== 39 | 1e392 | 98 ===
+I just saw a girl and a guy
+go down there...the girl was
+wearing a karate suit,[BRK]
+
+and the guy looked quite
+stern. I think his name may
+have been howard...[END]
+
+=== 3a | 1e43e | b0 ===
+Well, lemina, this is the
+time when everything you've
+learned is put to the test.[BRK]
+
+I know you won't let us
+down.[BRK]
+
+[POR07]
+Count on it. I'm ready to
+show this zophar what i'm
+made of!
+[END]
+
+=== 3b | 1e502 | 9a ===
+I never doubted that you
+would emerge victorious,...
+even for a second![BRK]
+
+You kids have made me proud.
+I'm especially surprised at
+what lemina accomplished![END]
+
+=== 3c | 1e5b0 | 7e ===
+The more i watch that kid
+grow up, the more i see of
+her mother in her...[BRK]
+
+Lemina has just grown so
+much these past few months![END]
+
+=== 3d | 1e642 | cd ===
+L-lemina? Are you going
+on a trip? What about the
+guild?...your dream?[BRK]
+
+[POR07]
+My work is done. My mother
+and borgan will see the
+dream to reality.[BRK]
+
+I have a new dream, and the
+path i must take is with
+hiro...
+
+[END]
+
+=== 3e | 1e71e | 130 ===
+Hey, heard you were going
+away.[BRK]
+
+Boy, lemina, i'm really
+gonna miss seeing you around
+here.[BRK]
+
+[POR07]
+I'm going to miss being
+seen.[BRK]
+
+But it's only a temporary
+thing. I'll be back soon.[BRK]
+
+[POR02]
+Sorry to rush your tearful
+reunion, but don't we have
+to save your mom, lemina?[BRK]
+
+[POR07]
+Oh dear! Yes! Mother! We
+have to hurry...
+[END]
+
+=== 3f | 1e86a | 9d ===
+I can't believe that borgan
+had the gall to kidnap miria
+right out from under us![BRK]
+
+[POR07]
+Regardless of how daring or
+powerful he is, i will get
+my mother back...[END]
+
+=== 40 | 1e926 | f5 ===
+There must be something
+miria knows that borgan
+wants...[BRK]
+
+[POR07]
+But what could that be? She
+has told me everything about
+vane...[BRK]
+
+[POR00]
+I dunno what it is. I just
+know borgan wouldn't take
+her just for kicks...[BRK]
+
+She's got to have some
+secret knowledge...[END]
+
+=== 41 | 1ea32 | 78 ===
+Lemina is working so hard
+to bring back the guild that
+i sometimes worry about her.[BRK]
+
+She's kinda like a daughter
+to me...[END]
+
+=== 42 | 1eabe | 51 ===
+I'm glad lemina is finally
+learning what the important
+things in life really are.[END]
+
+=== 43 | 1eb1c | 9c ===
+[POR07]
+Yes, i'm afraid i've learned
+the value of true friend-
+ship.[BRK]
+
+It's so precious, it can't
+be bought...[BRK]
+
+I know...i know...it
+sounds corny...but it's
+true!
+
+[END]
+
+=== 44 | 1ebd4 | 96 ===
+Lemina, i just can't get
+over how you've matured![BRK]
+
+If you had lost the magic
+before, you would have just
+given up.[BRK]
+
+But now, you're trying to
+regain it![END]
+
+=== 45 | 1ec8a | 47 ===
+If you're successful, the
+whole world will owe you
+a debt of gratitude.[END]
+
+=== 46 | 1ece8 | 75 ===
+I'll be waiting right here
+when you return victorious![BRK]
+
+[POR07]
+We'll be back soon, too.
+Zophar's gonna be a piece of
+cake.[END]
+
+=== 47 | 1ed70 | 7d ===
+I believe that lemina has
+become the best candidate
+for premier of vane.[BRK]
+
+She's proven her worth by
+saving our world with you.[END]
+
+=== 48 | 1ee00 | a1 ===
+Hey, you're friends of
+lemina, aren't you?[BRK]
+
+Well then, why are you
+wandering around out here
+looking for her?[BRK]
+
+You should know she'd be in
+the magic guild mansion![END]
+
+=== 49 | 1eeb4 | 6a ===
+Ah, lemina! Off on another
+adventure, i see![BRK]
+
+Well, have a good time, and
+try to stay out of trouble,
+okay?[END]
+
+=== 4a | 1ef2e | da ===
+Some strangely-dressed
+people went into the guild
+mansion a while ago.[BRK]
+
+Talk about weird! Their
+leader was a jenny craig
+nightmare client![BRK]
+
+I'm from out-of-town...but
+i sure hope all the people
+here don't look like that.[END]
+
+=== 4b | 1f024 | 185 ===
+I just can't seem to find a
+good return on my investment
+these days...[BRK]
+
+[POR07]
+Well then, why not invest in
+the future of vane? We're
+selling junk bonds![BRK]
+
+If things work out, you can
+get returns of up to 100x on
+your investment![BRK]
+
+[POR00]
+Uh, it's the 'if' that
+worries me.[BRK]
+
+I had some money in orange
+county, and look what
+happened to it.[BRK]
+
+No thanks. I think i'll just
+keep my money in the ol'
+mattress.[END]
+
+=== 4c | 1f1c8 | a0 ===
+You know what this place
+needs? A nice, new busty
+bowl-o-rama![BRK]
+
+100 Lanes, auto-scoring,
+scantily-clad barmaids...[BRK]
+
+Maybe that's the investment
+i'm looking for...[END]
+
+=== 4d | 1f27c | 7b ===
+Boy, this town is more of a
+dump than i was told.[BRK]
+
+On second thought, i wonder
+if i should invest in vane's
+future at all...[END]
+
+=== 4e | 1f30a | 7c ===
+With monsters surrounding
+this town, how can anyone
+make a business work?[BRK]
+
+I don't think i'll be
+investing here anytime soon.[END]
+
+=== 4f | 1f39a | 70 ===
+Say, can i have your auto-
+graphs?[BRK]
+
+The signatures of saviors
+of the world will be worth
+a fortune in the future![END]
+
+=== 50 | 1f41e | 8a ===
+Say, can i have a few more
+autographs? I've already
+sold out of the first ones![BRK]
+
+This is going great! I think
+this will be my new
+business![END]
+
+=== 51 | 1f4c0 | 45 ===
+Do you have any famous
+friends? I need to get some
+more autographs...[END]
+
+=== 52 | 1f520 | 9f ===
+Say there, you look like
+strangers.[BRK]
+
+Would you like to know about
+the systems of magic that
+the guild defined?
+[0x5]Yes, that would be great!
+No, i don't have time.[END]
+
+=== 53 | 1f5ce | 1a ===
+All right then, listen up.[END]
+
+=== 54 | 1f5f8 | 55 ===
+Whoops, wrong answer. You're
+in vane, home of the guild.
+I think you'd better listen.[END]
+
+=== 55 | 1f650 | 1b2 ===
+Magic is classified into
+four systems that correspond
+to the elements.[BRK]
+
+There's wind, fire, water,
+and earth magics. Recovery
+magic also exists.[BRK]
+
+From these basic magic
+systems, all magic is
+derived.[BRK]
+
+[POR10]
+Hmmm...hey, lemina, this guy
+really seems to know a lot
+about magic![BRK]
+
+[POR07]
+Pooh! It's all head know-
+ledge. This guy doesn't even
+have magic power![BRK]
+
+He's just an egghead that
+likes to listen to himself
+talk.[BRK]
+
+Isn't that right, arvin?
+
+
+
+
+[END]
+
+=== 56 | 1f822 | 7c ===
+The books of the library
+here tell much more about
+vane and our world.[BRK]
+
+[POR07]
+Yes, yes, that's quite
+obvious, now isn't it?
+
+
+
+
+[END]
+
+=== 57 | 1f8b6 | 3a ===
+The ways of magic are very
+deep. I need to study
+harder...[END]
+
+=== 58 | 1f904 | 115 ===
+In order to master the power
+of althena, all magic in
+this world must be gathered.[BRK]
+
+Because that has been done,
+there is no magic left in
+our world.[BRK]
+
+And worse yet, because you
+lost to zophar, he now has
+all the magic...[BRK]
+
+...and the power of althena.
+We're doomed...doomed, i say![END]
+
+=== 59 | 1fa2c | 35 ===
+Whoo-hooo! The world is safe
+for humanity once again![END]
+
+=== 5a | 1fa74 | 73 ===
+Oh man...if only i could
+learn how to actually
+perform magic![BRK]
+
+Just reading about it is
+pretty boring after awhile.
+[END]
+
+=== 5b | 1faf4 | 7e ===
+[POR07]
+Your dream can come true
+if you want it bad enough.[BRK]
+
+But just sitting here
+whining to strangers about
+it won't help one bit![END]
+
+=== 5c | 1fb8a | 14c ===
+I've decided to study hard
+to become a top-notch
+magician![BRK]
+
+[POR02]
+And if you're real good,
+you might even end up in
+vegas married to some guy,[BRK]
+
+prancing around a stage
+doing magic tricks with big
+cats...[BRK]
+
+And slapping your partner's
+butt a lot![BRK]
+
+...but that's only if you're
+real good...[BRK]
+
+...and learn the magic of
+plastic augmentation...
+
+[END]
+
+=== 5d | 1fce6 | d8 ===
+Borgan appeared suddenly by
+using the magic of transfer.[BRK]
+
+It really surprised me. All
+of the sudden, this huge
+mass appeared behind me![BRK]
+
+[POR07]
+I can't believe he had the
+nerve to transfer right into
+the midst of our city![END]
+
+=== 5e | 1fdda | bb ===
+It shocked me that borgan
+has so much power now.[BRK]
+
+He was a piss-poor magician
+in the old days of the vane
+magic guild.[BRK]
+
+I wonder how he got so very
+strong? Is he using the
+power of althena?[END]
+
+=== 5f | 1feb4 | 9c ===
+Boy, i sure hope you can
+save your mother from that
+pig borgan![BRK]
+
+[POR07]
+It should be as easy as
+melting a jello mold.[BRK]
+
+...okay, okay....[BRK]
+
+........a big jello mold.[END]
+
+=== 60 | 1ff68 | 4b ===
+Man, i am so relieved that
+you were able to rescue your
+mother from borgan![END]
+
+=== 61 | 1ffc6 | d7 ===
+Borgan is called 'the
+black magician' and is
+considered one of the four.[BRK]
+
+But how did he get so
+strong? He was a poor, weak
+magician in the old days.[BRK]
+
+Did the teachings of the
+magic guild at vane somehow
+corrupt him?
+[END]
+
+=== 62 | 200b4 | 10f ===
+Ronfar and mauri were in the
+library talking when zophar
+appeared.[BRK]
+
+He imprisoned the girl
+called lucia and took the
+power of althena.[BRK]
+
+Now he is omnipotent, and
+he's seeking to destroy our
+world![BRK]
+
+He wants to start over and
+populate lunar with his own
+followers. He's sick![END]
+
+=== 63 | 201de | 80 ===
+Even though people keep
+saying 'don't give up hope,'
+i'm losing faith.[BRK]
+
+Oh no, i've said too much.[BRK]
+
+[POR02]
+...you haven't said enough.[END]
+
+=== 64 | 20272 | 46 ===
+I'm still clinging to my
+last ounce of hope for this
+forsaken world...[END]
+
+=== 65 | 202cc | 6a ===
+There are so many depressed
+people,[BRK]
+
+i'm thinking of starting a
+suicide prevention line.
+What do you think?[END]
+
+=== 66 | 20346 | 94 ===
+I learned from the battle
+you fought with zophar that
+anything's possible.[BRK]
+
+If you want it bad enough,
+and try hard enough, your
+dream can come true.[END]
+
+=== 67 | 203e8 | 3c ===
+[POR07]
+Pooh! That's been obvious
+from the very beginning,
+silly![END]
+
+=== 68 | 20434 | 1df ===
+I've come from meribia to
+see the sights here in
+historic vane.[BRK]
+
+I was told that this place
+is known for its spank-
+shops.[BRK]
+
+Would you be so kind as to
+direct me to one? I've been
+very bad lately.[BRK]
+
+[POR07]
+What are you, some kind of
+sicko?[BRK]
+
+Spank shops? Where did you
+hear that?! I demand to
+know![BRK]
+
+Vane has never had places
+like that![BRK]
+
+[POR00]
+Oooh! I just knew you were
+going to say that![BRK]
+
+I was warned that they were
+very exclusive, and hard to
+find![BRK]
+
+But i'll keep looking! You
+can bet on that![END]
+
+=== 69 | 20626 | 1e4 ===
+I was wrong. This place
+isn't interesting, it's
+plain boring.[BRK]
+
+All that's left are cruddy,
+run-down buildings with
+cruddy, run-down people.[BRK]
+
+I haven't found even one
+spank shop![BRK]
+
+Maybe i should try to get
+to some place with a little
+mystery, like pentagulia![BRK]
+
+Too bad only althena's
+servants can get in the
+place![BRK]
+
+....
+.....[BRK]
+
+...i wonder if they ever
+need to be spanked?[BRK]
+
+....
+.....[BRK]
+
+I mean, i'm sure they're bad
+every now and then...[BRK]
+
+Perhaps i could get a
+position there as chief
+spankster![END]
+
+=== 6a | 2081e | 101 ===
+Oh my god! What is that...
+that...thing! Someone said
+it was a destroyer![BRK]
+
+....
+.....[BRK]
+
+...say, does it administer
+spankings by any chance?[BRK]
+
+I'm certain that any
+reputable destroyer should.[BRK]
+
+I'm really in need of one
+in the worst way.[BRK]
+
+I've been quite naughty...
+[END]
+
+=== 6b | 20932 | 80 ===
+Thank goodness zophar was
+stopped. For a while there
+i thought it was the end![BRK]
+
+At least now i'll live to
+see another spanking...[END]
+
+=== 6c | 209c2 | f9 ===
+I finally got a good
+spanking![BRK]
+
+I just wish the guy hadn't
+been a stand-up comedian.[BRK]
+
+He called himself the
+prankster spankster.[BRK]
+
+I mean, he knew his stuff.
+But i could have done
+without the jokes...[BRK]
+
+....
+.....[BRK]
+
+...i'm really quite
+sensitive, you know.
+[END]
+
+=== 6d | 20ace | 12a ===
+Lemina! Lemina! You're back!
+Show me one of your magic
+tricks...please?!!![BRK]
+
+[POR07]
+Well, i have a special one
+i've been saving. It'll
+only cost...[BRK]
+
+[POR02]
+Don't tell me you're going
+to charge a kid to see one
+of your cheap tricks...[BRK]
+
+[POR07]
+As i was about to say:
+it'll only cost you a big
+smile! How 'bout it?
+
+
+[END]
+
+=== 6e | 20c10 | d1 ===
+Lemina, why are you the only
+member of the magic guild?[BRK]
+
+[POR07]
+Hmm? Oh...oh...uh...because
+qualifications are quite
+strict.[BRK]
+
+In fact, it's so strict that
+no one else has qualified
+to get in.[BRK]
+
+Maybe you will someday.[END]
+
+=== 6f | 20cfc | c8 ===
+Lemina! Lemina! Lemina! My
+mom says that if the guild
+is re-established,[BRK]
+
+all the people that don't 
+know magic will have to
+leave. Is that true?[BRK]
+
+[POR07]
+Uh, that's...
+...well, you see...
+er...uh...
+
+
+
+
+
+
+
+[END]
+
+=== 70 | 20dd2 | 97 ===
+[POR10]
+Don't worry, little girl.
+Lemina won't make people
+like you leave.[BRK]
+
+[POR00]
+Boy! What a relief. I don't
+know magic yet, so i was
+scared i'd have to leave![END]
+
+=== 71 | 20e88 | 2f ===
+Lemina! Lemina! Lemina! Go!
+Go! Go! Yea lemina![END]
+
+=== 72 | 20ece | 123 ===
+Lemina! Lemina! Lemina! Are
+you sure you won't kick out
+people who don't know magic?[BRK]
+
+I mean, i'm gonna learn it,
+but i don't know it yet.[BRK]
+
+My mom says you'll change
+things once the guild is
+re-established.[BRK]
+
+[POR07]
+Nonsense. I don't know where
+your mother is getting these
+ideas, but they're wrong![END]
+
+=== 73 | 21004 | 30 ===
+Le...hey! Where's lemina?
+She's okay, isn't she?[END]
+
+=== 74 | 21048 | 5b ===
+I heard that a destroyer
+named zophar will come to
+vane and wreck everything![BRK]
+
+Is that true?[END]
+
+=== 75 | 210b0 | 4c ===
+[POR07]
+Well, he is coming. But
+i'll stop him before he even
+gets close to vane!
+[END]
+
+=== 76 | 2110c | 50 ===
+Lemina! Lemina! Lemina
+beat that bad man zophar![BRK]
+
+Now, vane will finally be
+safe![END]
+
+=== 77 | 21174 | de ===
+Good-day, lemina. Beth has
+been waiting patiently for
+your return.[BRK]
+
+She wants to see a trick.[BRK]
+
+She's been talking my ears
+off about how great your
+tricks are...[BRK]
+
+[POR07]
+Well, it's nice to know I
+have a fan in the next
+generation![END]
+
+=== 78 | 2126a | 36 ===
+I wouldn't lie to beth, if
+i were you...[BRK]
+
+[POR07]
+....
+.....[END]
+
+=== 79 | 212b8 | 48 ===
+This town is a nice, quiet
+place to raise a child. Beth
+really likes it.[END]
+
+=== 7a | 21314 | 8c ===
+Lemina is really knocking
+herself out to restore vane
+to its former self.[BRK]
+
+I'm afraid if she doesn't
+slow down, she's gonna burn
+herself out![END]
+
+=== 7b | 213b4 | 17d ===
+I heard a story long ago
+that said our world holds
+the power to restore...[BRK]
+
+The blue star. If our world
+disappears, the blue star
+will remain lifeless.[BRK]
+
+Lucia, the guardian of the
+blue star, will come not to
+save our world, but hers.[BRK]
+
+She must protect our world,
+to ensure hers can be
+restored one day...[BRK]
+
+...well, anyway, that's the
+gist of the legend. I don't
+remember it too well...[END]
+
+=== 7c | 21544 | 52 ===
+It's a good thing we humans
+don't give up hope until
+there is none to grasp...
+
+
+
+[END]
+
+=== 7d | 215a6 | 9f ===
+Now that the outside world
+has returned to peace, i can
+take beth out again.[BRK]
+
+I was so worried there for a
+while that the world would
+never be peaceful again...[END]
+
+=== 7e | 21654 | e3 ===
+History speaks of a time
+when vane flowed with magic
+and floated in the skies.[BRK]
+
+Nowadays, there's nothing
+left around here to remind
+us of that time...[BRK]
+
+...'cept maybe the books
+in the library, but those
+things are fallin' apart![END]
+
+=== 7f | 2174e | 95 ===
+If you want to know about
+the history of the magic
+guild, go to the library.[BRK]
+
+It's filled with books that
+tell the history of this
+city and our world.[END]
+
+=== 80 | 217f0 | 48 ===
+[POR07]
+Oh, yes! I have to be sure
+to show my friends how to
+use our library![END]
+
+=== 81 | 21854 | 4d ===
+The library here in vane is
+packed to the rafters with
+books. Go take a look.[END]
+
+=== 82 | 218b8 | 82 ===
+I was told that the goddess
+althena last took human form
+a few hundred years ago,[BRK]
+
+and that she will not do it
+again. Is that true?[END]
+
+=== 83 | 21956 | ca ===
+The goddess althena comes
+to our world as a human on
+a regular basis.[BRK]
+
+However, she will not come
+to us as a human again...i
+don't know why.[BRK]
+
+There might be a book in the
+library that explains it,
+though.[END]
+
+=== 84 | 21a34 | de ===
+My word, you all did a fine
+job! The goddess herself
+couldn't have done better![BRK]
+
+Maybe it's people like you
+that made the goddess want
+to come to us as a human.[BRK]
+
+She may have been impressed
+by the good qualities of
+humanity.[END]
+
+=== 85 | 21b22 | 40 ===
+Say, if you're looking for
+lemina, she's in the guild
+mansion...[END]
+
+=== 86 | 21b70 | 6c ===
+[POR07]
+Ding-dong? Hello? Anyone
+home? I'm not in the
+mansion.[BRK]
+
+I'm right in front of you!
+Are you getting senile?[END]
+
+=== 87 | 21bec | c4 ===
+That snake borgan went over
+to the guild mansion and
+slithered inside.[BRK]
+
+I don't trust that pile of
+putrescence! You'd better
+check it out...[BRK]
+
+[POR07]
+No kidding! We're on our way
+there right now, thanks![END]
+
+=== 88 | 21ccc | 89 ===
+Lemina, i hate to break this
+to you, but miria has been
+captured![BRK]
+
+[POR07]
+I know that already. In
+fact, i'm working on saving
+her right now...[END]
+
+=== 89 | 21d74 | 63 ===
+Now that i know you're on
+the case, i know everything
+will work out fine.[BRK]
+
+[POR07]
+I hope you're right...[END]
+
+=== 8a | 21dee | 66 ===
+I'm looking forward to the
+day your mother returns to
+vane.[BRK]
+
+[POR07]
+Hopefully, it won't be too
+much longer.[END]
+
+=== 8b | 21e68 | 79 ===
+I sometimes wish vane had
+never been shot from the
+skies.[BRK]
+
+Those days of glory and
+tradition are now gone
+forever, i fear.[END]
+
+=== 8c | 21ef4 | a7 ===
+I've heard it said that a
+girl called lucia has the
+same power as althena.[BRK]
+
+But little is known about
+this girl except that she
+has a mysterious aura...[BRK]
+
+[POR01]
+....
+.....
+
+[END]
+
+=== 8d | 21fae | 83 ===
+I can't believe that you
+kids saved our world from
+disaster![BRK]
+
+Times have certainly
+changed! The whole world's
+bein' run by kids now![END]
+
+=== 8e | 22040 | 9f ===
+I wish there was a factory
+outlet store for depends
+around here.[BRK]
+
+I'm blazing through the
+damned things so fast it's
+puttin' me in the poorhouse![BRK]
+
+Old age sucks.[END]
+
+=== 8f | 220ec | d6 ===
+[POR07]
+Well, maybe your spirits
+will lift when vane is
+flying high again![BRK]
+
+[POR02]
+Oh, yeah, sure...lookin' out
+the window of a flying city
+will...[BRK]
+
+...take her mind off the
+fact that she's fillin'
+diapers like a baby...yeah![END]
+
+=== 90 | 221d2 | 94 ===
+Hey there, kiddo. How's the
+money collection for vane's
+future going?[BRK]
+
+[POR07]
+Sorry, no time to talk, my
+mother's in big trouble![BRK]
+
+Sorry...got to run....
+[END]
+
+=== 91 | 22282 | 113 ===
+I know how much trouble
+you're having raising money
+for vane's restoration.[BRK]
+
+Is there anything i can do 
+to help?[BRK]
+
+[POR07]
+Well, you can make a hefty
+donation to the cause...[BRK]
+
+[POR02]
+Or, you can donate to the
+'buy lemina some manners'
+fund.[BRK]
+
+[POR07]
+Manners? Oh pooh! I have
+plenty of manners![END]
+
+=== 92 | 223b4 | 35 ===
+Keep at it, lemina! We're
+all behind you 100 percent![END]
+
+=== 93 | 223fc | 85 ===
+Vane is such a nice place to
+live. I hope lemina doesn't
+mess what we have up.[BRK]
+
+I'm not too sure about her
+plan to revive the guild...[END]
+
+=== 94 | 22494 | 77 ===
+Have you heard the rumor?
+There's supposed to be a
+hero here in vane![BRK]
+
+He's supposed to save our
+world from destruction![END]
+
+=== 95 | 2251a | c1 ===
+Whenever our peace is
+threatened, we need to fight
+to the last to keep it![BRK]
+
+I learned this lesson from
+watching your struggle to
+save our world.[BRK]
+
+Funny that i'd have to learn
+that from kids, huh?[END]
+
+=== 96 | 225ea | 9a ===
+Vane is not a bad city. It's
+just that nothing much
+happens here anymore...[BRK]
+
+I'm thinking of moving to a
+big city like meribia where
+there's more going on.[END]
+
+=== 97 | 22698 | 7a ===
+I really don't want to hurt
+lemina's feelings,[BRK]
+
+but i don't think she can
+revive the guild by herself.
+It's a lost cause...[END]
+
+=== 98 | 22720 | 2f ===
+[POR07]
+Pooh! I will revive the
+guild! You'll see...[END]
+
+=== 99 | 22762 | 99 ===
+Do you really think you can
+fight zophar and win? Isn't
+he some sort of god?[BRK]
+
+To even try to fight him is
+a suicide mission! You're
+better off not trying.[END]
+
+=== 9a | 2280e | 9f ===
+Oh, you angels! You darling
+little angels![BRK]
+
+I can't believe that you
+were able to stop zophar![BRK]
+
+Just think, if you had
+listened to me, we'd all be
+history now!
+
+[END]
+
+=== 9b | 228ba | 72 ===
+[POR02]
+Well then, it's a good thing
+we just watched your lips
+flap and didn't listen.[BRK]
+
+...like we're doing right
+now...[END]
+
+=== 9c | 22940 | d0 ===
+I just have to thank you by
+giving you a big, wet kiss!
+<Smack>[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+Hiro, why do i feel a strong
+desire to tear this woman's
+head off? It's not...[BRK]
+
+[POR02]
+It's called 'jealousy.'
+You'll get used to it...[END]
+
+=== 9d | 22a20 | 73 ===
+I guess vane is not as
+boring as i once thought.[BRK]
+
+Seems like a lot of
+important things have
+happened here recently.
+[END]
+
+=== 9e | 22aa2 | 76 ===
+Hi, lemina! How's the work
+on the magic guild going?[BRK]
+
+[POR07]
+Pretty well. Got any more
+silver pop-tops to donate?
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 9f | 22b34 | 106 ===
+Have you given any more
+thought to the magic army
+of vane?[BRK]
+
+It sounds so cool...[BRK]
+
+[POR07]
+If i can successfully revive
+the magic guild,[BRK]
+
+my next task will be to
+bring back the magic army
+and the magic band...[BRK]
+
+And you're top of my list
+to lead the army when you
+grow up!
+[END]
+
+=== a0 | 22c5a | 72 ===
+Well, my mom says i have
+flat feet, so i think the
+magic army is just a dream.[BRK]
+
+Maybe i can be in the magic
+band...[END]
+
+=== a1 | 22ce0 | 52 ===
+A long time ago, vane was a
+happy place. I think it was
+because of the magic band.[END]
+
+=== a2 | 22d46 | db ===
+Zophar used to only be a
+destroyer, but now he has
+althena's power.[BRK]
+
+That means he has the power
+to destroy and to create.[BRK]
+
+Now, he will abolish our
+world and recreate it to his
+desire...[BRK]
+
+Just thinking about it
+scares me![END]
+
+=== a3 | 22e34 | 44 ===
+Hip hip, hooray! You beat
+zophar the destroyer! You
+deserve a medal![END]
+
+=== a4 | 22e88 | 5e ===
+If lemina helped to defeat
+zophar, she should be able
+to revive the guild.[BRK]
+
+I believe in her...[END]
+
+=== a5 | 22ef4 | 52 ===
+[POR07]
+If everyone in vane thinks
+like that, the guild will be
+established in no time![END]
+
+=== a6 | 22f56 | 77 ===
+Hey, lemina...who are these
+people with you?[BRK]
+
+[POR07]
+These are members of my new
+magic guild.[BRK]
+
+[POR02]
+Really? This is news to me.[END]
+
+=== a7 | 22fe8 | 94 ===
+Oh lemina, you have to save
+us from the destroyer! He
+wants to wipe us out![BRK]
+
+[POR07]
+I'll allow nothing of the
+sort to happen. Zophar has
+to deal with me![END]
+
+=== a8 | 2309c | 48 ===
+Lemina is such a nice girl.
+I hope her mother is found
+safe and sound...[END]
+
+=== a9 | 230fc | ca ===
+You have to save us from
+zophar, lemina. He wants to
+destroy us all![BRK]
+
+[POR07]
+Not to worry. I've already
+dispatched that menace...[BRK]
+
+...with a little help from
+my friends here. He won't
+be bothering us anymore.[END]
+
+=== aa | 231da | 4b ===
+Lemina must be mad that
+borgan floats in the skies
+above vane and laughs...[END]
+
+=== ab | 23238 | 77 ===
+It's so sad. Lemina's mother
+finally comes back, and now
+we're in bigger trouble![BRK]
+
+Will these problems ever
+stop coming?[END]
+
+=== ac | 232c2 | a2 ===
+I think the skies are
+looking brighter these days.[BRK]
+
+Is it because zophar has
+been stopped, or is it just
+my imagination?[BRK]
+
+Oh well! I don't care...i'm
+off to play...[END]
+
+=== ad | 23374 | 6f ===
+It's days like this that i'm
+glad to be alive![BRK]
+
+It just makes you appreciate
+this land althena made even
+more...[END]
+
+=== ae | 233f6 | 8e ===
+I'm going to the library
+later to play ditch with
+my friends![BRK]
+
+[POR07]
+Hey there! The library is
+not a playground! Does your
+mother know about this?[END]
+
+=== af | 23498 | 3e ===
+It's fun to play at the
+library because we're not
+supposed to.[END]
+
+=== b0 | 234ea | 43 ===
+You guys all look kind of
+sad. You wanna play ditch
+at the library?[END]
+
+=== b1 | 2353c | 95 ===
+I'm glad you all look happy
+again.[BRK]
+
+That destroyer called zophar
+had my mom and dad worried,
+too.[BRK]
+
+But now they're so happy
+they don't fight anymore...[END]
+
+=== b2 | 235e4 | ac ===
+If you go south from here,
+you'll reach the port town
+of azado.[BRK]
+
+There's supposed to be a lot
+of monsters around there.[BRK]
+
+When i get big enough, i'm
+gonna be a monster hunter![END]
+
+=== b3 | 236a8 | 50 ===
+My friends say that vane is
+going to be destroyed with
+this world. Is that true?[END]
+
+=== b4 | 23706 | 91 ===
+[POR07]
+No, no, no. Vane is going
+to be here for a long, long
+time...[BRK]
+
+[POR02]
+And even if it is destroyed,
+it'll happen so fast, you
+won't know she lied...[END]
+
+=== b5 | 237aa | 8c ===
+Frankie's dad said that the
+monsters around azado were
+wiped out![BRK]
+
+He said that lord leo of
+althena's guard blew them
+all away! Is that true?[END]
+
+=== b6 | 2384a | 82 ===
+Sammy said that this ghaleon
+guy is really a ghost from
+the past.[BRK]
+
+A long time ago, he held
+althena captive. Is he still
+a bad man?[END]
+
+=== b7 | 238e0 | 80 ===
+I heard that zophar was the
+one that revived ghaleon.[BRK]
+
+But if zophar is bad, why
+did ghaleon help vane? Isn't
+he still bad, too?
+[END]
+
+=== b8 | 23970 | 55 ===
+Hooray for ghaleon! He
+double-crossed that jerk
+zophar.[BRK]
+
+He was on our side all
+along![END]
+
+=== b9 | 239d8 | 12c ===
+[POR10]
+Well, it was quite an
+adventure, wasn't it?[BRK]
+
+Just think: if i hadn't
+met you in the forest that
+day,[BRK]
+
+i never would have learned
+what i'm really made of.[BRK]
+
+Hiro, you helped me discover
+the best part of myself: my
+strength and inner resolve.[BRK]
+
+I'm going back to being a
+dancer, but i'll never
+forget you.[END]
+
+=== ba | 23b18 | e8 ===
+[POR10]
+Say, lucia, you've got
+yourself quite a catch
+there! I envy you...[BRK]
+
+[POR08]
+I...[BRK]
+
+[POR10]
+Ah-ah-ah! Don't even try
+to make me feel better. We
+all know he's the best![BRK]
+
+Anyway, i'm headed back to
+the carnival. Promise me
+you'll stop by soon!
+
+
+[END]
+
+=== bb | 23c18 | f4 ===
+[POR14]
+Hiro, listen carefully...
+you cannot defeat zophar.[BRK]
+
+He has completed his trans-
+formation using the power
+of althena.[BRK]
+
+He is now almost completely
+impervious to any attacks
+you might use...[BRK]
+
+He has but one weakness,
+and that is...[BRK]
+
+......lucia![END]
+
+=== bc | 23d10 | f3 ===
+[POR14]
+Without stripping zophar of
+the power of althena, he
+cannot be defeated.[BRK]
+
+And that power can only be
+cut off by attacking what
+you hold most dear...lucia.[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR14]
+Hiro, you must destroy lucia
+to save your world. It is
+the only way!
+[END]
+
+=== bd | 23e06 | 36 ===
+[0x5]Are you serious, ghaleon? 
+No! I'll find another way![END]
+
+=== be | 23e4c | 120 ===
+[POR01]
+Ghaleon?! You can't be
+serious! I can't believe
+you'd suggest such a thing![BRK]
+
+[POR14]
+I am only imparting to you
+the facts as i know them.[BRK]
+
+Remember, i was closer to
+zophar than any other human.
+I know his weakness.[BRK]
+
+...and her name is lucia.
+Only by destroying her can
+you hope to defeat him.
+[END]
+
+=== bf | 23f82 | 147 ===
+[POR01]
+There must be another way
+to defeat zophar![BRK]
+
+I will not sacrifice lucia
+to save the world i love.[BRK]
+
+[POR14]
+....
+.....[BRK]
+
+So be it.[BRK]
+
+You have chosen a dangerous
+path, young hiro.[BRK]
+
+And now, you will have no
+chance of defeating zophar.[BRK]
+
+I would not be so daring.[BRK]
+
+Are you prepared to bear the
+blood of an entire world for
+this girl you love?[END]
+
+=== c0 | 24102 | 212 ===
+[POR11]
+Well, i guess hiro made
+good on his word! Hrmph!
+Maybe he's not so bad...[BRK]
+
+...at least peace has come
+back to our world for a 
+while.[BRK]
+
+Now, i guess it's time to
+jam.[BRK]
+
+Say, ruby, why don't you
+come to taben's peak with
+me?![BRK]
+
+[POR02]
+Taben's peak? You mean you
+want me to hang out with
+the lostest boys?[BRK]
+
+[POR11]
+Sure, why not? You're free
+now...you'd fit right in!
+But i'm not forcing you...[BRK]
+
+[POR02]
+No...no, i want to go.
+...sounds like a lot of
+fun.[BRK]
+
+Hey, hiro, is it okay if
+i head to taben's peak with
+nall?[BRK]
+
+I promise i'll come visit
+you soon...[END]
+
+=== c1 | 24318 | 28 ===
+[0x5]Of course, ruby!
+Maybe some other time.[END]
+
+=== c2 | 24350 | 5e ===
+[POR02]
+Well then, i guess i'm off
+to taben's peak![BRK]
+
+I promise i'll come back
+to see you soon, hiro![END]
+
+=== c3 | 243be | e6 ===
+[POR11]
+We're going to have a blast
+together, ruby![BRK]
+
+Just wait 'til the lostest
+boys find out you've come
+to play![BRK]
+
+...oh, and hiro, i have this
+for you. Read it. You might
+find it interesting.[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR00]
+[0xB][0][0x10]Hiro received a letter.[END]
+
+=== c4 | 244ae | 3c9 ===
+Dear hiro,[BRK]
+
+although once i was known as
+the goddess althena, i am
+now luna,[BRK]
+
+and i shall remain so. I
+have chosen happiness and
+love as a human. A mortal.[BRK]
+
+As such, i will not be able
+to tell you this in person.[BRK]
+
+I have seen your coming, but
+my life will end long before
+you are even born.[BRK]
+
+I have but one regret, and
+you can correct it...for the
+sake of true love.[BRK]
+
+...lucia.[BRK]
+
+Lucia is left to protect the
+blue star. Living not for
+herself, but for others.[BRK]
+
+She waits silently for the
+blue star to revive, and
+now, she waits alone.[BRK]
+
+I wanted to teach her all
+about human warmth, love,
+and kindness...[BRK]
+
+But that chance has now
+slipped beyond my grasp.[BRK]
+
+Hiro, you must free her from
+servitude and loneliness on
+the blue star. For me...[BRK]
+
+            ...and for love.[BRK]
+
+  ...the way is open to you.
+
+                        Luna[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR11]
+Well, buddy, what are you
+waiting for? This is it!
+Show time![BRK]
+
+Lucia's right here! I saw
+her goin' in to the guild
+mansion. Go for it, guy!
+[END]
+
+=== c5 | 2488c | ae ===
+[POR02]
+Sorry, nall, hiro said maybe
+later. I'll have to pass.[BRK]
+
+[POR11]
+What? Hiro? Why is he
+runnin' your show?[BRK]
+
+You're a fully trained and
+powerful red dragon! Think
+for yourself!
+
+
+
+
+[END]
+
+=== c6 | 24956 | 99 ===
+[POR11]
+C'mon, ruby! If you don't
+come with me, the lostest
+boys'll be bummed![BRK]
+
+[POR02]
+Uh, gee, nall, maybe i can
+ask hiro again. Hiro, can
+i please go with nall?
+[END]
+
+=== c7 | 24a06 | d8 ===
+[POR11]
+Say, i saw lucia go into 
+the guild mansion.[BRK]
+
+This is your chance at true
+love, buddy![BRK]
+
+Go get the poor girl and
+sweep her off her feet![BRK]
+
+Don't worry about ruby, she
+and i'll have a kickin'
+time. Just go get lucia...[END]
+
+=== c8 | 24af2 | 129 ===
+[POR11]
+Althena chose to live life
+in happiness as a human
+named luna.[BRK]
+
+She even found true love and
+happiness with dragonmaster
+alex.[BRK]
+
+[POR08]
+I have seen the strength and
+joy of humanity. I want to
+see so much more.[BRK]
+
+Maybe althena had the right
+idea...human...hmmm...[BRK]
+
+...oh...
+.........who am i kidding?
+
+
+
+
+[END]
+
+=== c9 | 24c2e | 48 ===
+[POR02]
+Hiro! Have you changed your
+mind about letting me go to
+taben's peak?[END]
+
+=== ca | 24ca8 | 119 ===
+[POR05]
+Hey, ya know what? I just
+thought of something...[BRK]
+
+I think that defeating
+zophar has made me the
+world's first playboy/hero![BRK]
+
+Pretty funny, huh? One of
+the saviors of the world, 
+and i have a major vice! Ha![BRK]
+
+Well, anyway, i guess we
+have to part ways here. Stay
+in touch, you two![END]
+
+=== cb | 24dd4 | 85 ===
+[POR05]
+Well, chief, about all I
+have left to say to you is
+'take care.'[BRK]
+
+And lucia...get this boy
+some decent clothes, ok?[BRK]
+
+See ya 'round!
+[END]
+
+=== cc | 24e6c | cc ===
+[POR07]
+Hmm! What good is a premier
+of the guild with no magic
+power?[BRK]
+
+That's like a wallet with
+no money. Oh, this will
+never do...[BRK]
+
+I've got to concentrate and
+get back my magic power![BRK]
+
+Eeeee.....iiiiii.....ha![END]
+
+=== cd | 24f54 | 12f ===
+[POR07]
+Why does lucia need to take
+all the magic power for
+herself?[BRK]
+
+Can't she leave some for me?[BRK]
+
+After all, it is the nice
+thing to do, and i am in
+such a bind![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR07]
+Oh well. Sorry to talk your
+ear off with complaints,
+hiro...[BRK]
+
+Guess i'll just have to
+work extra hard to drum up
+some magic, huh?
+[END]
+
+=== ce | 2509e | b3 ===
+[POR07]
+Hiro, i'm doing my best to
+regain my magic ability.[BRK]
+
+I hope you can get lucia
+back from zophar in one
+piece![BRK]
+
+I've got to get back to
+practicing...eeeee......
+....iiiiii.....ha!![END]
+
+=== cf | 25164 | 84 ===
+[POR07]
+Coming back home like this
+is almost like a dream or
+something.[BRK]
+
+Well, now that i am back,
+i'll show my pride and power
+every day![END]
+
+=== d0 | 251fc | c7 ===
+[POR07]
+Lucia...and hiro, i will
+never forget the adventure
+we had together.[BRK]
+
+When you two are in the
+area, don't forget to stop
+by vane and say hello.[BRK]
+
+Remember, you're honorary
+members of the guild now!
+
+[END]
+
+=== d1 | 252d6 | 107 ===
+[POR09]
+We've been through a lot,
+you and i.[BRK]
+
+And i'll tell you, hiro,
+even when i was trying to
+capture you, i liked you.[BRK]
+
+You carry with you a sense
+of justice...of power.[BRK]
+
+When we first met, i had
+lost my sense of justice.[BRK]
+
+You helped me find it again.[BRK]
+
+Thank you, hiro.[END]
+
+=== d2 | 253f0 | 148 ===
+[POR09]
+The regret i feel over the
+course i took in the past
+is immeasurable.[BRK]
+
+If i had come to my senses
+just a bit earlier,[BRK]
+
+i would not have put you
+in this terrible situation,
+lucia.[BRK]
+
+Know that i'm sorry, and
+that i pray you can revive
+the blue star.[BRK]
+
+[POR08]
+Knowing what you were, your
+words mean so much more to
+me now. Thank you, leo.[END]
+
+=== d3 | 2554c | 69 ===
+[POR07]
+Now you wait just a minute,
+hiro![BRK]
+
+These treasures are mine!
+You can't open them without
+my permission![END]
+
+=== d4 | 255c8 | 36 ===
+[POR02]
+Hiro, if you open those,
+lemina is going to be mad![END]
+
+=== d5 | 2561e | 68 ===
+[POR07]
+Hiro! What are you doing?[BRK]
+
+No one is supposed to open
+those without my permission!
+Get away from them![END]
+
+=== d6 | 2569a | 69 ===
+[POR02]
+I wouldn't do that, if I
+were you. Those are lemina's
+treasures.[BRK]
+
+If you open them, she's
+gonna be mad![END]
+
+=== d7 | 25714 | 4 ===
+Vane[END]
+

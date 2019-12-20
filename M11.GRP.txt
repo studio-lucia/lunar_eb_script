@@ -1,0 +1,379 @@
+File: M11.GRP
+
+Messages: 42
+
+=== 0 | 199f2 | c6 ===
+Are you lost, folks? This is
+the entrance to illusion
+woods.[BRK]
+
+People have been known to
+go in there and never be
+seen again![BRK]
+
+Unless you're desperate to
+get to the madoria plains,
+i would turn back...[END]
+
+=== 1 | 19abc | 88 ===
+Say, folks, you'd be crazy to
+try to cross the illusion
+woods![BRK]
+
+Only the most skilled can
+find their way through the
+maze-like interior.
+[END]
+
+=== 2 | 19b66 | df ===
+Ronfar! You cheatin' dog!
+What are you doing here?
+Feeling guilty?[BRK]
+
+[POR05]
+No, buddy, i'll only feel
+guilty if you're dumb enough
+to gamble against me again.[BRK]
+
+I warned you not to play
+that last round, but did you
+listen? Noooo...[END]
+
+=== 3 | 19c48 | 4c ===
+[POR05]
+C'mon, hiro! We don't have 
+time to spare. Let's get
+going toward dalton![END]
+
+=== 4 | 19cac | 2a5 ===
+Ronfar, you lying dog! I
+want a chance to win back
+my money![BRK]
+
+[POR05]
+C'mon...i don't have
+time for this![BRK]
+
+I know you know the way
+through the illusion woods.
+Tell me how to get through![BRK]
+
+[POR00]
+You're not getting one bit
+of information from me until
+you pay me back![BRK]
+
+I want another chance to win
+back my money, buster![BRK]
+
+[POR02]
+Geez, this guy's not too
+bright, is he?[BRK]
+
+Hasn't he figured out
+ronfar's dice are loaded?[BRK]
+
+[POR05]
+Okay, but remember, you
+asked to play this round![BRK]
+
+We'll play odd and even.
+What do you call?[BRK]
+
+[POR00]
+Uh...uh...uh...
+...just a minute...let
+me think...uh...uh...uh...[BRK]
+
+[POR05]
+C'mon, woodsman! I don't
+have all day! What is it,
+odd or even?[BRK]
+
+[POR00]
+Uh...uh...uh...okay...i'll
+...i'll bet odd![END]
+
+=== 5 | 19f5a | ba ===
+[POR05]
+[0x4] [0x3] [0x4] [0x3] 
+Ha! Even! Sorry buddy,
+it looks like i won.[BRK]
+
+[POR00]
+Ouuuggg! I know you cheated
+me again somehow![BRK]
+
+But a deal's a deal. Here.
+I'll enchant you so that the
+paths show themselves...
+[END]
+
+=== 6 | 1a022 | 168 ===
+[POR05]
+Whoa! I'll be a dirty...[BRK]
+
+[POR00]
+Ha ha ha! Pretty impressive,
+huh?[BRK]
+
+Without my special spell, 
+the path i've cut through
+the woods is invisible![BRK]
+
+These tunnels will lead you
+through illusion woods with
+a minimum of fuss.[BRK]
+
+...and when you have time,
+remember, ronfar...i want a
+rematch using my dice![BRK]
+
+[POR05]
+Uh...yeaaahh, right.
+Whatever you say, old dog.
+See ya around![END]
+
+=== 7 | 1a1a6 | 102 ===
+What are you doing back
+here? I thought you had
+important business![BRK]
+
+If you've got time to dally
+around here, i want a
+rematch![BRK]
+
+[POR05]
+Sorry, old pal, i do have
+important business. I won't
+bother you...[BRK]
+
+[POR00]
+Well, carry on, then. But
+remember: i want a rematch!
+
+
+
+[END]
+
+=== 8 | 1a2c4 | 98 ===
+See the hole in the tree to
+my left? Isn't the spell I
+made wonderful?![BRK]
+
+Anyway, follow the holes
+through the maze and you'll
+end up on the other side...[END]
+
+=== 9 | 1a378 | 91 ===
+Are you lost again? Didn't
+i tell you how to get
+through last time?[BRK]
+
+Listen! Follow the path
+in the trees. It'll lead
+you right to the other side![END]
+
+=== a | 1a424 | dd ===
+You know, members of
+althena's guard were here
+looking for ronfar.[BRK]
+
+What did you do to get those
+boys mad? I mean, that's
+heat you can't afford...[BRK]
+
+[POR05]
+Oh, it's nothing, really.
+Just a misunderstanding...[BRK]
+
+...
+....[BRK]
+
+...really![END]
+
+=== b | 1a518 | 6f ===
+Hmmm, where is ronfar? Did
+the soldiers of althena's
+guard catch him?[BRK]
+
+Ha! Well it serves him right
+if they did![END]
+
+=== c | 1a59e | bc ===
+You still outwitting those
+soldiers from althena's
+guard?[BRK]
+
+I'm tellin' you ronfar, your
+time's runnin' out![BRK]
+
+[POR05]
+Ta ha ha! 'Fraid not, my
+backwoods pal! They're not
+even close to catchin' me![END]
+
+=== d | 1a66e | 9a ===
+If ronfar was strong enough
+to save the world, no wonder
+i couldn't beat him...[BRK]
+
+[POR02]
+Um, i think you have the
+facts a little mixed up.
+Hiro saved the world![END]
+
+=== e | 1a71c | aa ===
+I've quit my little gamblin'
+habit and decided to become
+a guide for these woods.[BRK]
+
+[POR05]
+Sounds like you'll be
+holdin' on to a lot more of
+your money now, buddy![BRK]
+
+Ha ha ha ha![END]
+
+=== f | 1a7da | 113 ===
+[POR09]
+She's escaped, but she can't
+have gone very far. Lucia
+will be mine again![BRK]
+
+I want a low-level search of
+every outhouse, dog-house, 
+hen-house, tree-house,[BRK]
+
+boat-house, birdhouse, road-
+house, and penthouse within
+a 20 mile radius.[BRK]
+
+We're gonna get this girl
+and her cohorts![END]
+
+=== 10 | 1a8f0 | 72 ===
+[POR09]
+I won't forget you betrayed
+me, ronfar![BRK]
+
+When i catch up to you and
+that destroyer, there'll be
+hell to pay!
+
+
+
+[END]
+
+=== 11 | 1a966 | 39 ===
+Sir, i've completed my
+search and found no trace
+of them.[END]
+
+=== 12 | 1a9a2 | 49 ===
+She seems to have vanished
+into thin air! There's no
+sign of any of them![END]
+
+=== 13 | 1a9ee | d6 ===
+The only person we could
+find was just a simple
+woodsman.[BRK]
+
+No sign of the girl or
+the others, sir![BRK]
+
+[POR09]
+Damn! I know they're around
+here somewhere! I will find
+them![BRK]
+
+All right, men! Back to the
+destiny...double-speed![END]
+
+=== 14 | 1aace | 10 ===
+Illusion wood 1f[END]
+
+=== 15 | 1c18e | 11 ===
+Illusion woods 2f[END]
+
+=== 16 | 1d7f0 | 11 ===
+Illusion woods 3f[END]
+
+=== 17 | 1f31a | 11 ===
+Illusion woods 4f[END]
+
+=== 18 | 20ef8 | 11 ===
+Illusion woods 5f[END]
+
+=== 19 | 22990 | 11 ===
+Illusion woods 6f[END]
+
+=== 1a | 24602 | 11 ===
+Illusion woods 7f[END]
+
+=== 1b | 26198 | 11 ===
+Illusion woods 8f[END]
+
+=== 1c | 277f0 | 11 ===
+Illusion woods 9f[END]
+
+=== 1d | 28f06 | 11 ===
+Illusion woods b1[END]
+
+=== 1e | 29990 | 11 ===
+Illusion woods b2[END]
+
+=== 1f | 2ab3a | 11 ===
+Illusion woods b3[END]
+
+=== 20 | 2bb82 | 11 ===
+Illusion woods b4[END]
+
+=== 21 | 2cc1c | 11 ===
+Illusion woods b5[END]
+
+=== 22 | 2e240 | a1 ===
+[POR02]
+Whoa! Check that out! This
+hole is so big, there's no
+way around it![BRK]
+
+...at least not for you
+guys. I can cross, but
+you're stuck.[BRK]
+
+We're gonna have to go back.[END]
+
+=== 23 | 2e2f4 | 86 ===
+[POR02]
+Hiro, this hole is just too
+far across. There's no way
+you're gonna get across.[BRK]
+
+[POR10]
+Wait a minute...maybe there
+is a way. Sit tight![END]
+
+=== 24 | 2e384 | 4c ===
+[POR10]
+There! That should be strong
+enough to act as a bridge.[BRK]
+
+Let's continue...[END]
+
+=== 25 | 2e3da | 11 ===
+Illusion woods b6[END]
+
+=== 26 | 2f4bc | 11 ===
+Illusion woods b7[END]
+
+=== 27 | 30720 | 11 ===
+Illusion woods b8[END]
+
+=== 28 | 317f2 | 11 ===
+Illusion woods b9[END]
+
+=== 29 | 32498 | 12 ===
+Illusion woods b10[END]
+

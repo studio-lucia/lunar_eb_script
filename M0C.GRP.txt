@@ -1,0 +1,280 @@
+File: M0C.GRP
+
+Messages: 20
+
+=== 0 | 14388 | 22 ===
+[POR02]
+Ohhhh nooooo, look! It's
+the...[END]
+
+=== 1 | 143b4 | 354 ===
+[POR09]
+I sincerely hope you enjoyed
+my little 'detour.'[BRK]
+
+Face it! You simpletons are
+no match for my superior
+intellect.[BRK]
+
+You can't escape the power
+of the dragonship destiny![BRK]
+
+Surrender now![BRK]
+
+[POR02]
+Hiro, he's right! We have
+no chance of surviving a
+blast from his ship![BRK]
+
+What are we going to do?[BRK]
+
+[POR08]
+I cannot surrender. I must
+accomplish my mission, so I
+must fight.[BRK]
+
+[POR05]
+If luck goes our way, we
+just might stand a chance.
+I'm willing to try![BRK]
+
+[POR10]
+I knew that following you
+guys was a mistake.[BRK]
+
+But not fighting now would
+be a bigger one.[BRK]
+
+I'm in.[BRK]
+
+[POR07]
+This situation looks bad all
+around, and i don't see how
+i'll profit from fighting.[BRK]
+
+Why don't we just surrender?[BRK]
+
+[POR09]
+Stop your little secret 
+conference and surrender to
+me immediately![BRK]
+
+My given task is to execute
+lucia before she destroys
+us all.[BRK]
+
+Know that i have the will
+and the resources to carry
+out that task...
+
+[END]
+
+=== 2 | 1470c | 14 ===
+[POR09]
+What the hell?!!![END]
+
+=== 3 | 14724 | 88 ===
+Ahhhh! The evil lucia
+is raining fire down
+upon us! Help![BRK]
+
+[POR09]
+You morons! There is no
+danger! Althena will
+protect us![BRK]
+
+You can't be hurt![END]
+
+=== 4 | 147b0 | 64 ===
+I guess lord leo was
+wrong.[BRK]
+
+..........fancy that.[BRK]
+
+[POR08]
+This magic is strong...
+could it be that......?[END]
+
+=== 5 | 14818 | a ===
+....
+.....[END]
+
+=== 6 | 14826 | 82 ===
+[POR08]
+It...it looked like...
+.....ghaleon![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR08]
+This doesn't make any sense.
+Why would he go out of his
+way to help us???[END]
+
+=== 7 | 148ac | 53 ===
+Lord leo has been badly
+injured! Quick, we must
+get him to safety![BRK]
+
+Retreat at once![END]
+
+=== 8 | 14908 | d5 ===
+[POR02]
+Hrmph! What was that all
+about?[BRK]
+
+This whole trip just keeps
+getting weirder and 
+weirder...[BRK]
+
+[POR05]
+Agreed! I don't know what
+the heck's goin' on anymore![BRK]
+
+Anyway, it's bought us some
+time. Let's take advantage
+of it.[END]
+
+=== 9 | 149e6 | e ===
+Madoria plains[END]
+
+=== a | 198bc | 22 ===
+[POR02]
+Ohhhh nooooo, look! It's
+the...[END]
+
+=== b | 198e8 | 354 ===
+[POR09]
+I sincerely hope you enjoyed
+my little 'detour.'[BRK]
+
+Face it! You simpletons are
+no match for my superior
+intellect.[BRK]
+
+You can't escape the power
+of the dragonship destiny![BRK]
+
+Surrender now![BRK]
+
+[POR02]
+Hiro, he's right! We have
+no chance of surviving a
+blast from his ship![BRK]
+
+What are we going to do?[BRK]
+
+[POR08]
+I cannot surrender. I must
+accomplish my mission, so I
+must fight.[BRK]
+
+[POR05]
+If luck goes our way, we
+just might stand a chance.
+I'm willing to try![BRK]
+
+[POR10]
+I knew that following you
+guys was a mistake.[BRK]
+
+But not fighting now would
+be a bigger one.[BRK]
+
+I'm in.[BRK]
+
+[POR07]
+This situation looks bad all
+around, and i don't see how
+i'll profit from fighting.[BRK]
+
+Why don't we just surrender?[BRK]
+
+[POR09]
+Stop your little secret 
+conference and surrender to
+me immediately![BRK]
+
+My given task is to execute
+lucia before she destroys
+us all.[BRK]
+
+Know that i have the will
+and the resources to carry
+out that task...
+
+[END]
+
+=== c | 19c40 | 14 ===
+[POR09]
+What the hell?!!![END]
+
+=== d | 19c58 | 88 ===
+Ahhhh! The evil lucia
+is raining fire down
+upon us! Help![BRK]
+
+[POR09]
+You morons! There is no
+danger! Althena will
+protect us![BRK]
+
+You can't be hurt![END]
+
+=== e | 19ce4 | 64 ===
+I guess lord leo was
+wrong.[BRK]
+
+..........fancy that.[BRK]
+
+[POR08]
+This magic is strong...
+could it be that......?[END]
+
+=== f | 19d4c | a ===
+....
+.....[END]
+
+=== 10 | 19d5a | 82 ===
+[POR08]
+It...it looked like...
+.....ghaleon![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR08]
+This doesn't make any sense.
+Why would he go out of his
+way to help us???[END]
+
+=== 11 | 19de0 | 53 ===
+Lord leo has been badly
+injured! Quick, we must
+get him to safety![BRK]
+
+Retreat at once![END]
+
+=== 12 | 19e3c | d5 ===
+[POR02]
+Hrmph! What was that all
+about?[BRK]
+
+This whole trip just keeps
+getting weirder and 
+weirder...[BRK]
+
+[POR05]
+Agreed! I don't know what
+the heck's goin' on anymore![BRK]
+
+Anyway, it's bought us some
+time. Let's take advantage
+of it.[END]
+
+=== 13 | 19f1a | e ===
+Madoria plains[END]
+

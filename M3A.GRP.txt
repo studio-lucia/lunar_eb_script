@@ -1,0 +1,419 @@
+File: M3A.GRP
+
+Messages: 22
+
+=== 0 | 17906 | 3a ===
+[POR02]
+Nope. We're not getting in
+this way.[BRK]
+
+The door's locked.[END]
+
+=== 1 | 17954 | 14d ===
+[POR17]
+Well, well! If it isn't
+my dear lemina![BRK]
+
+You're the last person I
+would have expected to
+see in pentagulia.[BRK]
+
+[POR00]
+[ROR07]
+Shut up, you overweight
+toad![BRK]
+
+I'm tired of listening to
+your trite speeches.[BRK]
+
+I have two reasons for being
+here. The first is to rescue
+my mother.[BRK]
+
+And the second is to make
+sure that you never again
+set foot in vane...[END]
+
+=== 2 | 17ac0 | 7d ===
+Borgan is the most powerful
+wizard that's ever existed.[BRK]
+
+He's created an entirely new
+magic city that is far
+better than vane![END]
+
+=== 3 | 17b50 | 52 ===
+We are already preparing to
+recognize borgan as the new
+leader of the magic guild.[END]
+
+=== 4 | 17bb2 | 74 ===
+Lord borgan is the rightful
+leader of the magic guild.[BRK]
+
+He's more interested in vane
+than that money-grubbing
+lemina.[END]
+
+=== 5 | 17c3a | 94 ===
+Even though borgan is as 
+ugly as a festering boil,[BRK]
+
+lady miria has fallen in 
+love with him. [BRK]
+
+....
+.....[BRK]
+
+Honestly...i don't know
+how she does it...
+[END]
+
+=== 6 | 17cde | d1 ===
+Halt![BRK]
+
+...wait![BRK]
+
+Aren't you...??[BRK]
+
+Yes! Yes! We met in vane.
+Don't you remember me?[BRK]
+
+...you must remember me. I
+was walking around, and we
+made eye contact...[BRK]
+
+I even said 'hi' to you![BRK]
+
+Come on! You must remember
+me![END]
+
+=== 7 | 17dc2 | 6d ===
+You know, you can't keep
+running away from me![BRK]
+
+I know we met. Just admit
+that you saw me. That's all
+i ask...[END]
+
+=== 8 | 17e3e | a0 ===
+Since borgan has the power
+of the black dragon, he's
+become invincible, i think.[BRK]
+
+Only two people have more
+power than him...[BRK]
+
+...althena and ghaleon.
+
+
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 9 | 17ef2 | 79 ===
+With the power of the black
+dragon, borgan will never
+be defeated.[BRK]
+
+He's definitely become the
+best magician in the world.[END]
+
+=== a | 17f70 | e ===
+Black tower 1f[END]
+
+=== b | 187e8 | e ===
+Black tower 2f[END]
+
+=== c | 1904e | e ===
+Black tower 3f[END]
+
+=== d | 198bc | e ===
+Black tower 4f[END]
+
+=== e | 1a134 | 2b9 ===
+[POR09]
+I overheard your
+conversation.[BRK]
+
+Something very sinister is
+going on around here, and
+i don't like it.[BRK]
+
+I'm beginning to think I
+have been duped into being
+part of some evil plan![BRK]
+
+I must find out what the
+true intentions of althena
+are.[BRK]
+
+Perhaps if we work together,
+we can solve this mystery.[BRK]
+
+In any case, we must first
+find lucia and hear her
+story.[BRK]
+
+She's being held in the
+shrine on the second floor
+of althena's tower.[BRK]
+
+We can get to the shrine
+by means of a secret passage
+below these towers.[BRK]
+
+Let's go![BRK]
+
+[POR05]
+....
+.....[BRK]
+
+...did you tire of the mask,
+friend? [BRK]
+
+[POR09]
+What are you talking about?[BRK]
+
+I know nothing of a mask,
+ronfar.[BRK]
+
+I have no time for games.[BRK]
+
+Your precious lucia's life
+hangs in the balance.[END]
+
+=== f | 1a3fc | e ===
+Black tower 5f[END]
+
+=== 10 | 1ac78 | 20e ===
+[POR07]
+Whew! Talk about mega-nick-
+of-time![BRK]
+
+I didn't know if you guys
+were even still alive![BRK]
+
+....
+.....[BRK]
+
+...hey! Who's the party
+dude in the mask?[BRK]
+
+[POR02]
+Funny you should ask...[BRK]
+
+We're playing a little game.[BRK]
+
+Lord leo has decided to play
+this part called 'mystere',
+and we're playing along.[BRK]
+
+We're not supposed to know
+who he is...but he's helping
+us...i think...[BRK]
+
+[POR07]
+Whatever floats his boat.[BRK]
+
+Anyway, i can't believe what
+that stupid borgan did.[BRK]
+
+...i'll never forgive him! 
+I hope he chokes on all the
+food he eats!![BRK]
+
+Get a load of this...[END]
+
+=== 11 | 1ae94 | 70e ===
+[POR17]
+Well, well! If it isn't
+my dear lemina![BRK]
+
+You're the last person I
+would have expected to
+see in pentagulia.[BRK]
+
+[POR00]
+[ROR07]
+Shut up, you overweight
+toad![BRK]
+
+I'm tired of listening to
+your trite speeches.[BRK]
+
+I have two reasons for being
+here. The first is to rescue
+my mother.[BRK]
+
+And the second is to make
+sure that you never again
+set foot in vane![BRK]
+
+[ROR00]
+[POR17]
+I find your manner so...
+i don't know...delicious.[BRK]
+
+You're always hell-bent on
+changing others.[BRK]
+
+Perhaps you should consider
+changing yourself![BRK]
+
+Besides, your mother is no
+longer in pentagulia.[BRK]
+
+She's busy making a new 
+home for us in neo-vane,
+my illustrious magic city.[BRK]
+
+[POR00]
+[ROR07]
+Neo-vane!?[BRK]
+
+[ROR00]
+[POR17]
+Yes, that's right. Neo-vane,
+cupcake![BRK]
+
+And, surprise of surprises,
+she loves it![BRK]
+
+But why shouldn't she? Her
+surroundings are those of a
+queen.[BRK]
+
+I have given her the finest
+of everything in this world![BRK]
+
+And all i ask is that she
+grow to love me.[BRK]
+
+Despite what you think, it
+can be done.[BRK]
+
+If you try hard enough, i'm
+certain you can do the same.[BRK]
+
+I'll think of you as the
+daughter i never had.[BRK]
+
+[POR00]
+[ROR07]
+...daughter!?[BRK]
+
+[ROR00]
+[POR17]
+Yes! Soon miria will agree
+to be my wife. I can feel
+it![BRK]
+
+After miria and i are 
+united,[BRK]
+
+your ability to revive the
+magic guild of vane will
+be forever sealed.[BRK]
+
+I'm afraid you don't stand
+a chance of stopping me,
+cream-puff.[BRK]
+
+[POR00]
+[ROR07]
+I won't allow you to do
+this![BRK]
+
+[ROR00]
+[POR17]
+I'd suggest you get a handle
+on your emotions, sweetie.[BRK]
+
+Soon, the only words you'll 
+utter will be those of a
+loyal daughter...[BRK]
+
+When zophar is revived, the
+power of neo-vane will
+finally be...[BRK]
+
+...oops. I almost let the
+cat out of the bag.[BRK]
+
+I can't let you in on that
+little secret until we're
+back in neo-vane.[BRK]
+
+Believe me, poopsie, you'll
+feel right at home...[BRK]
+
+But since you seem a little
+adverse to the idea right
+now,[BRK]
+
+i'd better put you in a
+holding cell.[BRK]
+
+Sweet dreams...[BRK]
+
+...............daughter!
+
+
+[END]
+
+=== 12 | 1b5b2 | 8b ===
+[POR07]
+There is no way that i'm
+going back to neo-vane
+with that bucket of lard![BRK]
+
+We've got to find a way out
+of here so i can rescue my
+mother![END]
+
+=== 13 | 1b654 | 66 ===
+[POR13]
+You're all reunited. My
+job is finished.[BRK]
+
+Good luck! And remember
+always...[BRK]
+
+...............mystere!
+[END]
+
+=== 14 | 1b6c4 | 144 ===
+[POR02]
+Thank you, mystere.[BRK]
+
+...i can't believe leo 
+thinks he's really fooling
+us with that mask.[BRK]
+
+[POR05]
+Ruby, if leo helped us 
+without using some sort of
+disguise...[BRK]
+
+It could very well have cost
+him and others their lives.[BRK]
+
+Leo has pledged his 
+allegiance to the althena 
+cult.[BRK]
+
+For now, this is probably
+the only way he can help
+us.[END]
+
+=== 15 | 1b83e | e ===
+Black tower 6f[END]
+

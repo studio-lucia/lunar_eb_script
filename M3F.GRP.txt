@@ -1,0 +1,124 @@
+File: M3F.GRP
+
+Messages: 4
+
+=== 0 | eccc | 51 ===
+[POR02]
+Forget it![BRK]
+
+There's no way we're gonna
+break this barrier without
+dragonpower.
+[END]
+
+=== 1 | ed88 | 3d7 ===
+[POR02]
+What are you waiting for,
+lucia? Pentagulia awaits.[BRK]
+
+Now you can finish the
+mission that cost you your
+only true friend.[BRK]
+
+[POR08]
+Yes, my mission nears its
+end.[BRK]
+
+But instead of joy, all
+i feel is pain...[BRK]
+
+As if a burning knife twists
+within my heart, scraping
+away my soul, my life...[BRK]
+
+.....
+......[BRK]
+
+[POR02]
+Well, duh![BRK]
+
+Your pain is because you've
+abandoned hiro.[BRK]
+
+It's your choice: antacids
+and guilt forever, or turn
+around now and rescue hiro.[BRK]
+
+[POR08]
+But if i don't go to penta-
+gulia now, zophar will take
+control and the world will--[BRK]
+
+[POR02]
+Will what? Explode? Implode?
+Turn into a giant tin of
+sardines?[BRK]
+
+C'mon, lucia! You're placing
+true love on the altar of
+trust and spitting on it![BRK]
+
+Show a little respect! You
+know what's right, so just
+do it![BRK]
+
+[POR08]
+You don't understand...
+the danger is...[BRK]
+
+[POR02]
+...still gonna be there when
+we get back, so let's go
+revive hiro now![BRK]
+
+[POR08]
+Oh, ruby, i hope hiro knows
+what a true friend you are.[BRK]
+
+All right, let's go to
+the blue spire so i can
+resurrect hiro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[END]
+
+=== 2 | f17e | 14b ===
+[POR10]
+Oouuhh, i can feel the evil
+coursing through this place.
+Zophar is here. I know it.[BRK]
+
+[POR05]
+But are you sure? Is it
+possible that he's already
+revived?[BRK]
+
+[POR08]
+Not completely. We may still
+have time, if we can find
+althena.[BRK]
+
+But first we must summon
+the dragons to help destroy
+the barrier.[BRK]
+
+That will open the way to
+the goddess tower...
+
+[END]
+
+=== 3 | f2e2 | 9 ===
+Minea sea[END]
+

@@ -1,0 +1,140 @@
+File: M43.GRP
+
+Messages: 7
+
+=== 0 | 1a35a | 86 ===
+[POR02]
+Uh...oh...trouble![BRK]
+
+The spire guardians have
+come to life![BRK]
+
+What are we going to do,
+hiro? We can't beat three
+more of these things!
+[END]
+
+=== 1 | 1a3fc | 4d ===
+[POR09]
+Ha! Those guardians are no
+match for the power of the
+dragonship destiny!
+[END]
+
+=== 2 | 1a44c | 2e3 ===
+[POR09]
+With the goddess althena
+providing the power, this
+ship is invin...[BRK]
+
+But i have better things
+to do than brag about my
+ship.[BRK]
+
+Althena has sent me to
+capture a destroyer that
+has come to our world.[BRK]
+
+And i don't intend to let
+her down![BRK]
+
+[POR04]
+I still don't see how or
+why a destroyer would
+come here...[BRK]
+
+[POR08]
+....
+.....[BRK]
+
+[POR04]
+N-no...it's not right...
+...it must be some sort
+of mistake...[BRK]
+
+[POR09]
+You have no authority to
+doubt me, old man.[BRK]
+
+This destroyer i'm looking
+for is in that tower...i'd
+bet my life on it.[BRK]
+
+It's my job to smoke it
+out and deliver it to
+althena.[BRK]
+
+And if it resists, althena
+has given me authority to
+eradicate it.[BRK]
+
+You're out of your league
+here. Just go home.[BRK]
+
+[POR02]
+Of all the...i can't believe
+how rude he is! He works for
+althena?
+
+
+
+
+[END]
+
+=== 3 | 1a74a | 22 ===
+[POR09]
+Say, hiro, who's the lady?
+
+
+
+
+[END]
+
+=== 4 | 1a770 | 159 ===
+[POR09]
+Hmmm...you're wearing a
+strange dress of red cloth.
+I've never seen its equal.[BRK]
+
+And you seem to be sick...
+...what has made you weak,
+girl?[BRK]
+
+[POR02]
+It was a monster in the
+depths of the tower! It
+attacked her![BRK]
+
+We barely escaped. If you
+hurry, you may catch it![BRK]
+
+[POR09]
+Ha! Exactly as i suspected!
+The destroyer is in the
+tower![BRK]
+
+C'mon, men, let's go...
+
+[END]
+
+=== 5 | 1a8cc | ee ===
+[POR02]
+He he he! He fell for it![BRK]
+
+That was close...[BRK]
+
+[POR04]
+Hurry, kids, we must get
+lucia back to the house.
+She's weakening...[BRK]
+
+Maybe then she can tell us
+exactly why she needs to
+see althena...[BRK]
+
+And more importantly, how
+she expects to find her...[END]
+
+=== 6 | 1a9c4 | 13 ===
+Blue spire entrance[END]
+

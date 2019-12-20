@@ -1,0 +1,7 @@
+File: M3E.GRP
+
+Messages: 1
+
+=== 0 | e450 | 12 ===
+Katarina zone west[END]
+

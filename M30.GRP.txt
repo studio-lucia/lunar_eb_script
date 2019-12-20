@@ -1,0 +1,252 @@
+File: M30.GRP
+
+Messages: 16
+
+=== 0 | 1374c | 2e3 ===
+[POR07]
+In fact, right now the guild
+membership is just being
+expanded.[BRK]
+
+If you join right now,
+you'll be charter members![BRK]
+
+And you'll also become part
+of the rich history and 
+tradition of vane.[BRK]
+
+So, what do you think? Do
+you want to join the magic
+guild?[BRK]
+
+[POR02]
+It sounds really nice, but
+we're really in a hurry. We
+have a quest to finish...[BRK]
+
+[POR07]
+Oh, don't say that! At least
+say you'll think about it.[BRK]
+
+Please! Please! Please![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR07]
+Well then, if you finish
+this quest faster, you can
+join the guild![BRK]
+
+So, i'll tell you what: i'll
+go with you to speed up this
+little quest of yours.[BRK]
+
+I'm sure you can use an
+extra hand, especially one
+skilled in magic![BRK]
+
+[POR02]
+B-b...but we didn't ask you
+to...[BRK]
+
+[POR07]
+Oh pooh! Just shush up and
+let's get moving!
+
+
+
+[END]
+
+=== 1 | 13a3e | 299 ===
+[POR07]
+I hope that once we finish
+your quest, you'll join the
+guild.[BRK]
+
+I'll do my best to speed
+things along. Just think
+about it, okay?[BRK]
+
+[POR02]
+Don't you think you're being
+a little...er...pushy?[BRK]
+
+[POR08]
+This magic guild sounds
+quite enchanting...[BRK]
+
+[POR02]
+Watch it, lucia. This girl
+sounds desperate. If you say
+any more,[BRK]
+
+you'll probably find
+yourself hog-tied and being
+dragged to this magic city.[BRK]
+
+[POR05]
+Oh, c'mon, ruby! She's not
+that bad! And besides, we
+could use her in battle![BRK]
+
+[POR10]
+Okay, ronfar! That's enough!
+She's off-limits to you![BRK]
+
+[POR05]
+Hey! I wasn't thinking
+anything but pure thoughts![BRK]
+
+[POR02]
+Pure what? Lust? [BRK]
+
+[POR07]
+Are we gonna talk or are we
+gonna move? Time's slipping
+by! Let's go!
+[END]
+
+=== 2 | 13cdc | 11 ===
+Ghost manor attic[END]
+
+=== 3 | 149aa | 44 ===
+[POR02]
+Whoooo! I'm getting the
+creepy feeling we're not
+alone in here...[END]
+
+=== 4 | 14a0a | 80 ===
+           Bang![BRK]
+
+[POR02]
+W-what was that?[BRK]
+
+[POR05]
+It sounded like a door
+slamming open or shut.[BRK]
+
+[POR02]
+D-do you think it was a
+...a...ghost?
+
+[END]
+
+=== 5 | 14aa6 | 90 ===
+           Bang![BRK]
+
+[POR02]
+There it is again! Now that
+i think about it, it's
+probably not a ghost...[BRK]
+
+They wouldn't be using a
+door...w-would they?
+
+
+
+[END]
+
+=== 6 | 14b56 | 101 ===
+Whooooo hooo hooo hoo! Wind
+shriek sharply to pass my
+test...[BRK]
+
+...shriek.....sharply...![BRK]
+
+[POR02]
+That...sounded...like...a
+...g-g...ghost![BRK]
+
+[POR00]
+Wind...wind...wind! Mark
+and remember......whoooooo![BRK]
+
+[POR02]
+W...w-w-what is he talking
+about? L-let's get out of
+here!
+
+
+
+
+
+
+[END]
+
+=== 7 | 14c7e | ac ===
+Wind...wind...wind! Send
+forth your power...[BRK]
+
+[POR02]
+I-i...wish that ghost would
+stop that! What is it
+talking about?[BRK]
+
+And why is it talking to
+us?!! I'm completely creeped
+out!
+[END]
+
+=== 8 | 14d4e | 9d ===
+Close the shutters and open
+the door to opportunity...
+...whoooooo![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR05]
+Shutters? What shutters?[BRK]
+
+Hello?!! For a ghost, you
+sure are vague! Geez![END]
+
+=== 9 | 14e16 | bc ===
+Make dark the window of
+the soul to create your
+opportunity...[BRK]
+
+[POR05]
+There it is again! What the
+heck is that creepy thing
+getting at??[BRK]
+
+Wait...hmm...window of the
+soul...doesn't that mean...?[END]
+
+=== a | 14ef6 | 75 ===
+Dancer...dancer, light on
+your feet...you hold the
+key to salvation...[BRK]
+
+[POR10]
+Feet? Salvation? It doesn't
+make any sense![END]
+
+=== b | 14f96 | 8a ===
+All will be revealed if you
+search out your heart.[BRK]
+
+The key unique lies within
+your soul...find it![BRK]
+
+[POR10]
+Don't taunt us! Tell us the
+answer!
+[END]
+
+=== c | 1502a | 11 ===
+Ghost manor lobby[END]
+
+=== d | 15ef0 | a ===
+Manor exit[END]
+
+=== e | 16668 | 10 ===
+Manor hall to 1f[END]
+
+=== f | 16c5c | 10 ===
+Manor hall to 2f[END]
+

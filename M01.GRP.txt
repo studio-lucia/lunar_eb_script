@@ -1,0 +1,3706 @@
+File: M01.GRP
+
+Messages: 352
+
+=== 0 | ea7e | c8 ===
+Ronfar:
+i came to talk to you,
+but nobody was home.[BRK]
+
+I'll come back after
+i finish work... 
+                  lm[BRK]
+
+[POR02]
+See! The letter says
+'ronfar!' I was sure this
+was his house...[BRK]
+
+I wonder where he is?[END]
+
+=== 1 | eb62 | e6 ===
+Hello there, kiddies! You've
+wandered a long way from
+home to end up here![BRK]
+
+Larpa's a great town, but
+it's crawlin' with 
+criminals, so be careful.[BRK]
+
+In fact, you might want to
+explore dalton, to the west,
+instead. It's much safer...[END]
+
+=== 2 | ec5c | 83 ===
+These freakin' soldiers
+have no business bein'
+here.[BRK]
+
+Everyone in larpa is a 
+shyster, so who are they
+protectin' us from, anyway?
+
+[END]
+
+=== 3 | ecf2 | 81 ===
+You're lookin' for a girl?[BRK]
+
+Well, larpa is not a good
+place for a nice girl to
+be lost...[BRK]
+
+Hope ya find her...[BRK]
+
+.......in one piece.[END]
+
+=== 4 | ed82 | 69 ===
+Ya know, even though this
+joint is crawlin' with
+seedy types...[BRK]
+
+...it kinda grows on ya
+after a while...
+[END]
+
+=== 5 | edfe | 8f ===
+We of althena's elite
+guard are looking for a
+strange girl...[BRK]
+
+Say...you look suspicious!
+Her name's lucia. She's not
+a friend of yours, is she?[END]
+
+=== 6 | eea0 | 7b ===
+Stand back now! You're not
+going anywhere, punks.[BRK]
+
+We're under direct orders
+from lord leo not to let
+anyone suspicious out![END]
+
+=== 7 | ef32 | 72 ===
+There is a destroyer
+disguised as a little girl
+somewhere near here.[BRK]
+
+If you see anything
+suspicious, just call us.[END]
+
+=== 8 | efbc | 9f ===
+Hmmmm...a strange girl.
+Say, miss...[BRK]
+
+[POR02]
+We, uh, we were just
+leavin'. Nice talkin'
+to ya...[BRK]
+
+[POR00]
+Well, geez! Sure, go ahead!
+...just blow me off. Lousy
+brats...
+[END]
+
+=== 9 | f074 | 5f ===
+Ronfar? You're looking for
+that miserable dog ronfar?[BRK]
+
+That low-life cheated me
+out of my house![END]
+
+=== a | f0d6 | 6a ===
+I had the best view in all
+western larpa![BRK]
+
+But that shameless pig 
+tricked me into wagering
+my whole house![END]
+
+=== b | f158 | 9c ===
+That dirtbag ronfar always
+talks about how he used to
+be a priest.[BRK]
+
+Priest, my butt! If he was a
+priest, he'd have some com-
+passion and return my house!
+
+
+
+[END]
+
+=== c | f208 | 9f ===
+Althena's guards try to keep
+us from gambling because
+it's bad for our souls...[BRK]
+
+...or so they say.
+Actually, we don't believe
+them.[BRK]
+
+...we just play in secret!
+[END]
+
+=== d | f2c4 | 79 ===
+Are you looking for the
+weird girl with the cool
+red gown?[BRK]
+
+I think she was the one I
+saw caressing the grass and
+flowers.[END]
+
+=== e | f340 | 4d ===
+The girl was staring at the
+flowers like she'd never
+seen one! What a kook...[END]
+
+=== f | f3a4 | 3e ===
+I'll never give up hope!
+I will win my house back.
+You'll see![END]
+
+=== 10 | f3f0 | 112 ===
+I think maybe i'll start
+a chapter of unrealistic
+gamblers anonymous.[BRK]
+
+Let's make this our first
+meeting. I'll start.[BRK]
+
+Okay...my name is muerte,
+and i'm a gamblaholic. Pity
+me, and return my losses.[BRK]
+
+[POR02]
+Oh, no! You're not draggin'
+us into this mess! C'ya, ya
+big retarded lug.
+[END]
+
+=== 11 | f510 | aa ===
+[POR05]
+Wah haa haa! Sorry, old guy!
+I ain't fallin' for that
+trick![BRK]
+
+It's the oldest trick in
+my book. Nope, i ain't 
+bitin', chumpy.[BRK]
+
+The house is still mine,
+fair and square![END]
+
+=== 12 | f5d2 | 82 ===
+I will get that house back!
+In fact, i'm training to
+be the world's best cheat![BRK]
+
+It's the only way you can
+win against that dynamo![END]
+
+=== 13 | f662 | c0 ===
+Just you wait, ronfar! I've
+learned enough tricks to win
+back my house![BRK]
+
+[POR02]
+Shee! Give it up, already!
+Ronfar is a much better
+cheat than you'll ever be![BRK]
+
+[POR00]
+You won't be gettin' the
+house back![END]
+
+=== 14 | f73a | 31 ===
+Oh, look! It's the famous
+house-stealer of larpa![END]
+
+=== 15 | f778 | 76 ===
+[POR05]
+I didn't steal anything,
+chumpo. I won your house
+fair and square![BRK]
+
+Get over it and move on with
+your pathetic life![END]
+
+=== 16 | f806 | a5 ===
+Aaachoo! When ronfar gets
+back to his house,[BRK]
+
+he's gotta find a way to
+stop my cold![BRK]
+
+This sneezing and itching
+in my eyes is driving me
+insane![BRK]
+
+Aaa, aaa, aaaaachoooo![END]
+
+=== 17 | f8c2 | 46 ===
+Oh...oh...nooooo....
+aaa...aah...ronfar...
+...aachoooooooooooooo!
+
+
+
+
+[END]
+
+=== 18 | f91c | 87 ===
+Hooo doggie! I'm plumb beat!
+I...wish...i...could...sit![BRK]
+
+Some stinking bozo stuck
+liniment in my underpants![BRK]
+
+I'm on fire! Ouh eee ahh!
+[END]
+
+=== 19 | f9ba | 97 ===
+If i catch the prankster
+that stuck this goop in my
+shorts, i'll kill him![BRK]
+
+I have a...sneaking...idea
+it was ronfar! Ahhhh! I'll
+wring...his...neckkkk![END]
+
+=== 1a | fa60 | 123 ===
+Noooo, i'm not ronfar. Too
+bad, too. That guy's got
+all the luck![BRK]
+
+You're not from the tax
+board, are you?[BRK]
+
+[POR02]
+Duh! Do we look like we're
+from the tax board, 
+einstein?[BRK]
+
+[POR00]
+Well, okay, then. If you're
+lookin for ronfar, he's
+probably at the bar.[BRK]
+
+You know...gambling. Try
+looking for him there.
+[END]
+
+=== 1b | fb9a | cf ===
+I thought you were looking
+for ronfar? I told you he
+was at the bar...[BRK]
+
+...what are you doin' back
+here again?[BRK]
+
+[POR02]
+Hey, dipwad! We had to check
+out your story, ok? We're
+not amateurs, ya know![BRK]
+
+Let's go, hiro!
+[END]
+
+=== 1c | fc7c | 6e ===
+Lord leo was the last person
+we'll see today. If you need
+to do sanctuary business,[BRK]
+
+please come back tomorrow.[END]
+
+=== 1d | fcfe | 17d ===
+[POR05]
+Well, this is it! Home,
+sweet home![BRK]
+
+The girl's inside. Come on
+in...[BRK]
+
+Well now! What do we have
+here...[BRK]
+
+[POR00]
+Ronfar:
+i came to talk to you,
+but nobody was home.[BRK]
+
+I'll come back after
+i finish work... 
+                  lm[BRK]
+
+[POR05]
+Hmmm. This is certainly a
+blast from the past. Wonder
+when he's coming back?[BRK]
+
+Oh well, i ain't losin' any
+sleep over it. Come on in.
+I'll show you the girl...[END]
+
+=== 1e | fe8e | d ===
+[POR05]
+....
+.....[END]
+
+=== 1f | fea8 | 39 ===
+[POR02]
+Hmm, i wonder who 'lm' is?
+We'd better stick around...[END]
+
+=== 20 | fef8 | 7c ===
+[POR02]
+Lucia! We finally found you!
+You should have never left
+us![BRK]
+
+Hiro and i were worried
+sick![BRK]
+
+...but you do look much
+better.[END]
+
+=== 21 | ff8c | 148 ===
+[POR02]
+Is that a good-bye? It
+sounded just like a
+good-bye...[BRK]
+
+Where do you think you're
+going, missy?[BRK]
+
+[POR08]
+Pentagulia. The holy city.[BRK]
+
+I've learned that i can get
+to althena's city by means
+of dalton.[BRK]
+
+So that is where my task
+will lead me...[BRK]
+
+[POR02]
+Phoo! Dalton![BRK]
+
+[POR08]
+Good-bye, hiro and ruby.
+Thank gwyn and ronfar for
+me.[BRK]
+
+[POR02]
+B...but lucia!
+[END]
+
+=== 22 | 100de | 89 ===
+[POR02]
+Sh-she's gone, hiro.[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR02]
+C'mon. At least we know
+she's okay. Let's go back
+to grandpa's house.[BRK]
+
+He must be worried by now.[END]
+
+=== 23 | 1017e | 10 ===
+[POR05]
+Hey...hiro!
+
+[END]
+
+=== 24 | 10198 | 1fb ===
+[POR05]
+Hey there! Just you and your
+funny cat? Where's the
+honey pot?[BRK]
+
+The villagers are all talkin
+'bout her, so she must be
+around here somewhere.[BRK]
+
+[POR02]
+She went to dalton.[BRK]
+
+[POR05]
+Dalton?![BRK]
+
+Now, why'd she go and do a
+dumb thing like that? The
+destiny's anchored there![BRK]
+
+Leo's gotta be waiting for
+her to walk into his trap![BRK]
+
+[POR02]
+Oh no! Hiro, what are we
+gonna do now? Lucia's in
+danger for sure![BRK]
+
+[POR05]
+I guess i'm part of this
+little mess now.[BRK]
+
+Tell you what. I'll go with
+you to dalton to see if I
+can't straighten this out.[END]
+
+=== 25 | 103ac | e0 ===
+Hey...hey...i don't know
+about that...stop talking
+to me! Get outta my head![BRK]
+
+I don't wanna gamble against
+ronfar again...shut up! Get
+outta there, i said![BRK]
+
+He used to be a priest! He
+knows unholy tricks!...get
+off me...ahhh!
+[END]
+
+=== 26 | 104a0 | e7 ===
+R...ronfar! It's you! H-how
+did you know to come?...shut
+up! I can handle this...[BRK]
+
+[POR05]
+Say there, fella, have we
+met? Can't say that I
+remember ya.[BRK]
+
+But i think a little
+lithium might be just the
+ticket for ya.[BRK]
+
+...check it out, bud.
+
+[END]
+
+=== 27 | 1059e | ce ===
+Yeah, there was a girl with
+a red gown that came through
+here....stop it! Right now![BRK]
+
+...she was asking all sorts
+of...get off him, idiot!...
+strange questions.[BRK]
+
+I say the chick's kinda
+nuts, if you ask me...[END]
+
+=== 28 | 10688 | 45 ===
+Lucia was the girl's name.
+...yes, bat breath! I know
+who they are...[END]
+
+=== 29 | 106e0 | 53 ===
+That nutty girl named...hey!
+Who's in charge here?!!...
+lucia went toward the pier.[END]
+
+=== 2a | 1074a | 119 ===
+Hey, mister. Ya got a little
+change? I gotta buy some uh
+that lithium...[BRK]
+
+These voices are....i saaaid
+shuuutt up!...driving me
+completely insane![BRK]
+
+Ya got any spare change?[BRK]
+
+[POR05]
+Nope. Can't say that i do.
+Try the free clinic, bud.[BRK]
+
+The goddess helps those that
+help themselves, ya know.[END]
+
+=== 2b | 1087a | aa ===
+Hey there! What happened to
+that ronfar guy?[BRK]
+
+Did he go back to gambling
+the...aah, i know, that,
+idiot!...day away?[BRK]
+
+I knew he would. That fellow
+is sick. He needs help...[END]
+
+=== 2c | 10934 | ee ===
+The other day i was walking
+by the lake and i heard this
+weird noise...[BRK]
+
+It was...[BRK]
+
+Shut up! I know what i'm
+doing!...[BRK]
+
+....it was sorta like
+garba garba goom goom...[BRK]
+
+...came from the direction
+of the dragon ruins. Kinda
+scary, if ya ask me.[END]
+
+=== 2d | 10a36 | af ===
+Hey there. Can ya lend a
+guy down on his luck 
+100 silver?[BRK]
+
+I got a foolproof tip on a
+horse in the seventh! It's
+gonna make me rich![BRK]
+
+I just need some money to
+place the bet...[END]
+
+=== 2e | 10afc | a0 ===
+Tell ya what...give me the
+100s and i'll pay you 1000s
+when my horse comes in![BRK]
+
+[POR02]
+C'mon, get real! We're not
+throwing our money away by
+giving it to some drunk![END]
+
+=== 2f | 10bb0 | 6c ===
+Those stupid priests of the
+sanctuary...what are they
+thinking?[BRK]
+
+The only destroyers here
+are the bookmakers.[END]
+
+=== 30 | 10c30 | cd ===
+Some strange girl just came
+by here. When i asked her
+for money, she just stared.[BRK]
+
+So i said 'you know, cash,
+silver, bread, dough, gravy, 
+wampum...?'[BRK]
+
+And all she did was stare.
+It gave me the creeps, man![END]
+
+=== 31 | 10d10 | 80 ===
+Hey...hey you! Come here.
+I've got a business
+proposition for ya...[BRK]
+
+If ya lend me 100s, i'll
+pay ya back 1000s with my
+winnings![END]
+
+=== 32 | 10d9e | 5f ===
+[POR05]
+What the heck are you
+talking about?[BRK]
+
+No gamble is a sure thing![BRK]
+
+...well, unless i'm playing.[END]
+
+=== 33 | 10e0c | 6b ===
+Damn! I lost the money I
+bet against you beating
+the boss![BRK]
+
+How are you going to make
+it up to me? Hmm? Hmm?[END]
+
+=== 34 | 10e84 | 4c ===
+[POR09]
+You pathetic fool! Start
+taking some responsibility
+for your own actions![END]
+
+=== 35 | 10ee0 | 75 ===
+Hello, adventurers! Welcome
+to larpa! Have you been to
+our fair city before?
+[0x5]Yes, you chiseler!
+No, can you help us?[END]
+
+=== 36 | 10f64 | 81 ===
+Ah, ha ha ha! Well then,
+you're on to my little
+tricks...[BRK]
+
+Keep it under your hat,
+okay? I think i see some
+new folk over there...[END]
+
+=== 37 | 10ff6 | 16a ===
+Oh, i'd be happy to show
+you the ropes.[BRK]
+
+The people of larpa are all
+fair and honest. They have
+come here from all over.[BRK]
+
+We have a long tradition of
+clean and wholesome life.[BRK]
+
+Visitors are required to pay
+a 1000s gift to the city.[BRK]
+
+The funds collected are used
+to care for the sick and
+aged.[BRK]
+
+I am the designated visitor
+fee collector. I'll happily
+accept your gift.[END]
+
+=== 38 | 11174 | 7b ===
+Once you've been to larpa,
+you'll never gamble any-
+place else.[BRK]
+
+Say, if you need any cash,
+i'll buy the flying cat
+for 10s![END]
+
+=== 39 | 11206 | cf ===
+Say, do you know that
+freaky chick in the red
+robe?[BRK]
+
+She's wandering around here
+talking about the blue star
+and some crisis...[BRK]
+
+The babe's completely out
+of touch with reality. Says
+some 'hiro' guy knows her.[END]
+
+=== 3a | 112f0 | 52 ===
+The blue star in crisis?
+I keep hearing about it, [BRK]
+
+but i don't know what it
+means.[END]
+
+=== 3b | 11356 | 8f ===
+They say that althena came
+from the blue star, but I
+don't believe it.[BRK]
+
+[POR02]
+You know, we're starting to
+think there's some truth
+to that rumor...[END]
+
+=== 3c | 113f4 | 7d ===
+If ya got any problems
+that need fixin', come
+to me.[BRK]
+
+My work is good, and my
+fees are just right! Only
+5000s a day! Ha ha ha![END]
+
+=== 3d | 1147e | 6f ===
+Sorry, folks, i'm off-duty.
+I got a few gamblin' dates
+to keep.[BRK]
+
+[POR02]
+Don't you ever get sick of
+gambling? Sheesh![END]
+
+=== 3e | 11504 | 94 ===
+Hooommhh, where are all the
+good men these days?[BRK]
+
+The only thing the boys
+around here want to do is
+gamble.[BRK]
+
+Well, i'm tellin' you, I
+have needs, too![END]
+
+=== 3f | 115b0 | 49 ===
+This town is nothing but
+a big never-never land for
+lost boys...pathetic![END]
+
+=== 40 | 11610 | bf ===
+Say there, ronfar, why
+don't you quit the gambling
+and settle down?[BRK]
+
+I could make it very worth
+your while, pumpkin...[BRK]
+
+[POR05]
+What?! Geez, uh, sorry.
+I don't need to settle
+down, little desperado.[END]
+
+=== 41 | 116ea | b5 ===
+C'mon, ronfar! I wanna
+have your baby.[BRK]
+
+Let's settle down and play
+house...[BRK]
+
+[POR05]
+Sorry, sugar bumps, i gotta
+be free. Can't tie my boat
+to only one dock, ya know.[BRK]
+
+Nothing personal.
+
+
+
+[END]
+
+=== 42 | 117b2 | 99 ===
+You just missed the show![BRK]
+
+Some girl came by here
+singing to herself and
+staring into the sky.[BRK]
+
+She seemed so innocent...
+and yet no one knew who
+she was.
+[END]
+
+=== 43 | 1185e | 41 ===
+Larpa is free, and the
+air is sweet today. It's
+good to be alive![END]
+
+=== 44 | 118ac | b8 ===
+Say, ronfar...i heard you
+gave up being a gambler.
+What happened?[BRK]
+
+[POR05]
+Heard wrong, sugar plum.
+I'm an unholy roller, with
+luck that won't quit![BRK]
+
+I ain't quittin' 'til i'm
+six feet under![END]
+
+=== 45 | 11978 | 5b ===
+Say, ronfar, have ya decided
+to settle down and play
+house?[BRK]
+
+I'm waiting for the day,
+hunky![END]
+
+=== 46 | 119e6 | 82 ===
+Well, it looks like your
+latest gamble turned out
+okay...you won your life![BRK]
+
+[POR05]
+Don't talk like that...
+you're making my back
+itch![END]
+
+=== 47 | 11a7c | b0 ===
+That sanctuary is to the
+goddess althena.[BRK]
+
+Some say that the end of 
+the world is at hand. I
+think they're right...[BRK]
+
+I don't know if even the
+goddess althena herself
+can save us![END]
+
+=== 48 | 11b44 | 37 ===
+You know, i'm not sure
+the goddess althena even
+exists.[END]
+
+=== 49 | 11b8e | 8e ===
+The sanctuary priests tell
+us that althena can save
+us from the world's end.[BRK]
+
+I don't really think the
+goddess even watches over
+us any more...[END]
+
+=== 4a | 11c34 | 79 ===
+The girl with the red
+robe?[BRK]
+
+Was that the one that looked
+so very sad?[BRK]
+
+It seemed like she had just
+lost her best friend...[END]
+
+=== 4b | 11cc8 | 65 ===
+If you hurry, maybe you can
+catch up to her and cheer
+her up.[BRK]
+
+[POR02]
+I just hope we can find
+her again...[END]
+
+=== 4c | 11d40 | 84 ===
+The people of larpa don't
+really like to have their
+actions dictated.[BRK]
+
+The priests of althena with
+their rules make many of
+them mad.[END]
+
+=== 4d | 11dde | a1 ===
+It's tough to get the
+people here to follow
+althena...[BRK]
+
+They don't want to give
+up their gambling...[BRK]
+
+And besides, the priests
+of althena are all crooked
+anyway...[END]
+
+=== 4e | 11e82 | 72 ===
+It's not like the people
+here don't like althena.[BRK]
+
+They just don't believe in
+anything except the power
+of chance.
+[END]
+
+=== 4f | 11f08 | 84 ===
+Say there, sweetie. You
+look like you're looking
+for someone. Need any help?
+[0x5]Yes, i'm looking for ronfar.
+No, i know my way around.[END]
+
+=== 50 | 11f9c | a0 ===
+Well, you won't find him in
+the sanctuary, that's for
+sure![BRK]
+
+He traded the cloth for the
+dice.[BRK]
+
+Check out the alleys and
+bars. The bum's probably in
+another game.[END]
+
+=== 51 | 1204c | 14 ===
+Well, suit yourself.[END]
+
+=== 52 | 12064 | 12 ===
+Good luck, then...[END]
+
+=== 53 | 1208e | 5b ===
+Man, if playing sick is all
+it takes to get ronfar's
+attention...[BRK]
+
+...then call me terminal![END]
+
+=== 54 | 12100 | 83 ===
+Ronfar! You've given up
+gambling! That's great![BRK]
+
+[POR05]
+Whoa there! I haven't given
+up anything. I just have
+some business to attend to.[END]
+
+=== 55 | 12196 | 3e ===
+The air is clear and the
+sun is bright.[BRK]
+
+It's good to be alive![END]
+
+=== 56 | 121e8 | d8 ===
+Starting another journey,
+ronfar, my dear?[BRK]
+
+[POR05]
+Yep! Now you behave while
+i'm gone. I want you nice
+and rested when i get back.[BRK]
+
+[POR02]
+What? So you can be your
+normal chauvinistic pig and
+give her a workout?[BRK]
+
+Oh, please...
+[END]
+
+=== 57 | 122d4 | e4 ===
+You know, just between you
+and me, the best looking
+man here is ronfar![BRK]
+
+He's just good enough to
+eat![BRK]
+
+And control! When the dice
+are in his hands, it's
+almost like magic![BRK]
+
+[POR02]
+Yeah, right...magic. I'm
+so impressed, i'm yawning...
+[END]
+
+=== 58 | 123d0 | ac ===
+Ohhh, ronfar, you're
+just the dreamiest...[BRK]
+
+Drop those dice and work
+your magic on me, baby.[BRK]
+
+[POR05]
+Well, honey bomb, winky says
+yes, but thinky says I
+gotta get to work. Sorry.[END]
+
+=== 59 | 12498 | 8f ===
+Oh ronfar, my knees are
+weak...[BRK]
+
+You little devil. You're
+working your magic on
+my heart...[BRK]
+
+[POR05]
+Hey...don't blame me if
+you're easy, sweetcheeks.[END]
+
+=== 5a | 1253e | 6e ===
+It's so maddening! I see
+ronfar every day,[BRK]
+
+but i can't get him to 
+commit to anything more
+than a cheap fling![END]
+
+=== 5b | 125c4 | bb ===
+Oh, ronfar, my heart is
+yours![BRK]
+
+[POR05]
+Are you still on that kick?
+I told you! I have a girl-
+friend now![BRK]
+
+...get it?[BRK]
+
+[POR00]
+Well then, let me be your
+dice. Lay your hands on
+these lucky bones...
+
+[END]
+
+=== 5c | 1268c | 44 ===
+[POR09]
+Ronfar! Father said you'd
+never change, and i guess
+he was right![END]
+
+=== 5d | 126ec | 47 ===
+Ronfar...sweetie...please
+reconsider. I could be your
+biggest win yet.
+[END]
+
+=== 5e | 1275a | 196 ===
+What in tarnation is that
+freaky red thing flapping
+over your shoulder, boy?[BRK]
+
+[POR02]
+Hey! Who you calling freaky,
+goober?![BRK]
+
+I'm a red dragon, and you 
+better show me some respect,
+or i'll toast your hide![BRK]
+
+[POR00]
+Wah haa hah! I didn't know
+red dragons were now coming
+in bite-sized packages![BRK]
+
+[POR02]
+Oh, really? Well have you
+ever seen a 'bite-sized'
+package do this?[BRK]
+
+[POR00]
+Ooooouuuuch![BRK]
+
+Hey! You burned me, you
+little runt!!![END]
+
+=== 5f | 1291c | b7 ===
+[POR02]
+Now then, what do you have
+to say for yourself, pig?[BRK]
+
+[POR00]
+Well, you can blow fire,
+all right, ya lousy furry
+lizard...[BRK]
+
+[POR02]
+What did you say?[BRK]
+
+[POR00]
+Oh...uh...nothing...[BRK]
+
+Nice day, huh?
+
+
+
+[END]
+
+=== 60 | 129fe | 4d ===
+Okay, okay, i got the point.
+The little one there can 
+blow fire...big whoop.[END]
+
+=== 61 | 12a5e | 120 ===
+A while ago, i was takin'
+a leak in that alley, and
+this girl came up to watch![BRK]
+
+Can you believe that? She
+just sat there staring!
+I was totally embarrassed![BRK]
+
+[POR02]
+That's what you get for
+leaking the lizard outside
+in a city, idiot![BRK]
+
+Didn't anyone ever show
+you how to use a toilet?
+...sheesh![END]
+
+=== 62 | 12b92 | ab ===
+Ya know, there's a circus
+around here that'd pay top
+dollar for your, uh, dragon.[BRK]
+
+[POR02]
+Hey, buster! Hiro would
+never sell me to be a circus
+sideshow freak![BRK]
+
+Uh, right, hiro?
+[END]
+
+=== 63 | 12c50 | 10c ===
+Ya know, i've heard that
+dragon toes are absolutely
+delicious.[BRK]
+
+You wouldn't be in the
+mood to spare a couple,
+would you?...i'll pay![BRK]
+
+[POR02]
+Are you kidding? I can't
+believe you asked that!
+Take this!!![BRK]
+
+[POR00]
+Ooooooooouuuuch![BRK]
+
+Hey! You burned me again,
+you little freak!!!
+
+
+
+
+[END]
+
+=== 64 | 12d74 | 6e ===
+N-n-now you just stay
+away from me! I don't
+want any more trouble![BRK]
+
+I'm still recovering from
+that last burn!
+
+[END]
+
+=== 65 | 12de8 | d ===
+Larpa village[END]
+
+=== 66 | 14b08 | 70 ===
+[POR09]
+I'll find that girl for the
+goddess, if it's the last
+thing i do![BRK]
+
+We won't allow her to ruin
+all we've built![END]
+
+=== 67 | 14ba4 | 9e ===
+Lord leo, you certainly
+look splendid today, if I
+might offer my opinion.[BRK]
+
+I don't usually say that
+to guys, you know...[BRK]
+
+You know...the oath, and all
+that...
+
+[END]
+
+=== 68 | 14c5d | 31 ===
+[0]P[0][0][0x3][0x10]
+n[0xC0][0xC0][BRK]
+
+[0][0][0]D[0x10][0]0&e[0][0xC0][BRK]
+
+[0][0][0]Dp[0][0xC0][0x4][0][0][0xC0][BRK]
+
+ [0xE]Gave 100s.
+
+[END]
+
+=== 69 | 14c82 | c ===
+Gave 100s.
+
+[END]
+
+=== 6a | 14cbc | 105 ===
+[POR05]
+Okay. Now then, everything
+is set to break the spell
+on lucia.[BRK]
+
+Goddess althena, hear my
+plea...take your holy light
+and cleanse this girl.[BRK]
+
+Loose the bonds that now
+bind the mind and heart of
+this tortured soul.[BRK]
+
+Shatter the darkness with
+rays of holy light!!![END]
+
+=== 6b | 14dca | dd ===
+[POR08]
+Uuu...aaaahhhh![BRK]
+
+[POR02]
+Ronfar! What's wrong? 
+Lucia's in agony![BRK]
+
+[POR05]
+This is impossible! The
+spell she's under is 
+stronger than...[BRK]
+
+....
+.....[BRK]
+
+I-i've never failed to 
+break a spell, except once
+when...[BRK]
+
+....mauri was sick...
+[END]
+
+=== 6c | 14eb0 | 92 ===
+[POR05]
+Ohhhh...yes! It...it worked![BRK]
+
+...sweet success at the
+hands of ronfar![BRK]
+
+It's not complete, but the
+main spell is broken. She'll
+just have to...
+
+[END]
+
+=== 6d | 14f4c | fc ===
+Oh! I didn't know anyone
+was still in here.[BRK]
+
+Yes, well, the sanctuary is
+closed for the day. Come 
+back tomorrow...[BRK]
+
+[POR05]
+No thanks, old man. I don't
+have any need to come back
+to this place.[BRK]
+
+Lucia, you can rest at my 
+house with your friends. 
+Let's go...[END]
+
+=== 6e | 15066 | 39 ===
+Are you still trying to
+break the curse on the
+poor girl?[END]
+
+=== 6f | 150a2 | 60 ===
+The goddess is good to those
+that serve her well...[BRK]
+
+[POR02]
+Especially if they donate in
+cash, right?[END]
+
+=== 70 | 1511a | 5e ===
+Please donate your spare
+money to the sanctuary. [BRK]
+
+Althena will reward your
+generosity someday.[END]
+
+=== 71 | 1518c | b6 ===
+The sanctuary is still
+closed for the day.[BRK]
+
+Please come back later.[BRK]
+
+[POR05]
+C'mon, hiro. Let's go to
+my house and let lucia 
+rest.[BRK]
+
+She's had a really tough
+time, and i'm sure she needs
+it.[END]
+
+=== 72 | 1526a | 88 ===
+Thanks be to althena, the
+goddess from which all
+goodness springs forth...[BRK]
+
+But goodness has a price to
+be paid...donate now, won't
+you?
+[END]
+
+=== 73 | 15316 | 74 ===
+I now know that the goddess
+cannot fix all of mankind's
+mistakes.[BRK]
+
+We must take responsibility
+for our own actions...[END]
+
+=== 74 | 1539a | 8a ===
+The most important thing we
+all must possess is a
+willing spirit.[BRK]
+
+The goddess will not help
+those that are not willing
+to help themselves.[END]
+
+=== 75 | 15438 | c4 ===
+You're looking for the girl
+with red clothes?[BRK]
+
+If you pray to althena, and
+your heart is true, she will
+show you the way, i'm sure.[BRK]
+
+The best way to show that
+your heart is true is to
+donate freely.[END]
+
+=== 76 | 15510 | 9d ===
+The people of this town
+are deserving only of
+althena's wrath![BRK]
+
+All they want to do is
+gamble their lives away![BRK]
+
+And they never donate any
+of their winnings...[END]
+
+=== 77 | 155bc | 72 ===
+We've worked so hard to
+build a peaceful, loving
+world here.[BRK]
+
+But it's come so close to
+destruction so many
+times!
+[END]
+
+=== 78 | 1563c | 53 ===
+[POR09]
+As long as the goddess is
+yet with us, zophar will not
+accomplish his evil here.[END]
+
+=== 79 | 156a2 | 129 ===
+Ah, yes. I sense that the
+girl in the red robe is
+fading from us.[BRK]
+
+Quick--donate to althena
+and pray for her mercy.[BRK]
+
+[POR02]
+Uh, i really don't think
+that's gonna work...[BRK]
+
+Say, do you happen to
+know a priest named ronfar?[BRK]
+
+[POR00]
+Priest?!? Ronfar is no
+priest!![BRK]
+
+He has traded his calling
+for implements of sin.[END]
+
+=== 7a | 157e2 | 4b ===
+That miserable failure,
+ronfar, could have been the
+greatest priest of all.[END]
+
+=== 7b | 15854 | 5e ===
+Our world now careens toward
+destruction...[BRK]
+
+Only the goddess althena has
+the power to save us.[END]
+
+=== 7c | 158c2 | 42 ===
+I can't believe that our
+world was saved from the
+brink by humans.[END]
+
+=== 7d | 15912 | 49 ===
+[POR05]
+Now you can get to more
+important jobs...like
+learning to shoot craps![END]
+
+=== 7e | 1596a | 70 ===
+These miserable souls do
+not understand the danger
+our world is in.[BRK]
+
+If they did, they'd be
+crying like babies...[END]
+
+=== 7f | 159ee | 77 ===
+Lucia? No, i can't say that
+i know of her.[BRK]
+
+Say, can i interest you in
+becoming a member of the
+sanctuary boosters club?[END]
+
+=== 80 | 15a88 | bc ===
+Say, can i cut you a deal
+on a slightly used althena
+statue?[BRK]
+
+They make great hall trees!
+Attractive and functional.[BRK]
+
+With the world going to hell
+in a handbasket, we don't
+need 'em anymore.[END]
+
+=== 81 | 15b52 | 78 ===
+[POR05]
+Say there, sis, don't beat
+yourself up about it.[BRK]
+
+Trot on over to the bar and
+forget your worries over a
+cold one!
+
+
+
+[END]
+
+=== 82 | 15bde | 74 ===
+Since the goddess althena
+herself resides in penta-
+gulia, [BRK]
+
+only specially chosen ones
+may enter its hallowed
+halls.[END]
+
+=== 83 | 15c60 | 30 ===
+[POR08]
+...althena resides in...
+pentagulia...hmm....[END]
+
+=== 84 | 15c94 | 3f ===
+I'm dreaming of the day i am
+chosen to serve in penta-
+gulia...[END]
+
+=== 85 | 15cea | 6c ===
+There's a rumor floating
+around about that dog
+ronfar.[BRK]
+
+They say he's been learning
+new tricks in pentagulia![END]
+
+=== 86 | 15d64 | 75 ===
+[POR05]
+Hrmph! Well, it's not true,
+but i kinda like the sound
+of it.[BRK]
+
+Kinda enhances my special
+mystique, don't you think?[END]
+
+=== 87 | 15df0 | d7 ===
+Huh? A girl wearing a red
+dress? No, i haven't seen
+her.[BRK]
+
+But rather than chasing
+skirts, why not repent from
+your sins and serve althena?[BRK]
+
+[POR05]
+Done it, seen it, been it.
+Sorry, no dice...[BRK]
+
+Uh, pardon the pun...hahaha!
+[END]
+
+=== 88 | 15eea | 6c ===
+If zophar had succeeded,
+our world would have been
+lost forever![BRK]
+
+Thank heavens for the
+heroes that saved us![END]
+
+=== 89 | 15f66 | 47 ===
+If you offer your silver
+to the goddess althena, 
+you will grow strong.[END]
+
+=== 8a | 15fc0 | a4 ===
+Some of the village folk
+give to the sanctuary,[BRK]
+
+but most are heathen pigs
+who will wither in the hot
+fires of althena's fury.[BRK]
+
+At least, i'm pretty sure
+they will...[END]
+
+=== 8b | 16074 | 6f ===
+You can ask althena to do
+anything on your behalf.[BRK]
+
+But it's really just good
+manners to donate something,
+too.
+[END]
+
+=== 8c | 160fc | 7e ===
+We are the guardians of
+althena's truth.[BRK]
+
+Through us, the world will
+come to know althena's
+goodness.[BRK]
+
+...if they donate enough.[END]
+
+=== 8d | 1617e | 69 ===
+But in all this time, we
+have not made even one
+person here convert![BRK]
+
+This town is crawlin' with
+sinners!
+[END]
+
+=== 8e | 161fe | ad ===
+Lucia...lucia...hmm...[BRK]
+
+I have heard that name once
+before. I think lord leo was
+trying to find her.[BRK]
+
+[POR02]
+Oh no! I don't like the
+sound of that one bit! We've
+got to find her!
+[END]
+
+=== 8f | 162be | 88 ===
+I was thinking of starting
+a bingo tournament to pack
+this place.[BRK]
+
+Do you think it'll work?
+Of course, all proceeds will
+go to althena...[END]
+
+=== 90 | 16354 | 8a ===
+[POR05]
+Hey, that sounds like just
+the ticket to get the 
+sinners in here![BRK]
+
+Come right down to their
+level. At least, that's
+what i always said.[END]
+
+=== 91 | 163f8 | 32 ===
+Whatever happened to the
+carefree days of before?
+[END]
+
+=== 92 | 1642e | 79 ===
+If there's one thing i've
+learned through all of this,
+it's this:[BRK]
+
+Believe in yourself and all
+your dreams will come true.[END]
+
+=== 93 | 164b0 | f ===
+Larpa sanctuary[END]
+
+=== 94 | 172be | 7f ===
+Well, hello there! Sit down
+and take a load off those
+tired feet![BRK]
+
+The girl doesn't look too
+well...why don't you have 
+a drink?[END]
+
+=== 95 | 17350 | b6 ===
+You say you're looking for
+ronfar?[BRK]
+
+Hrmph! Well, he's a pretty
+secretive guy. Maybe he
+doesn't want to be bothered.[BRK]
+
+But if you want to take
+your chances, he's at the
+back of the bar.
+[END]
+
+=== 96 | 1741a | 8d ===
+Oh my! Did you see that?
+The girl in red just...just
+...collapsed![BRK]
+
+[POR02]
+She's under some sort of
+curse. We're trying to get
+ronfar to break it![END]
+
+=== 97 | 174ba | a5 ===
+What? You're looking for the
+cute girl that was with you
+before?[BRK]
+
+I haven't seen her recently,
+but i sure hope she's not
+sick anymore...[BRK]
+
+[POR02]
+Thanks for nothing, chump.[END]
+
+=== 98 | 17572 | a7 ===
+This bar is the best place
+in the world to relax after
+a long hard day.[BRK]
+
+And if you're in the mood,
+you can lose all your money
+here as well![BRK]
+
+We're a full-service bar!
+[END]
+
+=== 99 | 17628 | 74 ===
+C'mon now! Take a bit of
+time to refresh your souls
+with food and drink![BRK]
+
+...and a game of cards,
+if you're up to it![END]
+
+=== 9a | 176b6 | 37 ===
+Right now, i'm just a lousy,
+stinking bar wench, but...[END]
+
+=== 9b | 176f0 | 10f ===
+One day my knight in shining
+armor will ride through
+those doors...[BRK]
+
+And sweep me off to a new 
+life with shimmering palaces
+and dazzling wealth...[BRK]
+
+[POR02]
+Uh, i think you'd better lay
+off the romance novels for
+a while, sister...[BRK]
+
+Fabio ain't comin' for ya,
+i'm sorry to say...[END]
+
+=== 9c | 17820 | d6 ===
+I think my friend urvin
+is going to propose to
+me...[BRK]
+
+But he's just a poor street
+vendor. If he does, i don't
+know what i'll do...[BRK]
+
+What should i do? Should I
+give up on my dream or hold
+out for what may never come?
+[END]
+
+=== 9d | 178fa | 4a ===
+I'm so confused! Why is it
+that it never works like
+this in fairy tales...[END]
+
+=== 9e | 17958 | 84 ===
+I've made up my mind. I'll
+marry urvin and make the
+best life possible with him.[BRK]
+
+It will be tough. But at
+least i know he loves me.
+[END]
+
+=== 9f | 179f8 | 8e ===
+I've been coming here for
+years just to stare at
+martha over there.[BRK]
+
+But she still thinks I
+just want to be friends.[BRK]
+
+Well, dammit! I want more![END]
+
+=== a0 | 17aa6 | be ===
+I can't begin to express
+the depth of my love for
+martha.[BRK]
+
+She is the desert rose that
+gives hope to the parched
+wasteland of my heart.[BRK]
+
+The...the ying in my yang.
+The only one i'll ever love![END]
+
+=== a1 | 17b84 | 88 ===
+If only i could find a way
+to make martha understand.[BRK]
+
+She must see me not for the
+lowly street vendor i am,
+but as a man who loves her!
+[END]
+
+=== a2 | 17c1c | 86 ===
+Well, i've done it now.
+I've gone and proposed to
+martha.[BRK]
+
+Cat's out of the bag now.
+I hope she finds it in her
+heart to love me too...[END]
+
+=== a3 | 17cb6 | 7d ===
+[POR05]
+So...you're looking for
+a priest named ronfar...[BRK]
+
+Well, what are you doing
+in here? No priest would
+hang out in this joint.[END]
+
+=== a4 | 17d4d | cb ===
+[0]0[0xD0] [0xC8][POR05]
+[POR05]
+Say, guys, isn't it a waste
+of time to look for this
+ronfar guy?[BRK]
+
+I mean, why not forget about
+him and join me for a nice
+game of dice?[BRK]
+
+I promise to go easy on you
+the first couple rounds...
+
+
+[END]
+
+=== a5 | 17e33 | 147 ===
+[0]1L!D[POR05]
+well, what do you say? I
+knew that if you were a man,
+you'd take a shot at wealth![BRK]
+
+Tell ya what.[BRK]
+
+If you win, i'll give you
+my house.[BRK]
+
+But if i win, i get your
+little flying cat-thing.[BRK]
+
+I'm sure i can find some
+use for it.[BRK]
+
+...pet shop, zoo, stew
+...somethin'...[BRK]
+
+[POR02]
+Liar! Cheat! Barbarian! Why
+would you want to eat me?!
+
+
+[END]
+
+=== a6 | 17f95 | a5 ===
+[0]0[0xA6] [0xA2][POR05]
+Well, wax my eyelashes and
+call me hairless! A man that 
+won't gamble. Amazing![BRK]
+
+[POR02]
+C'mon, hiro, let's get out
+of here. This barbarian has
+nothing to tell us.[END]
+
+=== a7 | 1804e | cf ===
+[POR05]
+So...you think i'm this
+'ronfar' guy, huh?[BRK]
+
+Ha! Well, beat it! And
+don't come back here, you
+little troublemakers![BRK]
+
+I don't want to ever see
+your face again...[BRK]
+
+...unless you feel like
+rolling the bones...
+
+[END]
+
+=== a8 | 1813c | 67 ===
+[POR05]
+So then, kid, you wanna
+shoot the dice with me?[BRK]
+
+If you win, i'll tell you
+all about your guy ronfar.[END]
+
+=== a9 | 181a6 | 1f ===
+[0x5]Sure, why not?
+Uh, no. Thanks.[END]
+
+=== aa | 181d4 | 63 ===
+[POR05]
+So what will you bet, even
+or odd dice?
+[0x5]I'll take the even numbers.
+The odd numbers are for me![END]
+
+=== ab | 1824c | 1b ===
+[POR05]
+[0x4] [0x3] [0x4] [0x3] 
+Odd! Ha! I win![END]
+
+=== ac | 18276 | 1e ===
+[POR05]
+[0x4] [0x3] [0x4] [0x3] Even!
+I won, kiddo![END]
+
+=== ad | 18298 | 7c ===
+[POR05]
+Guess ronfar's secret past
+is gonna stay that way. 
+Or you can try again...
+[0x5]i think i need to.
+No, i know when i'm beat.[END]
+
+=== ae | 18334 | 37 ===
+[POR02]
+Lousy, stinking cheat![BRK]
+
+I know he was cheating,
+hiro![END]
+
+=== af | 18380 | 54 ===
+[POR05]
+Well, suit yourself. If you
+don't win, you'll never know
+about ronfar the priest.[END]
+
+=== b0 | 183e8 | 48 ===
+[POR05]
+Hey, looks like you changed
+your mind. Want to play
+a round of dice? [END]
+
+=== b1 | 18448 | dc ===
+[POR05]
+What? You're still coming
+back for more?[BRK]
+
+Haven't you figured out that
+i'm using my super-lucky
+dice?[BRK]
+
+[POR02]
+I think it's more like 
+your super-loaded dice,
+if you ask me. Cheat![BRK]
+
+[POR08]
+Ahh! Hiro...i can't...
+h-help...me....
+
+[END]
+
+=== b2 | 1852e | 85 ===
+[POR05]
+Hey, look out! What's
+happened to her? She just
+passed out![BRK]
+
+Tell you what...let's get
+her out of here. She can
+rest at my place...[END]
+
+=== b3 | 185cc | 41 ===
+Fruit! Sweet fruit! Only
+5000s each! Get 'em while
+they're fresh![END]
+
+=== b4 | 1861e | 46 ===
+Boy, that girl doesn't look
+too good. You'd better buy
+her some fruit![END]
+
+=== b5 | 18668 | 38 ===
+[POR02]
+No way, hiro! This guy is
+charging outrageous prices![END]
+
+=== b6 | 186b4 | b0 ===
+I'm tellin' ya, that girl
+is gonna faint if she
+doesn't eat![BRK]
+
+C'mon, i'm sellin 'em for
+only 5000s! How 'bout you
+take a couple, eh?[BRK]
+
+You can give 'em to her
+when you find her...[END]
+
+=== b7 | 18778 | 59 ===
+Delicious, sweet fruit for
+sale. Take all you want...[BRK]
+
+...as long as you can pay
+for them![END]
+
+=== b8 | 187e0 | ae ===
+Don't you want to try one
+of these sweet, juicy fruit
+slices?[BRK]
+
+Can't you just taste their
+sweet nectar as it glides
+across your tongue?[BRK]
+
+That dream is only 5000s
+away...hehe...[END]
+
+=== b9 | 1889c | 47 ===
+[POR07]
+If you think we're blowin'
+5 grand on one lousy fruit,
+you're crazy.[END]
+
+=== ba | 188fc | 62 ===
+So, i hear you're looking
+for ronfar...[BRK]
+
+That guy is the best looking
+bad-boy in town! What a
+hunk![END]
+
+=== bb | 18962 | 44 ===
+Just keep an eye out for
+the hottest guy in town.
+That'll be ronfar.[END]
+
+=== bc | 189c2 | 43 ===
+Oh, you found ronfar?[BRK]
+
+See what i mean? That
+guy's a total big-hunk![END]
+
+=== bd | 18a1c | b9 ===
+Oh ronfar, plant a warm,
+wet one on these lips,
+darlin'.[BRK]
+
+[POR05]
+I'd love to, but sorry. I
+don't kiss girls with big,
+nasty cold-sores.[BRK]
+
+...just a little rule of
+mine. Keeps me outta
+trouble.[END]
+
+=== be | 18af2 | 38 ===
+Is the girl named lucia a
+member of the cult of
+althena?[END]
+
+=== bf | 18b2e | 80 ===
+I was wondering because she
+asked me how to get to the
+holy city of pentagulia.[BRK]
+
+I told her that the mayor
+knew how to get there.[END]
+
+=== c0 | 18bc6 | 76 ===
+Not that there's a lot of
+competition in this town,[BRK]
+
+but i think that ronfar is
+the best-looking man here,
+hands down!
+[END]
+
+=== c1 | 18c4a | 5d ===
+[POR05]
+Yep, i'm definitely one-of-
+a-kind. They broke the mold
+when they made me![BRK]
+
+[POR02]
+Thankfully!![END]
+
+=== c2 | 18cba | 85 ===
+I heard a rumor that ronfar
+already has a girlfriend.
+Is that true?[BRK]
+
+Oh well, no matter. I'll
+long for my hunky dreamcake
+from afar...[END]
+
+=== c3 | 18d52 | 94 ===
+Ronfar, whatever happens,
+know that my heart will
+always belong to you.[BRK]
+
+[POR05]
+As long as that doesn't have
+any cold-sores on it, that's
+fine with me...[END]
+
+=== c4 | 18df4 | 38 ===
+[POR09]
+That's ronfar. Rude, as
+usual.[BRK]
+
+[POR05]
+What? What'd i say?[END]
+
+=== c5 | 18e40 | 37 ===
+Hey, kid, beat it! Can't
+you see i'm busy with my
+game?[END]
+
+=== c6 | 18e8a | 7f ===
+Ronfar! Do you want to
+join our game?[BRK]
+
+[POR05]
+I'd love to, but i got some
+business to take care of.[BRK]
+
+I'll catch ya later. Okay,
+guys?[END]
+
+=== c7 | 18f1c | 6c ===
+Say, that pretty girl in
+the red robe told me about
+this guy's cards.[BRK]
+
+I won a ton of money on
+the last hand![END]
+
+=== c8 | 18fa0 | 6b ===
+Ronfar! Good to see you,
+old buddy! I miss losing
+to you...ha ha ha![BRK]
+
+[POR05]
+And i miss taking all your
+money...[END]
+
+=== c9 | 19022 | 4c ===
+Without ronfar in the game,
+it's just not the same. He
+has a certain fire...[END]
+
+=== ca | 19082 | 85 ===
+Hey, kid! Don't bother me
+now! Can't you see i'm in
+a big game?[BRK]
+
+If i lose my concentration,
+i lose my wife to this jerk!
+So, beat it![END]
+
+=== cb | 1911a | 8f ===
+C'mon, ronfar, it's been so
+long since you've played.
+Sit down and join us.[BRK]
+
+[POR05]
+Not yet, but soon. I look
+forward to cleaning you out
+again.
+
+
+
+[END]
+
+=== cc | 191b6 | 36 ===
+[POR10]
+Ronfar, don't you have an
+ounce of modesty? Really![END]
+
+=== cd | 191fa | 6d ===
+[POR09]
+You know, most of the time
+i'm embarrassed to say he's
+my best friend.[BRK]
+
+[POR05]
+That door swings both ways,
+leo.[END]
+
+=== ce | 19276 | 31 ===
+Hey, don't bother me now!
+Can't you see i'm busy?[END]
+
+=== cf | 192b8 | 5d ===
+[POR05]
+It doesn't matter. You're
+losing anyway.[BRK]
+
+[POR02]
+It looks like he's losing
+bad, too! Poor slob.[END]
+
+=== d0 | 1932c | bd ===
+That girl who was with you
+was bad news! She started
+reading my cards out loud![BRK]
+
+I'll tell you, i wanted to
+deck her! I had a royal
+flush![BRK]
+
+What kind of a nitwit would
+do something like that?[END]
+
+=== d1 | 193fc | 50 ===
+I don't care if the world is
+coming to an end. I won't
+stop playing until i win![END]
+
+=== d2 | 19460 | 5e ===
+I did it! I finally won
+against this shark! I can't
+believe it![BRK]
+
+[POR02]
+Yeah, but you only won 10s![END]
+
+=== d3 | 194d6 | 38 ===
+Ha! I finally won, and
+that's all that matters!
+Yipppee![END]
+
+=== d4 | 1951e | 71 ===
+The magic that puts monsters
+to sleep is very handy.[BRK]
+
+If they're asleep, even
+tough monsters become pretty
+easy...[END]
+
+=== d5 | 195a2 | 90 ===
+No, i can't say that i've
+seen a girl named lucia
+around here lately.[BRK]
+
+But i've been so deep into
+this game that i wasn't
+paying much attention.
+[END]
+
+=== d6 | 19646 | 4a ===
+I'm losing my shirt to
+these guys! At this pace,
+i'll be broke in an hour![END]
+
+=== d7 | 196a0 | 5f ===
+Now that the world is once
+again safe, we can gamble
+in peace.[BRK]
+
+I'm lookin' for my next big
+win![END]
+
+=== d8 | 19704 | c ===
+Larpa tavern[END]
+
+=== d9 | 19e9c | 5c ===
+Welcome to the larpa
+general store.[BRK]
+
+If you're fat with cash, 
+this is the place to
+spend it![END]
+
+=== da | 19f06 | 2d ===
+Changed your mind, huh?
+What can i do for ya?[END]
+
+=== db | 19f3c | 2d ===
+Well, thanks for stopping
+by. Come back soon![END]
+
+=== dc | 19f72 | 13 ===
+Larpa general store[END]
+
+=== dd | 1a608 | c6 ===
+[POR05]
+Is this girl the reason
+you sought me out? To
+heal her?[BRK]
+
+....
+.....[BRK]
+
+You don't need me to cure
+her...i'm nothing but a
+has-been![BRK]
+
+Just...take her to the
+sanctuary and let the
+priests there cure her.[END]
+
+=== de | 1a6e6 | a5 ===
+[POR05]
+You're a persistent little
+bunch, aren't ya?[BRK]
+
+Now, listen carefully: i'm a
+gambler, not a priest. I
+can't help you.[BRK]
+
+...go find one of the
+priests in the sanctuary![END]
+
+=== df | 1a794 | 2b ===
+[POR09]
+Ronfar? Hey! Are you home?
+It's me, leo.[END]
+
+=== e0 | 1a7c8 | 105 ===
+[ROR02]
+Hiro, it's lord leo! What
+are we gonna do? He'll
+take lucia for sure![BRK]
+
+[ROR01]
+....
+.....[BRK]
+
+[ROR00]
+[POR05]
+Oh! So you've met my over-
+achieving friend, eh?[BRK]
+
+If the girl's in some sort
+of trouble, you don't want
+leo to get hold of her.[BRK]
+
+You stay here. I'll go see
+what he wants.[END]
+
+=== e1 | 1a8d6 | b2 ===
+[POR05]
+Say, friend, long time no
+see! But i guess you've
+been busy...[BRK]
+
+Hey, what was this 'work'
+you mentioned in your
+note?[BRK]
+
+I can't believe you'd have
+business in this crooked
+town.
+[END]
+
+=== e2 | 1a992 | 205 ===
+[POR09]
+Some little brat called
+hiro tricked me and helped
+a destroyer.[BRK]
+
+I had no idea that it would
+come disguised as a girl.
+That was my mistake.[BRK]
+
+I won't make it again.[BRK]
+
+[POR05]
+A girl, huh...you say she's
+a...destroyer??[BRK]
+
+[POR01]
+...come on, ronfar, don't
+spill the beans...[BRK]
+
+[POR02]
+This is not good, hiro. If
+he talks, we're all dead
+meat![BRK]
+
+[POR09]
+Well, ronfar, if you hear
+anything about this girl
+at one of your games,[BRK]
+
+let me know, okay?[BRK]
+
+[POR05]
+....
+.....[BRK]
+
+Uh...ahem...right! Haven't
+heard anything,[BRK]
+
+but if i do, you're at the
+top of my list.
+
+[END]
+
+=== e3 | 1aba0 | fd ===
+[POR09]
+Well, i guess that's all I
+can do today. [BRK]
+
+Tomorrow, i'll start the
+search anew. That brat will
+be mine![BRK]
+
+Ronfar, why don't you return
+to pentagulia and the
+service of althena?[BRK]
+
+You know, mauri never got
+over you leaving. She still
+asks about you...
+
+
+
+[END]
+
+=== e4 | 1aca6 | 19f ===
+[POR05]
+C'mon, leo! We've been down
+that road a zillion times![BRK]
+
+You've got to tell mauri to
+forget all about me.[BRK]
+
+I'm a loser...a has-been.
+She's too good for me.[BRK]
+
+[POR09]
+....
+.....[BRK]
+
+Ronfar, you're much too hard
+on yourself. You did the
+best you could.[BRK]
+
+And even though you couldn't
+save her, she still managed
+to survive...[BRK]
+
+Forget about the past and
+come back to pentagulia...
+...please? For mauri...[BRK]
+
+[POR05]
+But she's...[BRK]
+
+....
+.....
+[END]
+
+=== e5 | 1ae5c | 325 ===
+[POR05]
+You know, back in penta-
+gulia, leo was my best
+friend in the world.[BRK]
+
+We were like brothers.[BRK]
+
+I lied to him. And just
+for you, stranger.[BRK]
+
+But i lied on a hunch that
+you are doing what you think
+is right...[BRK]
+
+I can see it in your eyes.
+You don't believe the girl
+is a destroyer at all.[BRK]
+
+....
+.....[BRK]
+
+I was like you...a young
+kid fired up with ambition.
+And then...[BRK]
+
+...oh, mauri...i miss her so
+much![BRK]
+
+But that's foolish talk. All
+that matters now is my dice,
+and lucky they are![BRK]
+
+Okay, hiro, here's the deal.
+Play the dice and win, and
+i'll help you and lucia.[BRK]
+
+[POR02]
+Hiro, forget about it! His
+dice have gotta be loaded![BRK]
+
+[POR05]
+Ah, ruby, you're tearing my
+heart to shreds! Me? A 
+cheat? C'mon...[BRK]
+
+Just one round. My heart's
+in the right place. So 
+what is it, odd or even?
+[0x5]I think i'll go for even.
+I'd better take odds.[END]
+
+=== e6 | 1b196 | 21 ===
+[POR05]
+[0x4] [0x3] [0x4] [0x3] 
+Even! Ha ha! You won![END]
+
+=== e7 | 1b1c6 | 20 ===
+[POR05]
+[0x4] [0x3] [0x4] [0x3] 
+Odds! Look! You won![END]
+
+=== e8 | 1b1ea | 13d ===
+[POR02]
+Will ya look at that!
+Hiro, you won! I don't
+believe it![BRK]
+
+[POR05]
+Well, luck certainly must be
+with you today! I'm yours on
+a toss of the dice...[BRK]
+
+To break the spell, we'll
+have to use a statue of
+the goddess.[BRK]
+
+There's one in the
+sanctuary.[BRK]
+
+But leo's got that guarded,
+so we'd better use the back
+door. C'mon, this way...
+[END]
+
+=== e9 | 1b33e | 4d ===
+[POR05]
+This passage will take us
+right into the sanctuary.[BRK]
+
+Hiro, you bring lucia.[END]
+
+=== ea | 1b39e | 6a ===
+[POR05]
+We'd better hurry and get
+there while she still has
+strength to walk...[BRK]
+
+...she's getting worse,
+fast...[END]
+
+=== eb | 1b426 | 117 ===
+[POR05]
+N-nn...nooooo!
+G-gg...gggg...[BRK]
+
+Mmmmm...maauuri! Please...
+noooooo![BRK]
+
+[POR02]
+He tried so hard to break
+the spell...he must have
+loved her very much.[BRK]
+
+I wonder what happened?
+Maybe i'll ask him when
+he wakes up...[BRK]
+
+One thing's for sure: he's
+got a heart of gold under
+that thick skin...
+[END]
+
+=== ec | 1b550 | 6e ===
+[POR08]
+H-h-hiro...ruby...
+i...i...ahhh...[BRK]
+
+[POR02]
+Hiro, we've got to break
+this spell soon! She's 
+getting worse!
+
+
+
+
+
+[END]
+
+=== ed | 1b5d2 | 121 ===
+[POR08]
+Ronfar...break...t-t...
+...the spell...but...humans
+cannot...[BRK]
+
+...power...of...a-althena is
+only......stop...zophar...
+...whole...ahhhh...[BRK]
+
+[POR02]
+But...what else can we
+do, lucia?[BRK]
+
+Can you hear me?[BRK]
+
+[POR08]
+......i see...it...
+......all so......very
+clearly...now...[BRK]
+
+You are my...only chance.
+
+
+
+
+
+[END]
+
+=== ee | 1b710 | 160 ===
+[POR05]
+You don't have to worry.
+Lucia's life is not in
+danger anymore.[BRK]
+
+But only althena's pure
+power can restore what
+lucia lost to the spell.[BRK]
+
+Whew! I forgot how hard this
+priest stuff was! I need to
+get some sleep.[BRK]
+
+I'd suggest that you guys
+do the same. There's a long
+road ahead.[BRK]
+
+Lucia, you can take my bed,
+and the rest of you can
+sleep where you want.
+[END]
+
+=== ef | 1b87a | 84 ===
+[POR02]
+Hiro! Look! Lucia's bed
+is empty![BRK]
+
+Oh no! Do you think that
+leo stole in during the
+night and took her?[BRK]
+
+We've got to get her back![END]
+
+=== f0 | 1b908 | 16 ===
+Larpa - ronfar's house[END]
+
+=== f1 | 1bf94 | 88 ===
+This town is filled with
+drifters and low-lifes,
+so be careful.[BRK]
+
+If'n they come up to ya,
+tell 'em ol' ben warned
+you 'bout their tricks![END]
+
+=== f2 | 1c03e | 44 ===
+Say, while you're here,
+mind tellin' me what you
+whippersnappers do?[END]
+
+=== f3 | 1c086 | 79 ===
+Well, sounds to me like
+you're some sort of arch-
+aeologist or somethin'.[BRK]
+
+I don't understand any
+of that stuff no more...[END]
+
+=== f4 | 1c116 | b1 ===
+Lucia? Was that the nice
+young lady that was just
+here?[BRK]
+
+We shared a bit of tea
+together, me and her, then
+she left.[BRK]
+
+She kinda looks like my 
+wife when she was young and
+purdy...[END]
+
+=== f5 | 1c1da | 98 ===
+Lemme give you kids a bit
+of good advice:[BRK]
+
+If ya want to keep the
+money you've got, stay away
+from the bar.[BRK]
+
+It's filled with nothin'
+but gamblin' cheats![END]
+
+=== f6 | 1c286 | 85 ===
+I heard a rumor that ronfar
+was one of the heroes that
+saved the world.[BRK]
+
+I really don't believe it.
+He's just a gamblin' fool!
+Phlack![END]
+
+=== f7 | 1c318 | 4b ===
+[POR05]
+Well, old man, you're
+probably right. Gamblers
+never amount to anything.[END]
+
+=== f8 | 1c37a | 49 ===
+Of course i'm right! It's
+not like i didn't learn
+nothin' in my 88 years![END]
+
+=== f9 | 1c3d6 | 90 ===
+When i was young, i was
+the best-looking girl in
+larpa village![BRK]
+
+But now that everything is
+sagging to the cellar, no
+one looks at me anymore...
+[END]
+
+=== fa | 1c47a | b4 ===
+Oh, ronfar, if i were 70
+years younger, i'd be after
+you in a second.[BRK]
+
+You're quite the ladies'
+man.[BRK]
+
+[POR05]
+I bet you would. I heard you
+were quite the fireball in
+your time...ha ha ha![END]
+
+=== fb | 1c542 | 81 ===
+The girl named lucia looks
+a lot like i did 70 years
+ago.[BRK]
+
+But you probably don't
+believe that. I can hardly
+believe it myself...
+[END]
+
+=== fc | 1c606 | 60 ===
+Hmm...you're looking for
+ronfar, huh?[BRK]
+
+Nope, can't say that i've
+seen him. Did you try his
+house?[END]
+
+=== fd | 1c684 | 47 ===
+How is that ronfar fellow
+doing these days? I heard
+he saved the world.[END]
+
+=== fe | 1c6ce | b2 ===
+Ever since you left here,
+ronfar, the gambling action
+hasn't been the same.[BRK]
+
+[POR05]
+I've got bigger things to
+take care of these days.[BRK]
+
+Maybe you'll find something
+better someday, too.[END]
+
+=== ff | 1c78a | 13 ===
+Larpa - ben's house[END]
+
+=== 100 | 1ce22 | 76 ===
+Aaaachooo!...aaaachoo!!
+Oh...oh no! Where am i?
+This isn't ronfar's house![BRK]
+
+Great...i've blown my brains
+out sneezing!
+[END]
+
+=== 101 | 1ceb0 | df ===
+Ronfar, you gotta get rid
+of this miserable cold for
+me...please![BRK]
+
+[POR05]
+Well, i can't get rid of
+it for you. But 9 out of 10
+doctors recommend soup...[BRK]
+
+Hot soup...chicken, if ya
+got it. Won't heal you, but
+you'll feel better!
+
+[END]
+
+=== 102 | 1cfa2 | a2 ===
+A girl in red clothes? Yes,
+she was here watching me
+sneeze for the longest time.[BRK]
+
+The gal kinda gave me the
+creeps...just stared. Like
+she'd never seen a sneeze!
+[END]
+
+=== 103 | 1d074 | 4b ===
+Aachoo! Oh...oh...this
+cold has...has got to let
+up sometime soon...aachoo![END]
+
+=== 104 | 1d0d2 | 4b ===
+The world is at peace, but
+i'm still suffering with
+ronfar's terrible cold![END]
+
+=== 105 | 1d134 | 116 ===
+I've had this...aachoo!
+..This cold forever! What
+am i supposed to do?[BRK]
+
+[POR05]
+You know, old buddy, I
+don't think this is a cold.
+They don't last this long.[BRK]
+
+I'm pretty sure this is
+something called hay fever![BRK]
+
+We should be out of hay-
+fever season in about a
+month. Then you'll be ok.[END]
+
+=== 106 | 1d266 | 43 ===
+A month!!! I can't go on
+like this for another!
+Month!!! Aaaachooo![END]
+
+=== 107 | 1d2c0 | 6c ===
+Thunderation! This liniment
+in my shorts is driving me
+insane![BRK]
+
+There's gotta be some way
+i can get relief...[END]
+
+=== 108 | 1d348 | d0 ===
+If i can't stop the burning,
+i'll find a distraction.[BRK]
+
+I've got it! I'll gamble!
+Yeah..That takes con-
+centration...perfect![BRK]
+
+[POR02]
+You're hopping around like
+a baboon and you're going
+to concentrate? Yeah, right.[END]
+
+=== 109 | 1d42c | 75 ===
+Lucia? The girl in red?
+I...i...well...[BRK]
+
+Damn it all! I can't stop
+hopping long enough to think
+about where i saw her![END]
+
+=== 10a | 1d4e0 | 78 ===
+This darned burning is gonna
+drive me to the grave![BRK]
+
+Don't you know of some old
+folk remedy i can try? I'll
+try anything![END]
+
+=== 10b | 1d56c | 76 ===
+I got tired of waiting for
+ronfar, so i came home.
+But...[BRK]
+
+These other kooks followed
+me home...i couldn't believe
+it!
+[END]
+
+=== 10c | 1d5f6 | 4b ===
+Oh...oh...my head. Shhh!
+You're yelling...there's
+no need to yell anything.[END]
+
+=== 10d | 1d658 | 45 ===
+Oooughh! My aching head.
+I've got to shake this
+so i can go gambling.[END]
+
+=== 10e | 1d6b4 | 125 ===
+Oooughh! My aching head.
+I've gotta shake this
+so i can gamble again.[BRK]
+
+Ronfar, you're no stranger
+to this. Tell me how to get
+rid of this headache.[BRK]
+
+[POR05]
+Sorry, buddy. That remedy is
+a closely guarded secret
+formula i developed.[BRK]
+
+It required years of
+research to perfect my
+'morning after' tonic...[END]
+
+=== 10f | 1d7e8 | 3b ===
+Lately, my morning headaches
+have been getting less
+severe.[END]
+
+=== 110 | 1d830 | 64 ===
+[POR05]
+Cute. Sounds like you've 
+become a bona fide
+alcoholic.[BRK]
+
+Time to give the betty ford
+a ring, bud.
+[END]
+
+=== 111 | 1d89a | 12 ===
+Larpa sickly house[END]
+
+=== 112 | 1df8a | bc ===
+Are you members of the
+cult of althena?[BRK]
+
+...go away! We don't 
+want any of your sick
+mumbo-jumbo![BRK]
+
+What? You're not? Oh, uh,
+sorry.[BRK]
+
+If you're looking for the
+mayor, he's on the second
+floor.[END]
+
+=== 113 | 1e05e | 45 ===
+You're looking for the
+mayor? Head up the stairs
+to the second floor.[END]
+
+=== 114 | 1e0b6 | ba ===
+A girl in a red robe? Yeah,
+i saw her.[BRK]
+
+In fact, i thought she was
+lookin' for a cook's job
+and let her have it.[BRK]
+
+But she broke nearly every
+dish in the house, so I
+fired her. What a nut!
+[END]
+
+=== 115 | 1e194 | b9 ===
+I heard that there was a
+seminar coming to town.[BRK]
+
+S'posed to tell you how
+to become a land baron
+with no money down![BRK]
+
+I was thinkin' about going.
+I could get used to being a
+land baron...[END]
+
+=== 116 | 1e266 | 7e ===
+This town is full of shady
+characters and outright
+crooks![BRK]
+
+If you ask me, i think the
+mayor's the biggest swindler
+of 'em all.[END]
+
+=== 117 | 1e2e8 | 5a ===
+Say, uh, keep that comment I
+made about the mayor under
+your hat, okay?[BRK]
+
+I need this job...[END]
+
+=== 118 | 1e35a | 106 ===
+What are you doing in here?[BRK]
+
+I just get this here bed
+made after another nutcase
+messes it up,[BRK]
+
+and you barge in and start
+fiddling around in the room![BRK]
+
+Get out of here before I
+call security![BRK]
+
+[POR02]
+Hiro, i bet lucia was
+sleeping in that bed! She's
+got to be nearby...[END]
+
+=== 119 | 1e478 | be ===
+Say, uh, big guy! I bet
+you're ronfar the gambler.[BRK]
+
+I know because you're the
+juiciest slab of beefcake
+i've seen in a long time![BRK]
+
+[POR05]
+Well, i can't dispute that!
+Nice to meet ya, honey 
+pants.[END]
+
+=== 11a | 1e562 | 9b ===
+I heard about ronfar's
+success gambling here and
+i came to try my luck.[BRK]
+
+But unfortunately, some
+people have it. And some
+people don't.[BRK]
+
+I don't.[BRK]
+
+It sucks.
+
+[END]
+
+=== 11b | 1e610 | 90 ===
+Ronfar, you're such a great
+gambler, you should become
+mayor of larpa.[BRK]
+
+[POR05]
+Uh, sorry, no way![BRK]
+
+Politics is one gamble i'm
+not going to take, ever![END]
+
+=== 11c | 1e6ba | 100 ===
+Scrubbing down this house
+over and over is so utterly
+mindless.[BRK]
+
+If i don't find a new job,
+i'm thinking about going on
+welfare.[BRK]
+
+At least then i can do what
+i want and still get a check
+twice a month.[BRK]
+
+[POR02]
+Sounds like a plan to suck
+your life down the toilet.[END]
+
+=== 11d | 1e7be | 46 ===
+Did i ask for your opinion
+on my lifestyle? Just...
+stop bothering me![END]
+
+=== 11e | 1e81c | 8c ===
+I didn't know the girl's
+name, but yes, a girl in
+a red robe came in here.[BRK]
+
+It was weird. She just
+floated in like she owned
+the whole place![END]
+
+=== 11f | 1e8bc | 47 ===
+Someday, i want to be the
+head maid. That way i can
+boss people around.[END]
+
+=== 120 | 1e912 | 76 ===
+Our head maid is so strict
+that it makes my head spin![BRK]
+
+I wish she'd just get off
+my back about the quality
+of my work.[END]
+
+=== 121 | 1e998 | 7d ===
+Even young people in this
+town are lazy, no-good
+losers.[BRK]
+
+I guess that's to be 
+expected when most of the
+adults are that way.[END]
+
+=== 122 | 1ea2c | d6 ===
+Oh no! That pot is over-
+flowing![BRK]
+
+Where is that stupid new
+cook they hired?[BRK]
+
+She should have been in here
+watching this stuff! Look!
+Now it's ruined![BRK]
+
+[POR02]
+Uh, my guess is that this
+is lucia's work...what
+do you think?[END]
+
+=== 123 | 1eb1e | 58 ===
+I fired the old cook! She
+couldn't cook anything
+right.[BRK]
+
+I mean, she was totally
+useless![END]
+
+=== 124 | 1eb86 | 88 ===
+You know, it's really hard
+to find good help these
+days.[BRK]
+
+Either they want too much
+money, or they're lazy as
+sin. There's no in-between![END]
+
+=== 125 | 1ec1c | 83 ===
+What are you doing back
+here? I fired you![BRK]
+
+We're short-handed, but i'm
+not desperate enough to take
+you back! Huh uh![BRK]
+
+[POR08]
+....
+.....[END]
+
+=== 126 | 1ecb2 | b9 ===
+My name's wanda. I'm the
+head maid in this place.[BRK]
+
+If you think supervising
+lousy, stinking, lazy maids
+is easy,[BRK]
+
+about one damn hour in my 
+stinking shoes will
+change your stinking mind.[END]
+
+=== 127 | 1ed82 | ca ===
+I gotta get out of this
+stinking line of work.[BRK]
+
+I was thinking of attending
+mave del blotto's cash flow
+seminar this weekend.[BRK]
+
+He promises to give away the
+secrets of wealth for only 
+299 stinking silver![END]
+
+=== 128 | 1ee65 | a5 ===
+[0]0[0xA4] [0xA2]Are you guys friends of
+the strange girl in the
+red robe?[BRK]
+
+She was just in here looking
+at this table as if she'd
+never seen one.[BRK]
+
+Talk about a class 'a'
+nutcase![END]
+
+=== 129 | 1ef0e | 44 ===
+That girl is definitely the
+stinking weirdest weirdo
+i've ever seen![END]
+
+=== 12a | 1ef7a | 6e ===
+I'm looking forward to my
+annual bonus this year.[BRK]
+
+I'm gonna use it to rent
+myself one of them gamblin'
+tutors![END]
+
+=== 12b | 1f000 | 114 ===
+I've regretted getting into
+that card game from the
+moment it was over...[BRK]
+
+If i hadn't wagered myself,
+i'd never be in this place
+working like a slave.[BRK]
+
+It sucks to be in debt. Be
+smart...don't start.[BRK]
+
+Believe me! I know what i'm
+talking about. Never wager
+more than you can pay.[END]
+
+=== 12c | 1f130 | 85 ===
+Once i work my way out
+of this hellhole, i'm
+giving up gambling![BRK]
+
+That is a totally dead-end
+way of life. Maybe i'll
+move to dalton...[END]
+
+=== 12d | 1f1c8 | e0 ===
+Ha! Ronfar! You're the one
+that tricked me into that
+stupid bet![BRK]
+
+I'll never forgive you![BRK]
+
+[POR05]
+Hey there...whoa! I didn't
+put the words in your mouth
+or the cards in your hand.[BRK]
+
+Face it! It's nobody's fault
+but your own, buddy.
+[END]
+
+=== 12e | 1f2bc | 6f ===
+What's the attraction of
+this house?[BRK]
+
+Strange people keep barging
+in here to look around! I
+just don't get it...[END]
+
+=== 12f | 1f36e | ba ===
+I finally worked my way out
+of indentured servitude,[BRK]
+
+but now i don't have any
+money to start a new life,[BRK]
+
+so i've got to work here a
+little longer so i can build
+a nice gamblin' nest egg.[END]
+
+=== 130 | 1f43c | da ===
+I thought i was over my loss
+to you, ronfar, but i guess
+i'm not.[BRK]
+
+I've almost saved enough to
+challenge you again![BRK]
+
+[POR05]
+Hey, thank you for saving
+all your hard-earned money
+for me![BRK]
+
+I really appreciate it!
+Ha ha ha ha ha![END]
+
+=== 131 | 1f51c | 42 ===
+     How to win at dice
+      in 3 easy steps
+      \[i.M. Cheetin\][END]
+
+=== 132 | 1f564 | 41 ===
+  Secrets of supervision
+         volume 3
+   101 whip techniques[END]
+
+=== 133 | 1f5aa | 3b ===
+    To hell and back
+      a love story
+     \[i.A. Freeman\][END]
+
+=== 134 | 1f5ea | 13 ===
+Larpa mayor's house[END]
+
+=== 135 | 2017e | 7a ===
+Hello! I'm the mayor of
+larpa. Pay me, and i'll
+tell you anything.
+[0x5]Where's ronfar the priest?
+Shyeah...as if i'd pay you.[END]
+
+=== 136 | 20208 | 77 ===
+Hmm....ronfar...ronfar?
+No, can't say that i know
+the name.[BRK]
+
+There's no priest named
+ronfar in the local althena
+cult...[END]
+
+=== 137 | 20294 | 51 ===
+Well, you don't have to be
+rude about it![BRK]
+
+Just remember, i'm here if
+you need me.[END]
+
+=== 138 | 202fc | 7f ===
+Information! Information!
+All for the price of a small
+meal...so how 'bout it?
+[0x5]Tell me about ronfar.
+Uh, no, i don't think so.[END]
+
+=== 139 | 2038a | 50 ===
+Tonmar...tonmar...yes!
+There was a man named tonmar
+that died about 5 years ago.[END]
+
+=== 13a | 20408 | 99 ===
+Ask me anything. I'll surely
+try to help you...if you can
+pay the price.[BRK]
+
+But don't ask me about this
+'ronfar' fellow, because I
+honestly don't know him.
+[END]
+
+=== 13b | 204b8 | 97 ===
+Hey, ronfar, i'm keeping my
+end of our little bargain.[BRK]
+
+I'll keep giving vague
+answers to everyone that
+asks about you...[BRK]
+
+At least until my debt's
+paid.[END]
+
+=== 13c | 2056a | fe ===
+Say there, ronfar. Are you
+cheating again? You know,
+that's a capital offense...[BRK]
+
+[POR05]
+Chief! I'm shocked that you
+would even say that to me![BRK]
+
+You yourself know what a
+fine, upstanding citizen I
+am in this community...[BRK]
+
+Why would you say such a
+hurtful thing?[END]
+
+=== 13d | 2067c | 148 ===
+Say, aren't you guys friends
+of that lucia girl?[BRK]
+
+Don't try to deny it, i saw
+you with her! Anyway, she
+wanted some information,[BRK]
+
+so i told her how to get to
+pentagulia by way of a ship
+in dalton.[BRK]
+
+Then the crazy girl split
+without paying my
+information fee![BRK]
+
+But now that you're here,
+i'll get it from you! It
+was 30s. So pay up!
+
+[END]
+
+=== 13e | 207da | 3a ===
+Well, i guess if you
+haven't got 30s, this'll
+have to do.
+[END]
+
+=== 13f | 20846 | 1e ===
+Thanks. Now get outta 
+here...[END]
+
+=== 140 | 20868 | 5f ===
+What? Where did that girl
+go?[BRK]
+
+She said she wanted to see
+a sandship and headed to
+the harbor...[END]
+
+=== 141 | 208de | d3 ===
+Is that lucia some spoiled
+little rich girl?[BRK]
+
+When i asked her for payment
+she just stared at me like
+i was from another planet.[BRK]
+
+It kinda gave me the creeps.
+Anyway, she went toward the
+harbor. Have you seen her?[END]
+
+=== 142 | 20a04 | 1a ===
+Thanks for the tip, chief![END]
+
+=== 143 | 20a38 | 84 ===
+I quit selling information.
+My wife was complaining too
+much about my crazy hours.[BRK]
+
+She wants me just to be the
+mayor, and that's it.[END]
+
+=== 144 | 20ac0 | 4c ===
+Maybe my wife is right. I
+think i'll concentrate on
+just being a good mayor.[END]
+
+=== 145 | 20b24 | ca ===
+This gambler's town is no
+place to raise a child![BRK]
+
+Our daughter needs schooling
+and friends, but this town
+is nothing but scoundrels.[BRK]
+
+I wish my husband would
+clean this town up. After
+all, he is mayor...[END]
+
+=== 146 | 20c06 | 117 ===
+Say, just keep away from
+our daughter. [BRK]
+
+You look like another bad
+influence, and i'm telling
+you, she doesn't need it![BRK]
+
+She's got several out-of-
+town suitors, and i don't
+want her chances ruined.[BRK]
+
+She's gonna marry and get
+out of this town if it
+kills me![BRK]
+
+[POR02]
+Uh...is she serious?
+[END]
+
+=== 147 | 20d30 | 9f ===
+Oh, who am i kidding? Our
+daughter is dumb as a post
+and ugly as sin.[BRK]
+
+What idiot would want to
+marry her?[BRK]
+
+....
+.....[BRK]
+
+Uh, that's just between
+you and me, okay?
+[END]
+
+=== 148 | 20de2 | 72 ===
+All the girls in this town
+these days are loose.[BRK]
+
+Our daughter won't be like
+them! She'll get a man with
+her charm.[END]
+
+=== 149 | 20e62 | 52 ===
+[POR07]
+Whew! With looks like that,
+she better be the most
+charming girl on the planet![END]
+
+=== 14a | 20ec8 | 105 ===
+No, no, no! Get out of
+here this minute![BRK]
+
+You're that weird girl who
+came here and broke every
+dish in the house![BRK]
+
+[POR08]
+I'm...i'm very sorry. When
+i first came here i was...
+well...clumsy.[BRK]
+
+[POR02]
+Give the girl a break! She
+didn't do any permanent
+damage, butt-breath!
+
+[END]
+
+=== 14b | 20ff4 | 105 ===
+Ooohh! Aren't you the brave,
+strong lad that defeated
+zophar?[BRK]
+
+Our daughter would make an
+excellent wife for you.
+Come...i'll introduce you.[BRK]
+
+[POR02]
+Uh, hiro...take my word on
+this...you do not want to
+meet this...this...[BRK]
+
+(And i'm using the term
+very loosely)...girl.[END]
+
+=== 14c | 21110 | f0 ===
+Hiro, you're a nice lad.
+You must know the value
+of inner beauty.[BRK]
+
+Our daughter has all her
+beauty on the inside,
+hidden for you to discover.[BRK]
+
+Say, if you'll marry her,
+i'll pay for the wedding
+and set you up in a house![BRK]
+
+Pretty please...???
+
+[END]
+
+=== 14d | 21214 | 4a ===
+Duh, whull lookee here!
+You came ta play wif me![BRK]
+
+Yippee! Ledds play house![END]
+
+=== 14e | 21272 | c3 ===
+Say, mister, whad are dose
+white squares fur?[BRK]
+
+[POR05]
+These? Oh, they're called
+dice. I use them to create
+money, little lady.[BRK]
+
+[POR02]
+'Create money', baah![BRK]
+
+Make it disappear is closer
+to the real story...[END]
+
+=== 14f | 21348 | 91 ===
+Haaay, dere wuz a ghirl
+dat wuz in here befur.[BRK]
+
+Daddy put hur ta wurk, but
+i wanted her ta be my
+friend.[BRK]
+
+Daddy god mad at hur an'
+she went away...[END]
+
+=== 150 | 213f0 | 44 ===
+Wanna play house? I'll be
+tha princess an' you can
+be tha house boy.[END]
+
+=== 151 | 2144c | ef ===
+I wan' ta lurn ta create
+money with tha shiny white
+squares![BRK]
+
+Teach me![BRK]
+
+Then ledds play house![BRK]
+
+[POR05]
+Uh, hehe, i don't think
+that's such a good idea,
+little...uh...lady.[BRK]
+
+[POR02]
+Whew! Let's get out of here
+before they try to marry
+her off again!
+
+
+[END]
+
+=== 152 | 2154a | 47 ===
+One day mah prince will come
+and take me uhway![BRK]
+
+Then we ken play house![END]
+
+=== 153 | 215a4 | b6 ===
+Those kooks from the cult
+of althena came to town and
+set up shop recently.[BRK]
+
+All they do is beg for money
+to make bigger shrines![BRK]
+
+Geez! I didn't think that
+was what althena was about![END]
+
+=== 154 | 21672 | 6d ===
+No, i don't want to talk
+about those weirdoes from
+the cult of althena.[BRK]
+
+All it does is get me in a
+bad mood. [END]
+
+=== 155 | 216f2 | 9e ===
+I taught the new girl how
+to gamble, and now she's
+a money machine![BRK]
+
+The girl can't lose![BRK]
+
+[POR02]
+Oh no! He's gotta be talking
+about lucia! We've got to
+find her...[END]
+
+=== 156 | 217a4 | da ===
+The culties have been making
+a big fuss lately, saying
+our world's end is near.[BRK]
+
+It's really starting to get
+on my nerves.[BRK]
+
+I can't stop thinking about
+twisting their pointy little
+heads off...[BRK]
+
+That's just not like me...[END]
+
+=== 157 | 21892 | 87 ===
+I think the followers of
+althena have really changed.[BRK]
+
+I'm giving them the benefit
+of the doubt, now that they
+seem to be trying harder.[END]
+
+=== 158 | 21930 | 4e ===
+Since the fake althena was
+exposed, the culties have
+turned into real priests![END]
+
+=== 159 | 21996 | 9d ===
+My boss is a pretty greedy
+guy. He wants money for
+everything he does.[BRK]
+
+He's got this town tied up
+on his little pinky.[BRK]
+
+But don't tell him i said
+that, okay?
+[END]
+
+=== 15a | 21a4e | 102 ===
+I never argue with the boss.
+He's kinda temperamental
+sometimes.[BRK]
+
+...oops, i called him 'boss.'
+He don't like that too much.[BRK]
+
+It's a habit from the old
+days...before he bought the
+election...[BRK]
+
+Whoop! Look what i gone and
+done...don't repeat what I
+jus' told ya![END]
+
+=== 15b | 21b6c | 49 ===
+Da boss...uh, mayor, is
+in this room behind me.[BRK]
+
+Go right ahead an' go in.[END]
+
+=== 15c | 21bc8 | 77 ===
+The mayor is in a bad mood
+right now. I'd stay away
+if i was you...[BRK]
+
+...just a tip, not that I
+care what yooz do wit it.[END]
+
+=== 15d | 21c52 | 9f ===
+What are yooz doing? Paying
+another woman's debt?[BRK]
+
+That's not too smart, my
+friend. But, hey, just a
+piece of advice...[BRK]
+
+...not that i care what 
+yooz do wit it.[END]
+
+=== 15e | 21d14 | 30 ===
+The mayor is in the next
+room.[BRK]
+
+Go right on in...[END]
+
+=== 15f | 21d4a | e ===
+Larpa mayor 2f[END]
+

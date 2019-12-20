@@ -1,0 +1,120 @@
+File: M3C.GRP
+
+Messages: 15
+
+=== 0 | 10e28 | 210 ===
+[POR01]
+...lucia!![BRK]
+
+[POR08]
+Hiro...you should not have
+come.[BRK]
+
+You can't possibly win
+against zophar...[BRK]
+
+He has bound my power, and
+the power of althena stands
+ready for him to take.[BRK]
+
+We must face the fact that
+our chance to stop him
+slipped by...[BRK]
+
+...and there is no way to
+get it back...[BRK]
+
+....
+.....[BRK]
+
+Unless....[BRK]
+
+Perhaps althena was right
+and the power of humanity
+can overcome him.[BRK]
+
+...i cannot believe that
+it is so, but it is the
+only hope left![BRK]
+
+....
+.....[BRK]
+
+You must try...[BRK]
+
+....
+.....[BRK]
+
+Here...this is the only
+assistance i can offer.[BRK]
+
+Take it...
+[END]
+
+=== 1 | 1104b | 105 ===
+Received the goddess
+crest![BRK]
+
+[0xB][0][0][POR01]
+Lucia, you must believe in
+us![BRK]
+
+The power of humanity is the
+key to defeating zophar,
+just as althena said.[BRK]
+
+It's stronger than any magic
+ever devised...[BRK]
+
+If you only believe...[BRK]
+
+....
+.....[BRK]
+
+I'm coming for you, lucia!
+Don't give up![END]
+
+=== 2 | 1115e | 13 ===
+Zophar's keep foyer[END]
+
+=== 3 | 11974 | 15 ===
+Zophar's keep gallery[END]
+
+=== 4 | 1620e | 12 ===
+Zophar's keep 1f-a[END]
+
+=== 5 | 16986 | 12 ===
+Zophar's keep 1f-c[END]
+
+=== 6 | 17a0c | 12 ===
+Zophar's keep hall[END]
+
+=== 7 | 18c48 | 12 ===
+Zophar's keep 1f-d[END]
+
+=== 8 | 1931c | 12 ===
+Zophar's keep 2f-b[END]
+
+=== 9 | 19b88 | 12 ===
+Zophar's keep 2f-c[END]
+
+=== a | 1a3c0 | 12 ===
+Zophar's keep 2f-d[END]
+
+=== b | 1aeac | 12 ===
+Zophar's keep 2f-a[END]
+
+=== c | 1b7dc | 12 ===
+Zophar's keep 1f-b[END]
+
+=== d | 1be86 | 52 ===
+Groum! Groum! Groum![BRK]
+
+[POR02]
+What...what was that?
+It sounded like something
+crumbling![END]
+
+=== e | 1bede | 15 ===
+Zophar's keep terrace[END]
+

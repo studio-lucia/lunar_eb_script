@@ -1,0 +1,212 @@
+File: M2A.GRP
+
+Messages: 16
+
+=== 0 | 1a578 | 2c ===
+[0xB][0][0xA]Threw the red dragon aura
+at the crystal![END]
+
+=== 1 | 1a5b4 | 317 ===
+[POR02]
+...bummer![BRK]
+
+How come nothing happened?[BRK]
+
+[POR05]
+Are you sure that you're the
+red dragon?[BRK]
+
+Maybe you're really just an
+annoying little flying cat.[BRK]
+
+[POR02]
+But...i'm supposed to be a
+red dragon...[BRK]
+
+[POR08]
+...ruby, don't be afraid to
+claim what is yours...[BRK]
+
+[POR02]
+What!? Lucia, i'm not scared
+of anything! What are you
+talking about?[BRK]
+
+[POR08]
+Your fear is what prevents
+the power from embracing
+you.[BRK]
+
+[POR02]
+...you can sense my
+feelings, can't you?[BRK]
+
+I just don't want to leave
+all of you if i change into
+the red dragon...[BRK]
+
+But i do have this strange
+feeling. I've seen the other
+dragons...[BRK]
+
+Something's changed inside 
+of me. I think i'm scared to
+grow up...[BRK]
+
+If...if i have to leave all
+of you, i don't want to 
+become an adult...[BRK]
+
+[POR01]
+....
+.....ruby![BRK]
+
+[POR02]
+Hiro, you finally found
+someone for you...[BRK]
+
+I...i know what i must
+do...
+
+[END]
+
+=== 2 | 1a8d4 | 1c9 ===
+[POR23]
+At last! I am the red
+dragon![BRK]
+
+[POR05]
+Whoa! I never knew you had
+it in ya, kid![BRK]
+
+You're the cutest dragon
+i've seen.[BRK]
+
+[POR08]
+You conquered your fear,
+ruby! Congratulations![BRK]
+
+[POR23]
+Thank you, lucia. I will
+fight to protect this world
+and the goddess.[BRK]
+
+Lucia, take care of hiro
+for me...okay?[BRK]
+
+[POR08]
+What!? What do you mean,
+ruby?[BRK]
+
+[POR23]
+You know what i mean, lucia.[BRK]
+
+[POR08]
+I...i...[BRK]
+
+....
+.....[BRK]
+
+[POR23]
+Now that all the dragons
+are released, we must
+assault pentagulia![BRK]
+
+The goddess awaits!
+[END]
+
+=== 3 | 1aaa0 | c0 ===
+[POR02]
+Ahhh! Back to traveling
+size![BRK]
+
+Now, if i can just get
+nall to show me that
+morphing trick![BRK]
+
+Anyway, here! Take this,
+hiro! You're gonna need
+it, i'm sure.[BRK]
+
+[POR00]
+[0xB][0][0x14]Received the red dragon
+crest![END]
+
+=== 4 | 1ab70 | f ===
+Red dragon lair[END]
+
+=== 5 | 1b348 | 206 ===
+[POR02]
+We've made it inside the red
+dragon's cave! Now i can
+finally become an adult.[BRK]
+
+I'm still a little scared,
+but i know i'm gonna do
+fine, right, hiro?[BRK]
+
+....
+.....[BRK]
+
+When nall sees me as an
+adult dragon, i wonder what
+he's going to say...[BRK]
+
+[POR05]
+Since when do you care what
+nall thinks about you,
+ruby?[BRK]
+
+Look out, hiro, i think your
+cat's ready to fly the coop![BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR02]
+Shut up, ronfar! [BRK]
+
+I couldn't care less what 
+nall thinks! I was just,
+uh......wondering...[BRK]
+
+[POR01]
+....
+.....[BRK]
+
+[POR02]
+Oh, forget it! Let's get
+moving again!
+[END]
+
+=== 6 | 1b558 | f ===
+Red dragon b1-a[END]
+
+=== 7 | 1c762 | f ===
+Red dragon b2-a[END]
+
+=== 8 | 1dc6e | 11 ===
+Red dragon lava 1[END]
+
+=== 9 | 1fb34 | f ===
+Red dragon b2-b[END]
+
+=== a | 21a64 | f ===
+Red dragon b2-c[END]
+
+=== b | 22cfc | 11 ===
+Red dragon lava 2[END]
+
+=== c | 253f6 | f ===
+Red dragon b2-e[END]
+
+=== d | 279fe | f ===
+Red dragon b1-b[END]
+
+=== e | 28b68 | f ===
+Red dragon b2-d[END]
+
+=== f | 293f0 | d ===
+Red dragon b3[END]
+
