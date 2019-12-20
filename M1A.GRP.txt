@@ -281,7 +281,7 @@ something to tell you.
 [END]
 
 === 11 | c46e | 10 ===
-Taben's peak 7Fe[END]
+Taben's peak 7FE[END]
 
 === 12 | cf02 | 22b ===
 [POR11]
