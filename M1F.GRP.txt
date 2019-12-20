@@ -848,8 +848,9 @@ New clothes!? But I've
 never worn any other![BRK]
 
 [POR10]
-Don't worry, Lucia, I'll help
-you find your style...[BRK]
+Don't worry, Lucia,
+I'll help you find
+your style...[BRK]
 
 [POR07]
 I'll help you too! I love
@@ -2795,8 +2796,9 @@ New clothes!? But I've
 never worn any other![BRK]
 
 [POR10]
-Don't worry, Lucia, I'll
-help you find your style...[BRK]
+Don't worry, Lucia,
+I'll help you find
+your style...[BRK]
 
 [POR07]
 I'll help you too! I love
