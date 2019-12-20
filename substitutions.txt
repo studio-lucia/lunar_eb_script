@@ -1,0 +1,442 @@
+#=============================
+# Lunar Eternal Blue Un-Worked Design patch substitution file
+# Format:
+# original | replacement;
+# The spaces before and after the "|" are mandatory.
+#
+# When substituting, the parser will try replacing any space
+# characters in the input with periods, newlines, etc., to try to
+# catch as many uses as possible.
+#
+# IMPORTANT: Strings are substituted in the order they are
+# listed in the file. If a shorter strings precedes a longer one
+# (e.g. "Althena" comes before "Goddess Althena"), the longer subtitution
+# will never occur because the shorter one will occur first.
+#=============================
+
+#=============================
+# Basic stuff
+#=============================
+
+# Pronouns: "I", "I'm", etc.
+i' | I';
+i  | I ;
+.i.  | .I. ;
+.i  | .I ;
+
+b1 | B1;
+b2 | B2;
+b3 | B3;
+b4 | B4;
+b5 | B5;
+b6 | B6;
+b7 | B7;
+b8 | B8;
+b9 | B9;
+b10 | B10;
+b11 | B11;
+b12 | B12;
+b13 | B13;
+b14 | B14;
+b15 | B15;
+
+1f | 1F;
+2f | 2F;
+3f | 3F;
+4f | 4F;
+5f | 5F;
+6f | 6F;
+7f | 7F;
+8f | 8F;
+9f | 9F;
+10f | 10F;
+11f | 11F;
+12f | 12F;
+13f | 13F;
+14f | 14F;
+15f | 15F;
+
+1a | 1A;
+1b | 1B;
+1c | 1C;
+1d | 1D;
+
+2a | 2A;
+2b | 2B;
+2c | 2C;
+2d | 2D;
+
+3a | 3A;
+3b | 3B;
+3c | 3C;
+3d | 3D;
+
+4a | 4A;
+4b | 4B;
+4c | 4C;
+4d | 4D;
+
+#=============================
+# People
+#=============================
+
+goddess althena | Goddess Althena;
+goddess crest | Goddess Crest;
+althena's guard | Althena's Guard;
+cult of althena | Cult of Althena;
+the cult | the Cult;
+knights of althena | Knights of Althena;
+four heroes of althena | Four Heroes of Althena;
+heroes of althena | Heroes of Althena;
+althena's cult | Althena's Cult;
+the althena cult | the Althena Cult;
+althena cult | Althena Cult;
+aura of althena | Aura of Althena;
+althena's tears | Althena's Tears;
+althena's white knight | Althena's White Knight;
+althena | Althena;
+
+'magic emperor ghaleon' | 'Magic Emperor Ghaleon';
+magic emperor ghaleon | Magic Emperor Ghaleon;
+the magic emperor | the Magic Emperor;
+master ghaleon | Master Ghaleon;
+ghaleon | Ghaleon;
+
+dragonmaster alex | Dragonmaster Alex;
+alex | Alex;
+
+luna | Luna;
+
+dragonmaster dyne | Dragonmaster Dyne;
+dyne | Dyne;
+
+lucia | Lucia;
+
+cult of zophar | Cult of Zophar;
+lord zophar | Lord Zophar;
+great master zophar | Great Master Zophar;
+black master zophar | Black Master Zophar;
+master zophar | Master Zophar;
+zophar's domain | Zophar's Domain;
+zophar's keep | Zophar's Keep;
+zophar's tower | Zophar's Tower;
+zophar's pinnacle | Zophar's Pinnacle;
+zophar's coliseum | Zophar's Coliseum;
+zophar's | Zophar's;
+zophar the destroyer | Zophar the Destroyer;
+zophar | Zophar;
+
+grandpa gwyn | Grandpa Gwyn;
+grandpa | Grandpa;
+gwyn | Gwyn;
+
+hiro | Hiro;
+
+ruby | Ruby;
+
+white knight leo | White Knight Leo;
+lord leo | Lord Leo;
+leo | Leo;
+
+ronfar | Ronfar;
+
+wanda | Wanda;
+
+red priest mauri | Red Priest Mauri;
+mauri | Mauri;
+
+karate master lunn | Karate Master Lunn;
+master lunn | Master Lunn;
+saint lunn | Saint Lunn;
+lunn | Lunn;
+
+grand black wizard borgan | Grand Black Wizard Borgan;
+trial of borgan | Trial of Borgan;
+borgan | Borgan;
+
+jean | Jean;
+
+giban | Giban;
+
+plantella's lair | Plantella's Lair;
+plantella | Plantella;
+
+the premier | the Premier;
+the junior premier | the Junior Premier;
+junior premier | Junior Premier;
+lemina | Lemina;
+
+harold | Harold;
+
+bulgy | Bulgy;
+
+ramus' wonder shop | Ramus' Wonder Shop;
+ramus' | Ramus';
+ramus | Ramus;
+
+# used as a verb too much
+#grant | Grant;
+
+nall | Nall;
+
+miria | Miria;
+
+nash | Nash;
+
+Jessica | Jessica;
+
+mia | Mia;
+
+mystere | Mystere;
+
+white dragon aura | White Dragon Aura;
+white dragon cave | White Dragon Cave;
+white dragon crest | White Dragon Crest;
+white dragon | White Dragon;
+
+aura of the blue dragon | Aura of the Blue Dragon;
+blue dragon aura | Blue Dragon Aura;
+sanctuary of the blue dragon | Sanctuary of the Blue Dragon;
+way of the blue dragon | Way of the Blue Dragon;
+crest of the blue dragon | Crest of the Blue Dragon;
+blue dragon karate | Blue Dragon Karate;
+blue dragon cult | Blue Dragon Cult;
+blue dragon | Blue Dragon;
+blue karate | Blue Karate;
+
+red dragon aura | Red Dragon Aura;
+red dragon crest | Red Dragon Crest;
+crest of the red dragon | Crest of the Red Dragon;
+red dragon's cave | Red Dragon's Cave;
+red dragon | Red Dragon;
+
+crest of the black dragon | Crest of the Black Dragon;
+black dragon diamond | Black Dragon Diamond;
+black dragon aura | Black Dragon Aura;
+black dragon's cave | Black Dragon's Cave;
+black dragon | Black Dragon;
+
+maruis zone | Maruis Zone;
+maruis | Maruis;
+
+wong dojo | Wong Dojo;
+wong- lee | Wong- Lee;
+wong-lee | Wong-Lee;
+
+sensei | Sensei;
+
+rachel | Rachel;
+
+#=============================
+# Places
+#=============================
+
+lunar | Lunar;
+
+blue star | Blue Star;
+blue spire | Blue Spire;
+blue spire entrance | Blue Spire Entrance;
+blue labyrinth | Blue Labyrinth;
+blue spire garden | Blue Spire Garden;
+the spire | the Spire;
+tower of blue | Tower of Blue;
+
+dragon ship destiny | Dragon Ship Destiny;
+dragonship destiny | Dragonship Destiny;
+destiny recovery room | Destiny Recovery Room;
+#destiny | Destiny;
+the destiny | the Destiny;
+dragon cannon | Dragon Cannon;
+
+hiro's house | Hiro's House;
+hiro's house b1 | Hiro's House B1;
+
+transmission room | Transmission Room;
+dragon tower ruins | Dragon Tower Ruins;
+dragon ruins | Dragon Ruins;
+goddess tower | Goddess Tower;
+the goddess | the Goddess;
+
+salyan desert | Salyan Desert;
+
+madoria plain | Madoria Plain;
+
+katarina zone | Katrarina Zone;
+eastern katarina | Eastern Katarina;
+
+pentagulia | Pentagulia;
+penta- gulia | Penta- gulia;
+
+larpa village | Larpa Village;
+larpa general store | Larpa General Store;
+larpa tavern | Larpa Tavern;
+larpa | Larpa;
+
+dalton general store | Dalton General Store;
+dalton pier | Dalton Pier;
+dalton | Dalton;
+blue note tavern | Blue Note Tavern;
+
+burg | Burg;
+
+forest of illusion | Forest of Illusion;
+ill woods clearing | Ill Woods Clearing;
+ill woods | Ill Woods;
+ill wood | Ill Wood;
+illusion wood | Illusion Wood;
+illusion woods | Illusion Woods;
+
+meribia | Meribia;
+
+takkar village | Takkar Village;
+takkar | Takkar;
+
+ghost manor attic | Ghost Manor Attic;
+ghost manor lobby | Ghost Manor Lobby;
+ghost manor | Ghost Manor;
+manor 1f ballroom | Manor 1F Ballroom;
+manor 1f room | Manor 1F Room;
+manor 1f hall | Manor 1F Hall;
+manor 2f room | Manor 2F Room;
+manor 2f hall | Manor 2F Hall;
+manor 3f room | Manor 3F Room;
+manor 3f hall | Manor 3F Hall;
+
+magic guild of vane | Magic Guild of Vane
+magic guild | Magic Guild;
+the guild | the Guild;
+neo- vane | Neo- Vane;
+# stupid stupid stupid
+Neo-vane | Neo-Vane;
+neo-vane | Neo-Vane;
+vane | Vane;
+
+nota | Nota;
+
+e bandit butte | E Bandit Butte;
+w bandit butte | W Bandit Butte;
+n bandit butte | S Bandit Butte;
+s bandit butte | S Bandit Butte;
+bandit butte | Bandit Butte;
+
+mystic ruins | Mystic Ruins;
+
+zulan village | Zulan Village;
+zulan | Zulan;
+
+azado tower | Azado Tower;
+azado | Azado;
+
+taben's peak | Taben's Peak;
+
+horam | Horam;
+
+cave of trial | Cave of Trial;
+neo-trial cave | Neo-Trial Cave;
+
+white tower | White Tower;
+blue tower | Blue Tower;
+red tower | Red Tower;
+black tower | Black Tower;
+
+north sea | North Sea;
+
+zen zone | Zen Zone;
+
+marius zone | Marius Zone;
+marius | Marius;
+
+zaback mine town | Zaback Mine Town;
+zaback mine | Zaback Mine;
+zaback | Zaback;
+
+minea sea | Minea Sea;
+
+lionhead | Lionhead;
+
+dragon's nest | Dragon's Nest;
+
+raculi | Raculi;
+
+serak palace | Serak Palace;
+
+star dragon's tower | Star Dragon's Tower;
+star dragon's spire | Star Dragon's Spire;
+star dragon tower | Star Dragon Tower;
+star tower | Star Tower;
+star dragon crystal | Star Dragon Crystal;
+star dragon | Star Dragon;
+
+dragon jewel | Dragon Jewel;
+dragon crystal | Dragon Crystal;
+
+#=============================
+# Items
+#=============================
+
+ancient knife | Ancient Knife;
+left dragon eye jewel | Left Dragon Eye Jewel;
+right dragon eye jewel | Right Dragon Eye Jewel;
+dragon eye jewel | Dragon Eye Jewel;
+dragon's eye jewel | Dragon's Eye Jewel;
+
+right dragon's eye | Right Dragon's Eye;
+left dragon's eye | Left Dragon's Eye;
+
+#=============================
+# Stuff
+#=============================
+
+the four dragons | the Four Dragons;
+
+dragonmaster | Dragonmaster;
+dragon- master | Dragon- master;
+
+priesthood | Priesthood;
+
+magic arrow | Magic Arrow;
+the arrow | the Arrow;
+
+black dragon aura | Black Dragon Aura;
+black dragon | Black Dragon;
+
+dragon kids | Dragon Kids;
+
+black karate of death | Black Karate of Death;
+
+tournament of death | Tournament of Death;
+
+silver | Silver;
+
+dragon aura | Dragon Aura;
+
+bunny karate dojo | Bunny Karate Dojo;
+bunny karate | Bunny Karate;
+
+drunken dojo | Drunken Dojo;
+drunk karate | Drunk Karate;
+drunken karate | Drunken Karate;
+
+fat boy dojo | Fat Boy Dojo;
+
+wind karate dojo | Wind Karate Dojo;
+gale karate | Gale Karate;
+wind karate | Wind Karate;
+
+armadillo dojo | Armadillo Dojo;
+armadillo karate | Armadillo Karate;
+
+wolf- pack karate dojo | Wolf- pack Karate Dojo;
+wolfpack karate dojo | Wolfpack Karate Dojo;
+wolf karate team | Wolf Karate Team;
+wolf karate | Wolf Karate;
+
+assassin karate | Assassin Karate;
+
+tunnels of carnage | Tunnels of Carnage;
+
+magic of blaze | Magic of Blaze;
+
+magic trial | Magic Trial;
+
+gravity bomb | Gravity Bomb;
