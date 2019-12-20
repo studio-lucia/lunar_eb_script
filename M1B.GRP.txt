@@ -109,9 +109,9 @@ Always asking questions...
 'where is the tower?',
 'Where is the tower?'[BRK]
 
-Geez! Just look up, for god's
-sake! It's the tallest thing
-here![BRK]
+Geez! Just look up, for
+god's sake! It's the tallest
+thing here![BRK]
 
 Man! I hate dealing with the
 public!
