@@ -195,7 +195,7 @@ smart![END]
 
 === 14 | 14e20 | 113 ===
 Lenny's found a new magic.
-It's called 'magic of Boom!'[BRK]
+It's called 'Magic of Boom!'[BRK]
 
 If'n anyone says bad things
 'bout Lenny, Lenny'll use
