@@ -1,6 +1,6 @@
 File: M04.GRP
 
-Messages: 303
+Messages: 304
 
 === 0 | c3a0 | 101 ===
 [POR10]
@@ -785,12 +785,7 @@ leaving, you'd better be
 stocked up on supplies.[BRK]
 
 It's a long and treacherous
-mountain road from here.
-
-
-
-
-[END]
+mountain road from here.[END]
 
 === 47 | 10f3c | 9d ===
 Ho, traveler! I'm sure you'll
@@ -799,11 +794,7 @@ convenient town around.[BRK]
 
 We're easy to find and have
 everything you could want
-in the way of supplies.
-
-
-
-[END]
+in the way of supplies.[END]
 
 === 48 | 10fec | 4a ===
 Yes, yes! Come on in! The
@@ -830,9 +821,7 @@ than a fat chick.[BRK]
 [POR02]
 I don't care, you rude dog!
 Hiro, can we go in and just
-try one?...Pleaaase?
-
-[END]
+try one?...Pleaaase?[END]
 
 === 4a | 1117a | db ===
 Come on in...come on in!
@@ -915,9 +904,7 @@ thing you've ever heard?[BRK]
 
 [POR02]
 Uh...Get that thing away
-from me, you freak!
-
-[END]
+from me, you freak![END]
 
 === 50 | 11686 | 100 ===
 Say there, miss. Can I
@@ -1009,12 +996,7 @@ right here![BRK]
 
 [POR02]
 ...Uh...Hiro...W-We didn't
-eat those...did we?
-
-
-
-
-[END]
+eat those...did we?[END]
 
 === 58 | 11c66 | 61 ===
 [POR09]
@@ -1039,9 +1021,7 @@ and me...[BRK]
 
 I'm overstocked on these
 things since most people
-don't like Lord Leo.
-
-[END]
+don't like Lord Leo.[END]
 
 === 5a | 11dde | 6b ===
 Care to take a few Destiny
@@ -1562,14 +1542,7 @@ is only tradesmen's rumors.[BRK]
 There's probably nothing
 to worry about.[BRK]
 
-...'Least I hope not.
-
-
-
-
-
-
-[END]
+...'Least I hope not.[END]
 
 === 98 | 165e2 | 85 ===
 Say, I'm glad to hear that
@@ -2538,7 +2511,20 @@ all things tranquil.[BRK]
 I'm sure she'll appreciate
 your donation, also.[END]
 
-=== ef | 1b9a0 | ac ===
+=== ef | 1b91f | 6f ===
+[0][0x10]
+N[0xC0][0xC0][BRK]
+
+[0][0][0]D[0x10][0]0[0x10]e[0][0xC0][BRK]
+
+[0][0][0]Dp[0][0xC0][0x4][0][0][0xC0][BRK]
+
+ P[POR02]
+Hey! What are you doing?!
+These guys are obviously
+frauds! Don't help them![END]
+
+=== f0 | 1b9a0 | ac ===
 Ah, your eyes are yet
 clouded to the true peace
 of Althena's service.[BRK]
@@ -2550,7 +2536,7 @@ your soul...[BRK]
 I think you'll feel better,
 don't you?[END]
 
-=== f0 | 1ba64 | 166 ===
+=== f1 | 1ba64 | 166 ===
 Welcome to the shrine of
 Althena! We are always open
 for donations.[BRK]
@@ -2577,7 +2563,7 @@ old habits dying hard and
 all that...
 [END]
 
-=== f1 | 1bbe2 | 106 ===
+=== f2 | 1bbe2 | 106 ===
 Since I was serving in the
 fake Althena Cult, my
 name is mud.[BRK]
@@ -2596,7 +2582,7 @@ I've got one word for you.[BRK]
 Lithium. Look it up.
 [END]
 
-=== f2 | 1bcf6 | 99 ===
+=== f3 | 1bcf6 | 99 ===
 [POR07]
 Mental problems aside, this
 guy's got years of money
@@ -2606,7 +2592,7 @@ I'm sure I could put him to
 work collecting donations
 for the Magic Guild.[END]
 
-=== f3 | 1bda2 | b5 ===
+=== f4 | 1bda2 | b5 ===
 Have you come here to
 give of your earnings?[BRK]
 
@@ -2618,18 +2604,18 @@ Someday, they will build a
 great sanctuary here in
 Nota...if we're worthy.[END]
 
-=== f4 | 1be6e | 47 ===
+=== f5 | 1be6e | 47 ===
 If only more people would
 sacrifice their monetary
 assets to Althena...[END]
 
-=== f5 | 1bec8 | 4a ===
+=== f6 | 1bec8 | 4a ===
 The Knights of Althena are
 very persuasive, but I'm
 beginning to doubt...
 [END]
 
-=== f6 | 1bf22 | c1 ===
+=== f7 | 1bf22 | c1 ===
 It's so sad that the Knights
 of Althena turned out to be
 a fraud.[BRK]
@@ -2642,10 +2628,10 @@ Turns out that they were
 serving a false Althena!
 I should have known...[END]
 
-=== f7 | 1bfe8 | 11 ===
+=== f8 | 1bfe8 | 11 ===
 Nota Shrine House[END]
 
-=== f8 | 1c6b2 | c2 ===
+=== f9 | 1c6b2 | c2 ===
 My! If that isn't the cutest
 little kitty-cat I've ever
 seen! Is it for sale?[BRK]
@@ -2659,7 +2645,7 @@ sale...Hrmph! I'll show you,
 cute lady!
 [END]
 
-=== f9 | 1c790 | ae ===
+=== fa | 1c790 | ae ===
 Awww, your kitty's not for
 sale?[BRK]
 
@@ -2672,13 +2658,13 @@ Ruby's no object, either!
 Don't you understand? I
 can't be bought![END]
 
-=== fa | 1c84c | 4c ===
+=== fb | 1c84c | 4c ===
 [POR05]
 Hey! There, there, Ruby.
 Simmer down, we don't want
 another burn lawsuit.[END]
 
-=== fb | 1c8b4 | 8c ===
+=== fc | 1c8b4 | 8c ===
 Hrmph! Well, if you won't
 sell me the cat, I guess
 there's nothing I can do.[BRK]
@@ -2687,7 +2673,7 @@ Maybe I'll go out and buy
 myself a nice new fur coat
 instead...[END]
 
-=== fc | 1c954 | 165 ===
+=== fd | 1c954 | 165 ===
 I heard through the grape-
 vine that your kitty is
 not a cat at all.[BRK]
@@ -2710,7 +2696,7 @@ adult female.[BRK]
 Get a clue! I'm not for
 sale, lady![END]
 
-=== fd | 1cac6 | 61 ===
+=== fe | 1cac6 | 61 ===
 [POR07]
 Oh Ruby! Be polite! Didn't
 you hear? She said she'd
@@ -2718,7 +2704,7 @@ give us everything she owns![BRK]
 
 We'd be rich![END]
 
-=== fe | 1cb3e | 9b ===
+=== ff | 1cb3e | 9b ===
 Well, I never! You are the
 rudest little dragon-cat
 I've ever known![BRK]
@@ -2728,7 +2714,7 @@ Oh, what a genius statement!
 I'm probably the only dragon
 you've ever known, idiot![END]
 
-=== ff | 1cbec | 91 ===
+=== 100 | 1cbec | 91 ===
 Hey, I've got some info for
 you! The Althena Cult has
 made a shrine in a house.[BRK]
@@ -2737,14 +2723,14 @@ Be careful, though. If you
 go there, they'll hound you
 for money![END]
 
-=== 100 | 1cc94 | 56 ===
+=== 101 | 1cc94 | 56 ===
 Those stinkin' cult members
 are just way too noisy![BRK]
 
 I wonder if Althena would
 approve?[END]
 
-=== 101 | 1ccfe | 76 ===
+=== 102 | 1ccfe | 76 ===
 I heard that the Dragonship
 Destiny was destroyed by
 lightning from heaven![BRK]
@@ -2753,7 +2739,7 @@ I wonder if that's a sign
 from Althena...
 [END]
 
-=== 102 | 1cd84 | d4 ===
+=== 103 | 1cd84 | d4 ===
 It seems like the Priesthood
 of Althena has changed for
 the better recently.[BRK]
@@ -2766,7 +2752,7 @@ I think it's more like the
 message Althena wants us to
 hear...[END]
 
-=== 103 | 1ce68 | 8d ===
+=== 104 | 1ce68 | 8d ===
 I'm traveling around the
 country getting plastered
 at all the bars of note.[BRK]
@@ -2776,7 +2762,7 @@ fine ale.[BRK]
 
 I...think I'll have another![END]
 
-=== 104 | 1cf08 | 8f ===
+=== 105 | 1cf08 | 8f ===
 I heard that the bridge to
 the other side of town was
 blocked.[BRK]
@@ -2787,7 +2773,7 @@ have another mug! [BRK]
 
 Bottoms up![END]
 
-=== 105 | 1cfaa | 6f ===
+=== 106 | 1cfaa | 6f ===
 Hey, now that the bridge is
 fixed, I can continue my
 odyssey...[BRK]
@@ -2795,12 +2781,12 @@ odyssey...[BRK]
 ...right after I polish off
 one for the road...[END]
 
-=== 106 | 1d028 | 49 ===
+=== 107 | 1d028 | 49 ===
 Hey! Let's toss back a round
 in honor of the heroes that
 saved the world![END]
 
-=== 107 | 1d080 | 9b ===
+=== 108 | 1d080 | 9b ===
 Hrmph![BRK]
 
 The priests of the Althena
@@ -2811,7 +2797,7 @@ But if Althena lives in our
 heart, then why should we
 give money to them?![END]
 
-=== 108 | 1d12e | 92 ===
+=== 109 | 1d12e | 92 ===
 I heard that the Althena
 Cult is looking for a des-
 troyer who's among us...[BRK]
@@ -2820,7 +2806,7 @@ If Althena is truly guiding
 them, why can't they find
 this destroyer?[END]
 
-=== 109 | 1d1d4 | 7e ===
+=== 10a | 1d1d4 | 7e ===
 Hey there, strangers!
 Welcome to Nota's tavern![BRK]
 
@@ -2828,7 +2814,7 @@ We're the best darn watering
 hole in the area! Sit down
 and take a load off...[END]
 
-=== 10a | 1d26a | b7 ===
+=== 10b | 1d26a | b7 ===
 Welcome to the Nota Tavern!
 We have the best service
 you'll ever find.[BRK]
@@ -2841,7 +2827,7 @@ Just ask.[BRK]
 Uh, is she saying what I
 think she's saying???[END]
 
-=== 10b | 1d334 | 88 ===
+=== 10c | 1d334 | 88 ===
 Thanks to the blockage of
 Nota's bridge, our business
 is booming![BRK]
@@ -2850,14 +2836,14 @@ People are stuck here and
 drinking like fish until
 the bridge reopens.[END]
 
-=== 10c | 1d3d0 | 64 ===
+=== 10d | 1d3d0 | 64 ===
 Sit right down and have a
 drink to ease your worries.[BRK]
 
 There's nothing better than
 Nota's famous ale![END]
 
-=== 10d | 1d444 | e2 ===
+=== 10e | 1d444 | e2 ===
 Come in! Come in! Sit down
 and relax. My name is Bunne,
 and I'm your hostess.[BRK]
@@ -2871,7 +2857,7 @@ Uh, Hiro...We better get out
 of here before you get in
 trouble![END]
 
-=== 10e | 1d53a | 96 ===
+=== 10f | 1d53a | 96 ===
 Say, what's a nice buncha
 kids like you doin' in a 
 dive like this?[BRK]
@@ -2884,14 +2870,14 @@ no kid![BRK]
 Maybe she was just watching
 how you act...[END]
 
-=== 10f | 1d5e8 | 6b ===
+=== 110 | 1d5e8 | 6b ===
 Say kiddos, go see the world
 while ya got the chance.[BRK]
 
 Otherwise, you'll end up in
 a dead-end job like this.[END]
 
-=== 110 | 1d666 | 92 ===
+=== 111 | 1d666 | 92 ===
 I heard that Lord Leo
 blocked the bridge to stop
 the destroyer from escaping.[BRK]
@@ -2900,7 +2886,7 @@ I'd be mad, but he's just so
 darned sexy...What a hunk!
 Hooohmmmm...[END]
 
-=== 111 | 1d70c | 5f ===
+=== 112 | 1d70c | 5f ===
 Welcome to Nota's tavern,
 kids. What can I get for
 ya? A virgin daiquiri?[BRK]
@@ -2908,7 +2894,7 @@ ya? A virgin daiquiri?[BRK]
 Or perhaps a virgin?
 [END]
 
-=== 112 | 1d77e | 70 ===
+=== 113 | 1d77e | 70 ===
 You've come to the right
 place to relax.[BRK]
 
@@ -2916,13 +2902,13 @@ Nota Tavern is the best
 in the business. World
 renowned for its tonics![END]
 
-=== 113 | 1d806 | 48 ===
+=== 114 | 1d806 | 48 ===
 If you give me a big tip,
 I'm all yours, honey.[BRK]
 
 Service is my specialty![END]
 
-=== 114 | 1d85e | 93 ===
+=== 115 | 1d85e | 93 ===
 My house is across the
 river, but I'm on this side
 of town on business.[BRK]
@@ -2931,7 +2917,7 @@ I like this joint. The
 ladies here are more risque
 than at my local tavern.[END]
 
-=== 115 | 1d908 | 56 ===
+=== 116 | 1d908 | 56 ===
 Why don't they open a
 tavern like this in western
 Nota?[BRK]
@@ -2939,12 +2925,12 @@ Nota?[BRK]
 They'd be raking in the
 bucks![END]
 
-=== 116 | 1d97a | 2e ===
+=== 117 | 1d97a | 2e ===
 I'm an anarchist. My motto?[BRK]
 
 World peace sucks.[END]
 
-=== 117 | 1d9bc | 69 ===
+=== 118 | 1d9bc | 69 ===
 Eh he he he! These ladies
 are so beautiful and 
 flirtatious...[BRK]
@@ -2952,12 +2938,12 @@ flirtatious...[BRK]
 I wish I could take one
 of 'em home and...[END]
 
-=== 118 | 1da3c | 4a ===
+=== 119 | 1da3c | 4a ===
 Eh he he he! This is the
 only place a loser like me
 can get his jollies...[END]
 
-=== 119 | 1da9a | a6 ===
+=== 11a | 1da9a | a6 ===
 Outside it's noisy and
 dangerous because of the
 Cult and the destroyer.[BRK]
@@ -2968,7 +2954,7 @@ died and gone to heaven![BRK]
 
 Eh he he he![END]
 
-=== 11a | 1db54 | 96 ===
+=== 11b | 1db54 | 96 ===
 Eh he he he! She wants me,
 I know it.[BRK]
 
@@ -2979,7 +2965,7 @@ they know it.[BRK]
 They just slap my face to
 hide their lust...[END]
 
-=== 11b | 1dbfa | d2 ===
+=== 11c | 1dbfa | d2 ===
 Ever since the world was
 saved, the ladies here seem
 somehow tamer...[BRK]
@@ -2992,62 +2978,62 @@ If that makes me a perverse
 person, devoid of any
 humanity...so be it![END]
 
-=== 11c | 1dcd2 | a ===
+=== 11d | 1dcd2 | a ===
 Nota - Bar[END]
 
-=== 11d | 1e364 | 45 ===
+=== 11e | 1e364 | 45 ===
 There are many weapon shops
 around, but this one is top-
 of-the-heap![END]
 
-=== 11e | 1e3b2 | c ===
+=== 11f | 1e3b2 | c ===
 Hey, thanks![END]
 
-=== 11f | 1e3c4 | 50 ===
+=== 120 | 1e3c4 | 50 ===
 If you're looking for armor,
 you came to the right place!
 What can I do for you?[END]
 
-=== 120 | 1e41e | 13 ===
+=== 121 | 1e41e | 13 ===
 Thanks. Come again.[END]
 
-=== 121 | 1e436 | 4f ===
+=== 122 | 1e436 | 4f ===
 Ya won't find a betta item
 shop within 5000 miles uh
 here. What's yer pleasure?[END]
 
-=== 122 | 1e48e | 19 ===
+=== 123 | 1e48e | 19 ===
 Say, ya'll come back now![END]
 
-=== 123 | 1e4ac | b ===
+=== 124 | 1e4ac | b ===
 Nota Bazaar[END]
 
-=== 124 | 1ed12 | 3b ===
+=== 125 | 1ed12 | 3b ===
 Glad you stopped by my
 item shop today. How can
 I help you?[END]
 
-=== 125 | 1ed56 | 30 ===
+=== 126 | 1ed56 | 30 ===
 Thanks for stopping by
 today. Please come again![END]
 
-=== 126 | 1ed8c | e ===
+=== 127 | 1ed8c | e ===
 Nota Item Shop[END]
 
-=== 127 | 1f3f8 | 43 ===
+=== 128 | 1f3f8 | 43 ===
 Hello there! Come closer,
 come closer! What can I
 do for you today?[END]
 
-=== 128 | 1f444 | 4e ===
+=== 129 | 1f444 | 4e ===
 Be careful out there...and
 hey, remember us for all
 your armor needs, ya hear?[END]
 
-=== 129 | 1f498 | f ===
+=== 12a | 1f498 | f ===
 Nota Armor Shop[END]
 
-=== 12a | 1fb76 | 5f ===
+=== 12b | 1fb76 | 5f ===
 [POR02]
 W...What the heck???[BRK]
 
@@ -3056,7 +3042,7 @@ the Dragonship Destiny![BRK]
 
 Let's get out of here![END]
 
-=== 12b | 1fbd8 | 7b ===
+=== 12c | 1fbd8 | 7b ===
 [POR09]
 Not so fast, little ones.[BRK]
 
@@ -3066,7 +3052,7 @@ my grasp again.[BRK]
 
 Men, restrain our friends.[END]
 
-=== 12c | 1fc56 | 7c ===
+=== 12d | 1fc56 | 7c ===
 Sir, we've secured the
 prisoners. What shall we
 do now?[BRK]
@@ -3076,7 +3062,7 @@ Wait right there. I'll be
 right up to inspect our
 little 'catch.'[END]
 
-=== 12d | 1fcd6 | 134 ===
+=== 12e | 1fcd6 | 134 ===
 [ROR10]
 Uh, Hiro, is there something
 you haven't told me?[BRK]
@@ -3100,6 +3086,6 @@ mess, and fast...[BRK]
 
 Let's make a run for it![END]
 
-=== 12e | 1fe20 | c ===
+=== 12f | 1fe20 | c ===
 Nota Village[END]
 
