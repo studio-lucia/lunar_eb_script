@@ -5,7 +5,7 @@ Messages: 139
 === 0 | 14296 | 7f ===
 Halt! You have no business
 aboard the dragon steam-
-ship destiny![BRK]
+ship Destiny![BRK]
 
 You'd better leave before
 Lord Leo returns from
@@ -276,7 +276,7 @@ Ha ha ha. I know many
 things, my dear.[BRK]
 
 I also know that you now 
-control the Destiny of your
+control the destiny of your
 little Hiro.[BRK]
 
 Go to Pentagulia and finish
@@ -696,7 +696,7 @@ charming!
 [END]
 
 === 25 | 1674c | 13 ===
-Dragonship destiny
+Dragonship Destiny
 [END]
 
 === 26 | 17090 | 35 ===
@@ -1016,7 +1016,7 @@ all soldiers must leave
 the Destiny at once![END]
 
 === 49 | 183de | e ===
-The destiny B1[END]
+The Destiny B1[END]
 
 === 4a | 1968e | 48 ===
 You don't have proper
@@ -1234,7 +1234,7 @@ city name means?[END]
 
 === 61 | 1a3d4 | 51 ===
 I told you we'd get here in
-no time flat! The destiny is
+no time flat! The Destiny is
 the fastest ship around![END]
 
 === 62 | 1a438 | 57 ===
@@ -1294,7 +1294,7 @@ look out below![BRK]
 Some adventurers, huh?[END]
 
 === 68 | 1a7ba | e ===
-The destiny B2[END]
+The Destiny B2[END]
 
 === 69 | 1b860 | 1f ===
 [POR02]
@@ -1644,7 +1644,7 @@ by crossing through the
 Forest of Illusion.[END]
 
 === 83 | 1cad4 | e ===
-The destiny B3[END]
+The Destiny B3[END]
 
 === 84 | 1da56 | 15 ===
 Destiny recovery room[END]

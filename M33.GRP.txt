@@ -5,7 +5,7 @@ Messages: 76
 === 0 | 7354 | 7f ===
 Halt! You have no business
 aboard the dragon steam-
-ship destiny![BRK]
+ship Destiny![BRK]
 
 You'd better leave before
 Lord Leo returns from
@@ -275,7 +275,7 @@ Ha ha ha. I know many
 things, my dear.[BRK]
 
 I also know that you now 
-control the Destiny of your
+control the destiny of your
 little Hiro.[BRK]
 
 Go to Pentagulia and finish
@@ -695,13 +695,13 @@ charming!
 [END]
 
 === 25 | 980a | 13 ===
-Dragonship destiny
+Dragonship Destiny
 [END]
 
 === 26 | a128 | 7f ===
 Halt! You have no business
 aboard the dragon steam-
-ship destiny![BRK]
+ship Destiny![BRK]
 
 You'd better leave before
 Lord Leo returns from
@@ -973,7 +973,7 @@ Ha ha ha. I know many
 things, my dear.[BRK]
 
 I also know that you now 
-control the Destiny of your
+control the destiny of your
 little Hiro.[BRK]
 
 Go to Pentagulia and finish
@@ -1393,6 +1393,6 @@ charming!
 [END]
 
 === 4b | c5de | 13 ===
-Dragonship destiny
+Dragonship Destiny
 [END]
 

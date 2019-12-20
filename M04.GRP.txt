@@ -1044,7 +1044,7 @@ don't like Lord Leo.
 [END]
 
 === 5a | 11dde | 6b ===
-Care to take a few destiny
+Care to take a few Destiny
 models off my hands?[BRK]
 
 I'll throw in a Mauri
@@ -1964,7 +1964,7 @@ The Althena Cult is a
 terrible blight on humanity,[BRK]
 
 but the dragon steamship
-destiny that they use is
+Destiny that they use is
 the bee's knees![BRK]
 
 I almost want to join those
@@ -2023,7 +2023,7 @@ be broken, weren't they?[END]
 === c1 | 18b04 | 6a ===
 Say, did you hear the rumor
 about the dragon steamship
-destiny?
+Destiny?
 [0x5]Yeah, it's all over town.
 No, what is it?[END]
 

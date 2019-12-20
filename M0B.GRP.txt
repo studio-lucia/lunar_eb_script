@@ -1274,7 +1274,7 @@ ship's just incredible![END]
 
 === 89 | 14504 | 58 ===
 Have you seen the dragon-
-ship destiny?[BRK]
+ship Destiny?[BRK]
 
 That is the most incredible
 ship I've ever seen![END]

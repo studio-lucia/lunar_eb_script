@@ -1329,7 +1329,7 @@ Please let me fight at your
 side as a fellow crusader
 for justice![BRK]
 
-The destiny awaits...please
+The Destiny awaits...please
 consider my request.
 [END]
 

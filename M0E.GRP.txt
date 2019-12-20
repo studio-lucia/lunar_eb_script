@@ -496,7 +496,7 @@ Dalton[END]
 === 2d | 9dca | 7f ===
 Halt! You have no business
 aboard the dragon steam-
-ship destiny![BRK]
+ship Destiny![BRK]
 
 You'd better leave before
 Lord Leo returns from
@@ -767,7 +767,7 @@ Ha ha ha. I know many
 things, my dear.[BRK]
 
 I also know that you now 
-control the Destiny of your
+control the destiny of your
 little Hiro.[BRK]
 
 Go to Pentagulia and finish
@@ -1188,7 +1188,7 @@ charming!
 [END]
 
 === 52 | c280 | 13 ===
-Dragonship destiny
+Dragonship Destiny
 [END]
 
 === 53 | d11a | 62 ===
@@ -1235,5 +1235,5 @@ Guards! Take this pathetic
 fraud to the brig.[END]
 
 === 58 | d322 | 13 ===
-Dalton destiny deck[END]
+Dalton Destiny deck[END]
 
