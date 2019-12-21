@@ -1917,7 +1917,7 @@ Destiny that they use is
 the bee's knees![BRK]
 
 I almost want to join those
-Lunatics so I can ride on
+lunatics so I can ride on
 the thing! Don't you?[END]
 
 === be | 187f4 | 52 ===
