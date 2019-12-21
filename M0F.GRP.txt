@@ -934,7 +934,7 @@ Ha! Told ta! Marvin tries
 to keep all the animals
 he finds.[BRK]
 
-The guy's a raving Lunatic!
+The guy's a raving lunatic!
 Be patient, though. He gets
 bored of 'em pretty easy.[END]
 
