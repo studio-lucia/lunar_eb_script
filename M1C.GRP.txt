@@ -14,8 +14,7 @@ gap down the mountain?[BRK]
 
 If so, we might be able to 
 get across. Let's go check
-it out!
-[END]
+it out![END]
 
 === 1 | 16888 | 13 ===
 Snow Cave Left Side[END]
@@ -44,9 +43,7 @@ Oh, Hiro! I'm so happy
 you're awake again...[BRK]
 
 Please be still. I must
-heal your wounds...
-
-[END]
+heal your wounds...[END]
 
 === 7 | 20f0a | 290 ===
 [POR08]
@@ -142,8 +139,7 @@ remember was Ruby screaming
 as the snow washed over us.[BRK]
 
 I can't believe I'm still
-alive! Thank you!
-[END]
+alive! Thank you![END]
 
 === b | 21498 | ba ===
 [POR07]

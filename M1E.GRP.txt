@@ -26,8 +26,7 @@ excuses, son...[BRK]
 
 Why don't you get off your
 lazy butt and do something
-to stop this foe?
-[END]
+to stop this foe?[END]
 
 === 2 | 835c | 167 ===
 I'm tired of looking at your
@@ -57,8 +56,7 @@ You actually did something
 I told ya![BRK]
 
 I'm really quite proud of
-ya, lad...
-[END]
+ya, lad...[END]
 
 === 4 | 8548 | 65 ===
 [POR05]
@@ -97,8 +95,7 @@ Hehe...Why don't you pull
 my finger?[BRK]
 
 [POR02]
-Uh...no thanks.
-[END]
+Uh...no thanks.[END]
 
 === 7 | 8776 | f0 ===
 This is the road that leads
@@ -203,8 +200,7 @@ have come already for you
 two...[BRK]
 
 You look a little too rosy,
-if ya ask me!
-[END]
+if ya ask me![END]
 
 === f | 8dd0 | 136 ===
 Aren't you guys freezing?
@@ -345,12 +341,7 @@ to turn this place into...[BRK]
 a nice little tourist trap.[BRK]
 
 By tripling our prices,
-we'll really rake it in.
-
-
-
-
-[END]
+we'll really rake it in.[END]
 
 === 1b | 96c4 | 89 ===
 [POR07]
@@ -423,8 +414,7 @@ charge you like 1,000s an
 hour...[BRK]
 
 You know...Union and all
-that...
-[END]
+that...[END]
 
 === 1e | 9a9e | 131 ===
 I've had enough of this 
@@ -445,11 +435,7 @@ I'll be pickin'...peelin'...
 .....[BRK]
 
 ...But at least there'll be
-no more of this damned snow!
-
-
-
-[END]
+no more of this damned snow![END]
 
 === 1f | 9bde | 64 ===
 I've already made my plans
@@ -581,8 +567,7 @@ your opinion![BRK]
 Besides my business is going
 to make me filthy rich.[BRK]
 
-Just wait...You'll see...
-[END]
+Just wait...You'll see...[END]
 
 === 2a | a486 | 6b ===
 This monster thing is 
@@ -662,8 +647,7 @@ Man, oh man...I can't wait
 'til this summer![BRK]
 
 The bods, the studs,
-the sun...Wow!
-[END]
+the sun...Wow![END]
 
 === 33 | a98c | 26 ===
 Heelllp meee! My butt is
@@ -678,8 +662,7 @@ Thank you!![END]
 === 35 | aa1a | 4b ===
 I'm getting tired of that
 stupid girl running back
-and forth all the time!
-[END]
+and forth all the time![END]
 
 === 36 | aa84 | 76 ===
 I've been trying to get to
@@ -692,8 +675,7 @@ don't understand women...[END]
 === 37 | ab08 | 38 ===
 [POR05]
 Don't worry, kid. There's
-not a man alive that does.
-[END]
+not a man alive that does.[END]
 
 === 38 | ab60 | 4b ===
 I've been reading books 
@@ -728,8 +710,7 @@ Come on, talk to Johnny![BRK]
 
 [POR05]
 Geez, the dumb games kids
-play nowadays...
-[END]
+play nowadays...[END]
 
 === 3b | ad3e | 2e ===
 Do you want these people to
@@ -840,9 +821,7 @@ shorts.[BRK]
 
 [POR02]
 You stupid hicks deserve
-to live in an icebox!
-
-[END]
+to live in an icebox![END]
 
 === 49 | b454 | 71 ===
 Take a breath of that cool
@@ -1041,9 +1020,7 @@ please do it for my grand-
 daughter...[BRK]
 
 She's all I have left. Will
-you please help us?
-
-[END]
+you please help us?[END]
 
 === 5c | e236 | 34 ===
 [0x5]That beast is history!
@@ -1077,9 +1054,7 @@ My mission is too important.
 I suppose this is to be
 our good-bye...[BRK]
 
-...Thank you...
-
-[END]
+...Thank you...[END]
 
 === 5f | e44c | 18e ===
 [POR02]
@@ -1110,9 +1085,7 @@ to expect inside,[BRK]
 
 but everyone who's been
 inside has come back with
-only sketchy details.
-
-[END]
+only sketchy details.[END]
 
 === 60 | e5f0 | 9c ===
 Then I guess the death toll
@@ -1214,8 +1187,7 @@ Ramus is nothing but a
 moneymaking machine.[BRK]
 
 The kid's got a brain
-for bucks...
-[END]
+for bucks...[END]
 
 === 69 | ec2a | 3e ===
 [POR07]
@@ -1236,10 +1208,7 @@ to death...[BRK]
 
 And she's got a very high
 temperature. I don't think
-she's going to make it...
-
-
-[END]
+she's going to make it...[END]
 
 === 6b | ed5a | 6a ===
 P-P-P-Please...you...
@@ -1248,9 +1217,7 @@ help...m-m-me...[BRK]
 
 [POR02]
 Come on, we've got to
-save this girl!!
-
-[END]
+save this girl!![END]
 
 === 6c | eddc | 70 ===
 My head doesn't feel so
@@ -1291,9 +1258,7 @@ Why isn't she with you
 anymore?[BRK]
 
 [POR02]
-She's...gone...
-
-[END]
+She's...gone...[END]
 
 === 70 | f016 | 7a ===
 This is the mayor's house.
@@ -1301,8 +1266,7 @@ But he hasn't been outside
 in days...[BRK]
 
 I think it has something to
-do with his granddaughter...
-[END]
+do with his granddaughter...[END]
 
 === 71 | f0a4 | b2 ===
 So the old man talked you
@@ -1361,8 +1325,7 @@ to the Goddess to help us
 find a cure...[BRK]
 
 Yet my prayers still go
-unanswered...
-[END]
+unanswered...[END]
 
 === 78 | f41c | 74 ===
 Ohh, the Goddess has finally
@@ -1392,8 +1355,7 @@ would've done if she'd
 died...[BRK]
 
 But thanks to you, I don't
-have to think about that.
-[END]
+have to think about that.[END]
 
 === 7b | f600 | da ===
 Damn that monster! If he'd
@@ -1415,8 +1377,7 @@ without me...[BRK]
 
 Why don't you wait until I
 feel better? Then I can go
-with you.
-[END]
+with you.[END]
 
 === 7d | f786 | 72 ===
 What!? You defeated the
@@ -1455,8 +1416,7 @@ If you killed it...[BRK]
 
 It was because it died
 laughing at you, you sorry
-excuse for a man.
-[END]
+excuse for a man.[END]
 
 === 81 | f9a2 | 83 ===
 I've killed a bear with my
@@ -1498,8 +1458,7 @@ I don't think I'll ever get
 better!![BRK]
 
 ...I really hate that 
-monster.
-[END]
+monster.[END]
 
 === 86 | fc2c | 6d ===
 If I could've killed that
@@ -1542,8 +1501,7 @@ trying to run away from it.[BRK]
 ....
 .....[BRK]
 
-I knew it!! You coward!!
-[END]
+I knew it!! You coward!![END]
 
 === 89 | fe9e | 67 ===
 Please promise me that you

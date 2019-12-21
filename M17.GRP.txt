@@ -9,8 +9,7 @@ isn't the forest! Where'd
 you learn to navigate?[BRK]
 
 Your sense of direction
-could use a little work.
-[END]
+could use a little work.[END]
 
 === 1 | 1974a | 73 ===
 [POR02]
@@ -42,8 +41,7 @@ Eye Jewel.[END]
 Ha! Look, Hiro! We did it!
 Now we can get inside.[BRK]
 
-We're some team, huh?
-[END]
+We're some team, huh?[END]
 
 === 5 | 1995e | 26 ===
 [0xB][0][0xD]Inserted the Left Dragon
@@ -289,8 +287,7 @@ Star,[BRK]
 
 and some day, maybe our two
 worlds will finally be
-united again...
-[END]
+united again...[END]
 
 === 18 | 1e38e | 4d ===
 Then show me the strength
@@ -339,8 +336,7 @@ before us![BRK]
 
 ...I...guess this is where
 we have to say good-bye,
-isn't it?
-[END]
+isn't it?[END]
 
 === 1c | 1eeda | 138 ===
 [POR02]
@@ -362,8 +358,7 @@ Know that if there is a
 way to come back to see
 you, I'll find it![BRK]
 
-Take care of yourself!
-[END]
+Take care of yourself![END]
 
 === 1d | 1f03a | 18d ===
 [POR05]
@@ -394,13 +389,7 @@ Lucia's waiting.[BRK]
 Go get her, tiger![BRK]
 
 [POR01]
-Uh...thanks, Ronfar.
-
-
-
-
-
-[END]
+Uh...thanks, Ronfar.[END]
 
 === 1e | 1f1ee | 130 ===
 [POR10]
@@ -421,8 +410,7 @@ can always dance your way
 out like I taught you![BRK]
 
 [POR01]
-Hehe. Thanks, Jean.
-[END]
+Hehe. Thanks, Jean.[END]
 
 === 1f | 1f346 | 106 ===
 [POR07]
@@ -461,8 +449,7 @@ I hope you come back to
 see it.[BRK]
 
 [POR01]
-I will, Leo. I promise.
-[END]
+I will, Leo. I promise.[END]
 
 === 21 | 1f582 | 4d ===
 [POR02]

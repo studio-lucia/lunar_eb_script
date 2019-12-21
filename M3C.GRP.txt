@@ -48,8 +48,7 @@ You must try...[BRK]
 Here...This is the only
 assistance I can offer.[BRK]
 
-Take it...
-[END]
+Take it...[END]
 
 === 1 | 1104b | 105 ===
 Received the Goddess

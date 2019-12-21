@@ -79,9 +79,7 @@ I don't know what to say...[BRK]
 Just tell me that you'll
 return in one piece. [BRK]
 
-Now get out of here...
-
-[END]
+Now get out of here...[END]
 
 === 1 | 82a8 | 46 ===
 [POR02]
@@ -89,9 +87,7 @@ Listen, Hiro! It sounds
 like music...[BRK]
 
 What's going on over
-there?
-
-[END]
+there?[END]
 
 === 2 | 82f8 | 79 ===
 [POR10]
@@ -141,8 +137,7 @@ observation....[BRK]
 
 Anyway, you're free to 
 stay with us as long as
-you like.
-[END]
+you like.[END]
 
 === 4 | 85a6 | 121 ===
 [POR10]
@@ -201,8 +196,7 @@ where she asks us to help
 her...[BRK]
 
 Just watch...I know it's
-coming...
-[END]
+coming...[END]
 
 === 7 | 893c | 29f ===
 [POR10]
@@ -381,8 +375,7 @@ a way outta this place![BRK]
 
 [POR00]
 Hopefully...it's not too
-late...
-[END]
+late...[END]
 
 === 10 | 936a | 133 ===
 Ohhh nooo! There it is
@@ -470,9 +463,7 @@ adventure!' They all said.[BRK]
 Now I'm probably stuck in
 these creepy woods forever![BRK]
 
-Some life...
-
-[END]
+Some life...[END]
 
 === 17 | 9884 | 96 ===
 I hate it here. This
@@ -531,8 +522,7 @@ was coming five years ago.[BRK]
 
 And the time when you said
 that I was going to meet
-a handsome stranger...
-[END]
+a handsome stranger...[END]
 
 === 1c | 9c58 | 77 ===
 I've just read in the cards
@@ -540,16 +530,14 @@ that Jean will be leaving
 the carnival...[BRK]
 
 And I also predict that
-you will return to us...
-[END]
+you will return to us...[END]
 
 === 1d | 9ce2 | 60 ===
 Ahhh...What a beautiful
 day to be alive...[BRK]
 
 The clean, fresh air...
-I think I've found paradise!
-[END]
+I think I've found paradise![END]
 
 === 1e | 9d5a | 53 ===
 I think I'm going to skip
@@ -604,8 +592,7 @@ And I taught you![BRK]
 [POR10]
 I'm grateful for all that
 you have shown me. You
-are an excellent teacher.
-[END]
+are an excellent teacher.[END]
 
 === 24 | a0e0 | d9 ===
 I'm going to make sure that
@@ -706,8 +693,7 @@ used to be a trained
 assassin...[BRK]
 
 But I just can't imagine
-dear Jean hurting a fly...
-[END]
+dear Jean hurting a fly...[END]
 
 === 2b | a720 | 48 ===
 Now that the monster has
@@ -781,11 +767,7 @@ dancer![BRK]
 [POR10]
 Don't get too comfortable in
 your new position. I'll be 
-back before you know it!
-
-
-
-[END]
+back before you know it![END]
 
 === 33 | abb0 | 111 ===
 Welcome to our little 
@@ -821,12 +803,7 @@ in the carnival.[BRK]
 [POR02]
 Now that half your troupe
 got sucked away, I bet you
-are...
-
-
-
-
-[END]
+are...[END]
 
 === 36 | adf0 | 108 ===
 Thank you for saving my 
@@ -859,9 +836,7 @@ before. What is it?[BRK]
 Uh, hello, Lucia? It's a
 bird. Just a dumb old bird.[BRK]
 
-Sheesh...
-
-[END]
+Sheesh...[END]
 
 === 38 | afde | b8 ===
 What the hell is going on
@@ -976,9 +951,7 @@ only the defensive moves.[BRK]
 
 That's all you need to know
 to become a strong defender
-of our troupe.
-
-[END]
+of our troupe.[END]
 
 === 41 | d352 | 11e ===
 That Jean! Always pretending
@@ -1001,9 +974,7 @@ still be the best![END]
 === 42 | d484 | 43 ===
 Ah...ahhh...ahhhh! That...
 That thing! It's going to
-kill us all!
-
-[END]
+kill us all![END]
 
 === 43 | d4da | 75 ===
 Jean, this is really
@@ -1014,8 +985,7 @@ tough for me to admit...[BRK]
 
 But you saved our caravan,
 and I owe you my deepest
-thanks.
-[END]
+thanks.[END]
 
 === 44 | d566 | ff ===
 I've been jealous of your
@@ -1109,8 +1079,7 @@ me so I can hold you close.[BRK]
 [POR10]
 Excuse me? Do I know you?[BRK]
 
-There must be some mistake.
-[END]
+There must be some mistake.[END]
 
 === 49 | db6e | a1 ===
 I've heard you're leaving
@@ -1145,16 +1114,13 @@ was known for her singing...[BRK]
 
 [POR08]
 But what is the purpose of
-song? I don't understand...
-
-[END]
+song? I don't understand...[END]
 
 === 4c | e380 | 43 ===
 O Goddess of Light, sing
 for me a song tonight.[BRK]
 
-La la la la la....
-[END]
+La la la la la....[END]
 
 === 4d | e3d6 | 8f ===
 A monster, a monster! It
@@ -1209,8 +1175,7 @@ festivals to Althena?[BRK]
 
 Did Althena tell them to?
 I don't understand any of
-this...
-[END]
+this...[END]
 
 === 50 | e702 | 51 ===
 Ohhhh! This is terrible!
@@ -1267,8 +1232,7 @@ could fly away in it.[BRK]
 
 But it's not, so what shall
 we do about this monster?
-Oh dear...Oh dear...
-[END]
+Oh dear...Oh dear...[END]
 
 === 55 | f080 | 108 ===
 I'm actually getting too
@@ -1284,8 +1248,7 @@ Magic Arrow...[BRK]
 
 ...and it's our number one
 attraction! Oh...I don't
-know what I'm gonna do...
-[END]
+know what I'm gonna do...[END]
 
 === 56 | f18e | 44 ===
 Hello! Joe the carpetbagger,

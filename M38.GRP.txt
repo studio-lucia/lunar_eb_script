@@ -74,8 +74,7 @@ further Althena's cause.[BRK]
 
 But ever since Lord Leo was
 granted the Destiny, he
-never sees Mauri anymore.
-[END]
+never sees Mauri anymore.[END]
 
 === 5 | 1827c | a2 ===
 Rumor has it that Lady
@@ -338,8 +337,7 @@ I...[BRK]
 world is going on!?[BRK]
 
 Are you in there, Mauri?
-Wait! Come back!!!!!
-[END]
+Wait! Come back!!!!![END]
 
 === e | 1bac0 | a0 ===
 [POR15]
@@ -380,9 +378,7 @@ for what she's done to
 Mauri...[BRK]
 
 Believe me...She will
-pay!!!
-
-[END]
+pay!!![END]
 
 === 10 | 1bce8 | ad ===
 [POR13]
@@ -424,8 +420,7 @@ he would lose not only his
 position, but his life.[BRK]
 
 At least he found a way to
-help us...
-[END]
+help us...[END]
 
 === 12 | 1bf68 | c ===
 Red Tower 6F[END]

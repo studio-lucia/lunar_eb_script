@@ -14,11 +14,7 @@ Ha ha ha ha![BRK]
 [POR08]
 This feeling! It's...[BRK]
 
-...somehow familiar...
-
-
-
-[END]
+...somehow familiar...[END]
 
 === 3 | 179ba | 126 ===
 [POR08]
@@ -47,9 +43,7 @@ that all about?[BRK]
 It...It can't be....[BRK]
 
 ...We need to get moving
-again...Let's continue.
-
-[END]
+again...Let's continue.[END]
 
 === 4 | 17aea | 11 ===
 Bandit Butte Peak[END]

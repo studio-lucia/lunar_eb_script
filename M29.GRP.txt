@@ -21,8 +21,7 @@ Mauri is not prepared for
 the next group of candidates
 for the cleansing.[BRK]
 
-Please wait.
-[END]
+Please wait.[END]
 
 === 1 | 1a524 | 8f ===
 I...don't remember what...[BRK]
@@ -33,9 +32,7 @@ The last thing I remember
 was Mauri cleansing me...[BRK]
 
 After that...it's all just
-a black fog...
-
-[END]
+a black fog...[END]
 
 === 2 | 1a5c2 | ab ===
 Waki maki daki laki saki
@@ -72,8 +69,7 @@ Aaahhh...hahahahahaha![BRK]
 [POR08]
 Zophar is brainwashing these
 people. If we don't hurry,
-they'll go insane...
-[END]
+they'll go insane...[END]
 
 === 5 | 1a802 | 183 ===
 How...How did I get here?[BRK]
@@ -127,9 +123,7 @@ Zophar's way...[BRK]
 She must...be...eliminated.[BRK]
 
 Zophar, help me to make this
-dream my reality!
-
-[END]
+dream my reality![END]
 
 === 8 | 1aac4 | 12a ===
 I can't believe the crazy
@@ -236,8 +230,7 @@ to that rag.[BRK]
 .....[BRK]
 
 I guess I'll get over this,
-too...
-[END]
+too...[END]
 
 === e | 1b10c | a7 ===
 I will kill all those that
@@ -318,8 +311,7 @@ of Zophar.[BRK]
 [POR05]
 Leo, you don't have to kill
 Mauri! Zophar's essence has
-disappeared!!
-[END]
+disappeared!![END]
 
 === 14 | 1c610 | ae ===
 [POR09]
@@ -372,8 +364,7 @@ believe that Zophar's power
 disappeared so suddenly...[BRK]
 
 I mean...it was so...so
-very strong!
-[END]
+very strong![END]
 
 === 16 | 1c8c8 | 424 ===
 [POR05]
@@ -454,9 +445,7 @@ but it should be adequate...[BRK]
 Lay it on me! Zophar's evil
 will be no match for me![BRK]
 
-I will free you, Mauri!
-
-[END]
+I will free you, Mauri![END]
 
 === 17 | 1ccf6 | 107 ===
 [POR05]
@@ -559,9 +548,7 @@ But there's no doubt in my
 mind that he'll come around.[BRK]
 
 After all, he is the White
-Knight...
-
-[END]
+Knight...[END]
 
 === 1c | 1d2c6 | 119 ===
 [POR15]
@@ -662,10 +649,7 @@ are responsible for our
 future. But I...I'm...[BRK]
 
 ....
-.....
-
-
-[END]
+.....[END]
 
 === 1f | 1d802 | 9 ===
 [POR05]
@@ -739,8 +723,7 @@ I will try to use them to
 do just that.[BRK]
 
 Hopefully, there is enough
-power...
-[END]
+power...[END]
 
 === 25 | 1e4f8 | 15c ===
 [POR08]
@@ -769,9 +752,7 @@ But enough sappy talk.[BRK]
 
 We'd better find Mauri
 before Zophar's power
-returns!
-
-[END]
+returns![END]
 
 === 26 | 1e65e | f ===
 Serak Palace 5F[END]
@@ -867,8 +848,7 @@ new life together...[BRK]
 Mauri's Mind[END]
 
 === 2d | 23ff8 | e ===
-Donated 100s!
-[END]
+Donated 100s![END]
 
 === 2e | 2403a | 58 ===
 Who are you?[BRK]

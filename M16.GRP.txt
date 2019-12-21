@@ -43,10 +43,7 @@ get outta here?[BRK]
 [POR08]
 ...His former self...
 Althena...What does this
-record mean?
-
-
-[END]
+record mean?[END]
 
 === 2 | 149d0 | 268 ===
 [POR07]
@@ -148,8 +145,7 @@ exit of this garden.[BRK]
 
 But you must know how to
 open the magic lock, and
-only Ghaleon knows the word.
-[END]
+only Ghaleon knows the word.[END]
 
 === b | 159c6 | fa ===
 Ghaleon cast difficult spell
@@ -178,8 +174,7 @@ his entire ABBA collection![BRK]
 
 He seems to really like
 them, though I don't know
-why...
-[END]
+why...[END]
 
 === d | 15bba | 1db ===
 Dear, sweet Ghaleon has not
@@ -239,11 +234,7 @@ Althena, Ghaleon, and me.[BRK]
 
 ...Curious that he would use
 such strong measures for
-this ancient ruin...
-
-
-
-[END]
+this ancient ruin...[END]
 
 === 11 | 15f74 | 7f ===
 Master Ghaleon possesses a
@@ -272,8 +263,7 @@ Alex.[BRK]
 
 Ghaleon himself told us
 that. He seemed very sad
-about it...
-[END]
+about it...[END]
 
 === 14 | 1613a | 97 ===
 I don't like seeing Ghaleon
@@ -304,9 +294,7 @@ sleeping while flying![BRK]
 
 Why don't we put her hand
 in warm water and see what
-else she can do?
-
-[END]
+else she can do?[END]
 
 === 17 | 16334 | 33 ===
 G...Ghaleon....zzzz....
@@ -429,8 +417,7 @@ doing that?[BRK]
 
 It's not like he's just
 gonna write you a check,
-you idiot!
-[END]
+you idiot![END]
 
 === 25 | 16a66 | a9 ===
 Ghaleon was resurrected by
@@ -453,8 +440,7 @@ stay here.[BRK]
 
 He said we'd be safe here
 forever. But how is that
-possible?
-[END]
+possible?[END]
 
 === 27 | 16bda | 9b ===
 [POR10]
@@ -481,8 +467,7 @@ I wonder what he meant?[BRK]
 
 [POR01]
 Ghaleon said that? But I'm
-sure he'd help Lucia!
-[END]
+sure he'd help Lucia![END]
 
 === 29 | 16d84 | 66 ===
 Dear, sweet Ghaleon is one
@@ -512,8 +497,7 @@ His ruse saved this world.[BRK]
 
 Now he can stop tormenting
 himself with guilt. I wonder
-where he is?
-[END]
+where he is?[END]
 
 === 2c | 16f5c | 12 ===
 My New Secret Grdn[END]

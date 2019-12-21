@@ -37,8 +37,7 @@ not affect the outcome.[BRK]
 
 If that is your wish, step
 forth and taste the eternal
-sting of my kiss...
-[END]
+sting of my kiss...[END]
 
 === 1 | 1471e | 1df ===
 [POR07]
@@ -81,9 +80,7 @@ I agree. We mustn't let our
 guard down for an instant![BRK]
 
 [POR01]
-Wait! Listen...
-
-[END]
+Wait! Listen...[END]
 
 === 2 | 1490a | 11 ===
 Zophar's Coliseum[END]
@@ -123,8 +120,7 @@ not affect the outcome.[BRK]
 
 If that is your wish, step
 forth and taste the eternal
-sting of my kiss...
-[END]
+sting of my kiss...[END]
 
 === 4 | 15248 | 1df ===
 [POR07]
@@ -167,9 +163,7 @@ I agree. We mustn't let our
 guard down for an instant![BRK]
 
 [POR01]
-Wait! Listen...
-
-[END]
+Wait! Listen...[END]
 
 === 5 | 15434 | 11 ===
 Zophar's Coliseum[END]

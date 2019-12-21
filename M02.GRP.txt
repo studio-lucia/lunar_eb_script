@@ -32,9 +32,7 @@ I don't usually say that
 to guys, you know...[BRK]
 
 You know...the oath, and
-all that...
-
-[END]
+all that...[END]
 
 === 6 | 10e2b | 31 ===
 [0]p[0][0][0x3][0x10]
@@ -44,16 +42,10 @@ N[0xC0][0xC0][BRK]
 
 [0][0][0][0xA]p[0][0xC0][0x4][0][0][0xC0][BRK]
 
- [0xE]Gave 10s.
-
-
-[END]
+ [0xE]Gave 10s.[END]
 
 === 7 | 10e50 | c ===
-Gave 10s.
-
-
-[END]
+Gave 10s.[END]
 
 === 8 | 10e8a | 105 ===
 [POR05]
@@ -92,8 +84,7 @@ I-I've never failed to
 break a spell, except once
 when...[BRK]
 
-....Mauri was sick...
-[END]
+....Mauri was sick...[END]
 
 === a | 1107e | 92 ===
 [POR05]
@@ -104,11 +95,7 @@ hands of Ronfar![BRK]
 
 It's not complete, but the
 main spell is broken. She'll
-just have to...
-
-
-
-[END]
+just have to...[END]
 
 === b | 1111a | fc ===
 Oh! I didn't know anyone
@@ -169,8 +156,7 @@ goodness springs forth...[BRK]
 
 But goodness has a price to
 be paid...Donate now, won't
-you?
-[END]
+you?[END]
 
 === 11 | 114e4 | 74 ===
 I now know that the Goddess
@@ -219,8 +205,7 @@ world here.[BRK]
 
 But it's come so close to
 destruction so many
-times!
-[END]
+times![END]
 
 === 16 | 1180a | 53 ===
 [POR09]
@@ -308,11 +293,7 @@ yourself up about it.[BRK]
 
 Trot on over to the bar and
 forget your worries over a
-cold one!
-
-
-
-[END]
+cold one![END]
 
 === 20 | 11dac | 74 ===
 Since the Goddess Althena
@@ -326,8 +307,7 @@ halls.[END]
 === 21 | 11e2e | 30 ===
 [POR08]
 ...Althena resides in...
-Pentagulia...Hmm...
-[END]
+Pentagulia...Hmm...[END]
 
 === 22 | 11e62 | 3f ===
 I'm dreaming of the day I am
@@ -364,8 +344,7 @@ your sins and serve Althena?[BRK]
 Done it, seen it, been it.
 Sorry, no dice...[BRK]
 
-Uh, pardon the pun...Hahaha!
-[END]
+Uh, pardon the pun...Hahaha![END]
 
 === 26 | 120b8 | 6c ===
 If Zophar had succeeded,
@@ -397,8 +376,7 @@ anything on your behalf.[BRK]
 
 But it's really just good
 manners to donate something,
-too.
-[END]
+too.[END]
 
 === 2a | 122ca | 7e ===
 We are the guardians of
@@ -416,8 +394,7 @@ have not made even one
 person here convert![BRK]
 
 This town is crawlin' with
-sinners!
-[END]
+sinners![END]
 
 === 2c | 123cc | ad ===
 Lucia...Lucia...hmm...[BRK]
@@ -429,8 +406,7 @@ trying to find her.[BRK]
 [POR02]
 Oh no! I don't like the
 sound of that one bit! We've
-got to find her!
-[END]
+got to find her![END]
 
 === 2d | 1248c | 88 ===
 I was thinking of starting

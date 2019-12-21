@@ -49,14 +49,7 @@ death's embrace...[BRK]
 And that's not too likely. I
 trained them myself...[BRK]
 
-...Hahaha!
-
-
-
-
-
-
-[END]
+...Hahaha![END]
 
 === 5 | 18a34 | b6 ===
 [POR21]
@@ -74,9 +67,7 @@ try![BRK]
 Haaay----yaaaaaaa!!!![END]
 
 === 6 | 18af4 | 1b ===
-Urmph! Ahhh!...My...mask!
-
-[END]
+Urmph! Ahhh!...My...mask![END]
 
 === 7 | 18b18 | 188 ===
 [ROR10]
@@ -103,14 +94,11 @@ strength of Blue Dragon
 Karate.[BRK]
 
 I'm looking forward to
-our...reunion...Hahahaha!
-[END]
+our...reunion...Hahahaha![END]
 
 === 8 | 18caa | 11 ===
 [POR10]
-This mask...
-
-[END]
+This mask...[END]
 
 === 9 | 18cca | f1 ===
 [0xB][0][0x3]Took the Mysterious Mask.[BRK]
@@ -162,14 +150,7 @@ Anyway, we should head back
 and follow them to Taben's
 Peak.[BRK]
 
-C'mon, Hiro, let's go!
-
-
-
-
-
-
-[END]
+C'mon, Hiro, let's go![END]
 
 === c | 18f70 | 12 ===
 Meribian Sewers 5F[END]

@@ -73,8 +73,7 @@ Lucia's waiting![END]
 [POR02]
 Come on, Hiro, we've got to
 go to the Star Dragon's 
-tower!
-[END]
+tower![END]
 
 === c | 1ca8a | 53 ===
 [POR02]

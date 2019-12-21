@@ -39,9 +39,7 @@ weak to cause any trouble.[BRK]
 [POR11]
 Don't judge them by their
 appearance. They're agents
-of the Blue Dragon Cult!
-
-[END]
+of the Blue Dragon Cult![END]
 
 === 2 | b71a | 2ac ===
 [POR10]
@@ -89,8 +87,7 @@ Where do I sign up?[BRK]
 [POR02]
 Oh, puhlease![BRK]
 
-Just...forget it!
-[END]
+Just...forget it![END]
 
 === 3 | b9f2 | 120 ===
 Sorry, the gondola's closed
@@ -215,8 +212,7 @@ We may look like kids, but
 don't underestimate our
 strength![BRK]
 
-We're bad muthas!
-[END]
+We're bad muthas![END]
 
 === e | c14c | 81 ===
 I'm w-warning you! Keep
@@ -225,18 +221,12 @@ I'll h-have to...[BRK]
 
 [POR02]
 Hey, Hiro! This kid's scared
-to death of us! Hahahaha!
-
-[END]
+to death of us! Hahahaha![END]
 
 === f | c1d0 | 3c ===
 I-I'm warning you! I know
 h-how to use d-d-deadly
-force!
-
-
-
-[END]
+force![END]
 
 === 10 | c228 | 22a ===
 [POR11]
@@ -277,8 +267,7 @@ Tell me this instant![BRK]
 [POR11]
 I think you all had better
 come inside. I've got
-something to tell you.
-[END]
+something to tell you.[END]
 
 === 11 | c46e | 10 ===
 Taben's Peak 7FE[END]
@@ -316,9 +305,7 @@ to know where Lucia was...[BRK]
 
 I saw her around here a
 while ago. If you look hard,
-you should find her...
-
-[END]
+you should find her...[END]
 
 === 13 | d15a | 127 ===
 [POR05]
@@ -420,8 +407,7 @@ me as you can![BRK]
 
 Go break your piggy banks,
 I wanna get this game
-started!
-[END]
+started![END]
 
 === 1b | d750 | ca ===
 [POR07]
@@ -438,8 +424,7 @@ it'll be fully restored![END]
 
 === 1c | d832 | 12 ===
 [POR11]
-Hey...wait up!
-[END]
+Hey...wait up![END]
 
 === 1d | d848 | 93 ===
 [POR11]
@@ -523,10 +508,7 @@ all.[BRK]
 
 You suck.[BRK]
 
-...Booooooring!!
-
-
-[END]
+...Booooooring!![END]
 
 === 24 | dd72 | 4b ===
 I shudder to think what
@@ -592,8 +574,7 @@ Blue Dragon Cult.[BRK]
 
 That's why I wasn't scared.
 But I never guessed Nall
-wouldn't be with them...
-[END]
+wouldn't be with them...[END]
 
 === 2c | e1de | ac ===
 When I grow up, I want to
@@ -693,8 +674,7 @@ Help rescue my friends from
 the Blue Dragon Cult![BRK]
 
 I'll...I'll give you all
-the Tinkertoys I have!
-[END]
+the Tinkertoys I have![END]
 
 === 33 | e806 | 38 ===
 I don't know how to thank
@@ -713,8 +693,7 @@ Goddess in Pentagulia was a
 fake![BRK]
 
 I-I'm scared! What are you
-gonna do now?!!
-[END]
+gonna do now?!![END]
 
 === 36 | e924 | cc ===
 If the Goddess in Pentagulia
@@ -748,8 +727,7 @@ to make a living with no
 formal schooling...[BRK]
 
 I hear McBorgan's is
-hiring...
-[END]
+hiring...[END]
 
 === 39 | eb4e | 65 ===
 How did the Blue Dragon Cult
@@ -818,17 +796,13 @@ Everyone's waiting for you.[BRK]
 
 [POR02]
 Sorry I didn't come back to
-play. Maybe next time...
-
-
-[END]
+play. Maybe next time...[END]
 
 === 42 | eff8 | 38 ===
 Oh no!...The Blue Dragon
 Cult?[BRK]
 
-What are we going to do?
-[END]
+What are we going to do?[END]
 
 === 43 | f048 | 84 ===
 Look! Nall made a see-saw
@@ -851,9 +825,7 @@ came back.[END]
 
 === 46 | f18e | 19 ===
 [POR08]
-Best friend? What...
-
-[END]
+Best friend? What...[END]
 
 === 47 | f1ba | 9d ===
 Hey, tell me, is this Zophar
@@ -902,8 +874,7 @@ They've come for me! Ahhh![END]
 [POR10]
 Blue Dragon Cult?...Us? I
 think you're a very confused
-little girl...
-[END]
+little girl...[END]
 
 === 4d | f4c4 | 63 ===
 I'm sorry I mistook you for
@@ -922,8 +893,7 @@ Barbie clothes I have![BRK]
 
 I'll even throw in her
 dream house and a Ken
-doll!
-[END]
+doll![END]
 
 === 4f | f5d2 | 31 ===
 Haaa! Haa! Yeahhh! Come on
@@ -996,8 +966,7 @@ they're going![END]
 === 58 | fa4c | 40 ===
 That's all I can ask you to
 do...try. But please try
-your best.
-[END]
+your best.[END]
 
 === 59 | faa4 | 95 ===
 We think of ourselves as one
@@ -1006,8 +975,7 @@ kids that were stolen![BRK]
 
 If they don't come back, it
 will be terrible, just...
-...terrible...
-[END]
+...terrible...[END]
 
 === 5a | fb4c | 48 ===
 You're my second favorite
@@ -1164,8 +1132,7 @@ Lucia's taking forever.
 We're not going to wait 
 for her to finish.[BRK]
 
-Girls...They're so dumb!
-[END]
+Girls...They're so dumb![END]
 
 === 6d | 11a6e | a0 ===
 [POR02]
@@ -1177,11 +1144,7 @@ acting like you did at the
 carnival.[BRK]
 
 Geez, Hiro, you really need
-to take a cold shower.
-
-
-
-[END]
+to take a cold shower.[END]
 
 === 6e | 11b12 | 98 ===
 [POR08]
@@ -1214,8 +1177,7 @@ hurry, Hiro.[BRK]
 
 I must see the Goddess
 Althena before all is
-lost.
-[END]
+lost.[END]
 
 === 70 | 11c8c | 169 ===
 [POR08]
@@ -1260,10 +1222,7 @@ music. It...touches my...
 
 [POR00]
 Ha ha! Maybe we can sing
-together sometime.
-
-
-[END]
+together sometime.[END]
 
 === 72 | 11f00 | 76 ===
 Music is my favoritest thing
@@ -1331,8 +1290,7 @@ world sing.[BRK]
 
 Songs that cash in on cheap
 lyrics and overproduced
-music videos!
-[END]
+music videos![END]
 
 === 7a | 12310 | d1 ===
 All right, you little blue
@@ -1364,10 +1322,7 @@ be just as scared as I am.[BRK]
 
 But I wonder what's wrong
 with her. She seems so...
-so...sad...
-
-
-[END]
+so...sad...[END]
 
 === 7d | 12526 | c5 ===
 Lucia has really been there
@@ -1494,9 +1449,7 @@ and live with us forever...[BRK]
 
 [POR08]
 I wish I could, but I must
-finish my mission.
-
-[END]
+finish my mission.[END]
 
 === 88 | 12cc2 | 70 ===
 I can't believe the Goddess
@@ -1504,9 +1457,7 @@ Althena was a fake...[BRK]
 
 Just goes to show ya that
 you can't trust anyone these
-days!
-
-[END]
+days![END]
 
 === 89 | 12d44 | 5f ===
 [POR02]
@@ -1514,18 +1465,7 @@ I think you're biting off
 more than you can chew.[BRK]
 
 We'll take care of those
-bozos.
-
-
-
-
-
-
-
-
-
-
-[END]
+bozos.[END]
 
 === 8a | 12db2 | 75 ===
 Where is Lucia? Don't tell
@@ -1664,8 +1604,7 @@ Evacuate immediately![BRK]
 
 ...What? You aren't members
 of the Blue Dragon Cult. 
-Don't scare me like that!
-[END]
+Don't scare me like that![END]
 
 === 96 | 1359a | 62 ===
 You guys are so different
@@ -1717,10 +1656,7 @@ of our master plan.[BRK]
 Right, Lucia?[BRK]
 
 [POR08]
-...That's right, Ruby!
-
-
-[END]
+...That's right, Ruby![END]
 
 === 9d | 1388c | 6e ===
 It seems like all Nall talks
@@ -1748,11 +1684,7 @@ The Blue Dragon team has
 infiltrated our hideout!
 Nall, help us![BRK]
 
-Ahhhhhh! Get away!
-
-
-
-[END]
+Ahhhhhh! Get away![END]
 
 === a0 | 13a22 | 40 ===
 Ohhh, I'm so scared that
@@ -1788,8 +1720,7 @@ everyone again. But Nall
 seems so sad.[BRK]
 
 Do you know what's wrong
-with him?
-[END]
+with him?[END]
 
 === a5 | 13c74 | 6e ===
 Nall doesn't seem to be the
@@ -1905,8 +1836,7 @@ of everyone here.[BRK]
 
 [POR10]
 Until this gets straight-
-ened out, stay close to him.
-[END]
+ened out, stay close to him.[END]
 
 === b4 | 143d8 | 46 ===
 It's starting to be like
@@ -2014,8 +1944,7 @@ What!? How do you...[BRK]
 I've decided. There will be
 no more discussion.[BRK]
 
-Guards...forward!
-[END]
+Guards...forward![END]
 
 === ba | 157f6 | 155 ===
 Yes, Nall! First Admiral
@@ -2049,8 +1978,7 @@ Ha ha ha![BRK]
 Welcome to hell...[BRK]
 
 We're takin' you to the
-play room.
-[END]
+play room.[END]
 
 === bb | 15954 | 130 ===
 [POR08]
@@ -2108,8 +2036,7 @@ I've ever met!![BRK]
 [POR11]
 Enough talk! Go to Meribia
 and locate the Blue Dragon
-Cult, understand?
-[END]
+Cult, understand?[END]
 
 === bd | 15c4a | 132 ===
 [POR11]
@@ -2129,12 +2056,7 @@ would...look...in...Ramus'
 ...store...and...I...[BRK]
 
 would...also...search...
-Lunn's...gym. Now beat it!
-
-
-
-
-[END]
+Lunn's...gym. Now beat it![END]
 
 === be | 15d90 | 7f ===
 [POR11]
@@ -2226,10 +2148,7 @@ Zophar enlisted the aid of
 a powerful ally to
 accomplish that.[BRK]
 
-His name is...Ghaleon!
-
-
-[END]
+His name is...Ghaleon![END]
 
 === c0 | 16240 | 330 ===
 [POR11]
@@ -2288,16 +2207,7 @@ power to you, pig![BRK]
 
 [POR14]
 Hohoommnn....I expected no
-less of you, foolish boy.
-
-
-
-
-
-
-
-
-[END]
+less of you, foolish boy.[END]
 
 === c1 | 16574 | 12 ===
 [POR11]
@@ -2392,11 +2302,7 @@ coward.[BRK]
 
 Buddy, I knew Alex, Alex
 was a friend of mine, and 
-you, sir, are no Alex!
-
-
-
-[END]
+you, sir, are no Alex![END]
 
 === c6 | 16a92 | 1fd ===
 [POR01]
@@ -2460,10 +2366,7 @@ who holds my aura...[BRK]
 ...What?...Leo?[BRK]
 
 But....I thought he was
-on our side...
-
-
-[END]
+on our side...[END]
 
 === c9 | 16de8 | c9 ===
 [POR11]
@@ -2546,8 +2449,7 @@ find out about your heritage
 Hehe...Uh, you heard about
 that, huh?[BRK]
 
-...Whoops!
-[END]
+...Whoops![END]
 
 === cd | 1727e | ef ===
 [POR11]
@@ -2569,10 +2471,7 @@ but...
 I...[BRK]
 
 [POR11]
-Ruby...?
-
-
-[END]
+Ruby...?[END]
 
 === ce | 17388 | b7 ===
 [POR11]
@@ -2586,8 +2485,7 @@ already won![BRK]
 
 [POR02]
 I don't know Nall...
-I...I'm just scared!
-[END]
+I...I'm just scared![END]
 
 === cf | 17452 | e9 ===
 [POR11]
@@ -2606,8 +2504,7 @@ Great! Then get a move on!
 You've wasted enough time
 listening to me.[BRK]
 
-You must release your aura!
-[END]
+You must release your aura![END]
 
 === d0 | 1754e | 95 ===
 [POR11]
@@ -2620,8 +2517,7 @@ Zophar be defeated![BRK]
 
 [POR02]
 You heard him, Lucia! Let's
-rescue Hiro!
-[END]
+rescue Hiro![END]
 
 === d1 | 175f6 | 1c3 ===
 [POR11]
@@ -2655,8 +2551,7 @@ Use it well.[BRK]
 
 [POR00]
 [0xB][0]LHiro received the legendary
-Sword of Althena!
-[END]
+Sword of Althena![END]
 
 === d2 | 177c2 | 102 ===
 [POR11]
@@ -2680,8 +2575,7 @@ use it as he would have.[BRK]
 
 [POR01]
 You have my word. Thank
-you, Nall.
-[END]
+you, Nall.[END]
 
 === d3 | 178f4 | d8 ===
 [POR11]
@@ -2696,10 +2590,7 @@ Lunar to the Blue Star.[BRK]
 I sincerely hope you're
 strong enough, Hiro.[BRK]
 
-Good luck!
-
-
-[END]
+Good luck![END]
 
 === d4 | 179e8 | 1cc ===
 [POR11]
@@ -2760,16 +2651,14 @@ Oh, um...Sorry, Ruby.[BRK]
 ....
 .....[BRK]
 
-But you are cute together!
-[END]
+But you are cute together![END]
 
 === d6 | 17d02 | 23 ===
 [POR02]
 Oh, this is...[BRK]
 
 [POR00]
-Taben's Peak!
-[END]
+Taben's Peak![END]
 
 === d7 | 17d2e | 48 ===
 [POR11]
@@ -2786,8 +2675,7 @@ I would've liked to have
 seen just how much of that
 'goddess' was fake...[BRK]
 
-Fake chicks gross me out!
-[END]
+Fake chicks gross me out![END]
 
 === d9 | 17e08 | ee ===
 [POR05]
@@ -2822,11 +2710,7 @@ up to you to recover the
 Dragon Aura from Leo.[BRK]
 
 I'll wait for you in the
-White Dragon Cave.
-
-
-
-[END]
+White Dragon Cave.[END]
 
 === db | 18022 | c9 ===
 [POR02]
@@ -2908,8 +2792,7 @@ Ungh...Well...well...
 ...well, she said![BRK]
 
 Just followin' the lady's
-orders...
-[END]
+orders...[END]
 
 === e2 | 18d7a | 1ad ===
 [POR11]
@@ -3076,9 +2959,7 @@ for what it is?[BRK]
 [POR02]
 Sure![BRK]
 
-...As long as it's free...
-
-[END]
+...As long as it's free...[END]
 
 === eb | 1ae64 | 99 ===
 I suppose you want me to
@@ -3093,8 +2974,7 @@ Yes...psyche! Haaa![END]
 === ec | 1af0c | 49 ===
 Well then, follow me...
 ...That's right, this way.
-You know the drill...
-[END]
+You know the drill...[END]
 
 === ed | 1af70 | fc ===
 Oh, ha. Ha. Like that's the

@@ -9,8 +9,7 @@ gives me the creeps. It's
 staring at me.[BRK]
 
 Let's get away from it,
-okay?
-[END]
+okay?[END]
 
 === 1 | 1a790 | a8 ===
 [POR04]
@@ -50,8 +49,7 @@ Hmmm, that's strange. The
 door should have become
 visible...[BRK]
 
-Very, very...strange.
-[END]
+Very, very...strange.[END]
 
 === 5 | 1a9a2 | 109 ===
 [POR04]
@@ -134,8 +132,7 @@ got to be a better way...[BRK]
 [POR04]
 Ruby, I wish there were, but
 there's not. We've just got
-to outsmart it.
-[END]
+to outsmart it.[END]
 
 === 10 | 22104 | b2 ===
 [POR02]
@@ -149,9 +146,7 @@ Just remember...[BRK]
 
 When he's tying our entrails
 into neat little packages,
-don't say I didn't warn you!
-
-[END]
+don't say I didn't warn you![END]
 
 === 11 | 221c6 | 40 ===
 [POR02]
@@ -174,8 +169,7 @@ and we'd be in a serious
 world of hurt![BRK]
 
 C'mon, kids...Hurry along.
-We must keep moving!
-[END]
+We must keep moving![END]
 
 === 13 | 2232e | 10 ===
 Blue Labrynth B1[END]

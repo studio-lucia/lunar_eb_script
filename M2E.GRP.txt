@@ -3,8 +3,7 @@ File: M2E.GRP
 Messages: 210
 
 === 0 | 142ea | e ===
-Donated 100s!
-[END]
+Donated 100s![END]
 
 === 1 | 14322 | 4d ===
 [POR02]
@@ -138,16 +137,14 @@ Of course, you'll have to
 wait on me hand and foot.[BRK]
 
 But look how beautiful my
-hands and feet are!
-[END]
+hands and feet are![END]
 
 === e | 14b3c | 3b ===
 [POR05]
 Yer barkin' up the wrong
 tree, lady.[BRK]
 
-I'm not into that.
-[END]
+I'm not into that.[END]
 
 === f | 14b8e | 42 ===
 Please take me with you. I
@@ -174,8 +171,7 @@ Hey, if anyone talks bad
 'bout Lenny, you let Lenny
 know.[BRK]
 
-...And Lenny'll hurt 'em.
-[END]
+...And Lenny'll hurt 'em.[END]
 
 === 12 | 14d32 | 97 ===
 Lenny's tired of people 
@@ -209,8 +205,7 @@ Say, mister, can I pet it?[BRK]
 [POR02]
 First I'm a flying cat.
 Now I'm a flying bunny.
-Sheesh, what's next?
-[END]
+Sheesh, what's next?[END]
 
 === 15 | 14f40 | 48 ===
 [POR07]
@@ -238,10 +233,7 @@ What? No way![END]
 === 18 | 150b2 | 45 ===
 Look at this! I got free
 pens, notepads, and
-shampoo from the inn.
-
-
-[END]
+shampoo from the inn.[END]
 
 === 19 | 1510a | 5f ===
 I...I...I...I...I...I
@@ -250,9 +242,7 @@ like...falling![BRK]
 
 [POR02]
 Geez, we didn't fall that
-far.
-
-[END]
+far.[END]
 
 === 1a | 1517c | bb ===
 I've learned a valuable 
@@ -310,8 +300,7 @@ any special power.[BRK]
 
 Turns out he was just
 leechin' power off the Black
-Dragon.
-[END]
+Dragon.[END]
 
 === 21 | 15518 | c6 ===
 I just heard that humans 
@@ -372,8 +361,7 @@ an evil god.[BRK]
 I must be the reason Neo-
 Vane fell from the sky![BRK]
 
-I feel so...dirty!
-[END]
+I feel so...dirty![END]
 
 === 26 | 15888 | f2 ===
 I heard that Miria has left
@@ -439,13 +427,7 @@ Beauty and the Beast.[BRK]
 [POR07]
 Yeah, well, I won't let that
 pig lay a hand on my
-mother!
-
-
-
-
-
-[END]
+mother![END]
 
 === 2c | 15c98 | 7d ===
 Wedding bells have already
@@ -546,8 +528,7 @@ entrance fee was too high...[BRK]
 
 The leader of the Guild is
 only interested in cold,
-hard cash...
-[END]
+hard cash...[END]
 
 === 37 | 16222 | 76 ===
 [POR07]
@@ -564,8 +545,7 @@ enjoy it here in Vane.[BRK]
 
 But these people are so 
 stuck up you can't even
-talk to them.
-[END]
+talk to them.[END]
 
 === 39 | 16334 | 8d ===
 Hey, I'm talkin' to you![BRK]
@@ -738,8 +718,7 @@ gaze into those deep pools
 of silken blackness...[BRK]
 
 Yet that chance shall never
-again be mine...
-[END]
+again be mine...[END]
 
 === 49 | 16de4 | a6 ===
 I'm getting sick of hearing
@@ -818,8 +797,7 @@ like that.[BRK]
 And whooo! Just wait 'til
 Halloween![BRK]
 
-Spoookkyy! He he he...
-[END]
+Spoookkyy! He he he...[END]
 
 === 51 | 172d0 | 122 ===
 They say that some stupid
@@ -1044,8 +1022,7 @@ Vane. I'm leaving tonight
 to go home.[BRK]
 
 And I just can't wait to
-see the kids again!
-[END]
+see the kids again![END]
 
 === 67 | 1801a | a3 ===
 Borgan, Borgan, he's our
@@ -1077,8 +1054,7 @@ of this life without pain.[BRK]
 But I'm getting too old
 for all this stuff.[BRK]
 
-Stop the ride. I want off.
-[END]
+Stop the ride. I want off.[END]
 
 === 6b | 18212 | 8 ===
 Neo-Vane[END]
@@ -1223,8 +1199,7 @@ Neo-Vane Judging Area[END]
 
 === 78 | 1c00e | e ===
 [POR07]
-...Borgan!
-[END]
+...Borgan![END]
 
 === 79 | 1c026 | 2ef ===
 [POR07]
@@ -1275,10 +1250,7 @@ subjects...[BRK]
 I'm certain you'll find it
 quite...impressive.[BRK]
 
-Gwa ha ha ha ha ha ha!
-
-
-[END]
+Gwa ha ha ha ha ha ha![END]
 
 === 7a | 1c31e | 2e ===
 [0xB][0][0x7]Received the Black Dragon
@@ -1341,8 +1313,7 @@ Oh, this is ridiculous!
 She must be around here
 somewhere...[BRK]
 
-I'll just find her myself!
-[END]
+I'll just find her myself![END]
 
 === 7d | 1c662 | 1d ===
 [POR17]
@@ -1401,11 +1372,7 @@ are you?[BRK]
 
 ...Mother?[BRK]
 
-..........Mother?
-
-
-
-[END]
+..........Mother?[END]
 
 === 80 | 1d5ca | 63 ===
 [POR07]
@@ -1555,10 +1522,7 @@ it to break the Dragon seal.[BRK]
 
 [POR00]
 [0xB][0][0x8]Borgan gave Lemina the key
-to the Black Dragon's Cave!
-
-
-[END]
+to the Black Dragon's Cave![END]
 
 === 86 | 1dd12 | ba ===
 [POR17]
@@ -1573,9 +1537,7 @@ Go now! This world cries
 out for your healing touch![BRK]
 
 [POR07]
-Oh, Borgan...thanks!
-
-[END]
+Oh, Borgan...thanks![END]
 
 === 87 | 1ddec | b5 ===
 [POR22]
@@ -1641,8 +1603,7 @@ Gwa ha ha ha! I was waiting
 for you to 'fess up,
 dumpling.[BRK]
 
-I already knew that!
-[END]
+I already knew that![END]
 
 === 8b | 1e18c | 174 ===
 [POR17]
@@ -1734,8 +1695,7 @@ to find my mother...[BRK]
 
 If she's in this kind of
 condition, I'm going to
-kill that obese jerk!
-[END]
+kill that obese jerk![END]
 
 === 93 | 1ee44 | 90 ===
 I'm starving! Can't you 
@@ -1812,8 +1772,7 @@ cute I can be as I torch
 this joint![BRK]
 
 Think that'll be cute
-enough for you?
-[END]
+enough for you?[END]
 
 === 9b | 1fbba | 6b ===
 I wonder if Borgan is
@@ -1898,8 +1857,7 @@ Just drop a few coins and
 she'll spend the rest of her
 life looking for them! [BRK]
 
-Ha ha ha ha...
-[END]
+Ha ha ha ha...[END]
 
 === a2 | 200f8 | 14b ===
 [POR07]
@@ -2118,8 +2076,7 @@ Oh, don't mention it.[BRK]
 
 But I'll be expecting
 your massive donation to
-the Magic Guild of Vane.
-[END]
+the Magic Guild of Vane.[END]
 
 === b9 | 218be | 92 ===
 It was such a terrible
@@ -2271,8 +2228,7 @@ unhappy. He he he...[END]
 === c6 | 22bfe | 45 ===
 Thanks to you, Borgan's put
 his wedding plans on hold 
-indefinitely.
-[END]
+indefinitely.[END]
 
 === c7 | 22c5a | 5e ===
 Everyone knows that the 

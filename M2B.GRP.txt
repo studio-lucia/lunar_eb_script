@@ -33,9 +33,7 @@ crystal, the seal will be
 shattered,[BRK]
 
 ...and my Dragonpower will
-be released!!
-
-[END]
+be released!![END]
 
 === 2 | 1ad32 | 2e ===
 [0xB][0][0x4]Threw the White Dragon
@@ -131,8 +129,7 @@ be waiting...[BRK]
 ....
 .....[BRK]
 
-And I don't like waiting.
-[END]
+And I don't like waiting.[END]
 
 === 8 | 1ba16 | 11 ===
 White Dragon Maze[END]

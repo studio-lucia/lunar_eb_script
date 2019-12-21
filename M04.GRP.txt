@@ -81,8 +81,7 @@ It's an aphrodisiac, you
 know![BRK]
 
 [POR05]
-You don't say...Hmmmm...
-[END]
+You don't say...Hmmmm...[END]
 
 === 7 | c880 | f2 ===
 Look at this! It's our
@@ -99,8 +98,7 @@ talking about that stuff,[BRK]
 
 or I'll be giving you a
 free jar of hot dragon
-spew!
-[END]
+spew![END]
 
 === 8 | c98a | a2 ===
 If you ever need strange
@@ -266,8 +264,7 @@ to...be getting...slee...
 py...[BRK]
 
 [POR00]
-Hehehehe...sucker...!
-[END]
+Hehehehe...sucker...![END]
 
 === 17 | d408 | 175 ===
 Hey there...listen up!
@@ -340,8 +337,7 @@ Oooooowwwww![BRK]
 
 Hey! You burned me, you
 maniac! Get...Get away
-from me!
-[END]
+from me![END]
 
 === 1a | d80e | 12a ===
 My goal in life used to be
@@ -359,8 +355,7 @@ just learned...[BRK]
 [POR02]
 Uh, no...thanks. I'll give
 you a bit more time to work
-on your trustworthiness.
-[END]
+on your trustworthiness.[END]
 
 === 1b | d950 | 13d ===
 Remember me? I used to be
@@ -381,8 +376,7 @@ dog vomit.[BRK]
 
 Can you do something about
 it? It's really pretty
-gross...honestly.
-[END]
+gross...honestly.[END]
 
 === 1c | daa0 | 1bc ===
 Did you notice that there
@@ -417,16 +411,14 @@ I wonder if there is a
 hidden way into the ruins?[BRK]
 
 And if there is, is there
-a way to get out?
-[END]
+a way to get out?[END]
 
 === 1e | dcea | 62 ===
 You got inside the ancient
 ruins? I don't believe it![BRK]
 
 W-Was it loaded with price-
-less treasures?
-[END]
+less treasures?[END]
 
 === 1f | dd5a | 77 ===
 [POR07]
@@ -537,8 +529,7 @@ has left Nota, the bridge
 is clear once again.[BRK]
 
 The fair people of Nota can
-once again trade freely...
-[END]
+once again trade freely...[END]
 
 === 2c | e474 | 171 ===
 One of the favorite sports
@@ -632,8 +623,7 @@ means? Althena is watching
 our town personally![BRK]
 
 Like, I think I have to get
-my nails done...
-[END]
+my nails done...[END]
 
 === 36 | ea86 | ba ===
 Like, at first I thought it
@@ -835,8 +825,7 @@ one?[BRK]
 
 Uh, I meant one...hundred!
 Yeah...I'd like a hundred of
-these wonderful candies!
-[END]
+these wonderful candies![END]
 
 === 4b | 11268 | d0 ===
 Bite into one of these
@@ -1052,8 +1041,7 @@ Dragonship Destiny![BRK]
 Just like the one that Hiro
 used to save the world![BRK]
 
-Hurry, they're going fast!
-[END]
+Hurry, they're going fast![END]
 
 === 5d | 11f8c | 2b ===
 [POR09]
@@ -1066,8 +1054,7 @@ Dragonship Destiny model,
 'cuz Leo's a pig.[BRK]
 
 Why doesn't he like Lord
-Leo?
-[END]
+Leo?[END]
 
 === 5f | 12042 | 2a ===
 I want a Mauri doll with the
@@ -1510,8 +1497,7 @@ here because prices are so
 high.[BRK]
 
 I've actually thought about
-moving to Meribia lately.
-[END]
+moving to Meribia lately.[END]
 
 === 94 | 15d04 | a3 ===
 [POR07]
@@ -1581,13 +1567,7 @@ today.[BRK]
 
 And cold! Whooo! It was the
 coldest I've ever seen it!
-...Somethin's up.
-
-
-
-
-
-[END]
+...Somethin's up.[END]
 
 === 9c | 16886 | 34 ===
 [POR10]
@@ -1699,8 +1679,7 @@ it, this is really more of
 a lady's job.[BRK]
 
 Outta my way...I've got
-tables to tend to...Ahh!
-[END]
+tables to tend to...Ahh![END]
 
 === a8 | 1701a | 1b4 ===
 Ah! You...girl! You'll do
@@ -1732,8 +1711,7 @@ profits are mine! Besides,
 what cat needs money?[BRK]
 
 [POR00]
-[0xB][0][0xE]Received the special wine.
-[END]
+[0xB][0][0xE]Received the special wine.[END]
 
 === a9 | 171f4 | 94 ===
 Ah! Back to make another
@@ -1825,8 +1803,7 @@ it's another![BRK]
 
 Now I've got to re-label all
 this wine to say Hiro's
-Special Reserve! Shee...
-[END]
+Special Reserve! Shee...[END]
 
 === b2 | 17794 | 89 ===
 Hey there. Glad you came
@@ -1851,8 +1828,7 @@ I've heard that, too.[BRK]
 
 Hooohhh...It's kind of a
 long and complicated story.
-...Don't ask.
-[END]
+...Don't ask.[END]
 
 === b4 | 17934 | fc ===
 Ahhhhh! Idd's thuh
@@ -2038,8 +2014,7 @@ psychic hotline![BRK]
 
 I mean, what kind of idiot
 falls for those moneymaking
-ploys? Really...
-[END]
+ploys? Really...[END]
 
 === c5 | 18e28 | 7a ===
 That fortune-teller at the
@@ -2221,8 +2196,7 @@ you later?[BRK]
 Sure...If I can deliver
 later, too...[BRK]
 
-Sorry, babe. No freeloaders!
-[END]
+Sorry, babe. No freeloaders![END]
 
 === d6 | 1a080 | 10d ===
 You know, thanks to your
@@ -2333,8 +2307,7 @@ is no time for games![BRK]
 
 The carnival is on the north
 part of the Madoria Plains.
-We'd better move...
-[END]
+We'd better move...[END]
 
 === db | 1a728 | 13 ===
 Nota E Bridge House[END]
@@ -2423,8 +2396,7 @@ nothing for this house?[BRK]
 
 I can't even imagine what
 could have been going
-through your mind!
-[END]
+through your mind![END]
 
 === e5 | 1b366 | 5b ===
 My house has become a shrine
@@ -2560,8 +2532,7 @@ an old habit.[BRK]
 
 You know what they say about
 old habits dying hard and
-all that...
-[END]
+all that...[END]
 
 === f2 | 1bbe2 | 106 ===
 Since I was serving in the
@@ -2579,8 +2550,7 @@ don't know how it happened![BRK]
 [POR02]
 I've got one word for you.[BRK]
 
-Lithium. Look it up.
-[END]
+Lithium. Look it up.[END]
 
 === f3 | 1bcf6 | 99 ===
 [POR07]
@@ -2612,8 +2582,7 @@ assets to Althena...[END]
 === f6 | 1bec8 | 4a ===
 The Knights of Althena are
 very persuasive, but I'm
-beginning to doubt...
-[END]
+beginning to doubt...[END]
 
 === f7 | 1bf22 | c1 ===
 It's so sad that the Knights
@@ -2642,8 +2611,7 @@ definitely am not for sale![BRK]
 
 Really! The nerve! For
 sale...Hrmph! I'll show you,
-cute lady!
-[END]
+cute lady![END]
 
 === fa | 1c790 | ae ===
 Awww, your kitty's not for
@@ -2736,8 +2704,7 @@ Destiny was destroyed by
 lightning from heaven![BRK]
 
 I wonder if that's a sign
-from Althena...
-[END]
+from Althena...[END]
 
 === 103 | 1cd84 | d4 ===
 It seems like the Priesthood
@@ -2891,8 +2858,7 @@ Welcome to Nota's tavern,
 kids. What can I get for
 ya? A virgin daiquiri?[BRK]
 
-Or perhaps a virgin?
-[END]
+Or perhaps a virgin?[END]
 
 === 113 | 1d77e | 70 ===
 You've come to the right

@@ -24,15 +24,13 @@ entire Althena Guard![BRK]
 
 What? Lord Leo? He's
 retired to his quarters.
-You'd better not bother him.
-[END]
+You'd better not bother him.[END]
 
 === 3 | 74d8 | 43 ===
 [POR04]
 But I must tell him of
 the events at the Blue
-Tower! Let us in!
-[END]
+Tower! Let us in![END]
 
 === 4 | 752a | 3b ===
 This area is off-limits
@@ -75,8 +73,7 @@ That milky skin, the curve
 of her hips...those smooth,
 supple br...[BRK]
 
-.............Uh, never mind!
-[END]
+.............Uh, never mind![END]
 
 === 9 | 77fa | 7d ===
 [POR09]
@@ -134,8 +131,7 @@ But...Leo.[BRK]
 
 [POR09]
 Fight bravely, fight well,
-and most of all fight fair.
-[END]
+and most of all fight fair.[END]
 
 === d | 7b54 | 67 ===
 [POR09]
@@ -223,11 +219,7 @@ boyfriend, dear.[BRK]
 I sense a coming...chill
 in your relationship...[BRK]
 
-Ha ha ha ha ha!
-
-
-
-[END]
+Ha ha ha ha ha![END]
 
 === 12 | 801e | 2f3 ===
 [ROR14]
@@ -283,9 +275,7 @@ your mission, or return to
 the Blue Tower to save Hiro.[BRK]
 
 It's up to you...Hm hm hm
-hm hm hm....
-
-[END]
+hm hm hm....[END]
 
 === 13 | 8332 | 16e ===
 [POR02]
@@ -313,8 +303,7 @@ If I use the secret power of
 the Blue Tower, I can save
 Hiro...[BRK]
 
-...But that would...
-[END]
+...But that would...[END]
 
 === 14 | 84c0 | 1c6 ===
 [POR08]
@@ -392,9 +381,7 @@ on, no more bad thoughts![BRK]
 Okay. As Ruby would say,[BRK]
 
 'Let's get this show on
-the road, Hiro!'
-
-[END]
+the road, Hiro!'[END]
 
 === 16 | 8878 | 229 ===
 [POR01]
@@ -462,9 +449,7 @@ visit Grandpa Gwyn first?[BRK]
 Please, Hiro? For me?[BRK]
 
 [POR01]
-...Okay, Lucia. For you.
-
-[END]
+...Okay, Lucia. For you.[END]
 
 === 18 | 8bce | b9 ===
 [POR02]
@@ -502,8 +487,7 @@ to restore Hiro.[BRK]
 
 [POR08]
 But there's no time.
-Zophar is...
-[END]
+Zophar is...[END]
 
 === 1b | 8df0 | 83 ===
 [POR08]
@@ -519,8 +503,7 @@ care of Zophar...[END]
 [POR08]
 But my first priority is
 to use the power of the 
-Blue Spire to revive you.
-[END]
+Blue Spire to revive you.[END]
 
 === 1d | 8ee6 | 1eb ===
 [POR05]
@@ -556,10 +539,7 @@ all will be...[BRK]
 [POR02]
 I'm not listening! La la la
 la la la la la la la la la 
-la la la.....
-
-
-[END]
+la la la.....[END]
 
 === 1e | 90e8 | 2e7 ===
 [POR05]
@@ -610,8 +590,7 @@ save the world.[BRK]
 I must continue my mission,
 regardless of the cost.[BRK]
 
-Do what you must, Ronfar.
-[END]
+Do what you must, Ronfar.[END]
 
 === 1f | 93d8 | 49 ===
 [POR05]
@@ -621,8 +600,7 @@ Hiro![BRK]
 
 [POR08]
 ....
-.....
-[END]
+.....[END]
 
 === 20 | 9438 | 106 ===
 [POR05]
@@ -639,8 +617,7 @@ Spire first to save Hiro.[BRK]
 
 Trust me...It'll all be
 peachy keen, jelly bean.
-...You'll see....
-[END]
+...You'll see....[END]
 
 === 21 | 9552 | 9b ===
 [POR10]
@@ -679,9 +656,7 @@ You've got to save him,
 Lucia![BRK]
 
 [POR08]
-But Lemina...I...
-
-[END]
+But Lemina...I...[END]
 
 === 24 | 9774 | 90 ===
 [POR07]
@@ -691,12 +666,10 @@ time's mega-a-wastin'.[BRK]
 
 Let's make tracks for the
 Blue Spire and wake Prince
-Charming!
-[END]
+Charming![END]
 
 === 25 | 980a | 13 ===
-Dragonship Destiny
-[END]
+Dragonship Destiny[END]
 
 === 26 | a128 | 7f ===
 Halt! You have no business
@@ -720,15 +693,13 @@ entire Althena guard![BRK]
 
 What? Lord Leo? He's
 retired to his quarters.
-You'd better not bother him.
-[END]
+You'd better not bother him.[END]
 
 === 29 | a2ac | 43 ===
 [POR04]
 But I must tell him of
 the events at the Blue
-Tower! Let us in!
-[END]
+Tower! Let us in![END]
 
 === 2a | a2fe | 3b ===
 This area is off-limits
@@ -749,8 +720,7 @@ Goddess Althena.[BRK]
 
 It is equipped with a mighty
 White Dragon Cannon at its
-bow.
-[END]
+bow.[END]
 
 === 2d | a450 | 8f ===
 We are retained by the
@@ -772,8 +742,7 @@ That milky skin, the curve
 of her hips...those smooth,
 supple br...[BRK]
 
-.............Uh, never mind!
-[END]
+.............Uh, never mind![END]
 
 === 2f | a5ce | 7d ===
 [POR09]
@@ -831,8 +800,7 @@ But...Leo.[BRK]
 
 [POR09]
 Fight bravely, fight well,
-and most of all fight fair.
-[END]
+and most of all fight fair.[END]
 
 === 33 | a928 | 67 ===
 [POR09]
@@ -885,8 +853,7 @@ Oh, Althena must trust me,
 even if the result is...[BRK]
 
 [POR01]
-.....?
-[END]
+.....?[END]
 
 === 37 | abf8 | 1f0 ===
 [ROR08]
@@ -921,11 +888,7 @@ boyfriend, dear.[BRK]
 I sense a coming...chill
 in your relationship...[BRK]
 
-Ha ha ha ha ha!
-
-
-
-[END]
+Ha ha ha ha ha![END]
 
 === 38 | adf2 | 2f3 ===
 [ROR14]
@@ -981,9 +944,7 @@ your mission, or return to
 the Blue Tower to save Hiro.[BRK]
 
 It's up to you...Hm hm hm
-hm hm hm...
-
-[END]
+hm hm hm...[END]
 
 === 39 | b106 | 16e ===
 [POR02]
@@ -1011,8 +972,7 @@ If I use the secret power of
 the Blue Tower, I can save
 Hiro...[BRK]
 
-...But that would...
-[END]
+...But that would...[END]
 
 === 3a | b294 | 1c6 ===
 [POR08]
@@ -1090,8 +1050,7 @@ on, no more bad thoughts![BRK]
 Okay. As Ruby would say,[BRK]
 
 'Let's get this show on
-the road, Hiro!'
-[END]
+the road, Hiro!'[END]
 
 === 3c | b64c | 229 ===
 [POR01]
@@ -1159,8 +1118,7 @@ visit Grandpa Gwyn first?[BRK]
 Please, Hiro? For me?[BRK]
 
 [POR01]
-...Okay, Lucia. For you.
-[END]
+...Okay, Lucia. For you.[END]
 
 === 3e | b9a2 | b9 ===
 [POR02]
@@ -1198,8 +1156,7 @@ to restore Hiro.[BRK]
 
 [POR08]
 But there's no time.
-Zophar is...
-[END]
+Zophar is...[END]
 
 === 41 | bbc4 | 83 ===
 [POR08]
@@ -1215,8 +1172,7 @@ care of Zophar...[END]
 [POR08]
 But my first priority is
 to use the power of the 
-Blue Spire to revive you.
-[END]
+Blue Spire to revive you.[END]
 
 === 43 | bcba | 1eb ===
 [POR05]
@@ -1252,12 +1208,7 @@ all will be...[BRK]
 [POR02]
 I'm not listening! La la la
 la la la la la la la la la 
-la la la...
-
-
-
-
-[END]
+la la la...[END]
 
 === 44 | bebc | 2e7 ===
 [POR05]
@@ -1308,8 +1259,7 @@ save the world.[BRK]
 I must continue my mission,
 regardless of the cost.[BRK]
 
-Do what you must, Ronfar.
-[END]
+Do what you must, Ronfar.[END]
 
 === 45 | c1ac | 49 ===
 [POR05]
@@ -1319,8 +1269,7 @@ Hiro![BRK]
 
 [POR08]
 ....
-.....
-[END]
+.....[END]
 
 === 46 | c20c | 106 ===
 [POR05]
@@ -1337,8 +1286,7 @@ Spire first to save Hiro.[BRK]
 
 Trust me...It'll all be
 peachy keen, jelly bean.
-...You'll see....
-[END]
+...You'll see....[END]
 
 === 47 | c326 | 9b ===
 [POR10]
@@ -1377,9 +1325,7 @@ You've got to save him,
 Lucia![BRK]
 
 [POR08]
-But Lemina...I...
-
-[END]
+But Lemina...I...[END]
 
 === 4a | c548 | 90 ===
 [POR07]
@@ -1389,10 +1335,8 @@ time's mega-a-wastin'.[BRK]
 
 Let's make tracks for the
 Blue Spire and wake Prince
-Charming!
-[END]
+Charming![END]
 
 === 4b | c5de | 13 ===
-Dragonship Destiny
-[END]
+Dragonship Destiny[END]
 

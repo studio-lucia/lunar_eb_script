@@ -98,9 +98,7 @@ until that time.[BRK]
 
 Until then, look deep within
 your soul and believe in the
-unbelievable...
-
-[END]
+unbelievable...[END]
 
 === b | 26b6b | 87 ===
 Received the Crest of the
@@ -142,8 +140,7 @@ before you.[BRK]
 
 Perhaps you and Lucia can
 restore the Blue Star to
-its former glory...
-[END]
+its former glory...[END]
 
 === d | 26dae | 63 ===
 [POR26]

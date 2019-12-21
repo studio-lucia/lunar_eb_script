@@ -65,9 +65,7 @@ us all.[BRK]
 
 Know that I have the will
 and the resources to carry
-out that task...
-
-[END]
+out that task...[END]
 
 === 2 | 4a10 | 14 ===
 [POR09]
@@ -199,9 +197,7 @@ lesson for later. [BRK]
 
 Right now, we'd better find
 a way out of here..........
-..........Wherever here is!
-
-[END]
+..........Wherever here is![END]
 
 === b | 9f18 | 101 ===
 [POR08]
@@ -329,8 +325,7 @@ little payback...[END]
 But I was under orders from
 what I thought was Althena![BRK]
 
-You must understand!
-[END]
+You must understand![END]
 
 === 14 | a66c | 10 ===
 Mystic Ruins Top[END]

@@ -19,13 +19,7 @@ good for Lucia's health.[BRK]
 
 So, Chief, the gameplan's to
 sneak onto the Destiny and
-rescue her, right?
-
-
-
-
-
-[END]
+rescue her, right?[END]
 
 === 1 | 969c | 68 ===
 [POR02]
@@ -153,13 +147,7 @@ treasure.[BRK]
 [POR02]
 Hiro, I bet that's the tower
 Grandpa was talking about!
-Let's go!
-
-
-
-
-
-[END]
+Let's go![END]
 
 === f | 9edc | 81 ===
 There's s'posed to be some
@@ -178,18 +166,12 @@ No, tell me about it![END]
 
 === 11 | 9fea | 22 ===
 Movie? Say, mister, what's
-that?
-
-[END]
+that?[END]
 
 === 12 | a01e | 3d ===
 Oh, goodie! I hoped you'd
 say that! I love reciting
-them!
-
-
-
-[END]
+them![END]
 
 === 13 | a05e | 155 ===
 The first of the Four Heroes
@@ -212,8 +194,7 @@ the school of the Althena
 Cult.[BRK]
 
 Memorized them myself.
-Aren'cha proud of me?
-[END]
+Aren'cha proud of me?[END]
 
 === 14 | a1ca | 75 ===
 Hey there, have you heard
@@ -271,8 +252,7 @@ a dragon.[BRK]
 [POR02]
 Well, I'm big enough to
 toast your impudent butt,
-Junior!
-[END]
+Junior![END]
 
 === 18 | a570 | 99 ===
 It would be so cool if I
@@ -368,8 +348,7 @@ Goddess has come back to
 save the world.[BRK]
 
 But I really don't see how
-that can be true.
-[END]
+that can be true.[END]
 
 === 21 | abb8 | b1 ===
 Did you see how immense the
@@ -380,8 +359,7 @@ truly a wonderful thing,[BRK]
 
 but I don't know about her
 followers. They're a little
-weird for my taste.
-[END]
+weird for my taste.[END]
 
 === 22 | ac7c | af ===
 The members of Althena's
@@ -559,8 +537,7 @@ tried to seize Althena's
 power![BRK]
 
 Are these rumors true?! Did
-that really happen??!
-[END]
+that really happen??![END]
 
 === 35 | cca0 | 72 ===
 This is my annual Hobble-a-
@@ -599,12 +576,7 @@ They say she has come again.[END]
 === 39 | cec8 | 47 ===
 If the Goddess has returned,
 Lord Leo has direct contact
-with her.
-
-
-
-
-[END]
+with her.[END]
 
 === 3a | cf1e | 90 ===
 The Goddess Althena was an
@@ -622,8 +594,7 @@ destruction.[BRK]
 
 But she needs all your
 donations to make this
-possible. Give freely...
-[END]
+possible. Give freely...[END]
 
 === 3c | d050 | 74 ===
 [POR08]
@@ -632,8 +603,7 @@ do with the money? Isn't she
 a goddess?[BRK]
 
 She has no use for the money
-of your world...
-[END]
+of your world...[END]
 
 === 3d | d0d2 | 7e ===
 [POR07]
@@ -701,8 +671,7 @@ sinned' speech.[BRK]
 
 We're just gonna try really
 hard to make things right
-again.
-[END]
+again.[END]
 
 === 44 | d566 | ec ===
 Whew! She's a looker, ain't
@@ -754,8 +723,7 @@ fact she's a destroyer.[BRK]
 
 I dunno. I'm just glad I'm
 not Leo. But I guess he's
-got his orders from Althena.
-[END]
+got his orders from Althena.[END]
 
 === 49 | e6de | 2c ===
 Oh man! I think that ale
@@ -827,10 +795,7 @@ Blue Spire, I've had weird
 dreams.[BRK]
 
 Ya think it's post-traumatic
-stress disorder?
-
-
-[END]
+stress disorder?[END]
 
 === 51 | eb62 | 70 ===
 Hi there! Welcome to the
@@ -942,8 +907,7 @@ relationships.[BRK]
 
 ...I hope they find what
 they're looking for. But
-I don't think they will...
-[END]
+I don't think they will...[END]
 
 === 5c | f28c | 81 ===
 I'm so glad the world is
@@ -958,8 +922,7 @@ After a hard day's work,
 it's my pleasure to say
 ...'Bottoms up!'[BRK]
 
-Ahhh! That hit the spot!
-[END]
+Ahhh! That hit the spot![END]
 
 === 5e | f38a | d4 ===
 The priests of Althena's
@@ -1049,8 +1012,7 @@ our world from anarchy.[BRK]
 
 But I think it would fall
 apart were it not for Lord
-Leo.
-[END]
+Leo.[END]
 
 === 6b | 106ec | ca ===
 Hmmm...I've heard that the
@@ -1101,8 +1063,7 @@ But since my mom and dad
 like the Cult priests,
 they'll never believe me.[BRK]
 
-What should I do?
-[END]
+What should I do?[END]
 
 === 71 | 10a68 | 12 ===
 Okay, your loss...[END]
@@ -1297,8 +1258,7 @@ Priesthood can enter,[BRK]
 
 why would you want to go
 there? You'll never be able
-to get in!
-[END]
+to get in![END]
 
 === 8c | 146c6 | 88 ===
 I heard that you were going
@@ -1307,8 +1267,7 @@ gulia.[BRK]
 
 You know, that place is
 rumored to be guarding the
-essence of evil itself!
-[END]
+essence of evil itself![END]
 
 === 8d | 1475c | 38 ===
 [POR02]

@@ -34,8 +34,7 @@ way of the lake to the east.[BRK]
 
 This is no place for people
 like you...Get lost before
-Borgan finds you!
-[END]
+Borgan finds you![END]
 
 === 2 | 7c1c | 75 ===
 Cross through the cave on
@@ -90,8 +89,7 @@ still be free...[BRK]
 
 [POR07]
 ....
-.....
-[END]
+.....[END]
 
 === 5 | 7f7c | 35 ===
 Don't worry about me...get
@@ -150,8 +148,7 @@ Grandpa, there's just too
 much for me to do! I can't
 sit with you today.[BRK]
 
-How 'bout a raincheck, okay?
-[END]
+How 'bout a raincheck, okay?[END]
 
 === b | 836a | 1b8 ===
 Everything our lives will
@@ -178,11 +175,7 @@ outrageous![BRK]
 [POR02]
 How is it that you always
 seem to only tune in on the
-money aspect a problem?
-
-
-
-[END]
+money aspect a problem?[END]
 
 === c | 853a | 64 ===
 I wish I had never lusted
@@ -212,8 +205,7 @@ It does serve them right![BRK]
 
 [POR02]
 Lemina, Lemina...always the
-same...Hoohmhmhommmm...
-[END]
+same...Hoohmhmhommmm...[END]
 
 === f | 871e | 93 ===
 I personally think that the
@@ -242,8 +234,7 @@ Borgan has totally corrupted
 it.[BRK]
 
 His oppression grows
-stronger by the day...
-[END]
+stronger by the day...[END]
 
 === 12 | 88f4 | 3e ===
 This policy of enslaving
@@ -292,10 +283,7 @@ here has lifted.[BRK]
 
 I don't dare speak it, but
 it almost seems as if the
-miners have...hope!
-
-
-[END]
+miners have...hope![END]
 
 === 19 | 8c5a | 6f ===
 I'm so happy that Zaback is
@@ -338,8 +326,7 @@ I'm glad I don't have to
 submit to the trials,
 though.[BRK]
 
-They were for dorks...
-[END]
+They were for dorks...[END]
 
 === 1e | 8f2e | e1 ===
 Dreb over there thinks he's
@@ -573,8 +560,7 @@ what we mine, he finds out
 and punishes us severely.[BRK]
 
 ...And we're not talkin'
-spanking here...
-[END]
+spanking here...[END]
 
 === 31 | 9dc6 | 7c ===
 Will wonders never cease?!
@@ -601,8 +587,7 @@ can freely paint...[BRK]
 
 Our lives are returning to
 normal...but we will never
-forget...
-[END]
+forget...[END]
 
 === 34 | 9fa8 | a3 ===
 Let's see...magic of Blaze,
@@ -618,10 +603,7 @@ I'm doomed to fail![END]
 === 35 | a062 | 4f ===
 What I'd give to play with
 my friends instead of
-studying this crappy magic!
-
-
-[END]
+studying this crappy magic![END]
 
 === 36 | a0c4 | 9d ===
 Since Neo-Vane fell from the
@@ -657,9 +639,7 @@ Diamonds.[BRK]
 
 The mine kept giving them
 and never seemed to run out.
-It was too good to last...
-
-[END]
+It was too good to last...[END]
 
 === 39 | a34a | cb ===
 These days, Borgan rules the
@@ -814,8 +794,7 @@ submitted to Borgan's Magic
 Trial![BRK]
 
 Now my family is enslaved
-to him for generations.
-[END]
+to him for generations.[END]
 
 === 4a | d16e | 5d ===
 Borgan got the power to
@@ -902,8 +881,7 @@ given us our freedom![END]
 === 54 | d6b2 | 3e ===
 I'm glad that Borgan has
 been shown the light
-...so to speak.
-[END]
+...so to speak.[END]
 
 === 55 | d6fe | 24 ===
 [POR07]
@@ -917,8 +895,7 @@ of Vane's Magic Guild![BRK]
 
 [POR02]
 T-That's not true! How do
-these rumors get started?
-[END]
+these rumors get started?[END]
 
 === 57 | d7c4 | 85 ===
 [POR07]
@@ -989,8 +966,7 @@ Magic Trial.[BRK]
 
 That man over there is
 teaching the children to use
-magic so they can get out.
-[END]
+magic so they can get out.[END]
 
 === 5e | dc4e | d7 ===
 I've worked at this mine
@@ -1007,8 +983,7 @@ you believe that?![BRK]
 That big baby...[END]
 
 === 5f | dd3c | 18 ===
-Don't bother me...okay?
-[END]
+Don't bother me...okay?[END]
 
 === 60 | dd70 | 69 ===
 I'm going to help the
@@ -1135,8 +1110,7 @@ at Lionhead, there's rumored
 to be treasure caches.[BRK]
 
 But you'd have to be crazy
-to go in those joints!
-[END]
+to go in those joints![END]
 
 === 74 | fff2 | 11a ===
 Did you hear the rumor that
@@ -1346,8 +1320,7 @@ treeted me guud <hick>.[BRK]
 
 Bud now she found oud I
 god no magic power, she
-treads me like dird <hick>!
-[END]
+treads me like dird <hick>![END]
 
 === 86 | 10dd4 | a6 ===
 Haaay! Did you heer? <Hick>
@@ -1437,8 +1410,7 @@ on that marriage![BRK]
 
 True love or not, I will not
 let my mother marry that...
-that...bullfrog!
-[END]
+that...bullfrog![END]
 
 === 8f | 11396 | a ===
 Zaback Bar[END]
@@ -1463,8 +1435,7 @@ Vane.[BRK]
 [POR07]
 But...if he goes there,
 you'll never see him again!
-That's so...sad....
-[END]
+That's so...sad....[END]
 
 === 91 | 11d52 | 65 ===
 I've taught my son every-
@@ -1603,16 +1574,7 @@ small fee.[BRK]
 
 [POR02]
 Oh, Lemina! Will you ever
-change? You're hopeless!
-
-
-
-
-
-
-
-
-[END]
+change? You're hopeless![END]
 
 === a0 | 12648 | 98 ===
 I feel kinda bad for my big
@@ -1678,8 +1640,7 @@ for sure![BRK]
 
 In fact, he's doing much
 better than that imbecile
-next door.
-[END]
+next door.[END]
 
 === a8 | 130d8 | 7e ===
 My son is definitely more
@@ -1750,8 +1711,7 @@ finance the rebuilding...[BRK]
 
 [POR02]
 But don't you ever give it
-a rest?
-[END]
+a rest?[END]
 
 === ad | 13536 | 7d ===
 You people are so good.
@@ -1816,9 +1776,7 @@ IQ for butt-wiping.[BRK]
 
 ...His own included. Lord!
 His parents must be so very
-embarrassed!
-
-[END]
+embarrassed![END]
 
 === b3 | 1395c | 274 ===
 I am thoroughly prepared
@@ -1856,9 +1814,7 @@ you need to have your butt
 whipped well past repair![BRK]
 
 Maybe it'll knock some of
-that arrogance out of you!
-
-[END]
+that arrogance out of you![END]
 
 === b4 | 13be8 | 89 ===
 I'm dying to prove my super-
@@ -1900,8 +1856,7 @@ I can try to get you into
 the Magic Guild of Vane.[BRK]
 
 But it'll cost you...like,
-10,000s...in advance!
-[END]
+10,000s...in advance![END]
 
 === b9 | 13e70 | b2 ===
 Why are you bothering me?

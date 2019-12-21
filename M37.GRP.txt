@@ -40,9 +40,7 @@ soul that gets in his way![BRK]
 [POR02]
 Uh, we sorta had a first-
 hand demonstration of that
-already...
-
-[END]
+already...[END]
 
 === 4 | 171ea | 9a ===
 I really need a vacation. [BRK]
@@ -97,8 +95,7 @@ White Tower 5F[END]
 === d | 19f44 | 22 ===
 [POR02]
 ...Hiro! Are you 
-all right??!
-[END]
+all right??![END]
 
 === e | 19f86 | cd ===
 [POR02]
@@ -112,8 +109,7 @@ for that evil Althena![BRK]
 We've got to find a way to
 get out of here...[BRK]
 
-...Wherever 'here' is...
-[END]
+...Wherever 'here' is...[END]
 
 === f | 1a06e | 162 ===
 [POR02]
@@ -145,10 +141,7 @@ find the others![BRK]
 ....
 .....[BRK]
 
-...Uh...Any ideas?
-
-
-[END]
+...Uh...Any ideas?[END]
 
 === 10 | 1a1da | 4f4 ===
 [POR13]
@@ -239,14 +232,7 @@ What you do after that is
 your own business.[BRK]
 
 Come quickly! Time rapidly
-escapes us!
-
-
-
-
-
-
-[END]
+escapes us![END]
 
 === 11 | 1a70c | e ===
 White Tower 6F[END]

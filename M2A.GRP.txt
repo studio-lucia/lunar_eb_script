@@ -66,9 +66,7 @@ Hiro, you finally found
 someone for you...[BRK]
 
 I...I know what I must
-do...
-
-[END]
+do...[END]
 
 === 2 | 1a8d4 | 1c9 ===
 [POR23]
@@ -112,8 +110,7 @@ Now that all the dragons
 are released, we must
 assault Pentagulia![BRK]
 
-The Goddess awaits!
-[END]
+The Goddess awaits![END]
 
 === 3 | 1aaa0 | c0 ===
 [POR02]
@@ -177,8 +174,7 @@ uh......wondering...[BRK]
 
 [POR02]
 Oh, forget it! Let's get
-moving again!
-[END]
+moving again![END]
 
 === 6 | 1b558 | f ===
 Red Dragon B1-A[END]

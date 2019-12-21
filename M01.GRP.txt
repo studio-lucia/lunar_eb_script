@@ -38,9 +38,7 @@ here.[BRK]
 
 Everyone in Larpa is a 
 shyster, so who are they
-protectin' us from, anyway?
-
-[END]
+protectin' us from, anyway?[END]
 
 === 3 | ecf2 | 81 ===
 You're lookin' for a girl?[BRK]
@@ -59,8 +57,7 @@ joint is crawlin' with
 seedy types...[BRK]
 
 ...it kinda grows on ya
-after a while...
-[END]
+after a while...[END]
 
 === 5 | edfe | 8f ===
 We of Althena's Elite
@@ -99,8 +96,7 @@ to ya...[BRK]
 [POR00]
 Well, geez! Sure, go ahead!
 ...Just blow me off. Lousy
-brats...
-[END]
+brats...[END]
 
 === 9 | f074 | 5f ===
 Ronfar? You're looking for
@@ -124,11 +120,7 @@ be a priest.[BRK]
 
 Priest, my butt! If he was a
 priest, he'd have some com-
-passion and return my house!
-
-
-
-[END]
+passion and return my house![END]
 
 === c | f208 | 9f ===
 Althena's Guards try to keep
@@ -139,8 +131,7 @@ it's bad for our souls...[BRK]
 Actually, we don't believe
 them.[BRK]
 
-...We just play in secret!
-[END]
+...We just play in secret![END]
 
 === d | f2c4 | 79 ===
 Are you looking for the
@@ -176,8 +167,7 @@ me, and return my losses.[BRK]
 [POR02]
 Oh, no! You're not draggin'
 us into this mess! C'ya, ya
-big retarded lug.
-[END]
+big retarded lug.[END]
 
 === 11 | f510 | aa ===
 [POR05]
@@ -243,12 +233,7 @@ Aaa, aaa, aaaaachoooo![END]
 === 17 | f8c2 | 46 ===
 Oh...Oh...nooooo....
 Aaa...aah...Ronfar...
-...Aachoooooooooooooo!
-
-
-
-
-[END]
+...Aachoooooooooooooo![END]
 
 === 18 | f91c | 87 ===
 Hooo doggie! I'm plumb beat!
@@ -257,8 +242,7 @@ I...wish...I...could...sit![BRK]
 Some stinking bozo stuck
 liniment in my underpants![BRK]
 
-I'm on fire! Ouh eee ahh!
-[END]
+I'm on fire! Ouh eee ahh![END]
 
 === 19 | f9ba | 97 ===
 If I catch the prankster
@@ -288,8 +272,7 @@ lookin for Ronfar, he's
 probably at the bar.[BRK]
 
 You know...gambling. Try
-looking for him there.
-[END]
+looking for him there.[END]
 
 === 1b | fb9a | cf ===
 I thought you were looking
@@ -304,8 +287,7 @@ Hey, dipwad! We had to check
 out your story, OK? We're
 not amateurs, ya know![BRK]
 
-Let's go, Hiro!
-[END]
+Let's go, Hiro![END]
 
 === 1c | fc7c | 6e ===
 Lord Leo was the last person
@@ -393,8 +375,7 @@ Thank Gwyn and Ronfar for
 me.[BRK]
 
 [POR02]
-B...But Lucia!
-[END]
+B...But Lucia![END]
 
 === 22 | 100de | 89 ===
 [POR02]
@@ -413,9 +394,7 @@ He must be worried by now.[END]
 
 === 23 | 1017e | 10 ===
 [POR05]
-Hey...Hiro!
-
-[END]
+Hey...Hiro![END]
 
 === 24 | 10198 | 1fb ===
 [POR05]
@@ -464,8 +443,7 @@ outta there, I said![BRK]
 
 He used to be a priest! He
 knows unholy tricks!...Get
-off me...Ahhh!
-[END]
+off me...Ahhh![END]
 
 === 26 | 104a0 | e7 ===
 R...Ronfar! It's you! H-How
@@ -481,9 +459,7 @@ But I think a little
 lithium might be just the
 ticket for ya.[BRK]
 
-...Check it out, bud.
-
-[END]
+...Check it out, bud.[END]
 
 === 27 | 1059e | ce ===
 Yeah, there was a girl with
@@ -763,11 +739,7 @@ Sorry, sugar bumps, I gotta
 be free. Can't tie my boat
 to only one dock, ya know.[BRK]
 
-Nothing personal.
-
-
-
-[END]
+Nothing personal.[END]
 
 === 42 | 117b2 | 99 ===
 You just missed the show![BRK]
@@ -778,8 +750,7 @@ staring into the sky.[BRK]
 
 She seemed so innocent...
 and yet no one knew who
-she was.
-[END]
+she was.[END]
 
 === 43 | 1185e | 41 ===
 Larpa is free, and the
@@ -889,8 +860,7 @@ here don't like Althena.[BRK]
 
 They just don't believe in
 anything except the power
-of chance.
-[END]
+of chance.[END]
 
 === 4f | 11f08 | 84 ===
 Say there, sweetie. You
@@ -953,8 +923,7 @@ What? So you can be your
 normal chauvinistic pig and
 give her a workout?[BRK]
 
-Oh, please...
-[END]
+Oh, please...[END]
 
 === 57 | 122d4 | e4 ===
 You know, just between you
@@ -970,8 +939,7 @@ almost like magic![BRK]
 
 [POR02]
 Yeah, right...Magic. I'm
-so impressed, I'm yawning...
-[END]
+so impressed, I'm yawning...[END]
 
 === 58 | 123d0 | ac ===
 Ohhh, Ronfar, you're
@@ -1019,9 +987,7 @@ friend now![BRK]
 [POR00]
 Well then, let me be your
 dice. Lay your hands on
-these lucky bones...
-
-[END]
+these lucky bones...[END]
 
 === 5c | 1268c | 44 ===
 [POR09]
@@ -1032,8 +998,7 @@ he was right![END]
 === 5d | 126ec | 47 ===
 Ronfar...sweetie...please
 reconsider. I could be your
-biggest win yet.
-[END]
+biggest win yet.[END]
 
 === 5e | 1275a | 196 ===
 What in tarnation is that
@@ -1080,11 +1045,7 @@ What did you say?[BRK]
 [POR00]
 Oh...uh...nothing...[BRK]
 
-Nice day, huh?
-
-
-
-[END]
+Nice day, huh?[END]
 
 === 60 | 129fe | 4d ===
 Okay, okay, I got the point.
@@ -1119,8 +1080,7 @@ Hey, buster! Hiro would
 never sell me to be a circus
 sideshow freak![BRK]
 
-Uh, right, Hiro?
-[END]
+Uh, right, Hiro?[END]
 
 === 63 | 12c50 | 10c ===
 Ya know, I've heard that
@@ -1140,12 +1100,7 @@ Take this!!![BRK]
 Ooooooooouuuuch![BRK]
 
 Hey! You burned me again,
-you little freak!!!
-
-
-
-
-[END]
+you little freak!!![END]
 
 === 64 | 12d74 | 6e ===
 N-N-Now you just stay
@@ -1153,9 +1108,7 @@ away from me! I don't
 want any more trouble![BRK]
 
 I'm still recovering from
-that last burn!
-
-[END]
+that last burn![END]
 
 === 65 | 12de8 | d ===
 Larpa Village[END]
@@ -1178,9 +1131,7 @@ I don't usually say that
 to guys, you know...[BRK]
 
 You know...the oath, and all
-that...
-
-[END]
+that...[END]
 
 === 68 | 14c5d | 31 ===
 [0]p[0][0][0x3][0x10]
@@ -1190,14 +1141,10 @@ N[0xC0][0xC0][BRK]
 
 [0][0][0]dp[0][0xC0][0x4][0][0][0xC0][BRK]
 
- [0xE]Gave 100s.
-
-[END]
+ [0xE]Gave 100s.[END]
 
 === 69 | 14c82 | c ===
-Gave 100s.
-
-[END]
+Gave 100s.[END]
 
 === 6a | 14cbc | 105 ===
 [POR05]
@@ -1236,8 +1183,7 @@ I-I've never failed to
 break a spell, except once
 when...[BRK]
 
-....Mauri was sick...
-[END]
+....Mauri was sick...[END]
 
 === 6c | 14eb0 | 92 ===
 [POR05]
@@ -1248,9 +1194,7 @@ hands of Ronfar![BRK]
 
 It's not complete, but the
 main spell is broken. She'll
-just have to...
-
-[END]
+just have to...[END]
 
 === 6d | 14f4c | fc ===
 Oh! I didn't know anyone
@@ -1311,8 +1255,7 @@ goodness springs forth...[BRK]
 
 But goodness has a price to
 be paid...Donate now, won't
-you?
-[END]
+you?[END]
 
 === 73 | 15316 | 74 ===
 I now know that the Goddess
@@ -1361,8 +1304,7 @@ world here.[BRK]
 
 But it's come so close to
 destruction so many
-times!
-[END]
+times![END]
 
 === 78 | 1563c | 53 ===
 [POR09]
@@ -1450,11 +1392,7 @@ yourself up about it.[BRK]
 
 Trot on over to the bar and
 forget your worries over a
-cold one!
-
-
-
-[END]
+cold one![END]
 
 === 82 | 15bde | 74 ===
 Since the Goddess Althena
@@ -1505,8 +1443,7 @@ your sins and serve Althena?[BRK]
 Done it, seen it, been it.
 Sorry, no dice...[BRK]
 
-Uh, pardon the pun...Hahaha!
-[END]
+Uh, pardon the pun...Hahaha![END]
 
 === 88 | 15eea | 6c ===
 If Zophar had succeeded,
@@ -1538,8 +1475,7 @@ anything on your behalf.[BRK]
 
 But it's really just good
 manners to donate something,
-too.
-[END]
+too.[END]
 
 === 8c | 160fc | 7e ===
 We are the guardians of
@@ -1557,8 +1493,7 @@ have not made even one
 person here convert![BRK]
 
 This town is crawlin' with
-sinners!
-[END]
+sinners![END]
 
 === 8e | 161fe | ad ===
 Lucia...Lucia...hmm...[BRK]
@@ -1570,8 +1505,7 @@ trying to find her.[BRK]
 [POR02]
 Oh no! I don't like the
 sound of that one bit! We've
-got to find her!
-[END]
+got to find her![END]
 
 === 8f | 162be | 88 ===
 I was thinking of starting
@@ -1594,8 +1528,7 @@ what I always said.[END]
 
 === 91 | 163f8 | 32 ===
 Whatever happened to the
-carefree days of before?
-[END]
+carefree days of before?[END]
 
 === 92 | 1642e | 79 ===
 If there's one thing I've
@@ -1627,8 +1560,7 @@ doesn't want to be bothered.[BRK]
 
 But if you want to take
 your chances, he's at the
-back of the bar.
-[END]
+back of the bar.[END]
 
 === 96 | 1741a | 8d ===
 Oh my! Did you see that?
@@ -1661,8 +1593,7 @@ And if you're in the mood,
 you can lose all your money
 here as well![BRK]
 
-We're a full-service bar!
-[END]
+We're a full-service bar![END]
 
 === 99 | 17628 | 74 ===
 C'mon now! Take a bit of
@@ -1704,8 +1635,7 @@ know what I'll do...[BRK]
 
 What should I do? Should I
 give up on my dream or hold
-out for what may never come?
-[END]
+out for what may never come?[END]
 
 === 9d | 178fa | 4a ===
 I'm so confused! Why is it
@@ -1718,8 +1648,7 @@ marry Urvin and make the
 best life possible with him.[BRK]
 
 It will be tough. But at
-least I know he loves me.
-[END]
+least I know he loves me.[END]
 
 === 9f | 179f8 | 8e ===
 I've been coming here for
@@ -1749,8 +1678,7 @@ to make Martha understand.[BRK]
 
 She must see me not for the
 lowly street vendor I am,
-but as a man who loves her!
-[END]
+but as a man who loves her![END]
 
 === a2 | 17c1c | 86 ===
 Well, I've done it now.
@@ -1782,10 +1710,7 @@ him and join me for a nice
 game of dice?[BRK]
 
 I promise to go easy on you
-the first couple rounds...
-
-
-[END]
+the first couple rounds...[END]
 
 === a5 | 17e33 | 147 ===
 [0]1L!D[POR05]
@@ -1809,10 +1734,7 @@ use for it.[BRK]
 
 [POR02]
 Liar! Cheat! Barbarian! Why
-would you want to eat me?!
-
-
-[END]
+would you want to eat me?![END]
 
 === a6 | 17f95 | a5 ===
 [0]0[0xA6] [0xA2][POR05]
@@ -1838,9 +1760,7 @@ I don't want to ever see
 your face again...[BRK]
 
 ...Unless you feel like
-rolling the bones...
-
-[END]
+rolling the bones...[END]
 
 === a8 | 1813c | 67 ===
 [POR05]
@@ -1914,9 +1834,7 @@ if you ask me. Cheat![BRK]
 
 [POR08]
 Ahh! Hiro...I can't...
-H-Help...me....
-
-[END]
+H-Help...me....[END]
 
 === b2 | 1852e | 85 ===
 [POR05]
@@ -2032,8 +1950,7 @@ competition in this town,[BRK]
 
 but I think that Ronfar is
 the best-looking man here,
-hands down!
-[END]
+hands down![END]
 
 === c1 | 18c4a | 5d ===
 [POR05]
@@ -2126,11 +2043,7 @@ Sit down and join us.[BRK]
 [POR05]
 Not yet, but soon. I look
 forward to cleaning you out
-again.
-
-
-
-[END]
+again.[END]
 
 === cc | 191b6 | 36 ===
 [POR10]
@@ -2205,8 +2118,7 @@ around here lately.[BRK]
 
 But I've been so deep into
 this game that I wasn't
-paying much attention.
-[END]
+paying much attention.[END]
 
 === d6 | 19646 | 4a ===
 I'm losing my shirt to
@@ -2311,8 +2223,7 @@ note?[BRK]
 
 I can't believe you'd have
 business in this crooked
-town.
-[END]
+town.[END]
 
 === e2 | 1a992 | 205 ===
 [POR09]
@@ -2354,9 +2265,7 @@ Uh...ahem...Right! Haven't
 heard anything,[BRK]
 
 but if I do, you're at the
-top of my list.
-
-[END]
+top of my list.[END]
 
 === e3 | 1aba0 | fd ===
 [POR09]
@@ -2373,11 +2282,7 @@ service of Althena?[BRK]
 
 You know, Mauri never got
 over you leaving. She still
-asks about you...
-
-
-
-[END]
+asks about you...[END]
 
 === e4 | 1aca6 | 19f ===
 [POR05]
@@ -2410,8 +2315,7 @@ come back to Pentagulia...
 But she's...[BRK]
 
 ....
-.....
-[END]
+.....[END]
 
 === e5 | 1ae5c | 325 ===
 [POR05]
@@ -2495,8 +2399,7 @@ sanctuary.[BRK]
 
 But Leo's got that guarded,
 so we'd better use the back
-door. C'mon, this way...
-[END]
+door. C'mon, this way...[END]
 
 === e9 | 1b33e | 4d ===
 [POR05]
@@ -2533,8 +2436,7 @@ he wakes up...[BRK]
 
 One thing's for sure: He's
 got a heart of gold under
-that thick skin...
-[END]
+that thick skin...[END]
 
 === ec | 1b550 | 6e ===
 [POR08]
@@ -2544,13 +2446,7 @@ I...I...Ahhh...[BRK]
 [POR02]
 Hiro, we've got to break
 this spell soon! She's 
-getting worse!
-
-
-
-
-
-[END]
+getting worse![END]
 
 === ed | 1b5d2 | 121 ===
 [POR08]
@@ -2573,13 +2469,7 @@ Can you hear me?[BRK]
 ......all so......very
 clearly...now...[BRK]
 
-You are my...only chance.
-
-
-
-
-
-[END]
+You are my...only chance.[END]
 
 === ee | 1b710 | 160 ===
 [POR05]
@@ -2601,8 +2491,7 @@ road ahead.[BRK]
 
 Lucia, you can take my bed,
 and the rest of you can
-sleep where you want.
-[END]
+sleep where you want.[END]
 
 === ef | 1b87a | 84 ===
 [POR02]
@@ -2691,8 +2580,7 @@ Larpa Village![BRK]
 
 But now that everything is
 sagging to the cellar, no
-one looks at me anymore...
-[END]
+one looks at me anymore...[END]
 
 === fa | 1c47a | b4 ===
 Oh, Ronfar, if I were 70
@@ -2714,8 +2602,7 @@ ago.[BRK]
 
 But you probably don't
 believe that. I can hardly
-believe it myself...
-[END]
+believe it myself...[END]
 
 === fc | 1c606 | 60 ===
 Hmm...You're looking for
@@ -2751,8 +2638,7 @@ Oh...Oh no! Where am I?
 This isn't Ronfar's house![BRK]
 
 Great...I've blown my brains
-out sneezing!
-[END]
+out sneezing![END]
 
 === 101 | 1ceb0 | df ===
 Ronfar, you gotta get rid
@@ -2766,9 +2652,7 @@ doctors recommend soup...[BRK]
 
 Hot soup...chicken, if ya
 got it. Won't heal you, but
-you'll feel better!
-
-[END]
+you'll feel better![END]
 
 === 102 | 1cfa2 | a2 ===
 A girl in red clothes? Yes,
@@ -2777,8 +2661,7 @@ sneeze for the longest time.[BRK]
 
 The gal kinda gave me the
 creeps...just stared. Like
-she'd never seen a sneeze!
-[END]
+she'd never seen a sneeze![END]
 
 === 103 | 1d074 | 4b ===
 Aachoo! Oh...oh...This
@@ -2856,8 +2739,7 @@ But...[BRK]
 
 These other kooks followed
 me home...I couldn't believe
-it!
-[END]
+it![END]
 
 === 10c | 1d5f6 | 4b ===
 Oh...Oh...my head. Shhh!
@@ -2899,8 +2781,7 @@ become a bona fide
 alcoholic.[BRK]
 
 Time to give the Betty Ford
-a ring, bud.
-[END]
+a ring, bud.[END]
 
 === 111 | 1d89a | 12 ===
 Larpa Sickly House[END]
@@ -2935,8 +2816,7 @@ and let her have it.[BRK]
 
 But she broke nearly every
 dish in the house, so I
-fired her. What a nut!
-[END]
+fired her. What a nut![END]
 
 === 115 | 1e194 | b9 ===
 I heard that there was a
@@ -3008,9 +2888,7 @@ people don't.[BRK]
 
 I don't.[BRK]
 
-It sucks.
-
-[END]
+It sucks.[END]
 
 === 11b | 1e610 | 90 ===
 Ronfar, you're such a great
@@ -3208,8 +3086,7 @@ put the words in your mouth
 or the cards in your hand.[BRK]
 
 Face it! It's nobody's fault
-but your own, buddy.
-[END]
+but your own, buddy.[END]
 
 === 12e | 1f2bc | 6f ===
 What's the attraction of
@@ -3306,8 +3183,7 @@ pay the price.[BRK]
 
 But don't ask me about this
 'Ronfar' fellow, because I
-honestly don't know him.
-[END]
+honestly don't know him.[END]
 
 === 13b | 204b8 | 97 ===
 Hey, Ronfar, I'm keeping my
@@ -3354,15 +3230,12 @@ information fee![BRK]
 
 But now that you're here,
 I'll get it from you! It
-was 30s. So pay up!
-
-[END]
+was 30s. So pay up![END]
 
 === 13e | 207da | 3a ===
 Well, I guess if you
 haven't got 30s, this'll
-have to do.
-[END]
+have to do.[END]
 
 === 13f | 20846 | 1e ===
 Thanks. Now get outta 
@@ -3433,8 +3306,7 @@ out of this town if it
 kills me![BRK]
 
 [POR02]
-Uh...is she serious?
-[END]
+Uh...is she serious?[END]
 
 === 147 | 20d30 | 9f ===
 Oh, who am I kidding? Our
@@ -3448,8 +3320,7 @@ marry her?[BRK]
 .....[BRK]
 
 Uh, that's just between
-you and me, okay?
-[END]
+you and me, okay?[END]
 
 === 148 | 20de2 | 72 ===
 All the girls in this town
@@ -3481,9 +3352,7 @@ well...clumsy.[BRK]
 [POR02]
 Give the girl a break! She
 didn't do any permanent
-damage, butt-breath!
-
-[END]
+damage, butt-breath![END]
 
 === 14b | 20ff4 | 105 ===
 Ooohh! Aren't you the brave,
@@ -3515,9 +3384,7 @@ Say, if you'll marry her,
 I'll pay for the wedding
 and set you up in a house![BRK]
 
-Pretty please...???
-
-[END]
+Pretty please...???[END]
 
 === 14d | 21214 | 4a ===
 Duh, whull lookee here!
@@ -3573,10 +3440,7 @@ little...uh...lady.[BRK]
 [POR02]
 Whew! Let's get out of here
 before they try to marry
-her off again!
-
-
-[END]
+her off again![END]
 
 === 152 | 2154a | 47 ===
 One day mah prince will come
@@ -3651,8 +3515,7 @@ He's got this town tied up
 on his little pinky.[BRK]
 
 But don't tell him I said
-that, okay?
-[END]
+that, okay?[END]
 
 === 15a | 21a4e | 102 ===
 I never argue with the boss.

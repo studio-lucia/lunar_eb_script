@@ -53,11 +53,7 @@ to...[BRK]
 
 [POR07]
 Oh pooh! Just shush up and
-let's get moving!
-
-
-
-[END]
+let's get moving![END]
 
 === 1 | 13a3e | 299 ===
 [POR07]
@@ -105,8 +101,7 @@ Pure what? Lust? [BRK]
 [POR07]
 Are we gonna talk or are we
 gonna move? Time's slipping
-by! Let's go!
-[END]
+by! Let's go![END]
 
 === 2 | 13cdc | 11 ===
 Ghost Manor Attic[END]
@@ -129,9 +124,7 @@ slamming open or shut.[BRK]
 
 [POR02]
 D-Do you think it was a
-...a...ghost?
-
-[END]
+...a...ghost?[END]
 
 === 5 | 14aa6 | 90 ===
            BANG![BRK]
@@ -142,11 +135,7 @@ I think about it, it's
 probably not a ghost...[BRK]
 
 They wouldn't be using a
-door...W-Would they?
-
-
-
-[END]
+door...W-Would they?[END]
 
 === 6 | 14b56 | 101 ===
 Whooooo hooo hooo hoo! Wind
@@ -166,14 +155,7 @@ and remember......Whoooooo![BRK]
 [POR02]
 W...W-W-What is he talking
 about? L-Let's get out of
-here!
-
-
-
-
-
-
-[END]
+here![END]
 
 === 7 | 14c7e | ac ===
 Wind...wind...wind! Send
@@ -186,8 +168,7 @@ talking about?[BRK]
 
 And why is it talking to
 us?!! I'm completely creeped
-out!
-[END]
+out![END]
 
 === 8 | 14d4e | 9d ===
 Close the shutters and open
@@ -235,8 +216,7 @@ your soul...Find it![BRK]
 
 [POR10]
 Don't taunt us! Tell us the
-answer!
-[END]
+answer![END]
 
 === c | 1502a | 11 ===
 Ghost Manor Lobby[END]

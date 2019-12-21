@@ -96,9 +96,7 @@ to be sick.[END]
 === 7 | 8cfc | 47 ===
 I must conquer my fear.
 Otherwise, I'll never become
-a karate master.
-
-[END]
+a karate master.[END]
 
 === 8 | 8d56 | f4 ===
 I've got a great idea!![BRK]
@@ -178,8 +176,7 @@ any place you want.[BRK]
 
 [POR10]
 Fine. Your first lesson is 
-to face that corner.
-[END]
+to face that corner.[END]
 
 === 10 | 9242 | 52 ===
 I'm sorry, but I thought
@@ -316,8 +313,7 @@ brother, or maybe a dad?[BRK]
 
 [POR10]
 No!! And if I did, I 
-wouldn't let you know!!
-[END]
+wouldn't let you know!![END]
 
 === 1d | 9a7e | 66 ===
 Jean, please see if you
@@ -532,8 +528,7 @@ Sorry. Not interested.[BRK]
 .....[BRK]
 
 And don't call me sweet-
-heart.
-[END]
+heart.[END]
 
 === 30 | a60c | 4a ===
 You have come back to me,
@@ -646,8 +641,7 @@ a life.[BRK]
 
 And I think you spend too
 much time thinking instead
-of doing something!
-[END]
+of doing something![END]
 
 === 3c | ad14 | 8b ===
 I don't understand why Lunn
@@ -903,8 +897,7 @@ piece of wood...[BRK]
 
 Well...no...not with my
 hand. But I almost chopped
-it in two with this axe!
-[END]
+it in two with this axe![END]
 
 === 5b | bc0c | 6b ===
 I'm getting stronger each
@@ -932,8 +925,7 @@ every twenty minutes...[BRK]
 
 But at least I'm working
 out, which is more than I
-can say for you!
-[END]
+can say for you![END]
 
 === 5e | bdf4 | b6 ===
 This is the best place to
@@ -1036,8 +1028,7 @@ But that doesn't mean I
 have to fight fairly.[BRK]
 
 I'm going to go buy me some
-spiked brass knuckles!
-[END]
+spiked brass knuckles![END]
 
 === 69 | c4a0 | 83 ===
 Once I'm the most feared
@@ -1047,8 +1038,7 @@ I'll fight fair. But I'll
 never give up my iron
 codpiece...[BRK]
 
-Ya know...just in case.
-[END]
+Ya know...just in case.[END]
 
 === 6a | c53e | 71 ===
 Lunn was such a joke! I 
@@ -1065,8 +1055,7 @@ Get used to famous people
 letting you down. It happens
 all the time![BRK]
 
-Usually on Sunset...
-[END]
+Usually on Sunset...[END]
 
 === 6c | c628 | 69 ===
 I've heard that Lunn is 
@@ -1118,9 +1107,7 @@ you were a fighter![BRK]
 
 So you've come to fight in
 the tournament, have you?
-Good luck...frog licker!
-
-[END]
+Good luck...frog licker![END]
 
 === 71 | f824 | b8 ===
 The dancer takes a self-
@@ -1175,16 +1162,7 @@ Now![BRK]
 .....[BRK]
 
 ...hehe...<gulp>...Uh...
-right?
-
-
-
-
-
-
-
-
-[END]
+right?[END]
 
 === 75 | fb30 | 126 ===
 Will wonders never cease?![BRK]
@@ -1207,8 +1185,7 @@ you were an inbred hick![BRK]
 ....
 .....[BRK]
 
-Wait a minute...you are!
-[END]
+Wait a minute...you are![END]
 
 === 76 | fc66 | 253 ===
 [POR10]
@@ -1249,10 +1226,7 @@ only way...[BRK]
 
 [POR02]
 Um, excuse me? What is she
-talking about?
-
-
-[END]
+talking about?[END]
 
 === 77 | fec6 | 261 ===
 [POR10]
@@ -1433,9 +1407,7 @@ it, Jean, I must give you
 my sincerest thanks![BRK]
 
 Lunn deserved everything he
-got.
-
-[END]
+got.[END]
 
 === 84 | 10a56 | 5d ===
 This world certainly is
@@ -1647,13 +1619,7 @@ I'd like to say Wheaties,
 but I'm embarrassed to say
 it's...[BRK]
 
-...Spam.
-
-
-
-
-
-[END]
+...Spam.[END]
 
 === 99 | 117c2 | 43 ===
 I guess it took one master
@@ -1691,8 +1657,7 @@ pupil as he was.[BRK]
 
 But now we spit on the
 ground he walked on! He has
-betrayed us all...
-[END]
+betrayed us all...[END]
 
 === 9c | 11a38 | 3a ===
 I can't believe that Lunn
@@ -1756,8 +1721,7 @@ flagellation for my error. [BRK]
 
 [POR02]
 But won't you go blind if
-you do that?
-[END]
+you do that?[END]
 
 === a3 | 11e66 | 48 ===
 Lunn is an example to all
@@ -1992,9 +1956,7 @@ You said it, I didn't.[BRK]
 ....
 .....[BRK]
 
-...Coward. Hehe...
-
-[END]
+...Coward. Hehe...[END]
 
 === be | 154a0 | 61 ===
 Our daily training includes
@@ -2028,8 +1990,7 @@ including that wimp Lunn![BRK]
 
 But unfortunately, I
 have a cold and can't go
-outside right now.
-[END]
+outside right now.[END]
 
 === c2 | 15d96 | 46 ===
 I wish I wasn't so sick.
@@ -2099,8 +2060,7 @@ fight by our side?[BRK]
 [POR00]
 Uh...My recent illness has
 left me quite weak. I'd
-better work on my health.
-[END]
+better work on my health.[END]
 
 === ca | 16222 | 6f ===
 When I feel better, watch
@@ -2223,8 +2183,7 @@ cooking for the pupils of
 the dojo,[BRK]
 
 but when can we train? Our
-master is always sick!
-[END]
+master is always sick![END]
 
 === d9 | 17078 | 11 ===
 Horam Sickly Dojo[END]

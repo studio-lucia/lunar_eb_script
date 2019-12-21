@@ -24,15 +24,13 @@ entire Althena Guard![BRK]
 
 What? Lord Leo? He's
 retired to his quarters.
-You'd better not bother him.
-[END]
+You'd better not bother him.[END]
 
 === 3 | 1441a | 43 ===
 [POR04]
 But I must tell him of
 the events at the Blue
-Tower! Let us in!
-[END]
+Tower! Let us in![END]
 
 === 4 | 1446c | 3b ===
 This area is off-limits
@@ -53,8 +51,7 @@ Goddess Althena.[BRK]
 
 It is equipped with a mighty
 White Dragon Cannon at its
-bow.
-[END]
+bow.[END]
 
 === 7 | 145be | 8f ===
 We are retained by the
@@ -76,8 +73,7 @@ That milky skin, the curve
 of her hips...those smooth,
 supple br...[BRK]
 
-.............Uh, never mind!
-[END]
+.............Uh, never mind![END]
 
 === 9 | 1473c | 7d ===
 [POR09]
@@ -135,8 +131,7 @@ But...Leo.[BRK]
 
 [POR09]
 Fight bravely, fight well,
-and most of all fight fair.
-[END]
+and most of all fight fair.[END]
 
 === d | 14a96 | 67 ===
 [POR09]
@@ -189,8 +184,7 @@ Oh, Althena must trust me,
 even if the result is...[BRK]
 
 [POR01]
-.....?
-[END]
+.....?[END]
 
 === 11 | 14d66 | 1f0 ===
 [ROR08]
@@ -225,10 +219,7 @@ boyfriend, dear.[BRK]
 I sense a coming....chill
 in your relationship...[BRK]
 
-Ha ha ha ha ha!
-
-
-[END]
+Ha ha ha ha ha![END]
 
 === 12 | 14f60 | 2f3 ===
 [ROR14]
@@ -284,9 +275,7 @@ your mission, or return to
 the Blue Tower to save Hiro.[BRK]
 
 It's up to you...hm hm hm
-hm hm hm...
-
-[END]
+hm hm hm...[END]
 
 === 13 | 15274 | 16e ===
 [POR02]
@@ -314,8 +303,7 @@ If I use the secret power of
 the Blue Tower, I can save
 Hiro...[BRK]
 
-...but that would...
-[END]
+...but that would...[END]
 
 === 14 | 15402 | 1c6 ===
 [POR08]
@@ -393,8 +381,7 @@ on, no more bad thoughts![BRK]
 Okay. As Ruby would say,[BRK]
 
 'Let's get this show on
-the road, Hiro!'
-[END]
+the road, Hiro!'[END]
 
 === 16 | 157ba | 229 ===
 [POR01]
@@ -441,8 +428,7 @@ I'd die to do that...[BRK]
 [POR01]
 Okay then! We'll call it
 a plan! I can't wait!
-This'll be great!
-[END]
+This'll be great![END]
 
 === 17 | 159ec | fc ===
 [POR01]
@@ -463,10 +449,7 @@ visit Grandpa Gwyn first?[BRK]
 Please Hiro? For me?[BRK]
 
 [POR01]
-...Okay, Lucia. For you.
-
-
-[END]
+...Okay, Lucia. For you.[END]
 
 === 18 | 15b10 | b9 ===
 [POR02]
@@ -504,8 +487,7 @@ to restore Hiro.[BRK]
 
 [POR08]
 But there's no time.
-Zophar is...
-[END]
+Zophar is...[END]
 
 === 1b | 15d32 | 83 ===
 [POR08]
@@ -521,8 +503,7 @@ care of Zophar...[END]
 [POR08]
 But my first priority is
 to use the power of the 
-Blue Spire to revive you.
-[END]
+Blue Spire to revive you.[END]
 
 === 1d | 15e28 | 1eb ===
 [POR05]
@@ -609,8 +590,7 @@ save the world.[BRK]
 I must continue my mission,
 regardless of the cost.[BRK]
 
-Do what you must, Ronfar.
-[END]
+Do what you must, Ronfar.[END]
 
 === 1f | 1631a | 49 ===
 [POR05]
@@ -620,8 +600,7 @@ Hiro![BRK]
 
 [POR08]
 ....
-.....
-[END]
+.....[END]
 
 === 20 | 1637a | 106 ===
 [POR05]
@@ -638,9 +617,7 @@ Spire first to save Hiro.[BRK]
 
 Trust me...It'll all be
 peachy keen, jelly bean.
-...You'll see...
-
-[END]
+...You'll see...[END]
 
 === 21 | 16494 | 9b ===
 [POR10]
@@ -679,9 +656,7 @@ You've got to save him,
 Lucia![BRK]
 
 [POR08]
-But Lemina...I...
-
-[END]
+But Lemina...I...[END]
 
 === 24 | 166b6 | 90 ===
 [POR07]
@@ -691,13 +666,10 @@ time's mega-a-wastin'.[BRK]
 
 Let's make tracks for the
 Blue Spire and wake Prince
-Charming!
-
-[END]
+Charming![END]
 
 === 25 | 1674c | 13 ===
-Dragonship Destiny
-[END]
+Dragonship Destiny[END]
 
 === 26 | 17090 | 35 ===
 Halt! You'll pass this
@@ -705,8 +677,7 @@ checkpoint over my dead
 body![END]
 
 === 27 | 170e0 | 11 ===
-...U...Ummmmm...
-[END]
+...U...Ummmmm...[END]
 
 === 28 | 1710c | 40 ===
 You look like spies from
@@ -714,10 +685,7 @@ the Cult of Zophar! Halt
 and surrender![END]
 
 === 29 | 17168 | 10 ===
-...Uhhhhhh...
-
-
-[END]
+...Uhhhhhh...[END]
 
 === 2a | 17194 | 45 ===
 Haay...What the hell are
@@ -726,9 +694,7 @@ Prepare to fight![END]
 
 === 2b | 171f4 | 1f ===
 Mama...I-Is that you...
-Mama?
-
-[END]
+Mama?[END]
 
 === 2c | 1722e | 45 ===
 Halt, you miserable, 
@@ -738,9 +704,7 @@ under arrest, ya hear?[END]
 === 2d | 1728e | 40 ===
 Ohhhhh...I think I wet
 my pants...Don't tell
-Lord Leo, o-okay?
-
-[END]
+Lord Leo, o-okay?[END]
 
 === 2e | 172e2 | 79 ===
 Hey, I haven't seen you
@@ -867,9 +831,7 @@ Hehe, yeah, Ruby, why not?[BRK]
 [POR02]
 Hiro! Don't even joke about
 leaving me with this, this,
-this........thing!
-
-[END]
+this........thing![END]
 
 === 39 | 17ae6 | 91 ===
 Heya, kitty! Did you decide
@@ -881,8 +843,7 @@ Uh...no. Just checking to
 make sure I hadn't dreamt it
 all. I didn't.[BRK]
 
-Bye.
-[END]
+Bye.[END]
 
 === 3a | 17b8a | 67 ===
 [POR02]
@@ -936,9 +897,7 @@ Pentagulia and our world to
 deliver us from destruction.[BRK]
 
 Soon, everything will be
-okay again...won't it?
-
-[END]
+okay again...won't it?[END]
 
 === 41 | 17f32 | 87 ===
 I can't believe that Leo
@@ -986,8 +945,7 @@ he won't give it back![END]
 
 === 46 | 18216 | 66 ===
 
-        !! Bulletin !!
-[BRK]
+        !! Bulletin !![BRK]
 
 A reward of 1000s has been
 offered for the slaying of
@@ -995,8 +953,7 @@ all opposed to Althena.[END]
 
 === 47 | 18290 | f6 ===
 
-       Today's Menu
-[BRK]
+       Today's Menu[BRK]
 
 Breakfast: Rocky mountain
 oyster omelets, toast,
@@ -1150,8 +1107,7 @@ your chain. Calm down.[BRK]
 
 She's just joking...[BRK]
 
-.............I think.
-[END]
+.............I think.[END]
 
 === 5a | 19f0a | 7b ===
 [POR10]
@@ -1162,9 +1118,7 @@ in anticipation of what's
 going to happen.[BRK]
 
 I wonder if Lunn is still
-there?
-
-[END]
+there?[END]
 
 === 5b | 19fb0 | 113 ===
 [POR07]
@@ -1215,9 +1169,7 @@ did.[END]
 === 5e | 1a282 | 4b ===
 I'd give anything to be in
 your shoes! Going to see
-the Goddess...Sheesh!
-
-[END]
+the Goddess...Sheesh![END]
 
 === 5f | 1a2e4 | 7e ===
 With the speed of the
@@ -1335,8 +1287,7 @@ Excuses, excuses! You are
 a miserable liar, [BRK]
 
 and, I now have no choice
-but to carry out my orders.
-[END]
+but to carry out my orders.[END]
 
 === 6b | 1ba2a | 5d ===
 [POR09]
@@ -1374,9 +1325,7 @@ mistake, to their eternal
 damnation.[BRK]
 
 I just hope Althena's right
-about this one...
-
-[END]
+about this one...[END]
 
 === 6e | 1bc50 | e2 ===
 [POR08]
@@ -1428,8 +1377,7 @@ execute that monster you're
 helping...[BRK]
 
 I won't give up until the
-task is accomplished.
-[END]
+task is accomplished.[END]
 
 === 71 | 1bf76 | db ===
 [POR08]
@@ -1444,8 +1392,7 @@ In this form, meeting the
 Goddess Althena will be
 very...[BRK]
 
-Oh, Hiro, what should I do?
-[END]
+Oh, Hiro, what should I do?[END]
 
 === 72 | 1c054 | 2f ===
 [0x5]I want to see Althena.
@@ -1581,8 +1528,7 @@ Trust me on this one![END]
 H-H-Hey! Don't open that.
 Leave him locked in there![BRK]
 
-We've gotta get outta here!
-[END]
+We've gotta get outta here![END]
 
 === 7f | 1c7a8 | 35 ===
 [POR05]

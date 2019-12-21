@@ -43,8 +43,7 @@ he dropped the mask.[BRK]
 
 His voice seemed so very
 familiar...but I can't
-put my finger on it...
-[END]
+put my finger on it...[END]
 
 === 2 | 181ea | 98 ===
 Master Lunn is a very
@@ -72,10 +71,7 @@ world over...[BRK]
 .....[BRK]
 
 I wonder if he'll let me
-use them...???
-
-
-[END]
+use them...???[END]
 
 === 4 | 18356 | df ===
 Lunn uses us merely as
@@ -113,8 +109,7 @@ Heroes...[BRK]
 
 I wonder what kind of 
 fighting technique he was
-going to invent?
-[END]
+going to invent?[END]
 
 === 7 | 185b6 | a6 ===
 Lunn says that to be truly
@@ -411,12 +406,7 @@ has come for your final
 lesson.[BRK]
 
 And a hard lesson it will
-be...
-
-
-
-
-[END]
+be...[END]
 
 === 12 | 1c010 | 63 ===
 [ROR10]
@@ -425,8 +415,7 @@ be...
 ...Your karate has...grown
 ...so....strong...[BRK]
 
-Lunn...you...you...can't...
-[END]
+Lunn...you...you...can't...[END]
 
 === 13 | 1c082 | e4 ===
 [POR10]
@@ -442,8 +431,7 @@ innocence of children.[BRK]
 
 His newer, stronger Black
 Karate of Death cannot be
-allowed to spread.
-[END]
+allowed to spread.[END]
 
 === 14 | 1c17e | 85 ===
 [POR13]
@@ -484,8 +472,7 @@ he could help us.[BRK]
 
 He has a good heart. I
 just hope he leaves the Cult
-before it's too late...
-[END]
+before it's too late...[END]
 
 === 16 | 1c3f4 | d ===
 Blue Tower 6F[END]

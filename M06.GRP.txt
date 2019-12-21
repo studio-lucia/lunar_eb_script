@@ -18,9 +18,7 @@ would she come here?[BRK]
 
 Hrmph! Fiddle, m'boy...It 
 makes no sense...no sense at
-all...
-
-[END]
+all...[END]
 
 === 1 | 9baa | 87 ===
 [POR04]
@@ -48,9 +46,7 @@ belong in this struggle.[BRK]
 
 If only we hadn't taken
 that Dragon Eye Jewel from
-the ruins...
-
-[END]
+the ruins...[END]
 
 === 4 | 9d86 | db ===
 [POR04]
@@ -68,8 +64,7 @@ the one that the Cultists
 serve?[BRK]
 
 I can't believe that it
-could be the same one.
-[END]
+could be the same one.[END]
 
 === 5 | 9e6a | 64 ===
 [POR08]
@@ -178,9 +173,7 @@ would she come here?[BRK]
 
 Hrmph! Fiddle, m'boy...It 
 makes no sense...No sense at
-all...
-
-[END]
+all...[END]
 
 === c | b952 | 87 ===
 [POR04]
@@ -208,9 +201,7 @@ belong in this struggle.[BRK]
 
 If only we hadn't taken
 that Dragon Eye Jewel from
-the ruins...
-
-[END]
+the ruins...[END]
 
 === f | bb2e | db ===
 [POR04]
@@ -228,8 +219,7 @@ the one that the Cultists
 serve?[BRK]
 
 I can't believe that it
-could be the same one.
-[END]
+could be the same one.[END]
 
 === 10 | bc12 | 64 ===
 [POR08]
@@ -280,8 +270,7 @@ her back to the house.[BRK]
 
 Maybe one of my books will
 give us a clue about how to
-break this curse...
-[END]
+break this curse...[END]
 
 === 12 | bf06 | be ===
 [POR04]
@@ -511,8 +500,7 @@ that's collected here, it
 should revive Hiro.[BRK]
 
 I'll transport him to the
-center of the circle.
-[END]
+center of the circle.[END]
 
 === 23 | fdc0 | 4d ===
 [POR08]

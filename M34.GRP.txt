@@ -27,10 +27,7 @@ coming from...?[BRK]
 It is...It must be![BRK]
 
 I don't believe it! It's
-Neo-Vane!
-
-
-[END]
+Neo-Vane![END]
 
 === 1 | 10106 | f3 ===
 [POR02]

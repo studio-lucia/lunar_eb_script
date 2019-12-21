@@ -85,8 +85,7 @@ Lucia to agents of evil![BRK]
 She's our only hope![BRK]
 
 [POR08]
-But...
-[END]
+But...[END]
 
 === 2 | 18c44 | f7 ===
 [POR09]
@@ -166,14 +165,12 @@ to Pentagulia on the
 Destiny.[BRK]
 
 Then we can finally get
-to the bottom of this.
-[END]
+to the bottom of this.[END]
 
 === 5 | 19044 | 31 ===
 Lo...Lord Leo...
 I...c...couldn't
-stop...them...
-[END]
+stop...them...[END]
 
 === 6 | 1908c | be ===
 S..Si...Sir...I'm s-sorry!
@@ -188,24 +185,19 @@ Shhh! Rest! I will take
 care of this.[BRK]
 
 Conserve your strength until
-help arrives.
-[END]
+help arrives.[END]
 
 === 7 | 19166 | 3f ===
 L-Lord...L-L-Le...[BRK]
 
 [POR09]
 Rest quietly. You are
-gravely injured...
-[END]
+gravely injured...[END]
 
 === 8 | 191b8 | 43 ===
 I...I've...failed...
 you...sir...Pleeease...
-for...forgive me...
-
-
-[END]
+for...forgive me...[END]
 
 === 9 | 19200 | 10 ===
 Azado Tower Path[END]
@@ -242,8 +234,7 @@ forth your awesome power![BRK]
 
 Release the power of
 transport and open the door
-of eternity!
-[END]
+of eternity![END]
 
 === b | 19d24 | 197 ===
 [POR01]
@@ -277,10 +268,7 @@ Zophar's black power...[BRK]
 
 [POR07]
 Oh no! Look out! It's going
-to attack!
-
-
-[END]
+to attack![END]
 
 === c | 19edc | 360 ===
 [POR05]
@@ -341,10 +329,7 @@ made a difference?[BRK]
 
 I, for one am going back
 to find out what's going
-on here!
-
-
-[END]
+on here![END]
 
 === d | 1a240 | 434 ===
 [POR09]
@@ -471,8 +456,7 @@ in this world.[BRK]
 
 Tell me, do you think that
 Lucia is the foretold
-destroyer?
-[END]
+destroyer?[END]
 
 === 10 | 1a928 | 2b ===
 [0x5]Lucia is the destroyer.
@@ -661,8 +645,7 @@ Azado Tower 5F[END]
 Azado Tower 6F[END]
 
 === 1f | 1ecc2 | e ===
-Donated 100s!
-[END]
+Donated 100s![END]
 
 === 20 | 1ecf0 | e ===
 Azado Tower 7F[END]

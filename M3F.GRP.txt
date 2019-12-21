@@ -8,8 +8,7 @@ Forget it![BRK]
 
 There's no way we're gonna
 break this barrier without
-Dragonpower.
-[END]
+Dragonpower.[END]
 
 === 1 | ed88 | 3d7 ===
 [POR02]
@@ -77,22 +76,7 @@ what a true friend you are.[BRK]
 
 All right, let's go to
 the Blue Spire so I can
-resurrect Hiro.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[END]
+resurrect Hiro.[END]
 
 === 2 | f17e | 14b ===
 [POR10]
@@ -115,9 +99,7 @@ the Dragons to help destroy
 the barrier.[BRK]
 
 That will open the way to
-the Goddess Tower...
-
-[END]
+the Goddess Tower...[END]
 
 === 3 | f2e2 | 9 ===
 Minea Sea[END]

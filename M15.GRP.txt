@@ -53,10 +53,7 @@ to...[BRK]
 
 [POR07]
 Oh, pooh! Just shush up and
-let's get moving!
-
-
-[END]
+let's get moving![END]
 
 === 1 | 1366e | 299 ===
 [POR07]
@@ -104,8 +101,7 @@ Pure what? Lust? [BRK]
 [POR07]
 Are we gonna talk or are we
 gonna move? Time's slipping
-by! Let's go!
-[END]
+by! Let's go![END]
 
 === 2 | 1390c | 11 ===
 Ghost Manor Attic[END]
@@ -128,9 +124,7 @@ slamming open or shut.[BRK]
 
 [POR02]
 D-Do you think it was a
-...a...ghost?
-
-[END]
+...a...ghost?[END]
 
 === 5 | 146d6 | 90 ===
            BANG![BRK]
@@ -141,11 +135,7 @@ I think about it, it's
 probably not a ghost...[BRK]
 
 They wouldn't be using a
-door...W-Would they?
-
-
-
-[END]
+door...W-Would they?[END]
 
 === 6 | 14786 | 101 ===
 Whooooo hooo hooo hoo! Wind
@@ -165,13 +155,7 @@ and remember......Whoooooo![BRK]
 [POR02]
 W...W-W-What is he talking
 about? L-Let's get out of
-here!
-
-
-
-
-
-[END]
+here![END]
 
 === 7 | 148ae | ac ===
 Wind...wind...wind! Send
@@ -184,8 +168,7 @@ talking about?[BRK]
 
 And why is it talking to
 us?!! I'm completely creeped
-out!
-[END]
+out![END]
 
 === 8 | 1497e | 9d ===
 Close the shutters and open
@@ -357,8 +340,7 @@ monsters.[BRK]
 
 If you are not confident in
 your command of magic, you'd
-better not go in.
-[END]
+better not go in.[END]
 
 === 2f | 25902 | ca ===
 [POR20]
@@ -372,8 +354,7 @@ find the exit door.[BRK]
 
 I wish you the best of luck.[BRK]
 
-...You'll need it...
-[END]
+...You'll need it...[END]
 
 === 30 | 259e4 | 82 ===
 [POR20]

@@ -78,8 +78,7 @@ pleasures![BRK]
 
 Oh, and don't forget to
 check out the awesomeness of
-Azado Tower!
-[END]
+Azado Tower![END]
 
 === 7 | 9b5c | b8 ===
 Welcome! Welcome!! Wel...[BRK]
@@ -92,9 +91,7 @@ problems, okay?[BRK]
 
 Blasted bureaucrats won't 
 let me talk about our 
-local problems...
-
-[END]
+local problems...[END]
 
 === 8 | 9c30 | 3d ===
 Tourism has really picked
@@ -114,15 +111,7 @@ god's sake! It's the tallest
 thing here![BRK]
 
 Man! I hate dealing with the
-public!
-
-
-
-
-
-
-
-[END]
+public![END]
 
 === a | 9d7a | c5 ===
 Dang! I just missed it!!
@@ -187,8 +176,7 @@ had by the Cult![BRK]
 
 But I just don't know how
 they're controlling the
-monsters!
-[END]
+monsters![END]
 
 === f | a194 | 5d ===
 Yes!! I got my beads.[BRK]
@@ -225,8 +213,7 @@ you wanna give me?[BRK]
 
 [POR02]
 You mean besides a lesson on
-how impolite it is to beg?
-[END]
+how impolite it is to beg?[END]
 
 === 12 | a3d6 | 7d ===
 Silence! You stand in the
@@ -323,8 +310,7 @@ deal on materials.[BRK]
 
 And I just signed the loan
 papers today. It's only
-gonna be a 45-year loan!
-[END]
+gonna be a 45-year loan![END]
 
 === 1c | a9fc | 1b7 ===
 If I were you, I would stay
@@ -413,8 +399,7 @@ some that work just as
 well.[BRK]
 
 We're selling them on the
-black market.
-[END]
+black market.[END]
 
 === 22 | af3e | 67 ===
 I know that the last time
@@ -443,8 +428,7 @@ Hey, Ruby! There's no call
 for picking on the li'l
 lady![BRK]
 
-At least she's a go-getter!
-[END]
+At least she's a go-getter![END]
 
 === 25 | b0f6 | 1ac ===
 The gals and I've been
@@ -558,9 +542,7 @@ lace ceremonial uniform![BRK]
 
 I'm the Goddess Althena![BRK]
 
-Come and serve me, Mauri!
-
-[END]
+Come and serve me, Mauri![END]
 
 === 2e | b7b0 | a3 ===
 I heard that the Four Heroes
@@ -757,8 +739,7 @@ I think he's more interested
 in checking her out...[BRK]
 
 But if I catch him oogling,
-it's Bobbitt time!
-[END]
+it's Bobbitt time![END]
 
 === 41 | c3ae | 4b ===
 I've already filed for a 
@@ -828,8 +809,7 @@ fearsome evil is already in
 Pentagulia![BRK]
 
 [POR08]
-Then...Althena and Zophar...
-[END]
+Then...Althena and Zophar...[END]
 
 === 48 | c7c4 | 90 ===
 Why can't ordinary citizens
@@ -979,9 +959,7 @@ respectfully decline.[BRK]
 
 [POR00]
 Kum on Leo! I kuud maak yew
-barry haapee! <wink> <snort>
-
-[END]
+barry haapee! <wink> <snort>[END]
 
 === 57 | d06e | 82 ===
 We bought jeweled beads to
@@ -1147,8 +1125,7 @@ in the task.[BRK]
 [POR02]
 We aided...you? Don't you
 have that backwards,
-flyboy?
-[END]
+flyboy?[END]
 
 === 69 | fa00 | 9d ===
 During the day, it's okay
@@ -1159,8 +1136,7 @@ entirely...[BRK]
 
 That's when we huddle in our
 homes and pray to see the
-next day.
-[END]
+next day.[END]
 
 === 6a | fab4 | 62 ===
 Believe me, you should try
@@ -1187,8 +1163,7 @@ We've all started a new
 nightclub.[BRK]
 
 Mornings are hellish for
-me now.
-[END]
+me now.[END]
 
 === 6d | fc24 | d ===
 Azado House 1[END]
@@ -1275,8 +1250,7 @@ buy beads...[BRK]
 And I show up late to open
 the gate! Just...great![BRK]
 
-I gotta go...See ya!
-[END]
+I gotta go...See ya![END]
 
 === 75 | 10834 | b1 ===
 [POR05]
@@ -1495,8 +1469,7 @@ your life up...[BRK]
 
 ...once it's messed up.[BRK]
 
-But I'm gonna keep trying!
-[END]
+But I'm gonna keep trying![END]
 
 === 95 | 13064 | 9e ===
 This time, I mean it. I'm
@@ -1533,8 +1506,7 @@ too![BRK]
 
 [POR02]
 Since when have you ever
-known a drunk who wasn't?
-[END]
+known a drunk who wasn't?[END]
 
 === 98 | 1328e | 74 ===
 This time my husband is 
@@ -1582,8 +1554,7 @@ I've got a good mind to give
 you brats the spanking of
 your life![BRK]
 
-Get out of here!
-[END]
+Get out of here![END]
 
 === 9b | 13584 | 73 ===
 You know, for the last 15
@@ -1654,8 +1625,7 @@ Drinks! Drinks! Drinks![BRK]
 
 Hehehehehe...Don't worry,
 he'll cave in sooner or
-later! 
-[END]
+later! [END]
 
 === a3 | 139c8 | 84 ===
 Hey, I don't believe it!
@@ -1663,8 +1633,7 @@ It took me three days, four
 hours, and ten minutes...[BRK]
 
 But it worked! Lookie! I
-have a free drinky! Hehe...
-[END]
+have a free drinky! Hehe...[END]
 
 === a4 | 13a60 | 72 ===
 If Leo ever comes here, I 
@@ -1683,8 +1652,7 @@ for your ol' buddy here?[BRK]
 Hmm...No, but I could put
 you in jail for pandering.[BRK]
 
-...How about that?
-[END]
+...How about that?[END]
 
 === a6 | 13b94 | b2 ===
 Should we really care about
@@ -1698,9 +1666,7 @@ Buuuuttt...[BRK]
 
 Maybe I would care about you
 a little more if you bought
-me a drink.
-
-[END]
+me a drink.[END]
 
 === a7 | 13c5e | 4a ===
 This bar sucks! I wish we
@@ -1724,8 +1690,7 @@ I think it would be so
 great to be a famous leader
 of Althena's Cult![BRK]
 
-But that's only a dream...
-[END]
+But that's only a dream...[END]
 
 === ab | 13e14 | 5d ===
 I wish that damn priest 
@@ -1767,8 +1732,7 @@ be my last drink.[BRK]
 ....
 .....[BRK]
 
-Promise!
-[END]
+Promise![END]
 
 === af | 1405a | 8d ===
 I'm tired of sitting here
@@ -1802,8 +1766,7 @@ could change people's
 lives...[BRK]
 
 But those days are long
-gone...
-[END]
+gone...[END]
 
 === b2 | 1424c | 4f ===
 The Goddess Althena will 
@@ -2020,8 +1983,7 @@ think...hmmm...[BRK]
 
 Oh yeah! I remember![BRK]
 
-......Open sesame!
-[END]
+......Open sesame![END]
 
 === ca | 16456 | b0 ===
 [POR02]
@@ -2083,8 +2045,7 @@ I don't believe it! That
 door is only supposed to
 be opened by a high priest![BRK]
 
-Who are you???!!!
-[END]
+Who are you???!!![END]
 
 === ce | 167bc | d7 ===
 Have you no shame?[BRK]
@@ -2104,8 +2065,7 @@ now![BRK]
 .....[BRK]
 
 ...And mind your own
-beeswax, ya kook!
-[END]
+beeswax, ya kook![END]
 
 === cf | 168a2 | 68 ===
 I can't believe all that's
@@ -2173,8 +2133,7 @@ sales of these things.[BRK]
 
 I'm trying to move our 
 excess stock. It'll only 
-cost you 29s. Want one?
-[END]
+cost you 29s. Want one?[END]
 
 === d4 | 16c9c | 33 ===
 [POR05]
@@ -2219,9 +2178,7 @@ Guild to make souvenirs![BRK]
 I bet we'd make a fortune![BRK]
 
 [POR02]
-Give it a rest, Lemina!
-
-[END]
+Give it a rest, Lemina![END]
 
 === d8 | 16f50 | 6a ===
 I hope they still have the
@@ -2237,11 +2194,7 @@ stolen just to earn enough
 to buy these beads.[BRK]
 
 I pray the magic they
-contain will save my family.
-
-
-
-[END]
+contain will save my family.[END]
 
 === da | 1706e | 77 ===
 Dammit! Those beads are
@@ -2252,10 +2205,7 @@ worthless.[BRK]
 
 Say, mister, can I 
 interest you in some nice
-jewelery for the ladies?
-
-
-[END]
+jewelery for the ladies?[END]
 
 === db | 170f4 | 76 ===
 Look, sir, shiny...It's 
@@ -2278,9 +2228,7 @@ all their belongings...[BRK]
 
 ...to the nearest priest.[BRK]
 
-Need a pen?
-
-[END]
+Need a pen?[END]
 
 === dd | 17238 | 61 ===
 If you give me all your
@@ -2440,13 +2388,7 @@ from these priests...[BRK]
 
 ...to pay my way to a nice
 quiet island for the rest
-of my life!
-
-
-
-
-
-[END]
+of my life![END]
 
 === f0 | 17c4a | 78 ===
 I'll tell you, being a hard-

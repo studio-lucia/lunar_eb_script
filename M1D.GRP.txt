@@ -47,10 +47,7 @@ You ready to be his blushing
 bride?[BRK]
 
 [POR07]
-We'll see...
-
-
-[END]
+We'll see...[END]
 
 === 5 | a43c | 6e ===
 I heard that there are vast
@@ -70,8 +67,7 @@ entrance to the Meribian
 sewers was.[BRK]
 
 So just get lost. You're
-annoying me.
-[END]
+annoying me.[END]
 
 === 7 | a580 | bb ===
 I was told to look for the
@@ -89,9 +85,7 @@ a dreamboat![END]
 === 8 | a652 | 4a ===
 Boo hoo hooo! Ooohhh, where
 can that sewer entrance be?
-...Booo hoo hoo!
-
-[END]
+...Booo hoo hoo![END]
 
 === 9 | a6ac | 9d ===
 With all these people
@@ -201,8 +195,7 @@ rumors get started, isn't
 it?[BRK]
 
 I actually heard that the
-dragon helped the most...
-[END]
+dragon helped the most...[END]
 
 === 14 | ade8 | cc ===
 In other villages I've heard
@@ -409,8 +402,7 @@ are you?[BRK]
 [POR02]
 Excuse me? When's the last
 time you saw a red flying
-bandit? I don't think so...
-[END]
+bandit? I don't think so...[END]
 
 === 29 | bb4c | 81 ===
 It seems awfully quiet
@@ -447,8 +439,7 @@ close all but this store.[BRK]
 
 If things don't turn around
 soon, he may have to close
-this one, too.
-[END]
+this one, too.[END]
 
 === 2d | bdf8 | 62 ===
 I heard that the last
@@ -474,10 +465,7 @@ I barely escaped with my
 life!...What a total
 rush! Ha ha ha ha ha![BRK]
 
-Whooo hoooooo!
-
-
-[END]
+Whooo hoooooo![END]
 
 === 2f | bf72 | 93 ===
 I think Tunnels of Carnage
@@ -626,9 +614,7 @@ Leo is so completely cool![END]
 === 3f | c892 | 1b ===
 [POR09]
 ....
-Uh, right, kid...
-
-[END]
+Uh, right, kid...[END]
 
 === 40 | c8c0 | 4e ===
 Cower before me dung eaters!
@@ -644,8 +630,7 @@ Ahhhhhhhhhh![BRK]
 I said cower before me!
 Are you deaf and stupid?![BRK]
 
-Don't you know who I am?!!
-[END]
+Don't you know who I am?!![END]
 
 === 42 | c9b2 | 4e ===
 I like playing Mauri. She's
@@ -762,21 +747,7 @@ man.[BRK]
 
 'Cause I'll be able to 
 restore the Guild before you
-turn a profit on this store.
-
-
-
-
-
-
-
-
-
-
-
-
-
-[END]
+turn a profit on this store.[END]
 
 === 4d | f58c | 2a0 ===
 [POR27]
@@ -987,9 +958,7 @@ to love ya![BRK]
 [POR07]
 Pooh! I don't love ya, and
 I don't intend to lose! I'll
-be back to get my money!!
-
-[END]
+be back to get my money!![END]
 
 === 58 | 10234 | e3 ===
 [POR27]
@@ -1040,11 +1009,7 @@ Ramus.[BRK]
 
 They're kinda stuck on the 
 name, since the first Ramus
-knew Dragonmaster Alex.
-
-
-
-[END]
+knew Dragonmaster Alex.[END]
 
 === 5b | 10538 | 97 ===
 I think Junior is going
@@ -1140,9 +1105,7 @@ doesn't mean they'll wed.[BRK]
 
 I'm just gonna take the
 gifts and sell them for 
-money!
-
-[END]
+money![END]
 
 === 62 | 10b52 | 9a ===
 When I was tending the store
@@ -1151,10 +1114,7 @@ coming from behind the wall.[BRK]
 
 I'm so scared, I can't even
 go to the bathroom by myself
-at night.
-
-
-[END]
+at night.[END]
 
 === 63 | 10c00 | 9c ===
 This place is really 
@@ -1222,8 +1182,7 @@ to be his best man.[END]
 === 6a | 10ff8 | 34 ===
 [POR07]
 Don't count on it, buster!
-I'll never marry him!
-[END]
+I'll never marry him![END]
 
 === 6b | 11040 | 80 ===
 My wife is thinking about
@@ -1255,29 +1214,16 @@ place a success.[BRK]
 
 [POR07]
 Good! I want him to earn
-every Silver coin.
-[END]
+every Silver coin.[END]
 
 === 6e | 1126c | 3e ===
 Ramus told me he's going
 to make sure he weds you,
-Lemina.
-
-
-
-[END]
+Lemina.[END]
 
 === 6f | 112be | 30 ===
 I hear wedding bells. Don't
-you, Lemina?
-
-
-
-
-
-
-
-[END]
+you, Lemina?[END]
 
 === 70 | 112fe | ca ===
 So tell me: Once you marry
@@ -1290,14 +1236,7 @@ these garments.[BRK]
 
 I know you'll look so hot
 in them!! Ramus is one lucky
-man...
-
-
-
-
-
-
-[END]
+man...[END]
 
 === 71 | 113e4 | 99 ===
 Watch it! Behind you!![BRK]
@@ -1397,10 +1336,7 @@ and bring 'em out.[BRK]
 
 If it wasn't for all the 
 money I'm making, I'd've
-quit already.
-
-
-[END]
+quit already.[END]
 
 === 7b | 11a3e | 76 ===
 Hey, pal, want me to take
@@ -1408,13 +1344,7 @@ you on a guided tour of the
 sewers?[BRK]
 
 Make sure you bring enough
-Silver to get back out!
-
-
-
-
-
-[END]
+Silver to get back out![END]
 
 === 7c | 11ac2 | 47 ===
 [POR09]
@@ -1485,21 +1415,7 @@ man.[BRK]
 
 'Cause I'll be able to 
 restore the Guild before you
-turn a profit on this store.
-
-
-
-
-
-
-
-
-
-
-
-
-
-[END]
+turn a profit on this store.[END]
 
 === 81 | 12a1a | 2a0 ===
 [POR27]
@@ -1541,10 +1457,7 @@ your life...[BRK]
 
 Okay, well, yes it is, but
 I'm not going to go down
-there.
-
-
-[END]
+there.[END]
 
 === 82 | 12cd6 | 52 ===
 [POR27]
@@ -1713,9 +1626,7 @@ to love ya![BRK]
 [POR07]
 Pooh! I don't love ya, and
 I don't intend to lose! I'll
-be back to get my money!!
-
-[END]
+be back to get my money!![END]
 
 === 8c | 136c2 | e3 ===
 [POR27]
@@ -1733,8 +1644,7 @@ I don't see you trying to
 win the bet, Lemina.[BRK]
 
 Maybe you secretly long to
-be Ramus' wife.
-[END]
+be Ramus' wife.[END]
 
 === 8d | 137b8 | ab ===
 Hello <hick> my lovely
@@ -1767,11 +1677,7 @@ Ramus.[BRK]
 
 They're kinda stuck on the 
 name, since the first Ramus
-knew Dragonmaster Alex.
-
-
-
-[END]
+knew Dragonmaster Alex.[END]
 
 === 8f | 139c6 | 97 ===
 I think Junior is going
@@ -1799,9 +1705,7 @@ that, we were stuck with a
 huge lawsuit![BRK]
 
 That's why we almost lost
-this store!!
-
-[END]
+this store!![END]
 
 === 91 | 13b7a | 6b ===
 That stupid grandson of mine
@@ -1869,9 +1773,7 @@ doesn't mean they'll wed.[BRK]
 
 I'm just going to take the
 gifts and sell them for 
-money!
-
-[END]
+money![END]
 
 === 96 | 13fe0 | 9a ===
 When I was tending the store
@@ -1880,10 +1782,7 @@ coming from behind the wall.[BRK]
 
 I'm so scared, I can't even
 go to the bathroom by myself
-at night.
-
-
-[END]
+at night.[END]
 
 === 97 | 1408e | 9c ===
 This place is really 
@@ -1951,8 +1850,7 @@ to be his best man.[END]
 === 9e | 14486 | 34 ===
 [POR07]
 Don't count on it, buster!
-I'll never marry him!
-[END]
+I'll never marry him![END]
 
 === 9f | 144ce | 80 ===
 My wife is thinking about
@@ -1984,29 +1882,16 @@ place a success.[BRK]
 
 [POR07]
 Good! I want him to earn
-every Silver coin.
-[END]
+every Silver coin.[END]
 
 === a2 | 146fa | 3e ===
 Ramus told me he's going
 to make sure he weds you,
-Lemina.
-
-
-
-[END]
+Lemina.[END]
 
 === a3 | 1474c | 30 ===
 I hear wedding bells. Don't
-you, Lemina?
-
-
-
-
-
-
-
-[END]
+you, Lemina?[END]
 
 === a4 | 1478c | ca ===
 So tell me: Once you marry
@@ -2098,10 +1983,7 @@ me 100s I was going to leave
 them there.[BRK]
 
 This is one of the best jobs
-I've ever had.
-
-
-[END]
+I've ever had.[END]
 
 === ad | 14d70 | 7b ===
 I've been making a ton of 
@@ -2122,10 +2004,7 @@ and bring 'em out.[BRK]
 
 If it wasn't for all the 
 money I'm making, I'd've
-quit already.
-
-
-[END]
+quit already.[END]
 
 === af | 14ecc | 76 ===
 Hey, pal, want me to take
@@ -2133,13 +2012,7 @@ you on a guided tour of the
 sewers?[BRK]
 
 Make sure you bring enough
-Silver to get back out!
-
-
-
-
-
-[END]
+Silver to get back out![END]
 
 === b0 | 14f50 | 47 ===
 [POR09]
@@ -2249,8 +2122,7 @@ on mano-a-mano...Wimps![BRK]
 [POR02]
 Man! If Nall heard you
 talking like that, he'd kick
-your sorry grits.
-[END]
+your sorry grits.[END]
 
 === bb | 1616a | 97 ===
 You know, I was just getting
@@ -2289,8 +2161,7 @@ Peeeek! I <hick> promiz![BRK]
 [POR10]
 Oh dear! He's obviously
 toasted beyond coherence.
-He had to be dreaming...
-[END]
+He had to be dreaming...[END]
 
 === bf | 163d0 | ab ===
 Haaayy! <hick> Knoow whad I
@@ -2301,8 +2172,7 @@ Yaaaa! It <hick> wuz flyin'
 'round <hick> Taben's Peek![BRK]
 
 It freeked...<hick> freeked
-me oud, man!
-[END]
+me oud, man![END]
 
 === c0 | 1648c | 74 ===
 [POR02]
@@ -2312,8 +2182,7 @@ we saw, Hiro?[BRK]
 [POR00]
 Ahhhh! Id's...<hick>...id's
 baack! An', an' id's red
-now! Ahhhhhhh!
-[END]
+now! Ahhhhhhh![END]
 
 === c1 | 1651c | d9 ===
 Everybuddy says I <hick>...
@@ -2366,8 +2235,7 @@ that place![END]
 === c4 | 1683e | 3b ===
 [POR08]
 But...I don't think Zophar
-is anywhere near the Peak...
-[END]
+is anywhere near the Peak...[END]
 
 === c5 | 16890 | 8f ===
 I'm tellin' ya, if you know
@@ -2407,8 +2275,7 @@ with Althena yet again![BRK]
 
 [POR01]
 ....
-.....
-[END]
+.....[END]
 
 === c9 | 16af8 | 83 ===
 Dragonmaster Ghaleon? Did
@@ -2558,8 +2425,7 @@ say that Lunn can actually
 do that???!![BRK]
 
 Tell me...um, is he seeing
-anyone right now?
-[END]
+anyone right now?[END]
 
 === d9 | 174c0 | 56 ===
 My life is a total wreck now
@@ -2588,8 +2454,7 @@ but they said I was too fat
 and sent me home![BRK]
 
 It was just plain
-humiliating!
-[END]
+humiliating![END]
 
 === db | 1766e | 65 ===
 [POR02]
@@ -2634,8 +2499,7 @@ was a pleasure serving you!
 Do come again![BRK]
 
 And again, and again, and
-again...
-[END]
+again...[END]
 
 === e5 | 18cf8 | 12 ===
 Meribia Armor Shop[END]
@@ -2825,8 +2689,7 @@ kept gettin' in the way of
 my kicks.[BRK]
 
 They finally told me just
-to leave...
-[END]
+to leave...[END]
 
 === f8 | 1ad10 | 118 ===
 [POR10]
@@ -2955,8 +2818,7 @@ His son, Ramus the 6th, is
 trying to salvage the family
 business.[BRK]
 
-I'm pullin' for him...
-[END]
+I'm pullin' for him...[END]
 
 === 105 | 1bb98 | 3f ===
 I still am not sure that
@@ -2990,8 +2852,7 @@ that?[BRK]
 Really! P.T. Barnum Junior
 is what that kid is![BRK]
 
-Sheesshh...
-[END]
+Sheesshh...[END]
 
 === 108 | 1bd9a | f ===
 Meribia House 4[END]
@@ -3060,8 +2921,7 @@ Master Lunn.[BRK]
 
 I think he's going to go 
 there and put an end to 
-their rebellion.
-[END]
+their rebellion.[END]
 
 === 110 | 1c8ca | 8b ===
 Master Lunn has made sure
@@ -3276,14 +3136,12 @@ severe![END]
 
 === 129 | 1d6ca | 2d ===
 All right, fat boy, show me
-what you can do.
-[END]
+what you can do.[END]
 
 === 12a | 1d70a | 51 ===
 Missed me, punky-chops! Guess
 it's kinda hard for you to
-move with all that fat.
-[END]
+move with all that fat.[END]
 
 === 12b | 1d76e | c5 ===
 I can't believe I'm creamin'
@@ -3462,8 +3320,7 @@ One way or another...[BRK]
 [POR10]
 I will do all that you have
 requested of me! Thank you,
-Master Lunn.
-[END]
+Master Lunn.[END]
 
 === 139 | 1edd4 | 217 ===
 [POR16]
@@ -3500,9 +3357,7 @@ about your offer...[BRK]
 
 But for now I'm going to go
 to Taben's Peak to find this
-masked terror!
-
-[END]
+masked terror![END]
 
 === 13a | 1f006 | eb ===
 [POR16]
@@ -3604,9 +3459,7 @@ work for the Goddess...[BRK]
 
 ...and still have time to
 train us all in the ways of
-karate.
-
-[END]
+karate.[END]
 
 === 145 | 1f684 | 34 ===
 I'm trying to be a great
@@ -3659,9 +3512,7 @@ next Dragonmaster...[BRK]
 
 ...and save our world from
 evil. Whooo...Dragonmasters
-seem soooo cool..
-
-[END]
+seem soooo cool..[END]
 
 === 14c | 1fa5c | 3a ===
 [POR10]
@@ -3749,10 +3600,7 @@ discuss it with me.[BRK]
 
 Don't worry. As a priest,
 I cannot tell anyone what
-you've told me.
-
-
-[END]
+you've told me.[END]
 
 === 156 | 20058 | 7d ===
 The Goddess Althena taught
@@ -3846,8 +3694,7 @@ One way or another...[BRK]
 [POR10]
 I will do all that you have
 requested of me! Thank you,
-Master Lunn.
-[END]
+Master Lunn.[END]
 
 === 159 | 21208 | 217 ===
 [POR16]
@@ -3884,9 +3731,7 @@ about your offer...[BRK]
 
 But for now I'm going to go
 to Taben's Peak to find this
-masked terror!
-
-[END]
+masked terror![END]
 
 === 15a | 2143a | eb ===
 [POR16]
@@ -3988,9 +3833,7 @@ work for the Goddess...[BRK]
 
 ...and still have time to
 train us all in the ways of
-karate.
-
-[END]
+karate.[END]
 
 === 165 | 21ab8 | 34 ===
 I'm trying to be a great
@@ -4131,9 +3974,7 @@ discuss it with me.[BRK]
 
 Don't worry. As a priest,
 I cannot tell anyone what
-you've told me.
-
-[END]
+you've told me.[END]
 
 === 176 | 2248c | 7d ===
 The Goddess Althena taught

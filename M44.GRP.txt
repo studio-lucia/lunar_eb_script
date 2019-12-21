@@ -56,9 +56,7 @@ I suppose I'd be sad, if I
 had a heart...[BRK]
 
 ...but I don't. Prepare
-to witness my fury!
-
-[END]
+to witness my fury![END]
 
 === 2 | 1b290 | 7f ===
 [POR14]
@@ -78,9 +76,7 @@ know that I will be there in
 spirit always. Good-bye...[END]
 
 === 4 | 1b3c8 | c ===
-...Lemina!
-
-[END]
+...Lemina![END]
 
 === 5 | 1b3de | 1da ===
 Oh, Lemina! Thank Althena
@@ -115,10 +111,7 @@ Guild mansion![BRK]
 
 [POR07]
 Oh no...Mother! We've got
-to get over there!
-
-
-[END]
+to get over there![END]
 
 === 6 | 1b5c8 | 2eb ===
 As servants of the Most High
@@ -277,9 +270,7 @@ the mansion!...Now![BRK]
 
 [POR07]
 Oh, yeah...right! I'll get
-right over there...
-
-[END]
+right over there...[END]
 
 === d | 1bee4 | 9f ===
 You know, I have the utmost
@@ -324,9 +315,7 @@ hair-raising experience...[BRK]
 
 Say, I wonder if I can sell
 the rights to a made-for-
-TV movie...Hmmm...
-
-[END]
+TV movie...Hmmm...[END]
 
 === 11 | 1c220 | b4 ===
 You'd better not leave the
@@ -338,8 +327,7 @@ violent and plentiful.[BRK]
 
 That's why we installed the
 barricade...to keep them
-out.
-[END]
+out.[END]
 
 === 12 | 1c2e8 | 9e ===
 I'm so proud of all of you!
@@ -462,11 +450,7 @@ going to do?[END]
 === 1c | 1ca6e | 49 ===
 What happened to Lemina?
 C'mon, man, spit it out!
-I love her, dammit!
-
-
-
-[END]
+I love her, dammit![END]
 
 === 1d | 1cad2 | b7 ===
 I'm going to do my best not
@@ -508,8 +492,7 @@ positive attitude, kiddo![BRK]
 
 [POR00]
 Positive attitude...right!
-Got it!
-[END]
+Got it![END]
 
 === 20 | 1cd82 | b5 ===
 Whoo hoo! I knew that Lemina
@@ -521,8 +504,7 @@ And I only had to sacrifice
 altar of rage![BRK]
 
 That was definitely purple
-well-spent!
-[END]
+well-spent![END]
 
 === 21 | 1ce4a | 3d ===
 Hey! Hey! There's a party in
@@ -614,11 +596,7 @@ They seem more like that
 loser General Leo.[BRK]
 
 You're not lying again, are
-you, Lemina?
-
-
-
-[END]
+you, Lemina?[END]
 
 === 26 | 1d414 | 71 ===
 You know, I don't know how
@@ -644,8 +622,7 @@ destroyer of worlds?[BRK]
 [POR02]
 She's not! There's something
 bigger than you or I can see
-going on here!!
-[END]
+going on here!![END]
 
 === 28 | 1d5de | c7 ===
 That girl is a heartless
@@ -723,8 +700,7 @@ less sauce, you'd know that
 I'm serious in my intent![BRK]
 
 I will get the great city of
-Vane in the skies again!
-[END]
+Vane in the skies again![END]
 
 === 2f | 1db1e | 6d ===
 Haaay! Didja...<hick>...know
@@ -741,9 +717,7 @@ thiis citty off tha ground![BRK]
 
 Thad liddle kid's god spunk!
 I like thad inna wuman!
-...<hick>...
-
-[END]
+...<hick>...[END]
 
 === 31 | 1dc46 | fb ===
 Haaaay...<hick>...[BRK]
@@ -761,9 +735,7 @@ are up all ovur![BRK]
 
 Idd's nodd even safe ta go
 out an' gedd uh...<hick>...
-...drink!
-
-[END]
+...drink![END]
 
 === 32 | 1dd5c | 93 ===
 Miria...<hick>...says thad
@@ -777,8 +749,7 @@ planet, huh?[END]
 === 33 | 1de02 | 4a ===
 Zophar left 'an the world
 is safe again...<hick>...
-..I'll drink to thad!
-[END]
+..I'll drink to thad![END]
 
 === 34 | 1de5c | 8e ===
 Dree cheers fur Hiiiro, who
@@ -807,8 +778,7 @@ I'll give it to him...Pow!
 Right in the kisser![BRK]
 
 ...And you don't need to go
-telling my mom where I went!
-[END]
+telling my mom where I went![END]
 
 === 36 | 1e058 | 195 ===
 Lemina, if your mother saw
@@ -832,8 +802,7 @@ And my mother doesn't have
 to know anything about it.[BRK]
 
 After all, I'm just trying
-to help her...
-[END]
+to help her...[END]
 
 === 37 | 1e20c | a3 ===
 In my day a lady never would
@@ -877,8 +846,7 @@ down.[BRK]
 [POR07]
 Count on it. I'm ready to
 show this Zophar what I'm
-made of!
-[END]
+made of![END]
 
 === 3b | 1e502 | 9a ===
 I never doubted that you
@@ -909,9 +877,7 @@ dream to reality.[BRK]
 
 I have a new dream, and the
 path I must take is with
-Hiro...
-
-[END]
+Hiro...[END]
 
 === 3e | 1e71e | 130 ===
 Hey, heard you were going
@@ -935,8 +901,7 @@ to save your mom, Lemina?[BRK]
 
 [POR07]
 Oh dear! Yes! Mother! We
-have to hurry...
-[END]
+have to hurry...[END]
 
 === 3f | 1e86a | 9d ===
 I can't believe that Borgan
@@ -990,9 +955,7 @@ be bought...[BRK]
 
 I know...I know...It
 sounds corny...but it's
-true!
-
-[END]
+true![END]
 
 === 44 | 1ebd4 | 96 ===
 Lemina, I just can't get
@@ -1179,12 +1142,7 @@ He's just an egghead that
 likes to listen to himself
 talk.[BRK]
 
-Isn't that right, Arvin?
-
-
-
-
-[END]
+Isn't that right, Arvin?[END]
 
 === 56 | 1f822 | 7c ===
 The books of the library
@@ -1193,12 +1151,7 @@ Vane and our world.[BRK]
 
 [POR07]
 Yes, yes, that's quite
-obvious, now isn't it?
-
-
-
-
-[END]
+obvious, now isn't it?[END]
 
 === 57 | 1f8b6 | 3a ===
 The ways of magic are very
@@ -1231,8 +1184,7 @@ learn how to actually
 perform magic![BRK]
 
 Just reading about it is
-pretty boring after awhile.
-[END]
+pretty boring after awhile.[END]
 
 === 5b | 1faf4 | 7e ===
 [POR07]
@@ -1264,9 +1216,7 @@ butt a lot![BRK]
 real good...[BRK]
 
 ...and learn the magic of
-plastic augmentation...
-
-[END]
+plastic augmentation...[END]
 
 === 5d | 1fce6 | d8 ===
 Borgan appeared suddenly by
@@ -1322,8 +1272,7 @@ magician in the old days.[BRK]
 
 Did the teachings of the
 Magic Guild at Vane somehow
-corrupt him?
-[END]
+corrupt him?[END]
 
 === 62 | 200b4 | 10f ===
 Ronfar and Mauri were in the
@@ -1468,8 +1417,7 @@ reputable destroyer should.[BRK]
 I'm really in need of one
 in the worst way.[BRK]
 
-I've been quite naughty...
-[END]
+I've been quite naughty...[END]
 
 === 6b | 20932 | 80 ===
 Thank goodness Zophar was
@@ -1497,8 +1445,7 @@ without the jokes...[BRK]
 .....[BRK]
 
 ...I'm really quite
-sensitive, you know.
-[END]
+sensitive, you know.[END]
 
 === 6d | 20ace | 12a ===
 Lemina! Lemina! You're back!
@@ -1518,10 +1465,7 @@ of your cheap tricks...[BRK]
 [POR07]
 As I was about to say:
 it'll only cost you a big
-smile! How 'bout it?
-
-
-[END]
+smile! How 'bout it?[END]
 
 === 6e | 20c10 | d1 ===
 Lemina, why are you the only
@@ -1550,15 +1494,7 @@ leave. Is that true?[BRK]
 [POR07]
 Uh, that's...
 ...Well, you see...
-Er...uh...
-
-
-
-
-
-
-
-[END]
+Er...uh...[END]
 
 === 70 | 20dd2 | 97 ===
 [POR10]
@@ -1607,8 +1543,7 @@ Is that true?[END]
 [POR07]
 Well, he is coming. But
 I'll stop him before he even
-gets close to Vane!
-[END]
+gets close to Vane![END]
 
 === 76 | 2110c | 50 ===
 Lemina! Lemina! Lemina
@@ -1679,11 +1614,7 @@ remember it too well...[END]
 === 7c | 21544 | 52 ===
 It's a good thing we humans
 don't give up hope until
-there is none to grasp...
-
-
-
-[END]
+there is none to grasp...[END]
 
 === 7d | 215a6 | 9f ===
 Now that the outside world
@@ -1835,9 +1766,7 @@ has a mysterious aura...[BRK]
 
 [POR01]
 ....
-.....
-
-[END]
+.....[END]
 
 === 8d | 21fae | 83 ===
 I can't believe that you
@@ -1883,8 +1812,7 @@ future going?[BRK]
 Sorry, no time to talk, my
 mother's in big trouble![BRK]
 
-Sorry...got to run....
-[END]
+Sorry...got to run....[END]
 
 === 91 | 22282 | 113 ===
 I know how much trouble
@@ -1979,9 +1907,7 @@ were able to stop Zophar![BRK]
 
 Just think, if you had
 listened to me, we'd all be
-history now!
-
-[END]
+history now![END]
 
 === 9b | 228ba | 72 ===
 [POR02]
@@ -2015,8 +1941,7 @@ boring as I once thought.[BRK]
 
 Seems like a lot of
 important things have
-happened here recently.
-[END]
+happened here recently.[END]
 
 === 9e | 22aa2 | 76 ===
 Hi, Lemina! How's the work
@@ -2024,17 +1949,7 @@ on the Magic Guild going?[BRK]
 
 [POR07]
 Pretty well. Got any more
-Silver pop-tops to donate?
-
-
-
-
-
-
-
-
-
-[END]
+Silver pop-tops to donate?[END]
 
 === 9f | 22b34 | 106 ===
 Have you given any more
@@ -2053,8 +1968,7 @@ and the Magic Band...[BRK]
 
 And you're top of my list
 to lead the Army when you
-grow up!
-[END]
+grow up![END]
 
 === a0 | 22c5a | 72 ===
 Well, my mom says I have
@@ -2255,8 +2169,7 @@ one that revived Ghaleon.[BRK]
 
 But if Zophar is bad, why
 did Ghaleon help Vane? Isn't
-he still bad, too?
-[END]
+he still bad, too?[END]
 
 === b8 | 23970 | 55 ===
 Hooray for Ghaleon! He
@@ -2302,10 +2215,7 @@ all know he's the best![BRK]
 
 Anyway, I'm headed back to
 the carnival. Promise me
-you'll stop by soon!
-
-
-[END]
+you'll stop by soon![END]
 
 === bb | 23c18 | f4 ===
 [POR14]
@@ -2342,8 +2252,7 @@ you hold most dear...Lucia.[BRK]
 [POR14]
 Hiro, you must destroy Lucia
 to save your world. It is
-the only way!
-[END]
+the only way![END]
 
 === bd | 23e06 | 36 ===
 [0x5]Are you serious, Ghaleon? 
@@ -2365,8 +2274,7 @@ I know his weakness.[BRK]
 
 ...And her name is Lucia.
 Only by destroying her can
-you hope to defeat him.
-[END]
+you hope to defeat him.[END]
 
 === bf | 23f82 | 147 ===
 [POR01]
@@ -2525,8 +2433,7 @@ Show time![BRK]
 
 Lucia's right here! I saw
 her goin' in to the Guild
-mansion. Go for it, guy!
-[END]
+mansion. Go for it, guy![END]
 
 === c5 | 2488c | ae ===
 [POR02]
@@ -2539,12 +2446,7 @@ runnin' your show?[BRK]
 
 You're a fully trained and
 powerful Red Dragon! Think
-for yourself!
-
-
-
-
-[END]
+for yourself![END]
 
 === c6 | 24956 | 99 ===
 [POR11]
@@ -2555,8 +2457,7 @@ Boys'll be bummed![BRK]
 [POR02]
 Uh, gee, Nall, maybe I can
 ask Hiro again. Hiro, can
-I please go with Nall?
-[END]
+I please go with Nall?[END]
 
 === c7 | 24a06 | d8 ===
 [POR11]
@@ -2592,12 +2493,7 @@ Maybe Althena had the right
 idea...Human...Hmmm...[BRK]
 
 ...Oh...
-.........Who am I kidding?
-
-
-
-
-[END]
+.........Who am I kidding?[END]
 
 === c9 | 24c2e | 48 ===
 [POR02]
@@ -2631,8 +2527,7 @@ have left to say to you is
 And Lucia...get this boy
 some decent clothes, OK?[BRK]
 
-See ya 'round!
-[END]
+See ya 'round![END]
 
 === cc | 24e6c | cc ===
 [POR07]
@@ -2672,8 +2567,7 @@ Hiro...[BRK]
 
 Guess I'll just have to
 work extra hard to drum up
-some magic, huh?
-[END]
+some magic, huh?[END]
 
 === ce | 2509e | b3 ===
 [POR07]
@@ -2709,9 +2603,7 @@ area, don't forget to stop
 by Vane and say hello.[BRK]
 
 Remember, you're honorary
-members of the Guild now!
-
-[END]
+members of the Guild now![END]
 
 === d1 | 252d6 | 107 ===
 [POR09]

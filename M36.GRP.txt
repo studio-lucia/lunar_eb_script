@@ -35,9 +35,7 @@ I mean, they're supposed
 to be magicians...[BRK]
 
 They give us all a bad
-name!
-
-[END]
+name![END]
 
 === 3 | 16966 | b8 ===
 [POR05]
@@ -74,8 +72,7 @@ I'm sorry...[BRK]
 [POR10]
 Lemina, you didn't know.
 Don't feel guilty. I'm not
-mad at you.
-[END]
+mad at you.[END]
 
 === 5 | 16b6c | 8b ===
 [POR10]
@@ -179,8 +176,7 @@ in this hellhole anymore?[BRK]
 
 Say, who do I see about
 collecting a paycheck for
-all the work I've done?
-[END]
+all the work I've done?[END]
 
 === e | 171ea | db ===
 Why doesn't His Fatness use
@@ -207,8 +203,7 @@ guards.[BRK]
 
 But I guess it was worth it
 if you had something to do
-with Borgan's downfall!
-[END]
+with Borgan's downfall![END]
 
 === 11 | 173e0 | 33 ===
 I don't believe it! You
@@ -327,8 +322,7 @@ we'll leave the fake heads
 here,[BRK]
 
 and the guards will see them
-and think we're still here.
-[END]
+and think we're still here.[END]
 
 === 1e | 17b94 | 70 ===
 I almost finished digging my
@@ -336,8 +330,7 @@ tunnel when Neo-Vane
 crashed.[BRK]
 
 But hey! You won't see me
-complaining about that...
-[END]
+complaining about that...[END]
 
 === 1f | 17c0a | 11 ===
 Neo-Trial Cave B2[END]

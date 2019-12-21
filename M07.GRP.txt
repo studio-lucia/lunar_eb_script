@@ -13,8 +13,7 @@ hear my words. I am Lucia![BRK]
 
 Do not cross the path of
 one so true until the face
-of the star is new.
-[END]
+of the star is new.[END]
 
 === 1 | 1041e | 49 ===
 [POR08]
@@ -55,10 +54,7 @@ I'm not certain, but I'll
 try.[BRK]
 
 Come, then. Hiro's time
-grows short.
-
-
-[END]
+grows short.[END]
 
 === 4 | 10640 | d ===
 Blue Spire 1F[END]

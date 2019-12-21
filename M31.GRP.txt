@@ -22,8 +22,7 @@ But...that means...[BRK]
 
 [POR01]
 ....
-.....
-[END]
+.....[END]
 
 === 1 | 863c | 7d ===
 This is the holy sanctuary
@@ -128,9 +127,7 @@ Stop laughing, Hiro! This
 is serious![BRK]
 
 This moron wants to kill
-me! It's no laughing matter!
-
-[END]
+me! It's no laughing matter![END]
 
 === b | 8c56 | b5 ===
 We all could learn much from
@@ -143,8 +140,7 @@ her.[BRK]
 Now he walks freely about
 her great city.[BRK]
 
-Is there no end to her love?
-[END]
+Is there no end to her love?[END]
 
 === c | 8d1e | b4 ===
 It's amazing that Althena
@@ -156,11 +152,7 @@ beloved Dragonmaster![BRK]
 
 [POR02]
 Why would she risk that?
-Isn't Ghaleon pure evil?
-
-
-
-[END]
+Isn't Ghaleon pure evil?[END]
 
 === d | 8de2 | 76 ===
 Althena comes to our world
@@ -203,8 +195,7 @@ you![BRK]
 Oh yeah...Well I got 
 something to say about that![BRK]
 
-......Bite me!!
-[END]
+......Bite me!![END]
 
 === 11 | 9046 | ae ===
 We have been selected by the 
@@ -244,8 +235,7 @@ a simple merchant.[BRK]
 
 I was allowed to enter
 Pentagulia only after I
-made a sizable donation...
-[END]
+made a sizable donation...[END]
 
 === 14 | 92f8 | 97 ===
 Althena is not supposed to
@@ -284,8 +274,7 @@ I mean, I'm just waiting for
 Lon Chaney to pop up any
 minute![BRK]
 
-Creeeeeppppyyy!
-[END]
+Creeeeeppppyyy![END]
 
 === 16 | 954c | 70 ===
 Look towards the heavens
@@ -396,11 +385,7 @@ the girl to the Goddess.[BRK]
 
 ...And then the real show
 will begin...hm, hm, hm.
-Hm, hm, hm, hm,...
-
-
-
-[END]
+Hm, hm, hm, hm,...[END]
 
 === 1e | be70 | 68 ===
 [ROR09]
@@ -455,8 +440,7 @@ you![BRK]
 
 [POR05]
 Don't ever change, squirt!
-I guess this is adios!
-[END]
+I guess this is adios![END]
 
 === 21 | c150 | 4f ===
 [POR02]
@@ -492,9 +476,7 @@ heart...this empty space...
 .....[BRK]
 
 Then, yes...I feel sad that
-everyone has left.
-
-[END]
+everyone has left.[END]
 
 === 23 | c32e | 18d ===
 [POR10]
@@ -524,10 +506,7 @@ to see you dance again!![BRK]
 
 [POR10]
 When you come, Ruby, I'll
-do a special dance for you!
-
-
-[END]
+do a special dance for you![END]
 
 === 24 | c4ea | 2da ===
 [POR07]
@@ -577,8 +556,7 @@ Yes, yes, don't worry! We'll
 figure something out, Lucia.[BRK]
 
 Anyway, I'd better go. Wish
-me luck!
-[END]
+me luck![END]
 
 === 25 | c7f8 | 102 ===
 [POR05]
@@ -704,11 +682,7 @@ the girl to the Goddess.[BRK]
 
 ...And then the real show
 will begin...hm, hm, hm...
-Hm, hm, hm, hm...
-
-
-
-[END]
+Hm, hm, hm, hm...[END]
 
 === 2d | ddce | 68 ===
 [ROR09]
@@ -763,8 +737,7 @@ you![BRK]
 
 [POR05]
 Don't ever change, squirt!
-I guess this is adios!
-[END]
+I guess this is adios![END]
 
 === 30 | e0ae | 4f ===
 [POR02]
@@ -800,9 +773,7 @@ heart...this empty space...
 .....[BRK]
 
 Then, yes...I feel sad that
-everyone has left.
-
-[END]
+everyone has left.[END]
 
 === 32 | e28c | 18d ===
 [POR10]
@@ -832,10 +803,7 @@ to see you dance again!![BRK]
 
 [POR10]
 When you come, Ruby, I'll
-do a special dance for you!
-
-
-[END]
+do a special dance for you![END]
 
 === 33 | e448 | 2da ===
 [POR07]
@@ -885,8 +853,7 @@ Yes, yes, don't worry! We'll
 figure something out, Lucia.[BRK]
 
 Anyway, I'd better go. Wish
-me luck!
-[END]
+me luck![END]
 
 === 34 | e756 | 102 ===
 [POR05]
@@ -937,8 +904,7 @@ the name of Althena.[BRK]
 
 [POR02]
 And you will not attract
-any women...
-[END]
+any women...[END]
 
 === 38 | fc1e | 99 ===
 You know, it is always good
@@ -949,16 +915,14 @@ It teaches you to be humble
 in this degenerate world.[BRK]
 
 [POR02]
-Shyeah...as if...
-[END]
+Shyeah...as if...[END]
 
 === 39 | fcca | 54 ===
 Remember! Always give thanks
 to the Goddess![BRK]
 
 ...and donate all your
-worldly wealth.
-[END]
+worldly wealth.[END]
 
 === 3a | fd2e | b4 ===
 I've not known sadness in
@@ -1087,11 +1051,7 @@ I'm thinking just two words.[BRK]
 
 Hard.[BRK]
 
-Up.
-
-
-
-[END]
+Up.[END]
 
 === 47 | 10ca0 | 99 ===
 Do ya think a gal like me

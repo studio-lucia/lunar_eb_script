@@ -11,15 +11,13 @@ come to life![BRK]
 
 What are we going to do,
 Hiro? We can't beat three
-more of these things!
-[END]
+more of these things![END]
 
 === 1 | 1a3fc | 4d ===
 [POR09]
 Ha! Those guardians are no
 match for the power of the
-Dragonship Destiny!
-[END]
+Dragonship Destiny![END]
 
 === 2 | 1a44c | 2e3 ===
 [POR09]
@@ -74,21 +72,11 @@ here. Just go home.[BRK]
 [POR02]
 Of all the...I can't believe
 how rude he is! He works for
-Althena?
-
-
-
-
-[END]
+Althena?[END]
 
 === 3 | 1a74a | 22 ===
 [POR09]
-Say, Hiro, who's the lady?
-
-
-
-
-[END]
+Say, Hiro, who's the lady?[END]
 
 === 4 | 1a770 | 159 ===
 [POR09]
@@ -113,9 +101,7 @@ Ha! Exactly as I suspected!
 The destroyer is in the
 tower![BRK]
 
-C'mon, men, let's go...
-
-[END]
+C'mon, men, let's go...[END]
 
 === 5 | 1a8cc | ee ===
 [POR02]

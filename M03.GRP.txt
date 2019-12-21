@@ -76,8 +76,7 @@ books to catch up on...Now
 get moving![BRK]
 
 Remember, seek out Ronfar
-when you get to Larpa!
-[END]
+when you get to Larpa![END]
 
 === 5 | 9f3a | 91 ===
      \[Weekly Meal Duty\][BRK]
@@ -145,9 +144,7 @@ And since you are the
 'expert' on it,[BRK]
 
 you and you alone can
-provide the answers I seek.
-
-[END]
+provide the answers I seek.[END]
 
 === 8 | af1c | 35 ===
 [POR04]
@@ -162,8 +159,7 @@ with Lucia.[BRK]
 
 I'll go downstairs and see
 if there's a book that shows
-how to break the curse.
-[END]
+how to break the curse.[END]
 
 === a | b00e | 42 ===
 Althena created the
@@ -292,12 +288,7 @@ that's for certain. And I
 don't like the smell of it![BRK]
 
 Not one bit...No, not
-one...
-
-
-
-
-[END]
+one...[END]
 
 === 12 | b7ec | 6c ===
 [POR04]
@@ -307,8 +298,7 @@ Come quick![BRK]
 Something's happening at
 the...the...[BRK]
 
-...............Hurry, lad!
-[END]
+...............Hurry, lad![END]
 
 === 13 | b870 | 2a9 ===
 [POR02]
@@ -452,13 +442,7 @@ she really is?[BRK]
 
 [POR01]
 ....
-.....
-
-
-
-
-
-[END]
+.....[END]
 
 === 1b | c148 | a4 ===
 [POR02]
@@ -474,8 +458,7 @@ exist if Zophar...is...not
 
 ...For the sake of the
 humans here...I...must...
-...stop him...
-[END]
+...stop him...[END]
 
 === 1c | c204 | bb ===
 [POR02]
@@ -492,8 +475,7 @@ say you're not human?[BRK]
 [POR04]
 Hiro, it appears that this
 curse is beyond anything I
-can cure myself.
-[END]
+can cure myself.[END]
 
 === 1d | c2c8 | 170 ===
 [POR04]
@@ -515,8 +497,7 @@ other side of the sea,[BRK]
 
 you'll need my boat. I've
 got everything ready. Meet
-me outside...
-[END]
+me outside...[END]
 
 === 1e | c442 | 255 ===
 [POR02]
@@ -556,12 +537,7 @@ You're so dense, you can't
 possibly be a threat to my
 love for Hiro.[BRK]
 
-Let's just go!
-
-
-
-
-[END]
+Let's just go![END]
 
 === 1f | c6a6 | 48 ===
 Salyan Desert
@@ -594,8 +570,7 @@ seek out Ronfar, not piddle
 around here.[BRK]
 
 Get moving, m'boy! Lucia's
-life is at stake!
-[END]
+life is at stake![END]
 
 === 23 | d034 | ee ===
 [POR04]
@@ -655,8 +630,7 @@ be an easy one.[BRK]
 .....[BRK]
 
 Well, what are you waiting
-for, m'boy? Go find her!
-[END]
+for, m'boy? Go find her![END]
 
 === 27 | d408 | a3 ===
 [POR04]
@@ -678,8 +652,7 @@ bringing up the rear?[BRK]
 
 What!? He was turned to
 crystal? Ohhh...lad! Why...
-...How did this happen?
-[END]
+...How did this happen?[END]
 
 === 29 | d566 | c1 ===
 [POR08]
@@ -695,11 +668,7 @@ Always trying to save the
 world.[BRK]
 
 And now look at the fine
-mess it's gotten him into!
-
-
-
-[END]
+mess it's gotten him into![END]
 
 === 2a | d636 | 89 ===
 [POR08]
@@ -723,9 +692,7 @@ live for...[BRK]
 [POR08]
 Gwyn, Hiro did this to save
 my life. I will find some
-way to save his...
-
-[END]
+way to save his...[END]
 
 === 2c | d7a2 | 77 ===
 [POR04]
@@ -788,8 +755,7 @@ to it, m'boy![BRK]
 Go to it. Lucia's waiting![BRK]
 
 Perhaps Nall knows where you
-can start looking...
-[END]
+can start looking...[END]
 
 === 30 | dbfc | 65 ===
 [POR04]
@@ -851,14 +817,7 @@ There's a girl waiting out
 there who truly loves you,
 and that's a rare thing.[BRK]
 
-Go to her, Hiro...
-
-
-
-
-
-
-[END]
+Go to her, Hiro...[END]
 
 === 34 | df6c | ae ===
 [POR04]
@@ -896,9 +855,7 @@ gain entrance into the tower
 is your only chance of...[BRK]
 
 seeing Lucia again. You must
-try, m'boy!
-
-[END]
+try, m'boy![END]
 
 === 36 | e1f4 | 10f ===
 [POR04]
@@ -1003,10 +960,7 @@ the Blue Spire?[BRK]
 
 Looks like it goes into the
 heavens, toward the Blue 
-Star...
-
-
-[END]
+Star...[END]
 
 === 41 | eef0 | 2cd ===
 [POR04]
@@ -1054,9 +1008,7 @@ we'll need from the house.[BRK]
 
 I'm not letting you go in
 that place by yourself,
-that's for certain...
-
-[END]
+that's for certain...[END]
 
 === 42 | f1c6 | 88 ===
 [POR02]
@@ -1186,8 +1138,7 @@ But no time for misty-
 eyed memories...[BRK]
 
 C'mon! Let's take out the
-trash! Zophar, here we come!
-[END]
+trash! Zophar, here we come![END]
 
 === 4b | f8d0 | 84 ===
 [POR02]
@@ -1269,8 +1220,7 @@ to be...Dagnabbit![BRK]
 
 Hiro! I thought I told you
 to keep an eye on Lucia?
-She's in grave condition...
-[END]
+She's in grave condition...[END]
 
 === 55 | 104f8 | 106 ===
 [POR04]
@@ -1400,14 +1350,11 @@ shifting dragon comes to be.[BRK]
 
 This dragon can change form
 at will, and its power is
-beyond belief.
-
-[END]
+beyond belief.[END]
 
 === 5e | 10cc6 | 7d ===
 
-     \[Ancient Ruins\]
-[BRK]
+     \[Ancient Ruins\][BRK]
 
 This book I will dedicate
 to the discovery of the

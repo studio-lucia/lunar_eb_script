@@ -204,8 +204,7 @@ come back and let me know
 she understands...[BRK]
 
 I don't want to worry
-about her...
-[END]
+about her...[END]
 
 === a | e63e | 95 ===
 [POR22]
@@ -279,9 +278,7 @@ Go to the roof.[BRK]
 Someone is waiting there...[BRK]
 
 Go! Quickly now...See for
-yourself...on the roof.
-
-[END]
+yourself...on the roof.[END]
 
 === d | ea64 | 90 ===
 [POR22]
@@ -313,8 +310,7 @@ wrote before his death.[BRK]
 
 To have all that power, and
 yet...to be lonely beyond
-words...
-[END]
+words...[END]
 
 === f | ec88 | ef ===
 [POR22]
@@ -353,8 +349,7 @@ Well, hello there, Hiro!
 Long time no see, stranger![BRK]
 
 Have you come to see Lemina?
-She's right over there.
-[END]
+She's right over there.[END]
 
 === 13 | ef08 | ad ===
 [POR22]
@@ -392,9 +387,7 @@ unresolved...[BRK]
 [POR07]
 What are you talking about,
 Borgan? You haven't changed
-a bit!
-
-[END]
+a bit![END]
 
 === 15 | f170 | 287 ===
 [POR17]
@@ -435,9 +428,7 @@ dear girl.[BRK]
 
 I am absolute sovereign of
 my destiny now. I will do
-as I wish. Behold...
-
-[END]
+as I wish. Behold...[END]
 
 === 16 | f400 | 2d2 ===
 [POR07]
@@ -485,9 +476,7 @@ Gwa ha ha ha ha...[BRK]
 
 [POR07]
 No! Borgan! I'm serious!
-Come back here this instant!
-
-[END]
+Come back here this instant![END]
 
 === 17 | f6dc | 137 ===
 [POR07]
@@ -510,10 +499,7 @@ I can't even save the one
 I love most! How can I hope
 to restore a whole city?[BRK]
 
-Oh, Mother...I'm a failure!
-
-
-[END]
+Oh, Mother...I'm a failure![END]
 
 === 18 | f840 | 113 ===
 [POR17]
@@ -532,9 +518,7 @@ gained the power of Althena
 to fight Zophar.[BRK]
 
 All the world's power is at
-her command.
-
-[END]
+her command.[END]
 
 === 19 | f97a | 99 ===
 [POR17]
@@ -553,8 +537,7 @@ power was everything,[BRK]
 
 but Miria has reminded me of
 something more...important.
-Gha ha ha ha ha...
-[END]
+Gha ha ha ha ha...[END]
 
 === 1b | fac6 | 82 ===
 [POR17]
@@ -628,8 +611,7 @@ what you'd like...[BRK]
 
 but I have no intention
 of helping you win my
-mother's affection!
-[END]
+mother's affection![END]
 
 === 20 | ff0a | 1a5 ===
 [POR17]
@@ -661,8 +643,7 @@ Such an excitable girl. A
 finger is not what I
 intended to lay...[BRK]
 
-Gha ha ha ha ha...
-[END]
+Gha ha ha ha ha...[END]
 
 === 21 | 100be | 90 ===
 Little Lemina, why do you
@@ -799,8 +780,7 @@ come cheap, of course.[BRK]
 
 But since you're a special
 friend, I'll give you a
-discount. How about 10,000s?
-[END]
+discount. How about 10,000s?[END]
 
 === 2c | 10958 | 104 ===
      Rapture in the Wind    
@@ -866,11 +846,7 @@ fin, my mega-hunky helper?[BRK]
 
 Ah, well...someday. Good-
 bye for now, diary.
-                   Lee Lee
-
-
-
-[END]
+                   Lee Lee[END]
 
 === 32 | 10dc2 | 150 ===
 The battle we are about to
@@ -890,8 +866,7 @@ fight alongside.[BRK]
 
 Wish me luck, diary...I'll
 be needing it.
-                   Lee Lee
-[END]
+                   Lee Lee[END]
 
 === 33 | 10f26 | 237 ===
 Well, diary, the fight for
@@ -960,8 +935,7 @@ I think it'd be a good idea
 to ask Lemina's permission
 before you open this,[BRK]
 
-...don't you?
-[END]
+...don't you?[END]
 
 === 38 | 11362 | 10 ===
 Vane Magic Guild[END]
@@ -1010,8 +984,7 @@ thing![BRK]
 
 Go see Miria. Maybe she has
 some idea of where we can
-start...
-[END]
+start...[END]
 
 === 3c | 12532 | 89 ===
 [POR08]
@@ -1027,8 +1000,7 @@ possess.[BRK]
 === 3d | 125d6 | 36 ===
 [POR08]
 Lemina was only trying her
-best...just as I was...
-[END]
+best...just as I was...[END]
 
 === 3e | 12620 | 29d ===
 [ROR08]
@@ -1078,9 +1050,7 @@ mind. What do you say?[BRK]
 ...All right, Hiro.[BRK]
 
 Everyone's waiting. We'd
-better go...
-
-[END]
+better go...[END]
 
 === 3f | 128e4 | 115 ===
 [POR05]
@@ -1124,8 +1094,7 @@ She's been working so hard
 collecting money...Everyone
 just thought she was greedy.[BRK]
 
-It must have been so lonely.
-[END]
+It must have been so lonely.[END]
 
 === 42 | 12bd0 | 66 ===
 [POR10]
@@ -1157,9 +1126,7 @@ money to fix the leaky roof
 on the Magic Guild![BRK]
 
 Oh, Hiro! I'm just a big
-joke! Admit it!
-
-[END]
+joke! Admit it![END]
 
 === 44 | 12dda | 2c ===
 [0x5]Uh, want a donation?
@@ -1176,15 +1143,13 @@ now. I never wanted that.[END]
 [ROR07]
 ...But I'll take your money
 in good f-faith. Thank
-you, Hiro.
-[END]
+you, Hiro.[END]
 
 === 47 | 12ed0 | 49 ===
 [ROR07]
 Oh, Hiro...Just leave me
 alone. I have to figure
-this out for myself.
-[END]
+this out for myself.[END]
 
 === 48 | 12f2e | 1b1 ===
 [ROR01]
@@ -1300,9 +1265,7 @@ Mother. And I will restore
 Vane.[BRK]
 
 And I won't rest until it's
-done...
-
-[END]
+done...[END]
 
 === 4c | 13596 | 1bb ===
 [ROR09]
@@ -1330,8 +1293,7 @@ side as a fellow crusader
 for justice![BRK]
 
 The Destiny awaits...please
-consider my request.
-[END]
+consider my request.[END]
 
 === 4d | 13754 | 86 ===
 [ROR02]
@@ -1393,11 +1355,7 @@ Watch in horror as I give
 you a preview of the show
 Zophar has planned![BRK]
 
-See you soon...Ha ha ha!
-
-
-
-[END]
+See you soon...Ha ha ha![END]
 
 === 4f | 13a1a | a7 ===
 [POR02]

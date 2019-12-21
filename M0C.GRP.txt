@@ -65,9 +65,7 @@ us all.[BRK]
 
 Know that I have the will
 and the resources to carry
-out that task...
-
-[END]
+out that task...[END]
 
 === 2 | 1470c | 14 ===
 [POR09]
@@ -203,9 +201,7 @@ us all.[BRK]
 
 Know that I have the will
 and the resources to carry
-out that task...
-
-[END]
+out that task...[END]
 
 === c | 19c40 | 14 ===
 [POR09]

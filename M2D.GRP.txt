@@ -57,8 +57,7 @@ Welcome to Raculi.[BRK]
 
 We have a little trouble
 every now 'n' then, but it's
-usually pretty peaceful.
-[END]
+usually pretty peaceful.[END]
 
 === 6 | 878e | 109 ===
 This is the village of...
@@ -111,9 +110,7 @@ brother! I want to hear it![BRK]
 
 [POR05]
 Uh...No...no...You can't
-make me!
-
-[END]
+make me![END]
 
 === a | 8a9a | d2 ===
 Mauri is cleansing souls at
@@ -128,8 +125,7 @@ her eyes...[BRK]
 
 And they're forcing us to
 go to her to cleanse our
-souls...I'm scared!
-[END]
+souls...I'm scared![END]
 
 === b | 8b70 | 43 ===
 I'm terrified of what will
@@ -167,8 +163,7 @@ I thought you said...[BRK]
 
 [POR08]
 Ah...Oh, nothing...Forget
-I said anything...
-[END]
+I said anything...[END]
 
 === 10 | 8dc8 | ad ===
 Zophar is gone, and peace
@@ -179,8 +174,7 @@ relive the terror of Mauri's
 cleansings...[BRK]
 
 But thankfully, even that
-will fade in time...
-[END]
+will fade in time...[END]
 
 === 11 | 8e88 | f4 ===
 There is a legend that says
@@ -301,11 +295,7 @@ look at him![BRK]
 
 He's cuckoo for Cocoa Puffs!
 No...worse! What am I going
-to do?
-
-
-
-[END]
+to do?[END]
 
 === 1d | 96aa | 82 ===
 There must be some way to
@@ -398,9 +388,7 @@ cut my strings...[BRK]
 [POR05]
 I will find a way to free
 you Mauri. And the only one
-who will pay will be Zophar!
-
-[END]
+who will pay will be Zophar![END]
 
 === 23 | 9cb4 | 6a ===
 It appears that everyone
@@ -416,8 +404,7 @@ with catastrophes! We've
 had more than our share.[BRK]
 
 But I guess only time will
-tell, eh?
-[END]
+tell, eh?[END]
 
 === 25 | 9db2 | ed ===
 I snuck into the palace and
@@ -481,8 +468,7 @@ I haven't seen Mauri look
 this happy since she and 
 Ronfar...[BRK]
 
-...Oh, Ronfar...
-[END]
+...Oh, Ronfar...[END]
 
 === 2b | a194 | 32 ===
 [POR05]
@@ -580,9 +566,7 @@ of a fight?[BRK]
 
 [POR05]
 Oh no...Leo! Don't do
-anything stupid...
-
-[END]
+anything stupid...[END]
 
 === 35 | a774 | 80 ===
 There was some sort of weird
@@ -734,8 +718,7 @@ we'll all be better off.[BRK]
 
 Congrats on the puberty
 thing, though...That's, uh,
-hehe...really...um...nice.
-[END]
+hehe...really...um...nice.[END]
 
 === 42 | b0f4 | 10a ===
 Oh my! Oh my! What will I
@@ -755,8 +738,7 @@ Just don't show up![BRK]
 [POR00]
 You don't understand! They
 send enforcers to come and
-get you! Oh dear...
-[END]
+get you! Oh dear...[END]
 
 === 43 | b216 | 87 ===
 This is just terrible...
@@ -765,8 +747,7 @@ to do?[BRK]
 
 If I don't show up for my
 cleansing, the enforcers
-will come...Oh dear...
-[END]
+will come...Oh dear...[END]
 
 === 44 | b2b4 | 8e ===
 It was the strangest thing.
@@ -826,8 +807,7 @@ sure![BRK]
 [POR02]
 Oh, Lemina, don't you ever
 give up? Sheesh, give it a
-rest...
-[END]
+rest...[END]
 
 === 4a | b674 | 7 ===
 Raculi [END]
@@ -865,8 +845,7 @@ better, I'm afraid.[BRK]
 [POR05]
 Damn! This is all my fault.
 It's because of that potion
-I gave her, I'm sure!
-[END]
+I gave her, I'm sure![END]
 
 === 50 | cb34 | 67 ===
 Mauri came back to the
@@ -897,14 +876,7 @@ Heaven, man...heaven![BRK]
 
 She's paying so much
 attention to me I think
-Leo's a little jealous.
-
-
-
-
-
-
-[END]
+Leo's a little jealous.[END]
 
 === 53 | cd12 | 32 ===
 [POR09]
@@ -990,8 +962,7 @@ I had no control.[BRK]
 
 Oohhh...I don't want to
 think about it any more. I'm
-just glad to be back.
-[END]
+just glad to be back.[END]
 
 === 5c | d2b0 | 7e ===
 Our world has been led
@@ -1077,11 +1048,7 @@ Don't give me false hope![BRK]
 [ROR00]
 [POR05]
 But what, Leo?! Don't leave
-me hanging!!
-
-
-
-[END]
+me hanging!![END]
 
 === 5f | dd16 | 2f3 ===
 [POR05]
@@ -1182,9 +1149,7 @@ you've got, Ronfar. You must
 at least try...[BRK]
 
 We must leave for Serak
-Palace at once!
-
-[END]
+Palace at once![END]
 
 === 61 | e2b6 | 152 ===
 [POR15]
@@ -1207,9 +1172,7 @@ We must find a way to defeat
 him, Mauri. If he's allowed
 to continue,[BRK]
 
-he'll destroy us all!
-
-[END]
+he'll destroy us all![END]
 
 === 62 | e428 | d4 ===
 [POR15]
@@ -1242,9 +1205,7 @@ vision, but he cannot darken
 the way.[BRK]
 
 Trust in your heart and stay
-true to yourself...
-
-[END]
+true to yourself...[END]
 
 === 64 | e614 | 15 ===
 [POR08]
@@ -1287,8 +1248,7 @@ forgiveness you give so
 easily,[BRK]
 
 but I will accept it. Thank
-you...
-[END]
+you...[END]
 
 === 67 | e846 | 2cf ===
 [POR15]
@@ -1393,8 +1353,7 @@ to free her spirit.[BRK]
 
 You belong with her.[BRK]
 
-Go...
-[END]
+Go...[END]
 
 === 6a | ee06 | bf ===
 [POR15]
@@ -1433,10 +1392,7 @@ kiddo.[BRK]
 
 And for the sake of true
 love, I'll help anyone out.
-So are you asking for help?
-
-
-[END]
+So are you asking for help?[END]
 
 === 6c | f0b0 | 2c ===
 [0x5]No, Mauri needs you.
@@ -1489,8 +1445,7 @@ let me go if it wasn't...[BRK]
 
 ...for a very old friend.
 Count yourself lucky, buddy!
-Ha ha ha!
-[END]
+Ha ha ha![END]
 
 === 70 | f3bc | 13 ===
 Raculi Mauri's Home[END]
@@ -1527,8 +1482,7 @@ bad dream. A voice kept
 saying 'Zophar,' [BRK]
 
 and all I could see was a
-dark fog wherever I looked.
-[END]
+dark fog wherever I looked.[END]
 
 === 75 | fc28 | 88 ===
 You know, even when I was
@@ -1552,8 +1506,7 @@ ritual, I just know it...[BRK]
 
 After my son returned from
 his, he's been babbling
-nothin' but nonsense...
-[END]
+nothin' but nonsense...[END]
 
 === 77 | fdd0 | 66 ===
 Oh! Thank Althena! My son is

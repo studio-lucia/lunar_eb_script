@@ -22,8 +22,7 @@ Woods![BRK]
 
 Only the most skilled can
 find their way through the
-maze-like interior.
-[END]
+maze-like interior.[END]
 
 === 2 | 19b66 | df ===
 Ronfar! You cheatin' dog!
@@ -106,8 +105,7 @@ me again somehow![BRK]
 
 But a deal's a deal. Here.
 I'll enchant you so that the
-paths show themselves...
-[END]
+paths show themselves...[END]
 
 === 6 | 1a022 | 168 ===
 [POR05]
@@ -150,11 +148,7 @@ bother you...[BRK]
 
 [POR00]
 Well, carry on, then. But
-remember: I want a rematch!
-
-
-
-[END]
+remember: I want a rematch![END]
 
 === 8 | 1a2c4 | 98 ===
 See the hole in the tree to
@@ -259,11 +253,7 @@ me, Ronfar![BRK]
 
 When I catch up to you and
 that destroyer, there'll be
-hell to pay!
-
-
-
-[END]
+hell to pay![END]
 
 === 11 | 1a966 | 39 ===
 Sir, I've completed my

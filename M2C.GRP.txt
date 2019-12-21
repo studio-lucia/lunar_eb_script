@@ -80,8 +80,7 @@ find him.[BRK]
 
 Once all the dragons have
 been released, we will meet
-again...
-[END]
+again...[END]
 
 === 3 | 124b9 | 26 ===
 Received the Crest of
@@ -111,8 +110,7 @@ However, no human has ever
 been able to use it.[BRK]
 
 If you try, it could very
-well end your life.
-[END]
+well end your life.[END]
 
 === 5 | 12660 | 8f ===
 [POR25]
@@ -133,9 +131,7 @@ thought like a dragon...[BRK]
 But now...[BRK]
 
 I think I'm starting to...
-It's weird!
-
-[END]
+It's weird![END]
 
 === 7 | 12770 | 10 ===
 Blue Dragon Lair[END]

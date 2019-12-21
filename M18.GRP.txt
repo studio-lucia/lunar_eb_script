@@ -25,8 +25,7 @@ to do. Let's get moving.[BRK]
 
 But be careful! I don't
 know what kind of freaks
-lurk in this creepy joint!
-[END]
+lurk in this creepy joint![END]
 
 === 1 | 11700 | 5d ===
 [POR07]
@@ -49,8 +48,7 @@ they're all property of
 Vane...[BRK]
 
 And by extension...
-property of Lemina.
-[END]
+property of Lemina.[END]
 
 === 3 | 11834 | 10 ===
 Cave of Trial 5F[END]

@@ -87,8 +87,7 @@ go...[BRK]
 
 [POR09]
 Hiro, Lucia, please follow
-me.
-[END]
+me.[END]
 
 === 6 | 1617c | a4 ===
 [POR09]
@@ -126,18 +125,11 @@ Hold on, dear Lucia. I'm
 afraid it's going to be a
 bumpy ride...[BRK]
 
-Hm, hm, hm, hm, hm...
-
-
-
-
-
-[END]
+Hm, hm, hm, hm, hm...[END]
 
 === 8 | 16382 | e ===
 [POR01]
-...Lucia!!
-[END]
+...Lucia!![END]
 
 === 9 | 1639a | 2df ===
 [POR18]
@@ -196,10 +188,7 @@ my worth![BRK]
 
 [POR14]
 Hm, hm, hm, hm...Oh,
-I can't wait to see this.
-
-
-[END]
+I can't wait to see this.[END]
 
 === a | 16696 | d7 ===
 I've heard that you are
@@ -213,8 +202,7 @@ sometime...[BRK]
 [POR02]
 Uh, sorry...You heard wrong.
 There's no way we're moving
-to this creepy joint!
-[END]
+to this creepy joint![END]
 
 === b | 16780 | 49 ===
 Goddess Althena watches out
@@ -262,10 +250,7 @@ around here unsupervised.[BRK]
 
 You might have an......
 accident...if you get
-my meaning.
-
-
-[END]
+my meaning.[END]
 
 === 10 | 16a22 | 8a ===
 The second floor of this
@@ -373,8 +358,7 @@ Unfortunately, your life
 will also end.[BRK]
 
 Enjoy this time, Lucia. It's
-all you have left...
-[END]
+all you have left...[END]
 
 === 15 | 189f0 | 14d ===
 [POR14]
@@ -405,8 +389,7 @@ reason why Zophar would![END]
 === 16 | 18b40 | 2f ===
 [POR09]
 Zophar's power!?
-But that can't be true....
-[END]
+But that can't be true....[END]
 
 === 17 | 18b78 | ee ===
 [POR09]
@@ -424,9 +407,7 @@ I can't believe that all
 we heard was true![BRK]
 
 I've got to find a way
-out of this mess!
-
-[END]
+out of this mess![END]
 
 === 18 | 18c8a | 136 ===
 [POR08]

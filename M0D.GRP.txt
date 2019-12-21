@@ -19,8 +19,7 @@ it all worthwhile![BRK]
 
 Oop! We'd better be getting
 back to Grandpa's house
-before he worries...
-[END]
+before he worries...[END]
 
 === 1 | 1acae | 99 ===
 [POR02]
@@ -74,8 +73,7 @@ it all worthwhile![BRK]
 
 Oop! We'd better be getting
 back to Grandpa's house
-before he worries...
-[END]
+before he worries...[END]
 
 === 6 | 1be0e | 99 ===
 [POR02]

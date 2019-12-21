@@ -18,8 +18,7 @@ doorway to this place...[BRK]
 
 We must hurry. The real
 Althena must be locked
-inside this tower.
-[END]
+inside this tower.[END]
 
 === 1 | c1de | c6 ===
 [POR18]
@@ -149,9 +148,7 @@ create this seal for Zophar
 alone.[BRK]
 
 I had a little help from my
-dear friends...
-
-[END]
+dear friends...[END]
 
 === 5 | c8c6 | 143 ===
 [POR18]
@@ -176,8 +173,7 @@ Ghaleon![BRK]
 
 Our chances for survival
 just took a dive into the
-crapper!
-[END]
+crapper![END]
 
 === 6 | ca0c | c1 ===
 [POR08]
@@ -242,8 +238,7 @@ I will go and retrieve the
 girl and her simple-minded
 associates...[BRK]
 
-Just wait he...
-[END]
+Just wait he...[END]
 
 === 9 | cd46 | 12 ===
 Goddess Tower Ent.[END]
