@@ -4,7 +4,7 @@ Messages: 50
 
 === 0 | 147ae | c6 ===
 [POR02]
-Look! Look, Hiro! Over there!
+Look! Look Hiro! Over there!
 It's some sort of strange
 runes or something...[BRK]
 
