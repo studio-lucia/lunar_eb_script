@@ -1943,7 +1943,7 @@ important things have
 happened here recently.[END]
 
 === 9e | 1478c | 76 ===
-Hi, Lemina! How's the Magic
+Hi, Lemina! How's the
 Magic Guild work going?[BRK]
 
 [POR07]
