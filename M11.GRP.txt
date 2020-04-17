@@ -16,9 +16,9 @@ get to the Madoria Plains,
 I would turn back...[END]
 
 === 1 | 19abc | 88 ===
-Say, folks, you'd be crazy to
-try to cross the Illusion
-Woods![BRK]
+Say, folks, you'd be crazy
+to try to cross the
+Illusion Woods![BRK]
 
 Only the most skilled can
 find their way through the
