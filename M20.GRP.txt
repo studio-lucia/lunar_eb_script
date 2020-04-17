@@ -1126,7 +1126,7 @@ La la la la la....[END]
 A monster, a monster! It
 came to our door![BRK]
 
-A monster! A monster! is
+A monster! A monster! Is
 outside no more![BRK]
 
 [POR02]
