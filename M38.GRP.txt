@@ -150,7 +150,7 @@ Red Tower 5F[END]
 
 === c | 1b092 | 14e ===
 [POR05]
-Man, I thought the calvary
+Man, I thought the cavalry
 would never get here![BRK]
 
 I can't tell ya how glad
