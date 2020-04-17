@@ -2029,7 +2029,8 @@ I told you before...only
 the high priest can open it![BRK]
 
 [POR02]
-Hey, Ronfar! Do you think you
+Hey, Ronfar!
+Do you think you
 can open it?[BRK]
 
 [POR05]
