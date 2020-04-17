@@ -1172,8 +1172,7 @@ lost to Zophar, he now has
 all the magic...[BRK]
 
 ...and the power of Althena.
-We're doomed...
-doomed, I say![END]
+We're doomed...doomed I say![END]
 
 === 59 | 1fa2c | 35 ===
 Whoo-hooo! The world is safe
