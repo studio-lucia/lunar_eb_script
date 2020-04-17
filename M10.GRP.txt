@@ -1460,9 +1460,9 @@ really happened long ago...[BRK]
 Now how in the world would
 you know that?[BRK]
 
-Oh, I get it...you're pullin'
-my leg again! Ha ha ha! Good
-one...Ya got me![END]
+Oh, I get it...you're
+pullin' my leg again! Ha ha!
+Good one...Ya got me![END]
 
 === 8c | 11b24 | fe ===
 Say there, folks...sit down
