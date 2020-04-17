@@ -175,7 +175,7 @@ outrageous![BRK]
 [POR02]
 How is it that you always
 seem to only tune in on the
-money aspect a problem?[END]
+money aspect of a problem?[END]
 
 === c | 853a | 64 ===
 I wish I had never lusted
