@@ -760,7 +760,7 @@ Yes, so don't worry about
 it, okay?[END]
 
 === 32 | 1be42 | 9a ===
-Hey, Jean, if you're leaving,
+Hey Jean, if you're leaving,
 that means I'm the new head
 dancer![BRK]
 
@@ -1650,7 +1650,7 @@ Yes, so don't worry about
 it, okay?[END]
 
 === 6e | 20f96 | 9a ===
-Hey, Jean, if you're leaving,
+Hey Jean, if you're leaving,
 that means I'm the new head
 dancer![BRK]
 
@@ -2540,7 +2540,7 @@ Yes, so don't worry about
 it, okay?[END]
 
 === aa | 260b4 | 9a ===
-Hey, Jean, if you're leaving,
+Hey Jean, if you're leaving,
 that means I'm the new head
 dancer![BRK]
 

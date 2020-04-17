@@ -760,7 +760,7 @@ Yes, so don't worry about
 it, okay?[END]
 
 === 32 | ab02 | 9a ===
-Hey, Jean, if you're leaving,
+Hey Jean, if you're leaving,
 that means I'm the new head
 dancer![BRK]
 
