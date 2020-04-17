@@ -873,11 +873,11 @@ I think it looks kinda
 disgusting, if you ask me.[END]
 
 === 4e | 11526 | 5c ===
-Take a look at this toy![BRK]
+Take a look at this![BRK]
 
-It's an octopus that grows
-30 times larger when you
-put it in water![END]
+It's a toy octopus that
+grows 30 times larger when
+you put it in water![END]
 
 === 4f | 11592 | e0 ===
 Oh, and this one is one
@@ -1787,7 +1787,7 @@ your trouble. Thanks again![END]
 
 === b0 | 17654 | 86 ===
 [POR07]
-Ten lousy stinking Silver?
+10 lousy stinking Silver?
 What do you think I am,
 a slave?[BRK]
 
