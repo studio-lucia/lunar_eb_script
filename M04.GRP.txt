@@ -1787,7 +1787,7 @@ your trouble. Thanks again![END]
 
 === b0 | 17654 | 86 ===
 [POR07]
-10 Lousy stinking Silver?
+Ten lousy stinking Silver?
 What do you think I am,
 a slave?[BRK]
 
