@@ -778,8 +778,8 @@ It's a long and treacherous
 mountain road from here.[END]
 
 === 47 | 10f3c | 9d ===
-Ho, traveler! I'm sure you'll
-find Nota is the most
+Ho, traveler! I'm sure
+you'll find Nota is the most
 convenient town around.[BRK]
 
 We're easy to find and have
