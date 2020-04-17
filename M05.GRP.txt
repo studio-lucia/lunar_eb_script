@@ -94,10 +94,10 @@ door beckons...[END]
 Blue Spire Entrance[END]
 
 === 9 | 1be32 | 11 ===
-Blue Labyrinth B3[END]
+Blue Lab B3[END]
 
 === a | 1f72e | 10 ===
-Blue Labyrinth B2[END]
+Blue Lab B2[END]
 
 === b | 20584 | 12 ===
 Blue Lab Star Room[END]
@@ -172,5 +172,5 @@ C'mon, kids...Hurry along.
 We must keep moving![END]
 
 === 13 | 2232e | 10 ===
-Blue Labyrinth B1[END]
+Blue Lab B1[END]
 
