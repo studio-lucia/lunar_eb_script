@@ -97,7 +97,7 @@ Blue Spire Entrance[END]
 Blue Labyrinth B3[END]
 
 === a | 1f72e | 10 ===
-Blue Labrynth B2[END]
+Blue Labyrinth B2[END]
 
 === b | 20584 | 12 ===
 Blue Lab Star Room[END]
@@ -172,5 +172,5 @@ C'mon, kids...Hurry along.
 We must keep moving![END]
 
 === 13 | 2232e | 10 ===
-Blue Labrynth B1[END]
+Blue Labyrinth B1[END]
 
