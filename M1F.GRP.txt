@@ -2543,7 +2543,7 @@ shouldn't gamble?[END]
 === 102 | 1d1f2 | 46 ===
 Have you been to the Giggle
 Den? It's really fun! Sorta
-touchy-feelly.[END]
+touchy-feely.[END]
 
 === 103 | 1d248 | 4b ===
 I wonder if this peace will
