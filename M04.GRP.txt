@@ -875,7 +875,7 @@ disgusting, if you ask me.[END]
 === 4e | 11526 | 5c ===
 Take a look at this toy![BRK]
 
-It's a octopus that grows
+It's an octopus that grows
 30 times larger when you
 put it in water![END]
 
